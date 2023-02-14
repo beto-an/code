@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: Sort 1 is very quick on the pre-sorted list in sorted50000.txt file, almost 5 times faster than sort 3. This indicates that sorting on already sorted lists is fast, a feature of bubble sort
+
+sort2 uses: Merge sort
+
+How do you know?: One the random50000.txt file, sort 2 is significantly fater than sort 1 and 3. This suggests that sort 2 uses an O(nlogn) algorithm, whereas sorts 1 and 3 use O(n^2) algorithms.
+
+sort3 uses: Selection Sort
+
+How do you know?: Elimination of the other two sorts.
