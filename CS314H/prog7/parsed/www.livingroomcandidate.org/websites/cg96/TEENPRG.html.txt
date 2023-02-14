@@ -1,0 +1,478 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | The Briefing Room | Bill Clinton & Al Gore on the\n\r  Issues"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    " "
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index89.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +2
+Start element: font
+Key: color, Value: #001058
+Start element: nobr
+Start element: i
+Characters:    "Preventing Teen\n\r    Pregnancy"
+End element:   i
+End element:   nobr
+End element:   font
+End element:   font
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: i
+Characters:    "ltimately, what is needed\n\r      to stop teen pregnancy is a revolution of the heart. We must\n\r      all work to instill in every young man and woman a sense of\n\r      personal responsibility. Having a child is the greatest\n\r      responsibility any person can assume. It is not the right\n\r      choice for a teen to make.”"
+End element:   i
+Characters:    "\n\r      "
+Start element: p
+Start element: b
+Characters:    "—President Bill Clinton"
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "President Clinton is\n\r    fighting to give more of our young people the opportunity to\n\r    make the most of their lives."
+End element:   b
+End element:   font
+Characters:    " &nbsp;&nbsp;To address\n\r    the serious problem of teen pregnancy, the Clinton\n\r    Administration is taking actions that recognize the fundamental\n\r    obligation of all Americans to exercise personal\n\r    responsibility, while expanding opportunities for at-risk young\n\r    people to make positive life choices. Government alone cannot\n\r    solve this complex problem. President Clinton is challenging\n\r    our business and community leaders to join together to take\n\r    action that will protect our children and strengthen our\n\r    families.\n\r    "
+Start element: p
+Characters:    "The President has shown leadership in combating teen\n\r    pregnancy by:"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: align, Value: center
+Key: cellpading, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Challenging leaders across the nation to come together\n\r            and help young people secure a better future for\n\r            themselves. In response, the private, not-for-profit\n\r            National Campaign to Prevent Teen Pregnancy has been\n\r            formed.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Supporting communities in offering young people\n\r            positive alternatives to early sexual behavior and\n\r            parenting by:\n\r            "
+Start element: p
+End element:   p
+Characters:    "\n\r            "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 500
+Key: align, Value: left
+Key: cellpading, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r              "
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Improving schooling for disadvantaged students,\n\r                    coordinating health and social services, and\n\r                    providing school-to-work opportunities to\n\r                    increase economic self-sufficiency.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Creating the Safe Futures Program (1995) to\n\r                    provide nearly $8 million per year to six\n\r                    jurisdictions for delinquency prevention and\n\r                    intervention programs for at-risk and\n\r                    delinquent youth.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Implementing the Safe and Drug-Free Schools Act\n\r                    to help local school districts in high-need\n\r                    areas to coordinate violence- and\n\r                    drug-prevention programs.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r            "
+End element:   table
+Characters:    "\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Ending welfare as we know it by signing the Personal\n\r            Responsibility and Work Opportunity Act. This bill\n\r            includes time-limits and work requirements, gives\n\r            states incentives to create jobs for welfare\n\r            recipients, increases funding for child care,\n\r            strengthens child support enforcement, and maintains\n\r            the federal guarantee of nutrition programs and\n\r            Medicaid coverage for pregnant women, children, and the\n\r            disabled. Even before signing national welfare reform,\n\r            the Clinton Administration granted waivers to 43 states\n\r            to reform welfare on their own -- making work and\n\r            responsibility a way of life for 75 percent of all\n\r            welfare recipients."
+Characters:    "\n\r            "
+Characters:    "\n\r            "
+Characters:    "\n\r            "
+Start element: table
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Collected a record $11 billion in child support\n\r                    in 1995 from non-custodial parents (a 40%\n\r                    increase since 1992) by aggressively enforcing\n\r                    child support laws.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Taken executive action (May 1996) to require\n\r                    teenage mothers to stay in school and to sign\n\r                    personal responsibility contracts or lose their\n\r                    welfare benefits.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Appointing Dr. Henry Foster (founder of\n\r                    the&nbsp;“I Have A Future” teen pregnancy\n\r                    prevention program) to serve as Senior Advisor\n\r                    to the President on teen pregnancy and related\n\r                    youth issues. Dr. Foster will work with\n\r                    community organizations across the country to\n\r                    give young people the tools they need to build\n\r                    responsible and productive lives.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r            "
+End element:   table
+Characters:    "\n\r          "
+End element:   blockquote
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Building on Our\n\r            Progress"
+End element:   b
+End element:   font
+Characters:    "\n\r            "
+Start element: p
+Characters:    "President Clinton will continue to support policies\n\r            that promote responsible behavior on the part of our\n\r            young people, and he will work to provide them with\n\r            greater opportunities by:"
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+End element:   p
+Characters:    "\n\r            "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: align, Value: center
+Key: cellpading, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r              "
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Fighting for his $30 million teen pregnancy\n\r                    prevention initiative included in his\n\r                    fiscal-year 1997 budget. These funds will be\n\r                    used to evaluate and implement promising\n\r                    prevention strategies in communities that have\n\r                    demonstrated a commitment to community problem\n\r                    solving.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Continuing to urge leaders from all sectors of\n\r                    society to marshal their resources on behalf of\n\r                    America’s youth. The Administration will work\n\r                    in partnership with the newly formed National\n\r                    Campaign to Prevent Teen Pregnancy.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Continuing to expand educational and economic\n\r                    opportunities, giving our young people a future\n\r                    they can say&nbsp;“yes” to and the ability to\n\r                    make wise personal decisions about their lives.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r            "
+End element:   table
+Characters:    "\n\r          "
+End element:   blockquote
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Meeting Our\n\r            Challenges "
+Characters:    "\n\r            Protecting Our Values"
+End element:   b
+End element:   font
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee,\n\r            Inc."
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

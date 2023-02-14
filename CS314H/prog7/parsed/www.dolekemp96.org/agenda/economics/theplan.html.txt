@@ -1,0 +1,2254 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "The Dole/Kemp Economic Plan"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: vlink, Value: #FF0000
+Key: alink, Value: #FF0000
+Key: background, Value: ../../backgroundlg.jpg
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Key: align, Value: center
+Start element: b
+Start element: font
+Key: size, Value: 5
+Key: face, Value: Times New Roman
+Characters:    "Restoring the American Dream: Bob\n\r    Dole's"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Key: align, Value: center
+Start element: b
+Start element: font
+Key: size, Value: 5
+Key: face, Value: Times New Roman
+Characters:    "Pro-Growth Plan for America's\n\r    Families"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "America today is competing in\n\r    the most dynamic world economy we have ever seen. Scores of\n\r    countries populated by hundreds of millions of people are\n\r    discarding central planning in favor of free enterprise. New\n\r    markets are opening to American goods and services.\n\r    Entrepreneurs are developing new technologies to create\n\r    products we could have only dimly imagined just a decade ago.\n\r    America stands on the threshold of a breathtaking future, with\n\r    greater opportunities for economic growth and prosperity than\n\r    at any time during our nation's history."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Yet, rather than seizing these\n\r    opportunities, the Clinton Administration has taken a \"grow\n\r    slow\" approach to American economic policy. Clinton\n\r    Administration officials have apparently concluded that the\n\r    current average annual growth rate of 2.4% represents the outer\n\r    limit of America's economic potential. The American people have\n\r    paid a high price for the Clinton Administration's neglect:\n\r    growth is anemic; incomes and wages are stagnant; and workers\n\r    understandably feel more and more anxious about the\n\r    future."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "In order to create rising\n\r    incomes for all Americans, we must commit ourselves to a far\n\r    more ambitious endeavor. Growth must be "
+Start element: u
+Characters:    "the"
+End element:   u
+Characters:    " central goal\n\r    of U.S. economic policy. Economic growth--and the rising living\n\r    standards and prosperity it creates for all Americans--should\n\r    be the standard by which all economic policies are judged.\n\r    America can do better if we set ambitious, but reachable,\n\r    growth goals for our country and then implement the policies\n\r    necessary to achieve them."
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Start element: b
+Characters:    "Bob Dole believes the\n\r    economy can grow at an annual rate of 3.5%"
+End element:   b
+Characters:    ". And he will\n\r    implement a plan to achieve this goal."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Key: align, Value: center
+Start element: b
+Start element: u
+Start element: font
+Key: size, Value: 4
+Key: face, Value: Times New Roman
+Characters:    "The Clinton Record"
+End element:   font
+End element:   u
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Bill Clinton likes to claim we\n\r    have the strongest economy in a generation. But economic growth\n\r    has been anemic; and, if you accept the Clinton\n\r    Administration's own projections, the economy will struggle\n\r    along at 2.3% growth into the next century. "
+Start element: font
+Key: size, Value: 1
+Characters:    "(Source: Dr. J. Stiglitz, White House Press Briefing, July\n\r    18, 1996)."
+End element:   font
+Characters:    " Wages and incomes for working Americans are\n\r    stagnant. Families are being squeezed by rising taxes.\n\r    Businesses are choking on government regulation."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Start element: b
+Characters:    "This is the fundamental\n\r    reality of the Clinton economy--high taxes and stagnant\n\r    wages."
+End element:   b
+Characters:    " This is the key to middle-class anxiety. It is why\n\r    people feel they are working harder, but falling further\n\r    behind; why they believe the current generation won't be as\n\r    successful as the last generation; why they believe their\n\r    children will be worse off; why they feel so anxious about\n\r    their economic future."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "The Clinton Administration has\n\r    accepted the notion that paltry growth is the best we can\n\r    achieve. Under Bill Clinton, we have entered a new era of\n\r    diminished expectations--an era when we are told that we can't\n\r    even match the progress of the past, much less compete with the\n\r    most dynamic economies in the world."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "The central thesis of the\n\r    Dole growth agenda is that America can do better. The story of\n\r    America has been written by those who have set and achieved\n\r    ambitious goals, not those who impose artificial limits on\n\r    accomplishment."
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "The truth is, anemic rates of\n\r    growth and stagnant wages are only inevitable if we continue to\n\r    follow Bill Clinton's economic prescription of higher taxes, a\n\r    refusal to balance the budget, and the over-regulation of the\n\r    economy. "
+Start element: b
+Characters:    "The total tax burden is the highest in U.S.\n\r    history"
+End element:   b
+Characters:    ". Federal, state, and local taxes consumed a record\n\r    31.3% of GDP last year. At the end of World War II, taxes\n\r    consumed only 25% of GDP. The federal tax burden alone rose\n\r    from 19.2% of GDP in 1992 to 20.5% today. "
+Start element: font
+Key: size, Value: 1
+Characters:    "(Source: National Center for Policy Analysis)."
+End element:   font
+Characters:    " The\n\r    average middle-income family spends more of its budget to pay\n\r    taxes than it does on food, clothing, and shelter combined.\n\r    "
+Start element: font
+Key: size, Value: 1
+Characters:    "(Source: Joint Economic\n\r    Committee)"
+End element:   font
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "By any historical measure of\n\r    economic growth, America's economy is lagging. Economic growth\n\r    under Bill Clinton has averaged 2.4% per year. That's slower\n\r    than when he was elected in 1992 (3.7%); slower than the entire\n\r    decade of the 1980s (3.2%); slower than the last five\n\r    expansions (4.4%); and slower than what we've averaged over our\n\r    entire post-World War II history (3.3%). "
+Start element: font
+Key: size, Value: 1
+Characters:    "(Source: Joint Economic Committee)"
+End element:   font
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Productivity growth--the source\n\r    of rising incomes--has been cut in half during the Clinton\n\r    Presidency, falling from 1.2% per year from 1980 to 1992 to\n\r    only 0.6% from 1993 to 1995. "
+Start element: font
+Key: size, Value: 1
+Characters:    "(Source: 1996\n\r    Economic Report of the President and the U.S. Department of\n\r    Labor)."
+End element:   font
+Characters:    " The hard reality of slow productivity growth is\n\r    stagnant wages and incomes that are squeezing working\n\r    Americans. The average real pay--wages, salaries, and fringe\n\r    benefits--of working Americans has stagnated under Bill\n\r    Clinton. This is the first period of expansion in U.S. history\n\r    when workers' pay has not risen."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Key: align, Value: center
+Start element: b
+Start element: u
+Start element: font
+Key: size, Value: 4
+Key: face, Value: Times New Roman
+Characters:    "SUMMARY"
+End element:   font
+End element:   u
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "One of the central goals of Bob\n\r    Dole's Presidency will be to "
+Start element: b
+Characters:    "stimulate greater economic\n\r    growth"
+End element:   b
+Characters:    ". The goal is not just to restore America to its\n\r    pre-Clinton rates of economic growth, but to achieve an even\n\r    more ambitious growth path of 3.5% or higher, with price\n\r    stability."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "In sum, the six key points of\n\r    Bob Dole's Pro-Growth Plan for America's Families\n\r    are:"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "1. "
+Start element: b
+Characters:    "A Balanced Budget\n\r    Amendment to the U.S. Constitution"
+End element:   b
+Characters:    ", to ensure that the\n\r    budget stays balanced after 2002 and throughout the next\n\r    century"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "2. "
+Start element: b
+Characters:    "A balanced budget by the\n\r    year 2002"
+End element:   b
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: ul
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Spending restraint is key to\n\r      greater economic growth, which will preserve programs like\n\r      Medicare, Medicaid, and Social Security. The line-item veto\n\r      will be used to make sure we trim down and weed out wasteful\n\r      government programs which retard economic growth."
+End element:   font
+End element:   li
+Characters:    "\n\r    "
+End element:   ul
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "3. "
+Start element: b
+Characters:    "Tax relief and\n\r    fundamental tax reform"
+End element:   b
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: ul
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Replace current tax system\n\r      with one that is simpler, flatter and fairer"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Cut personal income tax\n\r      rates"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Reduce the capital gains tax\n\r      for individuals, including small business owners"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Create $500 per child tax\n\r      credit"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Characters:    "\n\r        "
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Expand Individual Retirement\n\r        Accounts and establish a spousal IRA"
+End element:   font
+Characters:    "\n\r        "
+Start element: ul
+Characters:    "\n\r          "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Repeal Bill Clinton's\n\r          1993 tax hike on Social Security recipients"
+End element:   font
+End element:   li
+Characters:    "\n\r          "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Require a supermajority\n\r          vote in Congress to raise income tax rates"
+End element:   font
+End element:   li
+Characters:    "\n\r        "
+End element:   ul
+Characters:    "\n\r      "
+End element:   li
+Characters:    "\n\r    "
+End element:   ul
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "4. "
+Start element: b
+Characters:    "\"Ending the IRS as we\n\r    know it\""
+End element:   b
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: ul
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Establish one-year tax\n\r      amnesty period as transition to new tax system"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Shift burden of proof in IRS\n\r      audits from individuals to government"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "End life-style audits\n\r      (except in cases where there is clear evidence of criminal\n\r      activity)"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Eliminate IRS filing for 40\n\r      million low- and middle-income taxpayers"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Require IRS employees to\n\r      help taxpayers understand the law, not punish them for\n\r      misapplying it"
+End element:   font
+End element:   li
+Characters:    "\n\r    "
+End element:   ul
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "5. "
+Start element: b
+Characters:    "Education and Job\n\r    Training Reform"
+End element:   b
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: ul
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Promote educational choice\n\r      through \"Opportunity Scholarships for Children\""
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Allow low- and middle-income\n\r      students and parents to deduct interest on student\n\r      loans"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Allow low- and middle-income\n\r      parents to set up tax-free Education Investment Accounts,\n\r      with contributions of up to $500 per child every\n\r      year"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Allow workers to receive\n\r      tax-free college tuition assistance from\n\r      employers"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Increase workers' access to\n\r      tax-free job search and placement assistance from their\n\r      employers"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Consolidate job-training\n\r      programs into single grant to the states. Encourage the\n\r      states to experiment with vouchers and other innovative\n\r      approaches to job training"
+End element:   font
+End element:   li
+Characters:    "\n\r    "
+End element:   ul
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "6. "
+Start element: b
+Characters:    "Regulatory and Lawsuit\n\r    Reform"
+End element:   b
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: ul
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Require cost-benefit\n\r      analysis for new major federal regulations"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Establish a regulatory\n\r      sunsetting task force"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Review and re-evaluate\n\r      regulations every 4 years"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Enforce Paperwork Reduction\n\r      Act"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Reform joint and several\n\r      liability"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Limit punitive damage\n\r      awards"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Promote early settlement of\n\r      claims"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Curb abuse of contingency\n\r      fee representation"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Implement \"auto choice\"\n\r      reforms"
+End element:   font
+End element:   li
+Characters:    "\n\r    "
+End element:   ul
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "&nbsp;"
+End element:   font
+End element:   u
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "1. A BALANCED BUDGET\n\r    AMENDMENT"
+End element:   font
+End element:   u
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "One of the first priorities of\n\r    a Dole Administration will be to secure Congressional passage\n\r    and ratification of the Balanced Budget Amendment to the U.S.\n\r    Constitution. Only the moral authority of the Constitution can\n\r    force Washington to do what every American family must do: live\n\r    within its means. Most states are required to balance their\n\r    books. Bob Dole believes the federal government should be\n\r    required to do so as well."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Only one man stands between the\n\r    Balanced Budget Amendment and the American people--Bill\n\r    Clinton. He has fought every effort to pass the Balanced Budget\n\r    Amendment. Since Bill Clinton first took office, the Amendment\n\r    has come up for a Congressional vote three times. Each time, he\n\r    has led an all-out effort to defeat the Amendment. Six members\n\r    of the President's own party, who had previously supported the\n\r    Balanced Budget Amendment, switched their votes...thanks to\n\r    Bill Clinton's efforts."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "2. BALANCING THE BUDGET\n\r    BY THE YEAR 2002"
+End element:   font
+End element:   u
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Balancing the federal budget is\n\r    essential to increasing economic growth. In 1995, the federal\n\r    government paid over $230 billion in interest on the national\n\r    debt, or over 15% of all federal spending. Nearly 40 cents of\n\r    every dollar the federal government collects in income taxes\n\r    goes to pay interest on the national debt. "
+Start element: font
+Key: size, Value: 1
+Characters:    "(Source: The Economic and Budget Outlook: Fiscal Years\n\r    1997-2006, Congressional Budget Office, May\n\r    1996)."
+End element:   font
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "The federal deficit drives up\n\r    interest rates and hits families. It is a \"stealth tax\" that\n\r    every family with a home, every father and mother with a child\n\r    in college, every young person who buys a car, must pay.\n\r    Balancing the federal budget would cut interest rates by nearly\n\r    2%, and save the typical family:"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: ul
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "more than $36,000 on an\n\r      average home mortgage;"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "more than $1,400 on an\n\r      ordinary student loan;"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "nearly $700 on a typical car\n\r      loan. "
+Start element: font
+Key: size, Value: 1
+Characters:    "(Source: Joint Economic\n\r      Committee)"
+End element:   font
+End element:   font
+End element:   li
+Characters:    "\n\r    "
+End element:   ul
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "We simply cannot continue to\n\r    mortgage America's future. If we continue current tax and\n\r    spending policies, future generations will be saddled with an\n\r    effective tax rate of over 80%. "
+Start element: font
+Key: size, Value: 1
+Characters:    "(Source: The\n\r    Economic and Budget Outlook: Fiscal Years 1997-2006,\n\r    Congressional Budget Office, May 1996)."
+End element:   font
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Bob Dole's economic program\n\r    will balance the budget by the year 2002. The following table\n\r    illustrates how we will achieve this goal:"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: cellpadding, Value: 1
+Key: width, Value: 100%
+Key: border, Value: 1
+Characters:    "\n\r      "
+Start element: tbody
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: colspan, Value: 3
+Characters:    "\n\r            "
+Start element: p
+Key: align, Value: center
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "THE\n\r            DOLE-KEMP PLAN:"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: align, Value: center
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "A\n\r            BALANCED BUDGET AND TAX RELIEF"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Key: align, Value: center
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Revenue"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Key: align, Value: center
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Offsets to"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "TAX\n\r            RELIEF"
+End element:   font
+End element:   u
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Key: align, Value: center
+Start element: b
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Loss"
+End element:   font
+End element:   u
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Key: align, Value: center
+Start element: b
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Revenue Loss"
+End element:   font
+End element:   u
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Dole-Kemp Tax\n\r            Plan"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Key: align, Value: center
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "$548\n\r            Billion"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "GOVERNMENT\n\r            SAVINGS"
+End element:   font
+End element:   u
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Tax relief already\n\r            included in Congressional Balanced Budget\n\r            Plan"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "$122 billion"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Income\n\r            Growth"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "$147 billion"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Updating the CBO\n\r            Baseline"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "$80 billion"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Federal Spending\n\r            Control*"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "$110 billion"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "FCC Spectrum\n\r            Auction"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "$34 billion"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Additional Savings and\n\r            Reform Measures*"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "+$55\n\r            billion"
+End element:   font
+End element:   u
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "TOTAL"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Key: align, Value: right
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "$548\n\r            billion"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "TOTAL FEDERAL\n\r            DEFICIT IN 2002"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Key: align, Value: right
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "$0.00"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r      "
+End element:   tbody
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r    "
+Start element: p
+Start element: i
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "*Does not include any\n\r    reduction in Social Security, Medicare or\n\r    Defense"
+End element:   font
+End element:   i
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "3. TAX RELIEF AND\n\r    FUNDAMENTAL TAX REFORM"
+End element:   font
+End element:   u
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "There are two main problems\n\r    with our current tax system. The American people are\n\r    over-taxed. And our tax system is too burdensome, too complex,\n\r    and too anti-growth. Bob Dole's Pro-Growth Plan For America's\n\r    Families will address these two problems by:"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "First, providing immediate tax\n\r    relief for every American taxpayer. The Dole tax relief plan\n\r    contains the following provisions:"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: ul
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Personal income tax rates\n\r      will be lowered by 15% in three steps starting in 1997,\n\r      providing tax relief across-the-board and reducing\n\r      disincentives that hold back economic growth."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Maximum capital gains taxes\n\r      on individuals will be lowered to 14% to stimulate saving and\n\r      investment. The capital gains tax rate will be 10.5% for\n\r      those taxpayers in the 15% bracket."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "A $500 credit for every\n\r      child under the age of 18 will be provided to low- and\n\r      middle-income families, along with a new Education Investment\n\r      Account with tax-free earnings for college\n\r      education."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "An expansion of Individual\n\r      Retirement Accounts and the establishment of a spousal IRA to\n\r      remove disincentives to saving and investment. Provide\n\r      tax-free incentives for job training and investing in\n\r      education."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Repeal of Bill Clinton's\n\r      1993 tax hike on Social Security benefits that hurts\n\r      America's seniors."
+End element:   font
+End element:   li
+Characters:    "\n\r    "
+End element:   ul
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "The estimated effects on\n\r    revenues over six years are as follows:"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: cellpadding, Value: 1
+Key: width, Value: 100%
+Key: border, Value: 1
+Characters:    "\n\r      "
+Start element: tbody
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: colspan, Value: 2
+Characters:    "\n\r            "
+Start element: p
+Key: align, Value: center
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "1997-2002 Total "
+Start element: u
+Characters:    "(Billions of\n\r            Dollars)"
+End element:   u
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Reduction in\n\r            personal income tax rates"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "$ 406"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Capital gains tax\n\r            relief"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "$ 13"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Child tax\n\r            credit"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "$ 75"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "IRA expansion,\n\r            education, training, and other\n\r            incentives"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "$ 27"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Repeal 1993 tax\n\r            hike on Social Security benefits"
+End element:   font
+End element:   u
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "+$27"
+End element:   font
+End element:   u
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Total"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "$ 548"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r      "
+End element:   tbody
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Tax relief for every American\n\r    taxpayer is step one. But a Dole Administration will not stop\n\r    there. America's tax code discourages work, saving, and\n\r    investment, encourages tax avoidance, and reduces the rewards\n\r    for entrepreneurship--the true engine of economic growth. The\n\r    complexity of our tax system wastes billions of hours in\n\r    compliance and effort and--worst of all--convinces many\n\r    Americans that the tax system has been hijacked by lawyers,\n\r    accountants, and special interests, which it\n\r    has."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "The Clinton Administration is\n\r    content with the "
+Start element: i
+Characters:    "status quo"
+End element:   i
+Characters:    " and has no intention of\n\r    seriously reforming the current tax system. Treasury Secretary\n\r    Robert Rubin recently told the "
+Start element: i
+Characters:    "Wall Street Journal"
+End element:   i
+Characters:    ":\n\r    \"There's nothing in the public domain we have found that's\n\r    better than what we have.\" (6/7/96) Obviously, a second Clinton\n\r    term promises no relief for taxpayers and no simplification of\n\r    the tax code."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Senator Dole believes that\n\r    restoring America to its full economic potential requires a\n\r    fundamental overhaul of the tax system. He will repeal the\n\r    current tax code and replace it with a new system\n\r    that:"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: ul
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Treats all Americans fairly\n\r      by ending special-interest loopholes and taxing income at\n\r      lower rates."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Is simple enough so that\n\r      most Americans can file their taxes on a form the size of a\n\r      postcard or not have to file a return at all."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Substantially reduces or\n\r      eliminates the bias against savings and\n\r      investment."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Relieves the tax burden on\n\r      working Americans by allowing for the deductibility of the\n\r      payroll tax."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Protects social\n\r      security."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Requires a supermajority of\n\r      both chambers of Congress to raise income tax\n\r      rates."
+End element:   font
+End element:   li
+Characters:    "\n\r    "
+End element:   ul
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "This new tax system, which is\n\r    lower, flatter, fairer, simpler and more savings-oriented, will\n\r    provide immediate tax relief to every taxpayer and stimulate\n\r    economic growth now."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "4. ENDING THE IRS AS WE\n\r    KNOW IT"
+End element:   font
+End element:   u
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "As the tax code has grown more\n\r    complex and loophole-ridden, the Internal Revenue Service has\n\r    grown more aggressive and more burdensome. The IRS today has\n\r    more enforcement agents than the EPA, OSHA, FDA, and the Drug\n\r    Enforcement Agency combined. "
+Start element: font
+Key: size, Value: 1
+Characters:    "(Source: Stephen\n\r    Moore et al, \"Ax the Tax,\""
+End element:   font
+Characters:    " "
+Start element: u
+Start element: font
+Key: size, Value: 1
+Characters:    "National\n\r    Review"
+End element:   font
+End element:   u
+Start element: font
+Key: size, Value: 1
+Characters:    ", April 17, 1995)."
+End element:   font
+Characters:    " "
+Start element: u
+Characters:    "It\n\r    is twice as big as the CIA and five times the size of the\n\r    FBI."
+End element:   u
+Characters:    " "
+Start element: font
+Key: size, Value: 1
+Characters:    "(Source: Report of the National\n\r    Commission on Economic Growth and Tax Reform)."
+End element:   font
+Characters:    " The\n\r    instruction booklet for the EZ form is 31 pages long. Taxpayers\n\r    spend $190 billion and 6 billion man-hours each year to comply\n\r    with the tax code. "
+Start element: font
+Key: size, Value: 1
+Characters:    "(Source: Joint Economic\n\r    Committee)"
+End element:   font
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "It is simply wrong to have a\n\r    tax system that is so complicated that 58 million taxpayers,\n\r    50% of all taxpayers who file, hire professional tax preparers\n\r    to do their own returns. "
+Start element: font
+Key: size, Value: 1
+Characters:    "(Source: Joint\n\r    Committee on Taxation)"
+End element:   font
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Comprehensive tax reform--with\n\r    dramatic simplification and a postcard return for most\n\r    filers--is clearly the most effective way to end the abusive\n\r    power of the IRS. There are other reforms which could be taken\n\r    as well. "
+Start element: u
+Characters:    "A combination of the following reforms would allow\n\r    us to cut the number of IRS bureaucrats by 30% by\n\r    1999"
+End element:   u
+Characters:    "."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: ul
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Establish a one-year tax\n\r      amnesty period as part of a transition to a new tax system.\n\r      Individuals would be permitted to pay back taxes without\n\r      penalty or interest charges."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Shift the burden of proof in\n\r      IRS audits from the individual to the federal government.\n\r      Americans who are audited are currently presumed guilty until\n\r      they prove themselves innocent. This should be\n\r      reversed."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "End life-style audits\n\r      (except in cases where there is clear evidence of criminal\n\r      activity). A life-style audit is the practice whereby the IRS\n\r      requires taxpayers to document their style of living in\n\r      minute detail to determine whether their reported income is\n\r      sufficient to support that lifestyle. Under this type of\n\r      audit, taxpayers can be questioned about a wide range of\n\r      personal subjects--from how often they go out to dinner, to\n\r      where they spent their summer vacation, to which school their\n\r      children attend."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Eliminate IRS filing for 40\n\r      million low- and middle-income taxpayers. Taxpayers with only\n\r      wage income and less than $250 in investment income would no\n\r      longer be required to file a tax return. All of their taxes\n\r      would be collected through withholding."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Shift IRS personnel and\n\r      resources to the front-end of the tax filing process rather\n\r      than the back-end. IRS employees should be dedicated to\n\r      helping American taxpayers file their returns correctly, not\n\r      simply waiting until they make a mistake and then pouncing on\n\r      them with an audit. The IRS should be on the side of the\n\r      taxpayer--helping individuals comply with the law, not just\n\r      punishing them for being unable to figure out an\n\r      incomprehensible tax system."
+End element:   font
+End element:   li
+Characters:    "\n\r    "
+End element:   ul
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "&nbsp;"
+End element:   font
+End element:   u
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "5. EDUCATION AND JOB\n\r    TRAINING REFORM"
+End element:   font
+End element:   u
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "As we enter a new century, it\n\r    is obvious that the opportunities of tomorrow will be created\n\r    in America's classrooms and science labs. Education is the\n\r    single greatest force for improving opportunity from one\n\r    generation to the next. The value of education, training, and\n\r    other human capital is no less important than that of machines\n\r    and other physical capital."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "The American people know how to\n\r    build a world-class educational system. We built one once\n\r    before. It rested upon a solid foundation of parents and\n\r    teachers who exercised direct control over grade schools and\n\r    high schools. It rested upon colleges and universities that are\n\r    the envy of the world, but were affordable to all Americans. It\n\r    rested upon working men and women who learned new skills and\n\r    climbed up the economic ladder, for themselves and their\n\r    children."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Today, education has instead\n\r    become a bloated monument to political influence and the\n\r    "
+Start element: i
+Characters:    "status quo"
+End element:   i
+Characters:    ". All too often, our schools are dangerous and\n\r    demoralizing places. The price tag of a college education has\n\r    risen astronomically in recent decades, beyond the reach of too\n\r    many families. Employers are discouraged by the tax system from\n\r    providing education and job training assistance to their\n\r    employees. A maze of federal job training programs, designed\n\r    with the best of intentions to give more Americans a first or\n\r    second chance, does not teach workers the skills they need for\n\r    the modern workplace."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Bob Dole will help increase\n\r    long-term economic growth and opportunity by encouraging\n\r    choice, quality, and access to education and training--for\n\r    grade school and high school kids, for students in college and\n\r    other post-secondary institutions, for working Americans, and\n\r    for those laid off or unemployed. Bob Dole will:"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: ul
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Establish a four-year, $3\n\r      billion demonstration program to provide Opportunity\n\r      Scholarships worth at least $1,000 for elementary school\n\r      students and $1,500 for high school students from low- and\n\r      middle-income families, to attend any accredited\n\r      school--public, private, or religious--that chooses to\n\r      participate. The federal funds for the Opportunity\n\r      Scholarships will be matched each year by $3 billion in state\n\r      funds. These scholarships will help give millions of low- and\n\r      middle-income families the financial ability to choose the\n\r      best schools for their children."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Allow low- and middle-income\n\r      parents and students to deduct the interest they pay on\n\r      student loans for post-secondary school\n\r      education."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Allow low- and middle-income\n\r      parents to establish Education Investment Accounts for their\n\r      children up to the age of 18. The $500 per child tax credit\n\r      or other funds may be placed into these accounts, up to a\n\r      limit of $500 per child per year. As with IRAs, accumulated\n\r      earnings on these accounts will be tax-free if funds are left\n\r      in the account for at least five years. Money may be\n\r      withdrawn from these accounts to pay for tuition, fees,\n\r      books, computers, and other expenses at an accredited\n\r      college, university, or other post-secondary institution of\n\r      higher learning."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Allow workers to receive\n\r      tax-free college, graduate, or post-graduate tuition\n\r      assistance from employers, by permanently reinstating Section\n\r      127 of the Internal Revenue Code. Employers should be\n\r      encouraged to provide tax-free educational benefits to their\n\r      employees without the involvement of wasteful government\n\r      bureaucracies. These educational benefits will provide more\n\r      workers with the skills and learning they need to take full\n\r      advantage of the many new opportunities of today's\n\r      economy."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Increase workers' access to\n\r      tax-free job search and placement assistance from their\n\r      employers to find another job or prepare for a new trade or\n\r      business. This proposal will expand the tax-free outplacement\n\r      assistance rule. Under the current rule, employees receive a\n\r      tax break on such assistance "
+Start element: u
+Characters:    "only"
+End element:   u
+Characters:    " if the assistance is\n\r      to find a similar job and cash payment is not offered as an\n\r      alternative to the assistance. The new rule will allow\n\r      employers to provide assistance on a tax-free basis even if\n\r      a) the assistance helps prepare the employee for a job in a\n\r      new trade or business or helps the employee start his or her\n\r      own business, and/or b) a cash payment is offered as an\n\r      alternative to assistance."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Characters:    "\n\r        "
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Consolidate more than 80\n\r        federal job training, vocational education, and adult\n\r        education programs into a single grant to the states. We\n\r        now spend more than $5 billion a year, with no\n\r        accountability, and studies show these programs are not\n\r        helping people. The current system is confusing, redundant,\n\r        ineffective, and expensive. The bottom line is that the\n\r        current federal job training maze does not teach the skills\n\r        workers need for the modern workplace. States must have\n\r        flexibility to experiment with innovative approaches like\n\r        vouchers that workers can use to purchase the training they\n\r        need from private training firms, schools, and community\n\r        colleges."
+End element:   font
+Characters:    "\n\r        "
+Start element: p
+Start element: b
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "&nbsp;"
+End element:   font
+End element:   u
+End element:   b
+End element:   p
+Characters:    "\n\r      "
+End element:   li
+Characters:    "\n\r    "
+End element:   ul
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "6. REGULATORY AND LAWSUIT\n\r    REFORM"
+End element:   font
+End element:   u
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Key: align, Value: center
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Regulatory\n\r    Relief"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Washington rules, Washington\n\r    regulations, and Washington red tape are strangling the\n\r    American economy and lowering its economic growth rate. An\n\r    estimated $1.3 trillion of economic activity is lost each year\n\r    due to government regulations. ("
+Start element: font
+Key: size, Value: 1
+Characters:    "Source: Center\n\r    for the Study of American Business)."
+End element:   font
+Characters:    " That means fewer\n\r    new jobs and less take-home pay for America's\n\r    families."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "President Clinton's own\n\r    Administration has estimated that the cost of complying with\n\r    federal regulations was at least $668 billion in 1995, a figure\n\r    larger than the entire personal income tax for the same year.\n\r    This is more than $6,000 per household. By the year 2000, these\n\r    figures are expected to rise to almost $721 billion, or $7,000\n\r    per household. In other words, even if no new federal\n\r    regulations are imposed, the \"regulatory tax\" on each American\n\r    family from regulations already on the books will increase by\n\r    $1,000 over the next four years. ("
+Start element: font
+Key: size, Value: 1
+Characters:    "Source: U.S.\n\r    Small Business Administration)"
+End element:   font
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "President Clinton has opposed\n\r    real regulatory reform. Just look at the facts: He opposed and\n\r    threatened to veto the Comprehensive Regulatory Reform Act of\n\r    1995, which would have required cost-benefit and risk\n\r    assessment analysis of new federal regulations. He vetoed\n\r    regulatory reform in late 1995 as part of legislation to\n\r    increase the debt ceiling. His \"Reinventing Government\" program\n\r    mainly looked at internal agency rules, not those rules that\n\r    burden individuals and private business."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "His Administration has failed\n\r    to enforce the Paperwork Reduction Act, which requires federal\n\r    agencies to set a goal of at least a 10% reduction of the\n\r    paperwork burden. A Government Accounting Office study\n\r    estimates that the Clinton Administration will achieve at most\n\r    a 1% reduction in FY 1996. His Administration even exempted the\n\r    IRS from the Act by a ruling of the OMB. In a June 1996 report\n\r    GAO stated that since 1989, \"the IRS's paperwork burden has\n\r    accounted for more than three quarters of the government-wide\n\r    total.\""
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "As President, Bob Dole will\n\r    return sanity and common sense to federal regulations. He will\n\r    eliminate the unnecessary rules and regulations, the red tape\n\r    and bureaucracy that come out of Washington. He will free our\n\r    economy to create more jobs and opportunity for all Americans.\n\r    Bob Dole will:"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: ul
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Require that benefits\n\r      justify the costs for all new major federal regulations,\n\r      using independent peer-review, sound science and risk\n\r      assessment. Individuals and businesses will be able to take\n\r      agencies to court if the agencies ignore this\n\r      requirement."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Require all new federal\n\r      regulations to be reviewed and re-evaluated every four years.\n\r      Rules that make sense for the problems of today should not\n\r      become set in stone and act as barriers to growth\n\r      tomorrow."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Establish a regulatory\n\r      sunsetting task force, co-chaired by the Director of the\n\r      Office of Management and Budget and the head of the Small\n\r      Business Administration, answering directly to the President,\n\r      to evaluate all existing federal regulations and recommend\n\r      the elimination of regulations that are out-dated,\n\r      ineffective, or not cost-effective."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Enforce the Paperwork\n\r      Reduction Act to relieve Americans of the regulatory\n\r      paperwork burden. Rescind the Clinton exemption that allows\n\r      the IRS to avoid compliance with this act."
+End element:   font
+End element:   li
+Characters:    "\n\r    "
+End element:   ul
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "&nbsp;"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Key: align, Value: center
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Common-Sense\n\r    Legal Reform"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Bob Dole understands that the\n\r    American people deserve a legal system that protects the rights\n\r    of the injured and the pocketbooks of consumers from the greed\n\r    and influence of trial lawyers."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Abuse of the legal system\n\r    impedes economic growth and hurts small businesses, limits work\n\r    opportunities for those seeking jobs, and damages the\n\r    competitiveness of American companies. The cost to the American\n\r    people is staggering: by one estimate, lawsuit abuse imposes an\n\r    effective \"litigation tax\" of $132 billion per year on the U.S.\n\r    economy. "
+Start element: font
+Key: size, Value: 1
+Characters:    "(Source: Tillinghast, Nelson, &\n\r    Warren)."
+End element:   font
+Characters:    " Lawyers must be made to realize that our\n\r    nation's legal system is designed to make the injured whole,\n\r    not to make trial lawyers rich."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "The current system encourages\n\r    lawsuit abuse. Outrageous punitive damage awards--such as the\n\r    $2.7 million one person was originally awarded after spilling\n\r    McDonald's coffee on herself--encourage the \"go-for-broke\"\n\r    mentality of trial lawyers, and drive up costs for consumers.\n\r    The rule of joint and several liability--under which a\n\r    defendant can be held responsible for 100% of the damages, even\n\r    if he or she is only 1% at fault--gives trial lawyers an\n\r    incentive to sue everyone in sight."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "The trial lawyers, one of the\n\r    richest and most powerful special interest lobbies in America,\n\r    have an enormous stake in maintaining the "
+Start element: i
+Characters:    "status quo"
+End element:   i
+Characters:    ":\n\r    they rake in an astonishing one-third or more of damages\n\r    recovered in tort cases, reducing the amount received by\n\r    injured parties. Consumers are hurt as well: the average\n\r    American family pays an extra $200 per year in insurance\n\r    premiums to make up for phony claims. "
+Start element: font
+Key: size, Value: 1
+Characters:    "(Source:\n\r    National Insurance Crime Bureau)"
+End element:   font
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "President Clinton is clearly\n\r    the trial lawyers' candidate of choice, and for good reason.\n\r    Mr. Clinton has consistently put trial lawyers ahead of\n\r    consumers, workers, and businesses large and small--most\n\r    recently by vetoing both product liability and securities\n\r    litigation reform."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "As President, Bob Dole will\n\r    fight for common-sense legal reform that promotes job\n\r    opportunity and economic growth far into the future--and makes\n\r    the power of the trial lawyer lobby a thing of the past. Bob\n\r    Dole will:"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: ul
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Limit punitive damages to\n\r      $250,000 or three times economic damages, whichever is\n\r      greater, except in cases involving death, serious injury,\n\r      alcohol or drug use, criminal misconduct, or civil rights\n\r      violations. This limit will apply in all civil cases--not\n\r      just product liability cases. Among the many groups this\n\r      reform will protect are volunteer organizations."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Abolish joint and several\n\r      liability for non-economic damages in all civil cases. Each\n\r      actor in a lawsuit should be held liable only for his or her\n\r      fair share of the problem. This reform will help remove the\n\r      incentive of trial lawyers to drag every possible individual\n\r      or business into a lawsuit."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Promote early settlement of\n\r      claims and reduce lawyers' incentives to litigate by allowing\n\r      a defendant to make an \"early offer\"--within 120 days--to\n\r      compensate a plaintiff for all economic damages, including\n\r      medical costs and lost income. The plaintiff may reject the\n\r      offer and pursue the lawsuit. But in that case, he or she may\n\r      only recover non-economic damages, including punitive\n\r      damages, where there is clear and convincing proof that\n\r      defendant's conduct was caused by intentional or wanton\n\r      misconduct. States will be able to opt out of this\n\r      reform."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Ensure that money recovered\n\r      in settlements goes to those who were injured, not their\n\r      lawyers, by curbing the abuse of contingency fee\n\r      representation. Where a defendant offers an acceptable\n\r      settlement, the plaintiff's lawyer may collect an hourly rate\n\r      but not a contingency fee. If the settlement offer is\n\r      rejected, the plaintiff's lawyer will only be able to collect\n\r      a contingency fee for an amount awarded by a judge or jury\n\r      that exceeds the original offer. States will be able to opt\n\r      out of this reform."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Work to implement a system\n\r      of \"auto choice,\" which would let car owners choose the kind\n\r      of insurance coverage that best suits their needs--either a\n\r      more expensive policy that covers both economic damages and\n\r      pain and suffering, or a cheaper policy that covers economic\n\r      damages only. Any economic damages not covered in the latter\n\r      policy could be recovered from a negligent driver. Damages\n\r      for pain and suffering would be available in cases involving\n\r      gross negligence or alcohol and drug abuse. By one estimate,\n\r      auto choice could reduce an average driver's yearly insurance\n\r      premiums by 29% or $221 per car. States will be able to opt\n\r      out of this reform."
+End element:   font
+End element:   li
+Characters:    "\n\r    "
+End element:   ul
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Start element: u
+Start element: font
+Key: size, Value: 4
+Key: face, Value: Times New Roman
+Characters:    "&nbsp;"
+End element:   font
+End element:   u
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Key: align, Value: center
+Start element: b
+Start element: u
+Start element: font
+Key: size, Value: 4
+Key: face, Value: Times New Roman
+Characters:    "CONCLUSION"
+End element:   font
+End element:   u
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "More growth, more opportunity,\n\r    higher wages, less government, lower taxes. "
+Start element: b
+Characters:    "Bob Dole's\n\r    Pro-Growth Plan is the right plan for restoring the American\n\r    Dream."
+End element:   b
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Each of Bob Dole's initiatives\n\r    will help fuel the economic growth and opportunity that are our\n\r    birthright as a people. Each of these initiatives draws on the\n\r    simple proposition that the American people, not government,\n\r    are the true guardians of our freedom and prosperity. This is\n\r    the vision that inspired our Founding Fathers when they\n\r    declared, with proud courage, that all men \"are endowed by\n\r    their Creator with certain inalienable Rights, that among these\n\r    are Life, Liberty, and the pursuit of Happiness.\" We must\n\r    believe in the power of freedom. We must believe in ourselves.\n\r    We must once again seize the opportunities before us as America\n\r    enters the 21st century."
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../../news/news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    " "
+Start element: a
+Key: href, Value: ../agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the\n\r  Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

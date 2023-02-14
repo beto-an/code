@@ -1,0 +1,340 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Where Bob Dole Stands on Tax Cuts"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: h2
+Key: align, Value: center
+Key: style, Value: text-align:center
+Characters:    "Where Bob Dole\n\r  Stands on Tax Cuts"
+End element:   h2
+Characters:    "\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Key: style, Value: margin-bottom:12.0pt
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "President Clinton's Broken\n\r  Promise"
+End element:   span
+End element:   b
+Characters:    "\n\r  Bill Clinton promised a \"middle class tax cut\" in 1992. But after\n\r  he took office, he broke that promise and imposed the single\n\r  largest tax increase in the history of America -- $265\n\r  billion."
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Bob Dole and Jack Kemp Will Cut\n\r  Tax Rates for All Americans by 15 Percent"
+End element:   span
+End element:   b
+Characters:    "\n\r  The Dole-Kemp tax cut will reduce rates by 15 percent\n\r  across-the-board and give an additional $500 per child tax credit\n\r  while balancing the budget by 2002. That means:"
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Characters:    "A married couple with two children earning $30,000 will save\n\r  $1,272 per year"
+End element:   b
+Characters:    "\n\r  "
+Start element: b
+Characters:    "A married couple with two children earning $50,000 will save\n\r  $1,657 per year."
+End element:   b
+Characters:    "\n\r  "
+Start element: b
+Characters:    "A married couple with no children earning $50,000 will save\n\r  $779 per year."
+End element:   b
+Characters:    "\n\r  "
+Start element: b
+Characters:    "A retired couple with no children earning $60,000 will save\n\r  $1,727 per year."
+End element:   b
+Characters:    "\n\r  "
+Start element: b
+Characters:    "A single taxpayer with no children earning $30,000 will save\n\r  $519 per year."
+End element:   b
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "A $500 Tax Credit for Working\n\r  Families With Children"
+End element:   span
+End element:   b
+Characters:    "\n\r  Under our present tax code, parents in working families have less\n\r  and less time to spend raising their children. In fact,\n\r  government figures show that the average working mother spends\n\r  more time working to pay her taxes than she spends with her child\n\r  each work week. A Dole-Kemp Administration will give families the\n\r  tax relief that they were promised in 1992 and never got."
+Characters:    "\n\r  "
+Characters:    "\n\r  Under the Dole-Kemp economic growth plan, low- and middle-income\n\r  families will enjoy a $500 per child tax credit. For every child\n\r  under the age of 18, a family will see its tax bill cut by $500.\n\r  That means that a family with four children will see its taxes\n\r  reduced by at least $2,000."
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "A Dole-Kemp Administration Will\n\r  Reduce Taxes for All Americans"
+End element:   span
+End element:   b
+Characters:    "\n\r  The Dole-Kemp 15 percent tax cut is simple, fair, and will apply\n\r  to every American, regardless of income. Other tax relief\n\r  provisions of the Dole-Kemp economic growth plan will help\n\r  millions of Americans who are struggling to get by. The $500 per\n\r  child tax credit helps families with young children. The\n\r  deduction for student loan interest helps the parents of college\n\r  age children. Many retired seniors will gain from the rollback of\n\r  the Social Security tax hike imposed by President Clinton. The\n\r  capital gains tax cut stimulate billions of dollars in new\n\r  investment for and create millions of new jobs. Here's a look at\n\r  some of the other tax relief provisions in the Dole-Kemp economic\n\r  growth plan:"
+End element:   p
+Characters:    "\n\r  "
+Start element: ul
+Key: type, Value: disc
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l1 level1 lfo29;tab-stops:list .5in
+Characters:    "\n\r    Capital gains tax cut to spur savings and investment;"
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l1 level1 lfo29;tab-stops:list .5in
+Characters:    "\n\r    Capital gains tax cut for homeowners;"
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l1 level1 lfo29;tab-stops:list .5in
+Characters:    "\n\r    Expanded Individual Retirement Accounts (IRAs) to encourage\n\r    savings;"
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l1 level1 lfo29;tab-stops:list .5in
+Characters:    "\n\r    New IRAs for spouses who work at home;"
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l1 level1 lfo29;tab-stops:list .5in
+Characters:    "\n\r    Penalty-free IRA withdrawals for higher education;"
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l1 level1 lfo29;tab-stops:list .5in
+Characters:    "\n\r    Education Investment Accounts to allow more Americans to afford\n\r    higher education;"
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l1 level1 lfo29;tab-stops:list .5in
+Characters:    "\n\r    Restored interest deduction for student loans;"
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l1 level1 lfo29;tab-stops:list .5in
+Characters:    "\n\r    Repeal the Clinton tax increase on Social Security\n\r    benefits;"
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l1 level1 lfo29;tab-stops:list .5in
+Characters:    "\n\r    Tax relief for family-owned businesses;"
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l1 level1 lfo29;tab-stops:list .5in
+Characters:    "\n\r    Tax code simplification for independent contractors and\n\r    home-based businesses."
+End element:   li
+Characters:    "\n\r  "
+End element:   ul
+Characters:    "\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "A Better America"
+End element:   span
+End element:   b
+Characters:    "\n\r  The Dole-Kemp strategy for economy growth will restore money and\n\r  power to the real engine of the American economy -- the American\n\r  people. Their policies will mean higher wages, higher incomes and\n\r  more take-home pay for all Americans. All workers will benefit\n\r  from the greater productivity of the workforce and the increased\n\r  profitability of businesses across America. More Americans will\n\r  be able to save and invest in the future. More take-home pay and\n\r  more savings does not just mean a more secure retirement -- they\n\r  also mean more money for education, medical emergencies and a\n\r  secure retirement."
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../../news/news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    " "
+Start element: a
+Key: href, Value: ../agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the\n\r  Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

@@ -1,0 +1,512 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Dole Kemp '96 Debates"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: vlink, Value: #FF0000
+Key: alink, Value: #FF0000
+Key: background, Value: ../../background.jpg
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: size, Value: +2
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Debates '96"
+End element:   font
+End element:   b
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: margin-top: 0; margin-bottom: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+End element:   font
+Characters:    " "
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: +2
+Characters:    "2nd"
+End element:   font
+End element:   b
+Characters:    " "
+Start element: font
+Key: size, Value: +2
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Presidential\n\r  Debate"
+End element:   font
+End element:   b
+End element:   font
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "\n\r  October 16, 1996 - San Diego, California"
+Characters:    "\n\r  "
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: b
+Start element: font
+Key: size, Value: +1
+Key: face, Value: Times New Roman
+Characters:    "Bob\n\r  Dole's Opening Statement"
+End element:   font
+End element:   b
+Characters:    "\n\r  "
+Characters:    "\n\r  Thank you very much, Jim. Let me first give you a sports update.\n\r  The Braves 1, Cardinals nothing, early on."
+Characters:    "\n\r  I want to thank you, and I want to thank everybody here tonight.\n\r  And I want a special thanks to my wife, Elizabeth, my daughter,\n\r  Robin, for their love and support, and thank the people who are\n\r  listening or watching all over America."
+Characters:    "\n\r  "
+Characters:    "\n\r  In twenty days, you will decide who will lead this country into\n\r  the next century. It's an awesome responsibility, and you must\n\r  ask yourself, do you know enough about the candidates? You should\n\r  know as much as possible about each of us."
+Characters:    "\n\r  "
+Characters:    "\n\r  Sometimes the views have been distorted, and millions and\n\r  millions of dollars in negative advertising have been spent\n\r  distorting my views. But I hope tonight you'll get a better feel\n\r  of who Bob Dole is and what he's all about."
+Characters:    "\n\r  "
+Characters:    "\n\r  But I think first, I should understand what the question on your\n\r  mind is, do I understand your problem? But I understand that if\n\r  it occurred to me, and I might just say that I'm from a large\n\r  family. I got lots of relatives. And they're good, average\n\r  middle-class, hard-working Americans. They live all across the\n\r  country. They're not all Republicans. Maybe all but one."
+Characters:    "\n\r  "
+Characters:    "\n\r  But in any event, I understand the problems. Whether it's two\n\r  parents working because one has to pay the taxes and one has to\n\r  provide for the family, whether it's a single parent who just\n\r  barely pays the pressing bills, or whether you're worried about\n\r  an education for your children, going to the best schools, or\n\r  whether you're worried about safe playgrounds, drug-free schools,\n\r  or crime-free schools."
+Characters:    "\n\r  "
+Characters:    "\n\r  This is what this election is all about."
+Characters:    "\n\r  "
+Characters:    "\n\r  And hopefully tonight when we conclude this debate, you will have\n\r  a better understanding, and the viewing and listening audience\n\r  will have a better understanding."
+Characters:    "\n\r  "
+Characters:    "\n\r  Thank you."
+End element:   p
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: b
+Start element: font
+Key: size, Value: +1
+Key: face, Value: Times New Roman
+Characters:    "Bob\n\r  Dole's Closing Statement"
+End element:   font
+Characters:    " "
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: +2
+Characters:    "\n\r  "
+End element:   font
+End element:   b
+Characters:    " Well, let me thank everybody here at the\n\r  university and Jim, thank you and all the people who may still be\n\r  watching or viewing."
+Characters:    "\n\r  This is what it's all about. It's not about me. It's not about\n\r  President Clinton. It's about the process. It's about selecting\n\r  the President of the United States."
+Characters:    "\n\r  "
+Characters:    "\n\r  So, we have our differences. We should have our differences.\n\r  Mentioned other parties. They have their differences. If we all\n\r  agreed it'd be a pretty dull place. We should have more debates.\n\r  Maybe we'll have another debate on the economy. "
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: +2
+Characters:    "\n\r  "
+End element:   font
+End element:   b
+Characters:    " But I would just say this - This is the highest\n\r  honor that I've ever had in my life. To think that somebody from\n\r  Russell, Kansas, somebody who grew up living in a basement\n\r  apartment, somebody whose parents didn't finish high school,\n\r  somebody who spent about 39 months in hospitals after World War\n\r  II, somebody who uses a button hook everyday to get dressed,\n\r  somebody who understands that there are real Americans out there\n\r  with real problems, whether they're soccer moms, or the single\n\r  parents or families working with seniors or people with\n\r  disabilities, whoever it may be - but there are some very\n\r  fundamental differences in this campaign."
+Characters:    "\n\r  "
+Characters:    "\n\r  President Clinton opposes term limits. President Clinton opposes\n\r  a constitutional amendment to balance the budget. President\n\r  Clinton opposes a voluntary prayer amendment. He opposes an\n\r  amendment to protect the flag of the United States of America.\n\r  People give their lives - a couple of servicemen here, they\n\r  sacrifice. They give everything for America. We ought to protect\n\r  the American flag with a constitutional amendment. But beyond\n\r  that, we need to address the economy."
+Characters:    "\n\r  "
+Characters:    "\n\r  And I would just save my time, I'm running out here. It's a very\n\r  proud moment for me. And what I want the voters to do is to make\n\r  a decision. And I want them to be proud of their vote in the\n\r  years ahead, proud that they voted for the right candidate, proud\n\r  that they voted, hopefully, for me."
+Characters:    "\n\r  "
+Characters:    "\n\r  And I'll just make you one promise. My word is good. Democrat and\n\r  Republican groups have said Bob Dole's word is good. I keep my\n\r  word. I promise you the economy is going to get better. We're\n\r  going to have a good economic package and we're going into the\n\r  next century a better America."
+Characters:    "\n\r  "
+Characters:    "\n\r  Thank you. "
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: +2
+Characters:    "\n\r  &nbsp;"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: size, Value: +2
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Vice Presidential\n\r  Debate"
+End element:   font
+End element:   b
+End element:   font
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "\n\r  October 9, 1996 -"
+End element:   font
+Characters:    " St. Petersburg, Florida"
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "\n\r  "
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Start element: b
+Start element: font
+Key: size, Value: +1
+Characters:    "Jack Kemp's Closing Statement"
+End element:   font
+End element:   b
+Characters:    "\n\r  "
+Characters:    "\n\r  Thank you, Jim. And thanks to the people of St. Petersburg for\n\r  fantastic hospitality, and my friend, Al Gore, for a vigorous\n\r  debate."
+Characters:    "\n\r  I think this is the most exciting time in the history of the\n\r  world to be alive. We have lived through what Jean Kirkpatrick\n\r  called the bloodiest century in mankind's history. We have\n\r  defeated, in this system of ours, fascism, Naziism, communism,\n\r  socialism is defunct or debunked around the world, the evil of\n\r  apartheid has ended. There's only one last question remaining for\n\r  the next century, indeed, the next millennium - Can we in America\n\r  make the world's greatest liberal democracy, this democratic\n\r  experiment in private property, limited government, the rule of\n\r  law, respect for families and traditional Judeo-Christian values\n\r  work so it can be a blessing to our country and a blessing to the\n\r  rest of the world?"
+Characters:    "\n\r  "
+Characters:    "\n\r  With all due respect to this administration, they've got a\n\r  foreign policy in disarray. They have a lack of credibility\n\r  around the world. Weakness, as I said earlier is provocative, and\n\r  clearly this economy is not performing up to the standards that\n\r  we would expect from this great nation going into the most\n\r  exciting global economy the world has ever known."
+Characters:    "\n\r  "
+Characters:    "\n\r  There's something amiss. Our culture seems to be weakening all\n\r  around us. Families are under tremendous pressure. People do not\n\r  feel safe in their homes. A mother doesn't feel safe sending her\n\r  child to school. Our schools are not educating. It's not the\n\r  problem of the teachers - they are overworked, and my daughter\n\r  will tell you they're underpaid. And we know that. They need to\n\r  be empowered."
+Characters:    "\n\r  "
+Characters:    "\n\r  We need to reform education. We need to reform welfare. We need\n\r  to reform litigation and regulation. And we certainly need to\n\r  reform this tax code that is a product of this terrible century\n\r  of war and recession and inflation."
+Characters:    "\n\r  "
+Characters:    "\n\r  It can be done. We need somebody who understands the potential of\n\r  the American people, that we're not just doing well for\n\r  ourselves, we need to do well for the rest of the world because\n\r  they're looking at us and we need to make it work in every\n\r  neighborhood and community in America and for every family so\n\r  that no one, as Bob Dole said in his San Diego acceptance speech,\n\r  is left behind."
+Characters:    "\n\r  "
+Characters:    "\n\r  Bob Dole, as I said earlier, is a man of courage, a man of\n\r  principles, a man who crawled out of a foxhole in 1945 to save a\n\r  wounded brethren."
+Characters:    "\n\r  "
+Characters:    "\n\r  The Bible says, \"No greater love hath a man than he give his\n\r  life.\" Well Bob did, just about. He's been through the valley of\n\r  the shadow, and he, as commander-in-chief can take this country\n\r  with the courage of Churchill, the principles of Lincoln, and the\n\r  indefatigable optimism and spirit that this nation expects from\n\r  its commander-in-chief and the next President of the United\n\r  States, Bob Dole."
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: size, Value: +2
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "1st Presidential\n\r  Debate"
+End element:   font
+End element:   b
+End element:   font
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "\n\r  October 6, 1996 - Hartford, Connecticut"
+Characters:    "\n\r  "
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: size, Value: +1
+Key: face, Value: Times New Roman
+Start element: b
+Characters:    "Bob\n\r  Dole's Opening Statement"
+End element:   b
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Thank you, Mr.\n\r  President for those kind words. And I thank the people of\n\r  Hartford, the Commission, and all those who out there who may be\n\r  listening or watching."
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "It's a great honor\n\r  for me to be here, standing here as the Republican nominee. I'm\n\r  very proud to be the Republican nominee, reaching out to\n\r  Democrats and Independents. I have three very special people with\n\r  me: my wife Elizabeth, my daughter Robin, who have never let me\n\r  down; and a fellow named Frank Carafa, from New York, along with\n\r  Ollie Manenan, who helped me out in the mountains of Italy a few\n\r  years back. I've learned from them that people do have tough\n\r  times, and sometimes you can't go it alone. And that's what\n\r  America is all about."
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "I remember getting\n\r  my future back from doctors and nurses, and a doctor in Chicago\n\r  named Dr. Kelikian. And ever since that time, I've tried to give\n\r  something back to my country, to the people who are watching us\n\r  tonight."
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "America is the\n\r  greatest place on the face of the earth. Now I know millions of\n\r  you still have anxieties. You work harder and harder to make ends\n\r  meet and put food on the table. You worry about the quality and\n\r  the safety of your children - the quality of education. But even\n\r  more importantly, you worry about the future, and will they have\n\r  the same opportunities that you and I have had."
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Jack Kemp and I\n\r  want to share with you our ideas tonight. Jack Kemp is my running\n\r  mate and he's doing an outstanding job."
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Now, I'm a\n\r  plain-speaking man, and I learned long ago that your word was\n\r  your bond. And I promise you tonight that I'll try to address\n\r  your concerns and not try to exploit them. It's a tall order, but\n\r  I've been running against the odds for a long time. And again,\n\r  I'm honored to be here this evening."
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: size, Value: +1
+Key: face, Value: Times New Roman
+Start element: b
+Characters:    "Bob\n\r  Dole's Closing Statement"
+End element:   b
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Thank you, Jim.\n\r  Thank you, Mr. President. Thanks to everyone for watching and\n\r  listening. I want to address my remarks to the young people of\n\r  America, because they're the ones who are going to spend most of\n\r  their life in the 21st century. They are the ones who have the\n\r  challenges, and there are people out there making predictions\n\r  that it's not going to be the same, you're not going to have the\n\r  same opportunity, it's going to be more deficits, more drugs,\n\r  more crime, and less confidence in the American people. And\n\r  that's what you're faced with, what parents are faced with and\n\r  what grandparents are faced with."
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "It's important.\n\r  It's their future. And I would say to those - I know there are\n\r  more young people experimenting with drugs today than ever\n\r  before, drug use has gone up. If you care about the future of\n\r  America, if you care about your future, "
+Start element: b
+Characters:    "just don't do\n\r  it"
+End element:   b
+Characters:    "."
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "And I know that I\n\r  am someone older than you, but I've had my anxious moments in my\n\r  life. I've learned to feed myself and to walk and to dress, and\n\r  I'm standing here as proof that in America the possibilities are\n\r  unlimited. I know who I am and I know where I'm from, and I know\n\r  where I want to take America."
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "We are the\n\r  greatest country on the face of the earth. We do more good things\n\r  for more people in our communities, our neighborhoods, than\n\r  anywhere that I know of."
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "This is important\n\r  business - this election is important. I ask for your support, I\n\r  ask for your help. And if you really want to get involved, just\n\r  tap into my home page at "
+Start element: b
+Characters:    "www.dolekemp96.org"
+End element:   b
+Characters:    "."
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Thank you and God\n\r  bless America."
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+Start element: font
+Key: face, Value: Times New Roman
+End element:   font
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../../news/news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    " "
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../trail.html
+Characters:    "On\n\r  the Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

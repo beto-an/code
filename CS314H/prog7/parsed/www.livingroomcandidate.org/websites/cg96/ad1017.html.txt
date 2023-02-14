@@ -1,0 +1,145 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Campaign Releases New Advertisement: \"Seconds\""
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October, 17 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "CLINTON/GORE �96 RELEASES NEW ADVERTISEMENT"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Today, October 17, 1996, the Clinton/Gore �96 campaign\n\r    announces a new ad entitled \"Seconds.\" The text of the ad\n\r    follows:"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Start element: b
+Characters:    "Seconds"
+End element:   b
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "[James Brady] \"It was over in a moment, but the pain\n\r    lasts forever."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "\"President Clinton stood up and helped pass the Brady\n\r    Bill."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "\"It wasn�t about politics, the President had the\n\r    integrity to do what was right."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "\"When I hear people question the President�s\n\r    character, I say look what he�s done. Look at the lives the\n\r    Brady Bill will save.\""
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "VHS and beta copies of the ad are available for media\n\r    organizations. For more information, please call the press\n\r    office at 202/496-1037."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

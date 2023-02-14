@@ -1,0 +1,296 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Where Bob Dole Stands on Senior's Issues"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: h2
+Key: align, Value: center
+Key: style, Value: text-align:center
+Characters:    "Where Bob Dole\n\r  Stands on Senior's Issues"
+End element:   h2
+Characters:    "\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Key: style, Value: margin-bottom:12.0pt
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Bob Dole Will Protect, Improve and Strengthen\n\r  Programs for Senior Citizens"
+End element:   span
+End element:   b
+Characters:    "\n\r  Bob Dole is committed to protecting, improving and strengthening\n\r  programs that America's senior citizens depend on. Bob Dole\n\r  believes that the United States has a legal and moral\n\r  responsibility to the generations of Americans who made this\n\r  country strong. Dole authored and helped lead to passage\n\r  legislation that clarified the tax treatment of long-term care\n\r  insurance, making that form of insurance more available and\n\r  affordable."
+Characters:    "\n\r  "
+Characters:    "\n\r  That is why he will ensure that the government honors its\n\r  commitments to Social Security and Medicare beneficiaries -- now\n\r  and in the future."
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Bob Dole Has Fought to Protect\n\r  Social Security For 30 Years"
+End element:   span
+End element:   b
+Characters:    "\n\r  During his Senate career, Dole has always fought to protect our\n\r  nation's senior citizens."
+End element:   p
+Characters:    "\n\r  "
+Start element: ul
+Key: type, Value: disc
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l20 level1 lfo26;tab-stops:list .5in
+Characters:    "\n\r    In 1966, Dole introduced legislation that would automatically\n\r    increase Social Security benefits whenever the cost of living\n\r    rose 3 percent or more. Since that time, he has fought to\n\r    liberalize the Social Security earnings limitation."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l20 level1 lfo26;tab-stops:list .5in
+Characters:    "\n\r    In 1983, Dole helped craft a plan that saved Social Security\n\r    from insolvency."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l20 level1 lfo26;tab-stops:list .5in
+Characters:    "\n\r    In 1993, he lead the effort to defeat President Clinton's $25\n\r    billion tax on Social Security benefits."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;margin-bottom:12.0pt; mso-list:l20 level1 lfo26;tab-stops:list .5in
+Characters:    "\n\r    In 1995, Dole cosponsored a bill in the Senate that would raise\n\r    the earnings limit on Social Security recipients from $11,280\n\r    to $30,000 by 2002."
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Bob Dole Is Committed to\n\r    Saving Medicare From Bankruptcy"
+End element:   span
+End element:   b
+Characters:    "\n\r    Last spring, a study supported by three members of Bill\n\r    Clinton's own Cabinet showed that Medicare will be bankrupt in\n\r    five years. Bob Dole will act now to save Medicare for future\n\r    generations."
+Characters:    "\n\r    "
+Characters:    "\n\r    Bob Dole introduced legislation over 15 years ago to protect\n\r    the elderly from Medicare and Medicaid fraud and abuse. Bob\n\r    Dole will continue to find ways to protect and improve\n\r    Medicare. As President, he will:"
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l20 level1 lfo26;tab-stops:list .5in
+Characters:    "\n\r    Champion efforts to save the Medicare system from insolvency so\n\r    that it will be available to future generations."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l20 level1 lfo26;tab-stops:list .5in
+Characters:    "\n\r    Support giving Medicare beneficiaries the right to choose the\n\r    kind of coverage that best fits their own priorities and needs.\n\r    Bob Dole thinks that they should be given the same kind of\n\r    choices that federal government employees have had for\n\r    years."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l20 level1 lfo26;tab-stops:list .5in
+Characters:    "\n\r    Advocate innovative ideas like Medical Savings Accounts and\n\r    managed care as well as traditional fee-for-service plans."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l20 level1 lfo26;tab-stops:list .5in
+Characters:    "\n\r    Recommend the establishment of a blue-ribbon bipartisan\n\r    advisory commission -- similar to the one he served on in 1983\n\r    that saved Social Security -- to solve the Medicare crisis."
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "A Better\n\r    America"
+End element:   span
+End element:   b
+Characters:    "\n\r    With Bob Dole as President, senior citizens will never have to\n\r    fear losing their Medicare or Social Security benefits."
+End element:   li
+Characters:    "\n\r  "
+End element:   ul
+Characters:    "\n\r  "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../../news/news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    " "
+Start element: a
+Key: href, Value: ../agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the\n\r  Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

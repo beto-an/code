@@ -1,0 +1,109 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Lionel Hampton Endorses President Clinton"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "6/25/96"
+Characters:    "\n\r    PRESS RELEASE"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "STATEMENT BY ANN LEWIS"
+Characters:    "\n\r    DEPUTY CAMPAIGN MANAGER"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton welcomes the endorsement of jazz\n\r    legend Lionel Hampton. Mr. Hampton has been a loyal Republican\n\r    for over fifty years. In fact, the last Democrat Mr. Hampton\n\r    supported was President Harry S. Truman."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Mr. Hampton, in a statement that he gave to the\n\r    President in New York last night, said the following:"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"I originally joined the Republican party because it was\n\r    the party of Abraham Lincoln. Over the years I became\n\r    personally friendly with and supported Dwight Eisenhower,\n\r    Ronald Reagan, Prescott and George Bush, as well as John\n\r    Lindsay, Nelson Rockefeller and many others who are still\n\r    friends. But it seems the Republican party of today doesn't\n\r    recognize the views of moderate Republicans like me.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton and Vice President Gore appreciate the\n\r    support of Mr. Hampton."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "###"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

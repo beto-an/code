@@ -1,0 +1,113 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Statement by Peter Knight on Free TV Proposals"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    8/2/96"
+Characters:    "\n\r    PRESS RELEASE"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "A STATEMENT BY PETER S. KNIGHT"
+Characters:    "\n\r    CAMPAIGN MANAGER"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "As the President stated in his radio address earlier\n\r    this year, providing television time for the presidential\n\r    candidates to directly address the American people on issues of\n\r    importance to the country is an important and exciting\n\r    opportunity. The Clinton/Gore campaign is fully committed to\n\r    supporting these efforts."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The campaign is prepared to accept the proposal set\n\r    forth by the Free TV for Straight Talk Coalition, if such an\n\r    offer is made by the networks, and certain conditions are met.\n\r    First, there should be no adverse consequences whatsoever to\n\r    the presidential and vice presidential debates that may be\n\r    agreed upon. We are firmly committed to those debates and do\n\r    not wish to do anything to obstruct them. The format and\n\r    structure of the debates have become institutionalized after\n\r    refinements that were made over numerous campaign cycles and\n\r    provide an invaluable way to inform the citizens of the country\n\r    about the candidates and their positions."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Next, we believe that the public interest would be best\n\r    served if these broadcasts were conducted live, with no\n\r    preconditions to the locations of the broadcasts. Our\n\r    acceptance of the proposal is provisional on these\n\r    conditions."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The campaign has also accepted the formal offers set\n\r    forth by NBC and CNN in their letters of late June offering\n\r    candidate television time to the presidential candidates. These\n\r    offers represent a significant chance for the candidates to\n\r    directly represent their ideas on the important issues facing\n\r    this nation. The campaign is also in the process of reviewing\n\r    numerous other offers of free candidate time that have come\n\r    from other media organizations."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "We look forward to participating in the efforts to\n\r    improve the quality of discourse in presidential\n\r    campaigns."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "###"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

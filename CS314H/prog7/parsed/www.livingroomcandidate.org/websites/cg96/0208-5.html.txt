@@ -1,0 +1,261 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Democratic Governors’ Association Dinner"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index91.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #001058
+Characters:    "REMARKS BY THE PRESIDENT"
+Characters:    "\n\r      AT THE DEMOCRATIC GOVERNORS’ ASSOCIATION DINNER"
+End element:   font
+Characters:    "\n\r      "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #001058
+Start element: font
+Key: color, Value: #000000
+Characters:    "The\n\r      Omni Shoreham"
+Characters:    "\n\r      Washington, DC"
+End element:   font
+End element:   font
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #001058
+Start element: font
+Key: color, Value: #000000
+Characters:    "February 5, 1996"
+End element:   font
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE PRESIDENT: Thank you. Thank you for that wonderful\n\r    welcome. Governor Caperton, thank you for that wonderful\n\r    introduction. When he started all that business about Jefferson\n\r    and Truman, I turned around to the guy next to me, I said:\n\r    Who’s he introducing now? (Laughter.) I’m very grateful to you\n\r    for your friendship. Thank you, Governor Dean and Governor\n\r    Carnahan, the immediate past chairman; and all of my fellow\n\r    governors; and my colleagues, former governors who are here\n\r    tonight; to all the officers of the DGA and those of you who\n\r    work so hard for them, Mark Weiner, Katie Whelan, and the other\n\r    members of the staff; and most of all to all of you who have\n\r    come here to support them. I thank you for being here, and I\n\r    thank you for your support for the Democratic governors."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "If tonight’s dinner and its success is any indication, after\n\r    the 1996 election, there will be more than 19 people standing\n\r    up on this stage—(applause.) And let me just say, while there\n\r    will be a great deal of focus in this election year on the\n\r    president’s race, as there should be, there will be a great\n\r    deal of focus in this election year on the races for Congress,\n\r    as there should be. And I hope and believe we will make some\n\r    real progress there. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Remember that no matter what happens, there is an inexorable\n\r    move to push more basic jobs of the public back to the state\n\r    level. And if that is so, it matters more than ever before who\n\r    is the governor of each and every American state. And I can\n\r    tell you, given the responsibilities the governors will have\n\r    for the foreseeable future, it is more important than ever\n\r    before that we elect good Democratic governors to the\n\r    statehouses all across this country. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "It was so cold in Washington for these last two weeks, I had\n\r    to have a break last weekend, so I went to New Hampshire.\n\r    (Laughter.) Well, anyway, I got outside the Beltway. For those\n\r    of you who live here, you’ll be happy to know that I not only\n\r    got a good dose of old-fashioned American values, I saw in\n\r    action the fine art of snow removal, and I—(laughter and\n\r    applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "To be fair to the people here in Washington, D.C., who have\n\r    that responsibility, Washington is still viewed by many people\n\r    as sort of a southern city. I mean, we have a half-inch of\n\r    snow, they close every school within 50 miles. (Laughter.) And\n\r    the kids like it, but it’s not so great for the economy."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Let me tell you, I also saw some very encouraging signs in\n\r    New Hampshire that have more to do with what I want to visit\n\r    with you about tonight. When I went back to New Hampshire, a\n\r    place where I made 75 scheduled appearances between January 1st\n\r    and February 18th, 1992, and countless unscheduled ones, I was\n\r    profoundly moved to see the number of people who would still\n\r    come out to an event where you just tried to talk sense and\n\r    deal with the real challenges before the American people—people\n\r    who did not want a 30-second sound bite and were tired of\n\r    negative ads."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We had an event in New Hampshire surrounding the\n\r    administration’s community policing initiative, showing what\n\r    happens when people in a neighborhood that had been riddled by\n\r    crime and drugs and gangs decided to take their streets back\n\r    and had some help from community policemen who had a little\n\r    office in the neighborhood and rode bicycles and knew the\n\r    school children by their names. We saw people telling us that\n\r    they could walk the streets at night again for the first time\n\r    in years, and they didn’t worry about the safety of their\n\r    children anymore. And they knew that there was a connection\n\r    between what we do in Washington and what happens on their\n\r    streets, in their neighborhoods and in the lives of their\n\r    children."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We saw a great state School-to-Work program where we got all\n\r    these people together and they understood that you didn’t have\n\r    to have a big government program to have the national\n\r    government play a helping hand in bringing employers and\n\r    schools together so that young people could understand that in\n\r    the world we’re living in there can no longer be an artificial\n\r    division between the world of work and the world of learning,\n\r    and that they had to be brought together."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I visited a fine company that, among other things, makes\n\r    some defense equipment we use on Marine One, my helicopter, and\n\r    other aircraft in the Unite States military fleet, and works on\n\r    civilian communication satellites, bringing young women into\n\r    this business so that they would understand that engineering is\n\r    not just a job for boys, but girls could aspire to be\n\r    engineers, as well. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I went to a school in Concord, New Hampshire, that is on the\n\r    site of a church where in 1788 the delegates of New Hampshire\n\r    became the decisive ninth state to ratify the constitution of\n\r    the United States and to make this one United States of\n\r    America. And on that very spot, this school, which now has an\n\r    overwhelmingly moderate- to low-income student body, an\n\r    elementary school—an elementary school—was, along with all the\n\r    other school rooms in the city of Concord, hooked up to the\n\r    Internet. They showed me how they were putting out a newspaper,\n\r    the fifth and sixth graders, they were selling ads for the\n\r    newspaper, they wrote the editorials and the news stories, that\n\r    it was so popular they had converted it from a school newspaper\n\r    to a community newspaper, and they were circulating it in the\n\r    entire area of their city from which they had any students, and\n\r    they now had gotten themselves a home page on the Web for their\n\r    elementary newspaper. And I saw how businesspeople had loaned\n\r    them—or given them computer equipment so that even the poorest\n\r    kids could take something home at night and work with their\n\r    parents and show them what they were doing—partnerships,\n\r    solving problems, meeting the demands of today and\n\r    tomorrow."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I met with a lot of small businesspeople who four years ago\n\r    when I was there couldn’t get loans. And each and every one of\n\r    them had been helped at least once by a Small Business\n\r    Administration that in this Democratic administration has cut\n\r    its budget by 40 percent and doubled its loan volume and\n\r    increased its loans to women businesses by 80 percent, to\n\r    minority business by two-thirds, and is the best SBA in the\n\r    history of this country. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I say that because I found that the people there, as always,\n\r    are conservative, prudent, discriminating, but more and more\n\r    are interested in real conversations about how we’re going to\n\r    take advantage of these opportunities before us and how we’re\n\r    going to meet our challenges."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And they understand that the choice is not the one that we\n\r    have been shoveled up in election after election after\n\r    election. It’s not some big argument about big government\n\r    versus small government, or the horrors of the government\n\r    against the joys of the market. The real choice is whether we\n\r    are going to meet our challenges together or go back to a time\n\r    when everybody was left to fend for himself or herself."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I would remind you that the whole reason the American people\n\r    started to live together in communities is because they knew\n\r    they could do things together they could never do alone.\n\r    Whenever we work as a team as a country, we do well. This\n\r    country has never, ever been defeated by any problem abroad or\n\r    within when we work together. Our only defeats come when we\n\r    permit ourselves to be divided—when we permit ourselves to be\n\r    divided."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Therefore, we must reject any political message that says,\n\r    vote for me because I’ll make you so miserable you will be\n\r    divided; you will put me in, but I will divide your country. We\n\r    must say no to that. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "After three years of working here for you and the American\n\r    people, doing everything I could every day, not only to help\n\r    advance the cause of our country and its people, but also\n\r    trying to come to grips with the phenomenal changes that are\n\r    going on in American life, that is the single, simple lesson I\n\r    bring to you tonight, that you can determine—every single thing\n\r    we have done is to help the American people make the most of\n\r    their own lives and work together to solve their problems. That\n\r    is the great issue of the present day."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "This is, to be sure, as I said in the State of the Union, a\n\r    great age of possibility. Most of us have benefited from it,\n\r    otherwise, we wouldn’t be able to afford to be here tonight.\n\r    And it is literally true that there has never been a time in\n\r    the history of our country or the world when there were so many\n\r    different opportunities for so many different kinds of people\n\r    to live out their own dreams and to bring their God-given\n\r    capabilities to fruition. And that is the great joy of this\n\r    time."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "It is also true that, as with any time of great change,\n\r    there is a lot of uprooting, a lot of upheaval, a lot of\n\r    uncertainty. There is increasing inequality in income. There is\n\r    stagnation of wages for those who are not able to take\n\r    advantage of the age of possibility. There is greater\n\r    insecurity among millions of working people. And it exists side\n\r    by side with the lowest combined rates of unemployment and\n\r    inflation in 27 years, highest home ownership in 15 years, an\n\r    all-time high in trade, an all-time high in new business\n\r    formation, an all-time high in each of the last three years in\n\r    new, self-made millionaires—not people who inherited it, but\n\r    people who took advantage of the opportunities this country\n\r    affords to make it."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And the great challenge we have today is to keep the good\n\r    things going, to keep the dynamism of our country working in a\n\r    way that will make us stronger, but to do it in a way that\n\r    extends the American dream of opportunity for all the American\n\r    people and that pulls our country together. You can be proud of\n\r    the work that the Democrats did in Washington to cut this\n\r    deficit in half in the last three years. (Applause.) I met with\n\r    the Secretary of Agriculture today and, as I try to do from\n\r    time to time to keep up with how things are going on the\n\r    farm—and I won’t bore you with all the details, and some of\n\r    you, it may not mean much to you—but corn is at $3.60, wheat is\n\r    at a 15-year high, and soy beans are at an 18-year high because\n\r    we have opened new markets for American agriculture all over\n\r    the world. You can be proud of that kind of thing.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "You can be proud of the fact that we have almost eight\n\r    million new jobs, and a million of them in automobiles and\n\r    construction alone. You can be proud of the fact that your\n\r    country has been able to be a leading force in the world for\n\r    peace and freedom and democracy, from the Middle East to Haiti\n\r    to Northern Ireland to Bosnia. (Applause.) You can be proud of\n\r    the fact that the welfare rolls, the food stamp rolls, the\n\r    poverty rolls, the teen pregnancy rolls, they’re all down. You\n\r    can be proud of that. The crime rate is down. You can be proud\n\r    of that."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But you also must know that because of the way work is\n\r    changing so that more and more work is dependent upon\n\r    information and technology and knowledge, and not just what you\n\r    know but your ability to continue to learn throughout a\n\r    lifetime, because the nature of the workplace is changing as\n\r    productivity gains that are unimaginable permit large,\n\r    centralized bureaucracies and almost mandate them to slim down\n\r    so that more and more jobs are being created in smaller units\n\r    and bigger units are doing more with fewer and fewer people.\n\r    And the nature of the markets are changing. The financial\n\r    markets and the world markets for goods and services—all these\n\r    things have caused the upheavals that have caused the anxiety\n\r    that many American working families feel to exist right along\n\r    side all this good news."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "As Democrats we know in our bones that what makes this\n\r    country great is our ability to hold out the promise of\n\r    opportunity for everyone who is willing to work for it. And it\n\r    is our understanding that when we all do well together, each of\n\r    us individually does better than we otherwise would do; to\n\r    understand that it is important to support families and\n\r    child-rearing, but that when all of our families do better it\n\r    helps our family to be stronger."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And so I say again, the central question facing us is no\n\r    longer big government or small government. There is no more big\n\r    government. This government’s the smallest it’s been since\n\r    1965, and by the end of this year, it will be the smallest\n\r    since the Kennedy administration. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And it cannot be that government is bad and the market is\n\r    good because we see now from what’s happening to so many of our\n\r    fellow Americans that the market is a wonderful thing, but it\n\r    certainly doesn’t solve all problems and it creates some as it\n\r    changes. We know that as well. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "So what we have to do is to ask ourselves, what is it that\n\r    we are going to do as Democrats? To stand for the proposition\n\r    that we believe in work and family and the future, we believe\n\r    in opportunity and responsibility, and we know we have to do it\n\r    as one community. That is what I tried to address in the State\n\r    of the Union. That is the challenge I leave you tonight."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We clearly have to follow policies that will strengthen our\n\r    families and raise our children better. We clearly have to do\n\r    something to address this gnawing economic security. And we\n\r    must begin by dealing with the conditions of change work. We\n\r    have to give people access to a lifetime of education,\n\r    immediately when they need it. We have to make sure that\n\r    everybody can afford to buy health insurance, and they don’t\n\r    lose it when they change jobs or when someone in the family\n\r    gets sick. We have to make sure that people can get a pension\n\r    and they can carry it around with them if they’re going to\n\r    change jobs five or six times."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We have to make sure that working families have access to\n\r    decent health care so they can succeed at work and at home. And\n\r    if we want to, by the way, reform the welfare system, we have\n\r    to make sure that we’re going to have people succeed as\n\r    independent workers and good parents. You can’t be forced to\n\r    make a choice in this country. If we have to choose between\n\r    being good workers or good parents, the country will lose\n\r    either way. It has to be both. And we can only solve this\n\r    together. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "For all the progress we’ve made in bringing the crime rate\n\r    down—I talked to the Mayor of my capital city and Governor\n\r    Tucker’s capital city the other day, and he was saying they had\n\r    the lowest crime rate in eight years there and it was dropping\n\r    like a rock because of community policing. For all of that, you\n\r    and I know that this is still a country with inexcusable and\n\r    unacceptable levels of crime and violence. And a big part of\n\r    people’s insecurity is the feeling that they are not free as\n\r    Americans if they can’t walk the streets, if they worry about\n\r    their children, if they worry about their security in their\n\r    homes."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And I tell you, the Democratic party must be on the cutting\n\r    edge of this until we reach our real goal. And our real goal\n\r    should be to return to the time when crime is the exception,\n\r    not the rule. That should be the goal in the United States.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The other great domestic challenge we face is to finally\n\r    break this idea which still has too much of a hold on people\n\r    here in Washington, that the only way we can grow the economy\n\r    is to sacrifice the environment. The truth is, if you look at\n\r    all the information, from brownfields in our inner cities, to\n\r    cryptosporidium in the water supply of some of our cities, to\n\r    the problems we had with E. coli in the Pacific Northwest, to\n\r    what everybody knows global warming is doing now, which is\n\r    making our winters worse, as well as our temperature hotter in\n\r    the summer. We cannot sustain a strong and growing economy\n\r    unless we find a way to do it while enhancing the quality of\n\r    the environment, and the Democrats ought to take the lead in\n\r    promoting that idea. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And, finally, let me say I know that it isn’t particularly\n\r    popular to say—particularly at a time when people have so many\n\r    of their own problems—but the United States must not withdraw\n\r    from its world leadership. (Applause.) We must continue to be\n\r    the world’s leading force for peace and freedom, for democracy\n\r    and prosperity."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The Secretary of Commerce is sitting out there. I don’t want\n\r    to embarrass him, but he is the finest Secretary of Commerce in\n\r    my lifetime. (Applause.) But he would be the first to tell you\n\r    that he could not take these trips and sell America’s products\n\r    and sell America’s services and get investments for America all\n\r    around the world if we were not perceived as being willing to\n\r    lead the cause for peace and freedom; if we were not also\n\r    working to continue to dismantle the nuclear threat until it\n\r    doesn’t exist anymore; to work with countries to end the threat\n\r    of biological and chemical warfare; to work with countries to\n\r    end the terrible scourge of these God-awful land mines that are\n\r    in the millions in the ground, not just in Bosnia, but Angola,\n\r    in Cambodia, and throughout the world. We have to do that."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "You may think it shouldn’t be that way, but that is the way\n\r    it is. Maybe there will come a time in the next few years when\n\r    regional associations of freedom-loving people will be able to\n\r    solve all their problems, and we’ll just have to carry our own\n\r    little bit of the load. But for now, people look to the United\n\r    States."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And if you believe that it matters, then I ask you to\n\r    understand that we have to make difficult decisions still, and\n\r    we have to invest some money still in our leadership for these\n\r    causes. Our economic strategy is working in part because it is\n\r    going hand in glove with our commitment to peace and freedom\n\r    and democracy. And we cannot afford to walk away."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And, finally, let me say, all of these challenges to be met\n\r    will require us to generate a higher level of trust and\n\r    confidence and common sense and civility among our people as\n\r    they relate to each other and to our governments."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "So I end where I began. That’s why it’s so important who the\n\r    governors are. It’s why it’s so important what is done. We have\n\r    shrunk the size of government. We are getting rid of 16,000 of\n\r    the 18,000 pages of regulations. We have done all that\n\r    downsizing, and we will do some more."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "More importantly, we have dramatically increased child\n\r    support collections, and we’ve cut the default rate in student\n\r    loans. And as I said, we doubled the SBA loan volume. And I\n\r    could give you a lot of other examples—but in the end, our\n\r    ability to succeed consistent in our ability to readjust. The\n\r    responsibilities of the national government with the states,\n\r    with the localities, with the private sector, with individuals,\n\r    and to build a new partnership for a new era."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Part of that is some changes we still have to make here,\n\r    like campaign finance reform and the line item veto, which I’m\n\r    sure this Congress will eventually give me. (Laughter.) But a\n\r    big part of it is learning to work together in a way that is\n\r    affirmative, is positive, that lifts people up."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "You know, when I go to other countries, if they’re\n\r    conversant with American politics, very often leaders of other\n\r    countries will say to me, I frankly don’t understand why people\n\r    in America could be so negative feeling. Your unemployment is\n\r    lower than ours. Your growth rate is higher. You have the\n\r    lowest deficit in the world of any advanced country. All the\n\r    rest of us look up to you."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Well, we have to pierce that cynicism, because cynicism in\n\r    the end is a lousy excuse for inaction. It’s a lousy\n\r    justification for failure. It’s a lousy explanation for\n\r    disappointment in life. And I am convinced that if we Democrats\n\r    go out there in 1996 with a common-sense, compassionate,\n\r    intense commitment to the family; to the work, to the future of\n\r    America; to the idea that the government can play a role as a\n\r    partner in creating opportunity, and people have to assume more\n\r    responsibility; and to an uncompromising position that we must\n\r    do this together—we have no intention of going back to the time\n\r    when people were left to fend for themselves, because we\n\r    believe the age of possibility is for all Americans—I believe\n\r    that our efforts will be rewarded. They must be rewarded in the\n\r    President’s race and the races for Congress and in the races\n\r    for the statehouses."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "By being here tonight, you have shown that you believe this.\n\r    My challenge to you is that it’s a long time between now and\n\r    November. Don’t quit now. Go out and preach this message and\n\r    make sure it’s clear what we stand for and what we’re trying to\n\r    do."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Thank you and God bless you all. (Applause.)"
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

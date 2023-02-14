@@ -1,0 +1,252 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "For Immediate Release"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #BE0023
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+End element:   p
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: center
+Characters:    "\n\r        "
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 730vet_1.html
+Characters:    "7/30/96 -- Campaign\n\r        appoints Veterans Outreach Director"
+End element:   a
+End element:   font
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 730ent_1.html
+Characters:    "7/30/96 -- Joe\n\r        Lockhart responds to Bob Dole's Hollywood\n\r        speech"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 730eco_1.html
+Characters:    "7/30/96 --\n\r        Consumer confidence at 6-year high"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 730asi_1.html
+Characters:    "7/30/96 --\n\r        Campaign appoints Asian Pacific American Outreach\n\r        Director"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 7262pr_1.html
+Characters:    "7/26/96 --\n\r        Campaign appoints disability outreach\n\r        director"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 726pr_1.html
+Characters:    "7/26/96 --\n\r        Governor of Chickasaw Nation endorses President\n\r        Clinton"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 724pr_1.html
+Characters:    "7/24/96 --\n\r        Campaign appoints Deborah Mohile as Jewish Outreach\n\r        Director"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 723pr.html
+Characters:    "7/23/96 -- Women\n\r        and Violence"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 718pr.html
+Characters:    "7/18/96 -- Public\n\r        Education"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: bigtalk.html
+Characters:    "7/16/96 -- Bob\n\r        Dole talks a good game, but . . ."
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: abort.html
+Characters:    "7/12/96 -- Bob Dole\n\r        on abortion"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: holdit.html
+Characters:    "7/11/96 -- Hold it\n\r        . . ."
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: website.html
+Characters:    "7/10/96 -- Vice\n\r        President Gore unveils Website"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: advert.html
+Characters:    "7/8/96 --\n\r        Clinton/Gore ’96 releases new advertisement"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: rhetor.html
+Characters:    "7/6/96 -- Citizen\n\r        Dole’s rhetoric does not match record of Senator\n\r        Dole"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: cigs.html
+Characters:    "7/2/96 -- Children\n\r        and cigarettes"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: again.html
+Characters:    "7/2/96 -- Bob Dole\n\r        - at it again"
+End element:   a
+End element:   font
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+End element:   p
+Characters:    "\n\r        "
+Start element: center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee,\n\r          Inc."
+End element:   p
+Characters:    "\n\r        "
+End element:   center
+Characters:    "\n\r      "
+End element:   center
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/730eco_1.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/730asi_1.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/7262pr_1.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/website.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/730ent_1.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/advert.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/bigtalk.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/724pr_1.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/cigs.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/holdit.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/rhetor.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/again.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/723pr.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/726pr_1.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/718pr.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/730vet_1.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/abort.html

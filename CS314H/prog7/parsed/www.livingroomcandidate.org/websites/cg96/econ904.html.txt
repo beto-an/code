@@ -1,0 +1,127 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "The Economy Continues to Offer Good News"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    September 4, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "STATEMENT BY JOE LOCKHART"
+Characters:    "\n\r    NATIONAL PRESS SECRETARY"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole's latest commercial attacking the growing\n\r    economy shows how out of touch his campaign has\n\r    become."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Last week, we learned that the economy grew at a 4.8%\n\r    rate in the second quarter of this year, consumer confidence is\n\r    at a 6-year high, and housing starts were up nearly 8% in July.\n\r    And this week, a USA Today/CNN/Gallup poll found that a\n\r    majority of Americans believe that economic conditions are\n\r    improving and that we are on the right track for the 21st\n\r    Century, and the number of Americans satisfied with the way\n\r    things are going in the country has tripled since 1992. [USA\n\r    Today, 9/4/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Under President Clinton's leadership, private-sector\n\r    economic growth has averaged 3.2% annually, compared to 1.3%\n\r    under President Bush and 3.0% under President Reagan.\n\r    Unemployment is now 5.4% -- the 23rd consecutive month below 6%\n\r    -- down from 7.5% four years ago. The budget deficit has been\n\r    cut by more than 60%. We have the highest home ownership rate\n\r    in 15 years. The combined rate of unemployment, inflation, and\n\r    mortgage rates is the lowest in 28 years. And earlier this\n\r    month, Barron's magazine concluded -- in a comprehensive\n\r    analysis -- that President Clinton's economic record is\n\r    stronger than any Administration in more than three decades.\n\r    [Barron's, August 12, 1996]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Even Bob Dole himself -- the same Bob Dole who now\n\r    attacks Bill Clinton on the economy -- said at a campaign event\n\r    this past February, \"It is also true, as some have said, that\n\r    the economy is the strongest it's been in 30 years.\" [Remarks\n\r    to New Hampshire State Legislature, 2/13/96 -- released by Dole\n\r    Campaign, 2/20/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "These facts -- in contrast, to Bob Dole's ad -- show\n\r    clearly that President Clinton's economic policies are working.\n\r    Now is no time to turn back."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Experts agree that Bob Dole's risky last minute economic\n\r    scheme is the wrong approach because it will balloon the\n\r    deficit, raise mortgage rates, and require even more extreme\n\r    cuts in Medicare, Medicaid, education, and the environment than\n\r    Newt Gingrich and Bob Dole fought for -- and President Clinton\n\r    vetoed -- last year."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton has the right approach to take America\n\r    into the next century: balance the budget, targeted tax cuts\n\r    for education, child-rearing, and home ownership, open trade,\n\r    and increased investments in our children and our\n\r    future."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 Primary Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

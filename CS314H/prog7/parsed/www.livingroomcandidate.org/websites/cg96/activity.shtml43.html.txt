@@ -1,0 +1,170 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | Briefing Room | Clinton/Gore in Your\n\r  State"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index13.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: b
+Characters:    "On the Horizon"
+End element:   b
+Characters:    "\n\r    "
+Start element: p
+Characters:    "As we head into the\n\r    final days"
+Characters:    "\n\r    of the campaign, we need your help"
+Characters:    "\n\r    energizing your community to"
+Characters:    "\n\r    GET OUT THE VOTE!"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Call the Clinton/Gore office number"
+Characters:    "\n\r    below to volunteer."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "New Mexico Highlights"
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "November 1 - The\n\r    President's Remarks in Las Cruces"
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "October 13 - The President\n\r    in Albuquerque"
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Clinton-Gore '96 Headquarters"
+End element:   b
+Characters:    "\n\r    303 San Mateo NE"
+Characters:    "\n\r    Suite 103"
+Characters:    "\n\r    Albuquerque, NM 87108"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Phone: 505-262-9600"
+Characters:    "\n\r    Fax: 505-262-1212"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Characters:    "State\n\r    Director:"
+End element:   font
+Characters:    " Antionette SeDillo-Lopez"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Characters:    "Political\n\r    Director:"
+End element:   font
+Characters:    " Veronica DeLaGarza"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Characters:    "Press\n\r    Secretary:"
+End element:   font
+Characters:    " Anne Uhring"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Coordinated Campaign Target '96"
+End element:   b
+Characters:    "\n\r    130 Alavarado, NE"
+Characters:    "\n\r    Albuquerque, NM 87108"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Phone: 505-262-1996"
+Characters:    "\n\r    Fax: 505-262-2834"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Characters:    "Director:"
+End element:   font
+Characters:    " Billy Sparks"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: i
+Characters:    "The Coordinated Campaign is a distinct entity, directed\n\r    by the Democratic National Party and the State Democratic\n\r    Parties, and designed to elect Democrats to all levels of\n\r    office."
+End element:   i
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

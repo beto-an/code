@@ -1,0 +1,463 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | Meeting America's Challenges | Crime &\n\r  Drugs"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 460
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r            "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 450
+Key: cellspacing, Value: 5
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Put 100,000 more police officers on\n\r              the street. More than 43,000 officers have already\n\r              been funded."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Imposed a targeted\n\r              &nbsp;“Three-Strikes-and-You’re-Out” provision to put\n\r              career violent offenders behind bars for life."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Expanded the death penalty to\n\r              include drug kingpins, murderers of federal law\n\r              enforcement officers and nearly 60 additional\n\r              categories of violent felons."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Provided funding for 100,000 more\n\r              prison cells to help states ensure that violent\n\r              offenders serve their full sentences."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "The number of murders fell 8% in\n\r              1995—one of the largest decreases in more than 30\n\r              years. The nation’s largest cities saw their overall\n\r              crime fall 6% during the same period."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r          "
+End element:   table
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 450
+Key: cellspacing, Value: 5
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Stood up to the gun lobby and won\n\r              passage of the Brady Bill. As a result, more than\n\r              60,000 fugitives, felons and other criminals have\n\r              already been blocked from buying handguns."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Banned the manufacture and\n\r              importation of 19 of the deadliest assault weapons\n\r              while specifically protecting more than 650\n\r              legitimate sporting weapons. (Assault Weapons\n\r              Ban)"
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r          "
+End element:   table
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 450
+Key: cellspacing, Value: 5
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Developed a comprehensive National\n\r              Drug Control Strategy that will reduce illegal drug\n\r              use through law enforcement, prevention, treatment\n\r              and interdiction."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Breaking the cycle of drugs and\n\r              crime through universal drug testing in the criminal\n\r              justice system and by providing funding for drug\n\r              courts."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Cocaine use in the U.S. has\n\r              decreased more than 30% since 1992."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r          "
+End element:   table
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 450
+Key: cellspacing, Value: 5
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Provided $156 million in state\n\r              grants to bolster local law enforcement, prosecution\n\r              and victims’ services to better address violence\n\r              against women. (Violence Against Women Act)"
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Established nationwide 24-hour\n\r              domestic violence hotline providing immediate crisis\n\r              intervention, counseling and referrals for those in\n\r              need."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r          "
+End element:   table
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 450
+Key: cellspacing, Value: 5
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Keeping dangerous weapons out of our\n\r              children’s classrooms by enforcing a &nbsp;“Zero\n\r              Tolerance” gun policy in schools."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Reducing violence and drug abuse in\n\r              our schools by investing in school security, drug\n\r              prevention programs and counseling. (Safe and\n\r              Drug-Free Schools Act)"
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Encouraged schools to consider\n\r              adopting school uniform policies to help reduce\n\r              violence while promoting discipline and respect."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r          "
+End element:   table
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 450
+Key: cellspacing, Value: 5
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Stood firm against illegal\n\r              immigration and deported a record 51,600 illegal and\n\r              criminal aliens in 1995—a 15% increase over\n\r              1994."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Increasing the number of Border\n\r              Patrol agents along the southwestern border by 50% to\n\r              stem the flow of illegal aliens into the United\n\r              States."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r          "
+End element:   table
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

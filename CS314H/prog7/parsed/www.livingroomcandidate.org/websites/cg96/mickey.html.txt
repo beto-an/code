@@ -1,0 +1,109 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Mickey Cantor to Lead Debate Negotiation Team"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    September 5, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "MICKEY KANTOR TO LEAD DEBATE NEGOTIATING"
+Characters:    "\n\r    TEAM, ANNOUNCES CLINTON/GORE CAMPAIGN"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The Honorable Mickey Kantor will lead the President's\n\r    debate negotiating team, Clinton/Gore campaign manager Peter S.\n\r    Knight announced today."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"We are privileged to have Mickey Kantor leading our\n\r    debate negotiation team,\" said Knight. \"His broad political\n\r    experience and impressive negotiating skills will greatly\n\r    benefit our effort\"\" In 1992, Kantor served as Clinton/Gore\n\r    Campaign Chairman and oversaw the debate negotiations."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Campaign Manager Peter Knight today also sent a letter\n\r    to Dole/Kemp Campaign Manager Scott Reed acknowledging Reed's\n\r    earlier correspondence and noting that the Clinton/Gore\n\r    campaign is looking forward to discussions on debate\n\r    arrangements."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The debate negotiating team will work closely with\n\r    Erskine B. Bowles, who is managing the debate-related\n\r    operations for the campaign."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

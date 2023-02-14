@@ -1,0 +1,69 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | 21st Century Express | East Lansing, MI"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index8.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    [RealAudio "
+Start element: a
+Key: href, Value: elans144.ram
+Characters:    "14.4"
+End element:   a
+Characters:    " | "
+Start element: a
+Key: href, Value: elans288.ram
+Characters:    "28.8"
+End element:   a
+Characters:    "]"
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

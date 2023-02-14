@@ -1,0 +1,116 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Dole-Gingrich Congress Has Not Done Its Job on\n\r  Drugs"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    September 1, 1996"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "STATEMENT BY JOE LOCKHART"
+Characters:    "\n\r    NATIONAL PRESS SECRETARY"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole is stuck in the old Washington way of\n\r    \"either/or\" politics: choosing between interdiction and\n\r    prevention as a solution to the drug war. It�s a false choice.\n\r    President Clinton has submitted the largest drug budget ever\n\r    that unites enforcement, interdiction and treatment to combat\n\r    drug abuse. The President has continued to use the National\n\r    Guard to help police our borders — and he has increased the\n\r    number of Border Patrol agents on the Southwest border by over\n\r    40 percent."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The National Guard is doing its job. Unfortunately, the\n\r    Dole-Gingrich Congress has not. Dole and Gingrich cut the\n\r    President�s overall drug fighting budget for this year by\n\r    nearly $800 million. Dole and Gingrich voted against the\n\r    President�s expansion of the Safe and Drug Free Schools program\n\r    in 1994. And one of their first actions in 1995 was to cut\n\r    funding for the Safe and Drug Free Schools initiative by 50\n\r    percent. Dole and Gingrich also voted against the President�s\n\r    1994 Anti-Crime bill — which expanded the death penalty for\n\r    drug kingpins, instituted a tough \"three strikes and you�re\n\r    out\" sentence for the most dangerous career criminals and\n\r    provided for drug courts and expanded drug testing."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "More troubling than past actions, Senator Bob Dole�s\n\r    economic plan will include 40 percent across-the-board cuts in\n\r    all law enforcement programs, including border\n\r    patrols."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton has a strong record when it comes to\n\r    fighting the war on drugs. The President elevated the Drug Czar\n\r    to a Cabinet-level position and appointed four-star General\n\r    Barry McCaffrey — the first Drug Czar with a drug interdiction\n\r    background — to lead the fight against drugs. Year-in and\n\r    year-out, the President has proposed the largest anti-drug\n\r    budgets ever. Under the Clinton Budget now before Congress, the\n\r    DEA would grow by 18% in one year and 116 new DEA agents would\n\r    be added."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "In his Thursday night convention speech, the President\n\r    challenged Congress to immediately pass his national anti-drug\n\r    budget. If Bob Dole is serious about fighting the war on drugs,\n\r    he should convince his Republican colleagues in Congress to\n\r    take up the President�s challenge and immediately pass the\n\r    President�s supplemental request for fighting drugs in\n\r    America."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "# # #"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

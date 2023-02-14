@@ -1,0 +1,133 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "NetDay"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 25, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "PRESIDENT CLINTON EMPHASIZES TECHNOLOGY AND EDUCATION\n\r      IN INTERNET MESSAGE"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Today the President, from a campaign stop in Atlanta,\n\r    sent a NetDay Email message over the internet to the Vice\n\r    President, Net Day Organizers nationwide and his campaign staff\n\r    on the importance of technology and education for America's\n\r    young people."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"The President's use of cutting edge technology to reach\n\r    out to Americans demonstrates this Administration's strong\n\r    commitment to preparing our country for the 21st century,\" said\n\r    Clinton/Gore '96 Campaign Manager Peter Knight."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "A copy of the Email message is attached:"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "\"Today is NetDay in 18 states across the country. I\n\r    want to thank the tens of thousands of parents, businesspeople,\n\r    students and teachers who are volunteering their time and money\n\r    to connect schools and classrooms to the Internet. Last March,\n\r    Vice President Gore and I joined in the first NetDay, when\n\r    one-fifth of California�s schools were connected to the Net on\n\r    one day. This mission is critical, if we are to offer\n\r    opportunity to all our young people. In my State of the Union\n\r    Address, I challenged Americans to connect every classroom and\n\r    library in America to the Information Superhighway by the year\n\r    2000, with trained teachers and top quality educational\n\r    software. NetDay is an exciting response to that challenge. And\n\r    this spring I proposed a $2 billion Technology Literacy\n\r    Challenge, and I'm pleased that Congress has responded by\n\r    allocating more than $200 million for our first year\n\r    alone."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "\"The Internet is transforming our lives -- serving as\n\r    our new town square, changing the way we live, the way we work,\n\r    and the way we learn. We are using it to help families protect\n\r    their health; we are finding cures for diseases by posting the\n\r    map of human genes; we are using it to track deadbeat parents;\n\r    we are making our government more accessible to the public. We\n\r    must continue to unlock its potential. I believe that libraries\n\r    and schools should be given free basic connections to the\n\r    Internet, so that every student and every adult will have free\n\r    access to the wealth of knowledge it holds. And last month, I\n\r    proposed a $100 million commitment to improve and expand the\n\r    Internet -- to create the next generation of the\n\r    Net."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "\"I encourage all of you to join in this electronic\n\r    \"barnraising.\" NetDay is just the first step -- let's make 1997\n\r    NetYear!\""
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "# # #"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

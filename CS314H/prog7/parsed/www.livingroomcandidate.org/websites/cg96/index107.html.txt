@@ -1,0 +1,264 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | 21st Century Express | Battle Creek, MI"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index8.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: b
+Characters:    "Remarks by the President to the People of the Battle Creek,\n\r    Michigan Area"
+End element:   b
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE PRESIDENT: Thank you. Thank you very much. I want to\n\r    thank the people over across the street — we know you're there,\n\r    we're glad you're here. Thank you. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I would like to thank Kathy Block for her introduction and\n\r    for the work she's done to support our efforts to stop the\n\r    marketing, the advertising and the distribution and the sales\n\r    of tobacco to young people. That's not legal and it ought to\n\r    stop. Three thousand of our young people a day start to smoke,\n\r    and a thousand of them will die sooner because of it. It's the\n\r    biggest public health problem in the country and I think it's a\n\r    good thing that Americans have taken action on it again, thanks\n\r    largely to people like Kathy Block and young people themselves\n\r    who HAve asked us to help them protect a healthy future for\n\r    them, and I thank her for it. (Applause.) Thank you, Mark\n\r    Schauer, for your work and your candidacy. Thank you, Kim\n\r    Tunnicliff, I thought you gave a good, rousing speech.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I thought to myself when I heard Kim talking, now, if he'd\n\r    been in Congress that would have been one more vote against\n\r    that budget that slashed Medicare by $270 billion and took away\n\r    the guarantee of health care to the elderly in nursing homes,\n\r    to poor children, to pregnant mothers and to families with\n\r    members with disabilities. He would have stopped that."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "He would not have voted to cut education and the environment\n\r    or to raise taxes on the lowest income working people or to let\n\r    $15 billion be taken out of worker pension funds. All that was\n\r    in that budget in 1995 that I vetoed. And I never did hear our\n\r    friends in San Diego talking about that when they were bragging\n\r    about how moderate and nice and broad-minded they were. So I\n\r    was glad to hear Kim remind you that there was a budget battle\n\r    last year. I did veto it, and thanks to Carl Levin and others,\n\r    we sustained that veto. It would be a good thing to have\n\r    somebody in the Congress that wanted to balance the budget and\n\r    protect our values. I thank you for doing that, sir.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I would like to introduce another Michigan Congressman who's\n\r    here with me. He represents the Upper Peninsula and I think he\n\r    is one of the most dedicated, upright, hard working people in\n\r    the Congress, Congressman Bart Stupak and his wife are both\n\r    here. Congressman Stupak, come out here and wave to the folks.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Governor Jim Blanchard is here, who is a very distinguished\n\r    Ambassador to Canada. I thank you, Governor Blanchard.\n\r    (Applause.) Attorney General Frank Kelley is here. I thank you,\n\r    Frank for coming and for your work. (Applause.) Frank Garrison,\n\r    the head of the Michigan AFL-CIO is here with us. (Applause.)\n\r    And I want to say a very special word of thanks to another son\n\r    of Michigan who is here, who just completed his term as the\n\r    President of the National Education Association, Keith Geiger,\n\r    who was a fearless and wonderful advocate for America's\n\r    teachers. Thank you, Keith Geiger, for being here.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Finally, I'd like to thank Senator Carl Levin for his\n\r    leadership for Michigan and America, for his fight for\n\r    America's jobs and his fight for ethics in government, for his\n\r    fight to give America the kind of direction that it needs and\n\r    deserves. He deserves your reelection for his service, and I\n\r    hope you'll give it to him. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I'd like to thank the Battle Creek High Band. Thank you very\n\r    much for being here. (Applause.) And I thank the saxophone\n\r    section for raising your horns. You look good over there.\n\r    (Applause.) Well, the rest of you can raise your horns, you\n\r    don't have to be a saxophone player."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I thank Mayor Deering, from Battle Creek; and the principal\n\r    of Battle Creek High School, Bruce Barney; the head of the\n\r    local community action agency Sherry Keys-Hebron; the President\n\r    of the AFL-CIO for South Central Michigan, Richard France;\n\r    Reverend Albert Thomas and all the others who had anything to\n\r    do with this event today, including the Washington Heights\n\r    Gospel Ministry who'll give us music at the end of this event.\n\r    Thank you all very much. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Folks, I'm glad to be the first President in Battle Creek\n\r    since President Johnson was here in 1965. (Applause.) I'm glad\n\r    to be the first President to come into Battle Creek on a train\n\r    since President Taft was here in 1911. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "This train started in West Virginia and went into Kentucky.\n\r    Then we went all over Ohio. Yesterday morning, we stared in\n\r    Toledo and then worked our way into Michigan to Wyandotte, to\n\r    Royal Oak, to Pontiac and last night to a rally at Michigan\n\r    State University where there were over 20,000 people. It was an\n\r    amazing event. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I took this train to Chicago, the 21st Century Express, for\n\r    two reasons. First of all, I wanted to get a chance as I go to\n\r    Chicago to accept the nomination of my party for President and\n\r    begin the last and perhaps the most important campaign of my\n\r    life to look into the faces, into the eyes, into the hearts of\n\r    the people of America in the heartland for whom I have worked\n\r    and fought these last four years. I wanted to see you to\n\r    remember why we're doing all this. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And, secondly, I wanted to make the point that our train is\n\r    not only on the right track to Chicago, it's on the right track\n\r    to the 21st century. And we need to stay on that track.\n\r    (Applause.) But as one of these wonderful signs said, there is\n\r    more to do. I was very proud of my wife last night at the\n\r    Democratic Convention — (applause) — because she talked about\n\r    the work she's done for the last 25 years, what we learned\n\r    about it from raising our own daughter and the fact that there\n\r    is more to do."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE AUDIENCE: Hillary in 2000."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE PRESIDENT: (Laughter.) Let me say very briefly, I want\n\r    to speak with you and I want to ask you to do something for me.\n\r    I want you to vote for me, of course. I want you to stay with\n\r    us. (Applause.) But I want to talk to you just a few moments\n\r    this morning about what we've done and where we're going and\n\r    ask you to spend the next 70 days talking to your friends and\n\r    neighbors about it."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I ran for President four years ago because I wanted to lead\n\r    our country into the 21st century with all Americans having the\n\r    chance to live out their dreams. I ran for President because I\n\r    didn't like the fact that we had high unemployment, stagnant\n\r    wages, we were not meeting our challenges, cynicism was on the\n\r    rise, middle class dreams were being dashed and I knew we could\n\r    do better. I knew we could do better. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "So I went before the American people and said I have a\n\r    simple strategy. I want to create a country in which there is\n\r    opportunity for everyone, responsibility from everyone and\n\r    where everyone who is willing to work hard and do the right\n\r    thing without regard to their race, their gender, where they\n\r    come from or anything else about them, if you believe in the\n\r    Constitution, the Bill of Rights, the Declaration of\n\r    Independence, you're part of my America and you're going to be\n\r    part of our America in the future. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Well we've been at this for four years now and the people\n\r    can make a judgement. And they can also listen to the ideas we\n\r    have for the future and know there's a darn good chance we can\n\r    implement them because we've done so much of what we talked\n\r    about four years ago."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "On the economy we had a simple strategy: get the deficit\n\r    down, bring the interest rates down, give tax relief to the\n\r    people who need it most, expand our sales of American products\n\r    around the world, invest in science and technology and, most\n\r    important of all, in the education of our people."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, has it worked? (Applause.) Compared to four years ago,\n\r    we have over 10 million new jobs, a record number of small\n\r    businesses, including businesses owned by women and minorities.\n\r    (Applause.) We have a 15 year high in home ownership, we have\n\r    an all-time high in the export of American products, we have an\n\r    all-time high in the creation of American small businesses. I\n\r    can tell you, for the first time in a decade — maybe most\n\r    important of all to me — average wages are on the rise again.\n\r    We've been waiting for 10 years to see that start.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The other party always talked about being against the\n\r    deficit in government, but in the previous 12 years we\n\r    increased the debt by four times. Since I've been President\n\r    we've cut the deficit in each of the last four years. It's down\n\r    by 60 percent. Interest rates are down, investments are up and\n\r    the economy is growing. (Applause.) Tell your friends and\n\r    neighbors in Battle Creek and around this area that we would\n\r    have a surplus in the budget today and we could have a bigger\n\r    tax cut if it weren't for the interest we're having to pay on\n\r    the debt that was run up in the 12 years before I took office.\n\r    We'd have a surplus. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But we have to do more. We can grow this economy faster, we\n\r    can create more jobs, we can raise incomes more if we will work\n\r    hard together. We have to go on and balance the budget to keep\n\r    the interest rates down, but we have to do it in a way that is\n\r    different from what our friends in the opposition tried to do\n\r    last year. We do not have to destroy Medicare or Medicaid or\n\r    turn our backs on education and the environment, or do anything\n\r    to let the stability of working people's pension funds be\n\r    eroded. We can balance the budget and protect our values and\n\r    that is my commitment to you. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We can also cut taxes for families in America, but the tax\n\r    cuts need to be targeted to what will do the most good and to\n\r    something we can pay for — and people like me, who don't need\n\r    it, shouldn't get them, because we have to balance the budget.\n\r    We have to balance the budget and cut taxes. (Applause.) And we\n\r    can do both."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The tax cut should be targeted. We should give a $500 a\n\r    child credit for children under 13. We should give people the\n\r    right to save in an IRA with incomes going up to family incomes\n\r    of $100,000; and then withdraw that money, those savings,\n\r    without any penalty if they need it for health care, to buy a\n\r    first time home or to pay for a college education. We ought to\n\r    do that. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We should continue to invest in education. We ought to have\n\r    a million children in Head Start. (Applause.) We ought to have\n\r    a million kids working their way through college on work study.\n\r    (Applause.) We ought to preserve my lower cost college loan\n\r    program, not do away with it as the other party tried to do.\n\r    (Applause.) And we ought to give people a tax deduction for the\n\r    cost of college tuition up to $10,000 a year. (Applause.) And a\n\r    tax credit worth $1,500, an outright credit to make sure every\n\r    person in America can get at least two years of education after\n\r    high school. It ought to be as universal as a high school\n\r    education is today. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We ought to make sure that every classroom in America not\n\r    only has computers and trained teachers, but is hooked up to\n\r    the Information Superhighway by the year 2000, every single\n\r    classroom. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, folks, if you're my age and you're not the most\n\r    computer literate person in the world, it may be hard to\n\r    understand what that means. But let me tell you what it means.\n\r    It means that we now have the chance, for the first time in the\n\r    history of the United States of America, to make sure that\n\r    children in the poorest urban classroom, children in the\n\r    remotest mountain village in America, children in the high\n\r    plains of the west, children everywhere will have access to the\n\r    same high quality information in the same time in the same\n\r    understandable form that children in the wealthiest, best\n\r    schools in America do. That has never happened before. That is\n\r    revolutionary. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "So that's our opportunity agenda. We also need to continue\n\r    to fight for responsibility. But look where we are compared to\n\r    four years ago: The crime rate is down, the welfare rolls are\n\r    down 1.5 million, and child support collections are up 40\n\r    percent. We're moving in the right direction. (Applause.) Not a\n\r    single Michigan hunter lost a weapon when the Brady Bill\n\r    passed, even though that's what our friends in the opposition\n\r    were saying in 1994 to get votes. I don't know why the didn't\n\r    repeat that in San Diego, I was listening. (Laughter.) No,\n\r    nobody lost a weapon in Michigan, but 100,000 felons, fugitives\n\r    and stalkers have not been able to get handguns because the\n\r    Brady Bill passed. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We're half way home in putting those 100,000 police on the\n\r    street. And we have increased funding for safe and drug free\n\r    schools and for prevention programs. And, I might add, at a\n\r    time when about the only thing in this country that is not\n\r    going in the right direction, I'm sad to say, is teenage\n\r    tobacco and drug use -- they've both been going up the last\n\r    four years. I don't think this is a very good time to try to\n\r    abolish our drug-free schools program. We need more DARE\n\r    officers in those schools. We need more people in those schools\n\r    trying to keep the kids off drugs in the first place.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But we've got more to do. Very briefly, I think we ought to\n\r    ban cop-killer bullets. Police officers are — (applause) — of\n\r    them. No deer in the Michigan woods is wearing a Kevlar vest.\n\r    Our police officers are. We ought to protect them, they deserve\n\r    it. (Applause.) And I think if you commit an act of domestic\n\r    violence you also shouldn't be eligible to get another handgun\n\r    where you can kill somebody. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And I do not believe that we should stop putting 100,000\n\r    police on the street. We're halfway home; we need to finish the\n\r    job. I don't know why our friends our interested in killing the\n\r    100,000-police program, but I do know this: more police on the\n\r    streets, working with their friends and neighbors, knowing the\n\r    kids, prevent crime in the first place and make it safer. We've\n\r    got four years of a declining crime rate. We know what works.\n\r    Four more years and it will be about where it ought to be.\n\r    Let's keep on going. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "In the area of welfare reform, let me just say this, if\n\r    every person in this country who owes child support paid it,\n\r    800,000 women and children would go off welfare tomorrow. We\n\r    have to keep doing better with that. (Applause.) Now that we\n\r    have passed the welfare reform legislation, we have guaranteed\n\r    child care and health care and nutrition to poor children and\n\r    their families. But if you're going to tell people they got to\n\r    be at work within two years, they have to have jobs that they\n\r    can attend. So we now have to create jobs for these people. It\n\r    is not wrong to cut people off and put the kids in the street\n\r    unless people have jobs as an alternative, and I am committed\n\r    to that. (Applause.) So that's our responsibility agenda."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now let me talk a little about what binds us together as a\n\r    community. First of all, it's our families. Look where we are\n\r    compared to four years ago. Twelve million American families\n\r    have taken advantage of the Family and Medical Leave law that\n\r    we passed with the help of people like Carl Levin and Bart\n\r    Stupak and over the opposition of the leaders of the other\n\r    party. Twelve million Americans took a little time off when\n\r    there was a baby born or a sick parent, and it didn't hurt the\n\r    economy a bit. We're better of because of it. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And now we just raised the minimum wage for 10 million\n\r    people. (Applause.) We just made 90 percent of our small\n\r    businesses eligible for a tax cut if they invest more in the\n\r    business, and made it easier for people in small businesses,\n\r    where most Americans work, to take out retirement for\n\r    themselves and their employees and to keep those retirement\n\r    plans if they change jobs. That's pro-family. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And we adopted in the small business bill, in the minimum\n\r    wage bill, a $5,000 tax credit for people who adopt a child,\n\r    more if the child has a disability. There are hundreds of\n\r    thousands of kids out there that need a good home. I hope more\n\r    people will adopt now that we have passed this law.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "In the area of health care we adopted Kennedy-Kassebaum\n\r    bill. You know what it says to 25 million Americans, okay, now,\n\r    they can't take your health insurance away from you just\n\r    because somebody in your family has been sick or if you lose\n\r    your job or you change jobs you still have a right to keep your\n\r    health insurance. It can help 25 million of our fellow\n\r    citizens. That's pro-family. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "What we're doing in implementing this rule on tobacco is\n\r    pro-family. We don't say — we say to adults, you have a right\n\r    to smoke. You do what you want. It's a legal product, but it's\n\r    illegal in every state in America to market or sell tobacco\n\r    products to children, and we're going to do our best to stop it\n\r    because we want our kids to live longer. (Applause.) That's\n\r    pro-family."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But we have to do more. On health care we should make it\n\r    possible for unemployed people not only to keep their insurance\n\r    as a matter of law but to afford it. My balanced budget plan\n\r    helps unemployed people keep their health insurance for six\n\r    months. (Applause.) Our balanced budget plan helps families\n\r    with members with Alzheimer's they're caring for get some\n\r    respite care. Our balanced budget plan says, among other\n\r    things, that a mother cannot be forced to leave a hospital in\n\r    sooner than 48 hours after a baby is born. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And I think we have to build on the Family and Medical Leave\n\r    law. I think we ought to let people have just a little time off\n\r    -- not a lot, no time for abuse -- but a little time off not\n\r    only for a medical emergency, not only for the birth of a\n\r    child, but to take their children to regular doctor's\n\r    appointments and to see the teacher once in a great while.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We can't be a strong community unless we have a strong\n\r    environment. Fifty million Americans are breathing cleaner air\n\r    than four years ago. We've cleaned out more toxic waste dumps\n\r    in the last three years than in the previous 12. We passed a\n\r    Safe Drinking Water Act, a Pesticide Protection Act. We\n\r    upgraded the standards for safe meat and poultry. We're moving\n\r    in the right direction, but we have to do more. And I'll be\n\r    saying more about this later today, but we need to clean up at\n\r    least two-thirds of the toxic waste dumps in this country in\n\r    the next four years. We have delayed it long enough.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Let me say again, we have to do these things consistent with\n\r    our values. We will not be one community if in the name of\n\r    balancing the budget we give a tax cut that requires us to cut\n\r    Medicare, stop Medicaid's commitment to families with members\n\r    with disabilities."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I thought Christopher Reeve was so moving at the Democratic\n\r    Convention the other night. (Applause.) But let me tell you,\n\r    he's right about research. We're going to spend more on\n\r    research, $1 billion more, because it's important. We have\n\r    doubled the life expectancy for people with AIDS or HIV\n\r    infection in just the last four years, doubled it because of\n\r    research. (Applause.) We may be able to extend their lives\n\r    indefinitely in good, quality ways because of research."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We are about to build a computer with IBM, a supercomputer,\n\r    because of research, that will do more calculations in a minute\n\r    than a person with a hand-held calculator could do in 30,000\n\r    years. That is what we're getting out of research. (Applause.)\n\r    He's right. But he's also right when Christopher Reeve said to\n\r    me — and I thank these people here for coming to be with us\n\r    today — Christopher Reeve said, you know, you've got to make\n\r    that fight on Medicaid; you can't let them take away Medicaid\n\r    because not everybody who gets hurt like me has been an actor,\n\r    has made a good living; And even people like me can go broke.\n\r    Middle class families deserve the right to keep working and\n\r    caring for their family members. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "So, folks, if you believe we're all in this fight together,\n\r    if you agree with the First Lady that it takes a village and\n\r    we're all part of it — (applause) — if you believe that\n\r    America's best days are ahead, if you want to stay on the right\n\r    track to the 21st century, will you help us for the next 70\n\r    days?"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE AUDIENCE: Yesss!"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE PRESIDENT: And will you help us for the next four\n\r    years?"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE AUDIENCE: Yesss!"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE PRESIDENT: Thank you and God bless you all. Thank you.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

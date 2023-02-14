@@ -1,0 +1,185 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | Briefing Room | Clinton/Gore in Your\n\r  State"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index13.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: align, Value: right
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Start element: b
+Characters:    "On the Horizon"
+End element:   b
+Characters:    "\n\r    "
+Start element: p
+Characters:    "As we head into the\n\r    final days"
+Characters:    "\n\r    of the campaign, we need your help"
+Characters:    "\n\r    energizing your community to"
+Characters:    "\n\r    GET OUT THE VOTE!"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Call the Clinton/Gore office number"
+Characters:    "\n\r    below to volunteer."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "New York Highlights"
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Brockport resident Harriet Wilson"
+Characters:    "\n\r    tells us why she supports the President"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Clinton-Gore '96 Headquarters"
+End element:   b
+Characters:    "\n\r    300 Park Avenue South"
+Characters:    "\n\r    Twelth Floor"
+Characters:    "\n\r    New York, NY 10010"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Phone: 212-253-9456"
+Characters:    "\n\r    Fax: 212-253-9423"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Characters:    "Political\n\r    Director:"
+End element:   font
+Characters:    " Carol Gerstl"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Characters:    "Press\n\r    Secretary:"
+End element:   font
+Characters:    " Max Smith"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "New York Democratic"
+Characters:    "\n\r    Coordinated Campaign"
+End element:   b
+Characters:    "\n\r    300 Park Avenue South"
+Characters:    "\n\r    Twelth Floor"
+Characters:    "\n\r    New York, NY 10010"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Phone: 212-253-9696"
+Characters:    "\n\r    Fax: 212-253-0927"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Characters:    "Director:"
+End element:   font
+Characters:    " Bill de Blasio"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: i
+Characters:    "The Coordinated Campaign is a distinct entity,"
+Characters:    "\n\r    directed by the Democratic National Party and"
+Characters:    "\n\r    the State Democratic Parties, and designed"
+End element:   i
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: i
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+End element:   i
+Characters:    "\n\r    "
+Start element: p
+Start element: i
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   i
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

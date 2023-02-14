@@ -1,0 +1,228 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | Briefing Room | Clinton/Gore in Your\n\r  State"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index13.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: table
+Key: align, Value: right
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Start element: b
+Characters:    "On the Horizon"
+End element:   b
+Characters:    "\n\r    "
+Start element: p
+Characters:    "As we head into the\n\r    final days"
+Characters:    "\n\r    of the campaign, we need your help"
+Characters:    "\n\r    energizing your community to"
+Characters:    "\n\r    GET OUT THE VOTE!"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Call the Clinton/Gore office number"
+Characters:    "\n\r    below to volunteer."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Arizona Highlights"
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "October 31 - The President\n\r    in Tempe"
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "September 18 - The\n\r    President and"
+Characters:    "\n\r    Vice President at the Grand Canyon"
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "September 11 - The\n\r    President visits Sun City"
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Clinton-Gore '96 Headquarters"
+End element:   b
+Characters:    "\n\r    2505 N. Central Ave."
+Characters:    "\n\r    Phoenix, AZ 85004"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Phone: 602-253-9600"
+Characters:    "\n\r    Fax: 602-253-9669"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Start element: b
+Characters:    "State\n\r    Director:"
+End element:   b
+End element:   font
+Characters:    " Art Chapa"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Start element: b
+Characters:    "Political\n\r    Director:"
+End element:   b
+End element:   font
+Characters:    " Geronimo Rodriguez"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Start element: b
+Characters:    "Press\n\r    Secretary:"
+End element:   b
+End element:   font
+Characters:    " Lisa MacSpadden"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Arizona Democratic Coordinated Campaign"
+End element:   b
+Characters:    "\n\r    2505 North Central Avenue"
+Characters:    "\n\r    Phoenix, AZ 85004"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Phone: 602-252-5508"
+Characters:    "\n\r    Fax: 602-252-6956"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Start element: b
+Characters:    "Director:"
+End element:   b
+End element:   font
+Characters:    " Doug Wilson"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: i
+Characters:    "The Coordinated Campaign is a distinct entity,"
+Characters:    "\n\r    directed by the Democratic National Party"
+Characters:    "\n\r    and the State Democratic Parties, and designed"
+Characters:    "\n\r    to elect Democrats to all levels of office."
+End element:   i
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

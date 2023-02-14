@@ -1,0 +1,112 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Dole and the Economy"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    September 28, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "STATEMENT BY JOE LOCKHART"
+Characters:    "\n\r    NATIONAL PRESS SECRETARY"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Just two days after the Census Bureau reported that the\n\r    American economy is growing and that all Americans are sharing\n\r    in the revitalized economy under President Clinton, Candidate\n\r    Dole proved, once again, that he is out of touch with the\n\r    American people and the economy."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Just this week, the Census Bureau reported that incomes\n\r    rose faster last year than in any year in a decade, poverty\n\r    fell more than any year since the 1960's, and income inequality\n\r    declined by the most since 1968. For many Americans, this is\n\r    further proof that America is on the right track and that Bob\n\r    Dole just doesn�t get it."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "That Bob Dole would attempt to use the debates as an\n\r    opportunity to scare the American people about the economy when\n\r    even he said \"the economy is the strongest it�s been in 30\n\r    years,\" (Remarks to New Hampshire State Legislature, 2/13/96 --\n\r    released by Dole Campaign 2/20/96) shows the desperation of his\n\r    \"Midnight in America\" campaign."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The only threat to the economy is Bob Dole�s risky $548\n\r    billion tax cut scheme which would blow a hole in the deficit\n\r    and lead to even deeper cuts in Medicare and Medicaid than the\n\r    1995 Dole/Gingrich budget."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

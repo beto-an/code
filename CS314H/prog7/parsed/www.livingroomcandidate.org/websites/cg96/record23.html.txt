@@ -1,0 +1,457 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | Briefing Room | State by State\n\r  Information"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index13.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +2
+Start element: font
+Key: color, Value: #001058
+Start element: nobr
+Start element: i
+Characters:    "President\n\r    Clinton: Working Hard for\n\r    Arkansas"
+End element:   i
+End element:   nobr
+End element:   font
+End element:   font
+Start element: font
+Key: color, Value: #001058
+Characters:    "\n\r    Greater Prosperity, Safer Communities, Stronger\n\r    Families"
+End element:   font
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "President Clinton Has\n\r    Delivered on His Promises—Making Arkansas a Better Place to\n\r    Live and Work."
+End element:   b
+End element:   font
+Characters:    " &nbsp; President Clinton has been a\n\r    leader on the issues the people of Arkansas care about.\n\r    President Clinton has delivered:\n\r    "
+Start element: p
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            A Growing Economy: Unemployment in Arkansas has dropped\n\r            from 6.7% to 4.6%. Our nation has the lowest combined\n\r            rate of unemployment, inflation, and mortgage rates\n\r            since 1968. Consumer confidence is at its highest level\n\r            in six years, real wages are rising for the first time\n\r            in a decade, and homeownership is at a 15-year high.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            New Jobs, Better Wages: 112,200 new jobs created in 43\n\r            months in Arkansas under President Clinton -- more than\n\r            during the previous four years; 10.5 million new jobs\n\r            have been created nationally. Over the next two years,\n\r            144,000 workers in Arkansas will benefit from the\n\r            minimum wage increase.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Stronger Families: The Family and Medical Leave Act\n\r            protects 344,000 workers in Arkansas—allowing them to\n\r            take 12 weeks of unpaid leave for the birth of a child\n\r            or to take care of a sick family member without fear of\n\r            losing their jobs. Teen pregnancy is falling, the\n\r            poverty rate is decreasing, and the number of people on\n\r            welfare is declining. In Arkansas alone, 16,992 fewer\n\r            people are on welfare and 12,852 fewer are on food\n\r            stamps.In addition, tougher child support enforcement\n\r            collects nearly $22 million more -- an increase of 31%\n\r            since FY 1992.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Increased Access to Education: 139,200 students in\n\r            Arizona can benefit from the President’s reformed\n\r            student loan program. 9,244 students benefited from\n\r            Head Start funding in 1995. In 1993-1996, Arkansas will\n\r            receive $8,146,008 to fund the Goals 2000 program,\n\r            which seeks to increase academic achievement by raising\n\r            academic standards, increasing parental and community\n\r            involvement in education, expanding the use of\n\r            computers and technology in classrooms, and supporting\n\r            high-quality teacher professional development.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Cut the Deficit in Half: Reducing the burden of\n\r            national debt for every Arkansas family of four by\n\r            $15,000.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            A Tax Cut: By expanding the Earned Income Tax Credit,\n\r            the President cut taxes for 203,000 working families in\n\r            Arkansas and 15 million working families nationwide.\n\r            President Clinton provided over 12,238 Arkansas small\n\r            businesses with a tax cut this year by expanding the\n\r            annual expensing allowance from $10,000 to $17,500.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Pension and Health Care Coverage: Because President\n\r            Clinton signed the Retirement Savings and Security Act,\n\r            96,000 workers in Arkansas for small businesses will be\n\r            offered expanded opportunity for pension coverage. In\n\r            Arkansas, as many as 191,000 in families with a worker\n\r            who changed, lost or left a job with health insurance\n\r            will be guaranteed continued access to health insurance\n\r            under the Kassebaum-Kennedy Health Insurance Bill which\n\r            President Clinton fought for and signed into law.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Safer Streets and Communities: The President’s Crime\n\r            Bill adds 565 police officers to Arkansas' streets.\n\r            &nbsp;“Three Strikes and You’re Out,” the Brady Bill,\n\r            the Assault Weapons Ban, and community policing are\n\r            working. Our nation’s crime rate is down. The number of\n\r            murders reported has dropped 8%—one of the largest\n\r            drops in three decades. In Arkansas, the crime rate\n\r            dropped 1.48% during the first three years of the\n\r            Clinton Administration. The state received over $1.3\n\r            million to combat domestic violence as a result of the\n\r            Violence Against Women Act.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Renewed Growth in Key Industries: After a decade of\n\r            enormous job losses in construction, manufacturing, and\n\r            autos, these industries have made a remarkable\n\r            recovery—more than one million new jobs created under\n\r            this Administration.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Characters:    "\n\r    "
+Start element: b
+Characters:    "Fighting for a Balanced Budget That Reflects Our\n\r    Values:"
+End element:   b
+End element:   font
+Characters:    " Now we are fighting for a balanced budget\n\r    that will lift the burden of debt off our children and reflect\n\r    American values—a balanced budget that:\n\r    "
+Start element: p
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Honors our commitment to give America’s seniors the\n\r            health care they deserve.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Protects investment in our young people’s futures—Head\n\r            Start, access to college.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Protects America’s clean water and air, national parks,\n\r            and our public health.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Preserves tax fairness for America’s working families.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Characters:    "More: How President Clinton's "
+Start element: a
+Key: href, Value: trade22.html
+Characters:    "international trade policies"
+End element:   a
+Characters:    " have helped\n\r    your state"
+End element:   font
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/trade22.html

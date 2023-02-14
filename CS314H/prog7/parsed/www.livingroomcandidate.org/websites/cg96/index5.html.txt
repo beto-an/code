@@ -1,0 +1,98 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Briefing Room"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #FFFFFF
+Key: alink, Value: #FF0000
+Key: vlink, Value: #A7A7A7
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    " "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: center
+Characters:    "\n\r        "
+Start element: i
+Characters:    "elcome to the\n\r        campaign “briefing room” where the issues of Campaign ’96\n\r        will be detailed, updated and discussed. In the Briefing\n\r        Room you can remain on top of the issues and policies that\n\r        the Administration values. President Clinton and Vice\n\r        President Gore are fighting for the strongest possible\n\r        America and for the right of every citizen to participate\n\r        in the American Dream."
+End element:   i
+Characters:    "\n\r      "
+End element:   center
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index89.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index88.html
+End element:   a
+Characters:    " "
+Characters:    "\n\r\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index91.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: size, Value: -2
+Characters:    "Photograph © John Ficara/SYGMA"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index89.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index91.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index88.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index90.html

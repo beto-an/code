@@ -1,0 +1,313 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Where Bob Dole Stands on Juvenile Crime"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: h2
+Key: align, Value: center
+Key: style, Value: text-align:center
+Characters:    "Where Bob Dole\n\r  Stands on Juvenile Crime"
+End element:   h2
+Characters:    "\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Key: style, Value: margin-bottom:12.0pt
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "The United States is Experiencing an Explosion\n\r  of Juvenile Crime"
+End element:   span
+End element:   b
+Characters:    "\n\r  Just look at the numbers:"
+End element:   p
+Characters:    "\n\r  "
+Start element: ul
+Key: type, Value: disc
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l29 level1 lfo22;tab-stops:list .5in
+Characters:    "\n\r    Murder prosecutions of 14- to 17-year-olds have increased by\n\r    172 percent since 1985."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l29 level1 lfo22;tab-stops:list .5in
+Characters:    "\n\r    Since 1985, juvenile arrests for assault have risen 114\n\r    percent; since 1992, they have risen 22 percent."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l29 level1 lfo22;tab-stops:list .5in
+Characters:    "\n\r    Juvenile violent crime rates have increased 11.8 percent during\n\r    the Clinton Administration -- and 6.5 percent in just the last\n\r    year."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l29 level1 lfo22;tab-stops:list .5in
+Characters:    "\n\r    Marijuana use has doubled among 14- and 15-year-olds since Bill\n\r    Clinton was elected."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l29 level1 lfo22;tab-stops:list .5in
+Characters:    "\n\r    Since 1992, there has been a 52 percent increase in the number\n\r    of high school seniors using drugs."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l29 level1 lfo22;tab-stops:list .5in
+Characters:    "\n\r    35 percent of all violent crime is now committed by offenders\n\r    under 20 years of age."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l29 level1 lfo22;tab-stops:list .5in
+Characters:    "\n\r    Federal officials have prosecuted only 233 juveniles as adults\n\r    since Clinton took office -- that's fewer than 2 prosecutions\n\r    per state per year on average."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;margin-bottom:12.0pt; mso-list:l29 level1 lfo22;tab-stops:list .5in
+Characters:    "\n\r    Experts predict the number of juveniles arrested for violent\n\r    crimes will double by 2010 -- a new and dangerous wave of what\n\r    have been called 'super predators.'"
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Bob Dole Will Offer Tough\n\r    Love For Juvenile Criminals"
+End element:   span
+End element:   b
+Characters:    "\n\r    As President, Bob Dole will reduce the juvenile crime rate\n\r    by:"
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l29 level1 lfo22;tab-stops:list .5in
+Characters:    "\n\r    Passing real welfare reform to rebuild the family, curb\n\r    illegitimacy and give welfare recipients the tools they need to\n\r    work."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l29 level1 lfo22;tab-stops:list .5in
+Characters:    "\n\r    Toughening enforcement of drug laws, increasing drug\n\r    interdiction at our borders, and using the presidency to tell\n\r    young people that drugs are illegal and dangerous."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l29 level1 lfo22;tab-stops:list .5in
+Characters:    "\n\r    Pushing for mandatory adult sentencing for juveniles who commit\n\r    violent crimes."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l29 level1 lfo22;tab-stops:list .5in
+Characters:    "\n\r    Encouraging states to keep violent juveniles in jail until they\n\r    serve their time -- with no automatic releases on their 18th or\n\r    20th birthday."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l29 level1 lfo22;tab-stops:list .5in
+Characters:    "\n\r    Preserving the criminal records of violent juveniles for future\n\r    review if needed by courts, schools and law enforcement."
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "A Better\n\r    America"
+End element:   span
+End element:   b
+Characters:    "\n\r    With Bob Dole as President, more juveniles will serve adult\n\r    time for adult crimes."
+End element:   li
+Characters:    "\n\r  "
+End element:   ul
+Characters:    "\n\r  "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../../news/news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    " "
+Start element: a
+Key: href, Value: ../agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the\n\r  Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

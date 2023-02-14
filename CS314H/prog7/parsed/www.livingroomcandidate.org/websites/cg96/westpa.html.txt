@@ -1,0 +1,118 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Start element: TITLE
+Characters:    " CG '96 | Briefing Room | Clinton/Gore in Your State\r\n\r\r\n\r"
+End element:   TITLE
+Characters:    " \r\n\r"
+Start element: kpetitle
+Characters:    "Western Pennsylvania Highlights"
+End element:   kpetitle
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #001058
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: #001058
+Characters:    "\r\n\r"
+Start element: CENTER
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: A
+Key: HREF, Value: index22.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Start element: A
+Key: HREF, Value: index13.html
+End element:   A
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+End element:   center
+Characters:    "\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r"
+Start element: center
+Start element: font
+Key: size, Value: +2
+Characters:    "Western Pennsylvania Highlights"
+End element:   font
+Characters:    "\r\n\r\r\n\r"
+End element:   center
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Start element: table
+Key: border, Value: 0
+Characters:    "\r\n\r"
+Start element: tr
+Start element: td
+Key: width, Value: 350
+Characters:    "\r\n\r"
+Start element: b
+Start element: i
+Start element: center
+Start element: font
+Key: size, Value: +1
+Characters:    "Notes from Adrienne and Art"
+End element:   center
+End element:   b
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: p
+Characters:    "The Western Pennsylvania Clinton/Gore operation is up and running!  If you're browsing from our area be sure to stop by our regional headquarters and check out the real thing.  We love volunteers and could really use the help.\r\n\r\r\n\r"
+Start element: P
+Characters:    "Here's a sampling of what we've been up to. The president visited "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Robert Morris College in Coraopolis on September 25th"
+End element:   a
+Characters:    " and we were extremely busy getting ready for his visit and providing him with a warm welcome.\r\n\r"
+End element:   td
+Characters:    "\r\n\r"
+Start element: td
+Key: width, Value: 350
+Key: valign, Value: top
+Start element: center
+End element:   center
+End element:   td
+End element:   tr
+Characters:    "\r\n\r"
+Start element: td
+Key: width, Value: 350
+Start element: center
+End element:   center
+End element:   td
+Characters:    "\r\n\r"
+Start element: td
+Key: width, Value: 350
+Key: valign, Value: top
+Characters:    "\r\n\r"
+Start element: P
+Characters:    "Earlier this summer we had several visits from the Dole/Kemp campaign.  Clinton/Gore supporters were out in full force, showing their enthusiasm and commitment to President Clinton and Vice President Gore.  Over 500 supporters paid a friendly visit to the last Dole rally in Point State Park. By park police estimates, that was nearly one-fourth of their total crowd.\r\n\r\r\n\r"
+Start element: p
+Characters:    "On another note, field operations are moving along, and of course, we are constantly circulationg information about the President's outstanding record and his vision for the 21st Century.\r\n\r\r\n\r"
+Start element: P
+Characters:    "So come and visit us in the Western Pennsylvania office. The best is yet to come."
+End element:   td
+Characters:    "\r\n\r\r\n\r"
+End element:   table
+Characters:    "\r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r"
+Start element: CENTER
+Characters:    "\r\n\r\r\n\r"
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee, Inc."
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r\r\n\r\r\n\r"
+End of document

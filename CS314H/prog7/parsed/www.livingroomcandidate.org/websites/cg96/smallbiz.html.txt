@@ -1,0 +1,535 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | The Briefing Room | Bill Clinton & Al Gore on the\n\r  Issues"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index89.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +2
+Start element: font
+Key: color, Value: #001058
+Start element: nobr
+Start element: i
+Characters:    "Promoting Growth\n\r    and Opportunity for America�s Small\n\r    Businesses"
+End element:   i
+End element:   nobr
+End element:   font
+End element:   font
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: i
+Characters:    "e must meet our economic\n\r      challenges the way we successfully meet all our challenges —\n\r      by working together as partners, all of us doing our part. In\n\r      each of the last three years, American entrepreneurs have\n\r      started a record number of new small businesses ... When we\n\r      are united, America never loses”"
+End element:   i
+Characters:    "\n\r      "
+Start element: p
+Start element: b
+Characters:    "—President Bill Clinton"
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: b
+Characters:    "President Clinton recognizes that America�s thriving economy\n\r    begins with our smallest businesses."
+End element:   b
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Small businesses employ 53 percent of American workers,\n\r    contribute 47 percent of sales, and account for over half of\n\r    the Gross Domestic Product."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The President understands that it takes courage to start\n\r    something new, to carve a reality out of a dream — often with\n\r    few resources, sometimes in difficult surroundings — and in an\n\r    economy that demands much of its participants. President\n\r    Clinton has fought to improve the economic security of small\n\r    businesses. The President will continue to nurture and support\n\r    the powerful economic engine of the small business sector\n\r    through policies of fiscal responsibility and wise investment.\n\r    President Clinton is helping small businesses meet their\n\r    challenges by:"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: align, Value: center
+Key: cellpading, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Improving access to capital. Through the Small Business\n\r            Lending Enhancement Act, which President Clinton\n\r            signed, the SBA has more than doubled the number of\n\r            loans made under its cornerstone 7(a) Guaranteed\n\r            Business Loan Program, increasing from 27,000 loans in\n\r            1992 to 57,000 in 1995.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Encouraging small business creation. President\n\r            Clinton�s wise economic policies have cut the deficit\n\r            by over 60 percent, helping to lower interest rates and\n\r            to free money for private investment. A record number\n\r            of new small businesses have been created in each of\n\r            the last three years.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Providing tax relief for small business. Since 1993,\n\r            the President has provided tax relief to small\n\r            businesses by raising the amount of property a small\n\r            business can expense annually by 75 percent, from\n\r            $10,000 to $25,000.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Listening to small business owners. President Clinton\n\r            has taken action on the vast majority of the 60\n\r            recommendations made by the 2,000 delegates to the June\n\r            1995 White House Conference on Small Business, with 15\n\r            of the recommendations already enacted into law.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Investing in worker training. Recently, the President\n\r            signed legislation that permits employees to exclude up\n\r            to $5,250 in employer-paid tuition from their taxable\n\r            income, so that continued training remains affordable.\n\r            In addition, the President�s Worker Training Tax\n\r            Credit, part of the FY 1997 budget proposal, offers a\n\r            10 percent tax credit to small firms that sponsor\n\r            employee training.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Expanding access to new markets. The Clinton\n\r            Administration has opened 15 U.S. Export Assistance\n\r            Centers to provide one-stop access to export\n\r            information, marketing assistance, and export-specific\n\r            financing.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Expanding women�s access to capital. Women business\n\r            owners often must use credit cards and personal\n\r            resources to finance or maintain their businesses.\n\r            Under President Clinton, the SBA has nearly quadrupled\n\r            the number of government-guaranteed loans to\n\r            women-owned businesses — with no decrease in loans to\n\r            other business owners.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Increasing federal procurement contracts for women. In\n\r            1994, President Clinton signed the Federal Acquisition\n\r            Streamlining Act that challenges all government\n\r            agencies to purchase at least 5 percent of their goods\n\r            from women-owned businesses.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Expanding the Small Business Administration�s Women�s\n\r            Demonstration project. Under President Clinton, the SBA\n\r            has added 19 new centers nationwide to its Women�s\n\r            Demonstration Program.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Creating a forum to address women�s economic issues.\n\r            The President�s Inter-Agency Committee on Women�s\n\r            Business Enterprise comprises senior officials from 10\n\r            federal agencies, ensuring that women�s economic issues\n\r            are addressed at the highest policy-making levels.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Raising the health-insurance deduction for the\n\r            self-employed. President Clinton increased the\n\r            self-employed health insurance deduction from 30\n\r            percent to 80 percent.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Reducing regulations and paperwork. The SBA has cut in\n\r            half the total number of pages of its regulations. The\n\r            President�s regulatory reform policies allow small\n\r            business owners to cure first-time violations without\n\r            penalty, eliminate paperwork previously required from\n\r            small businesses, and allow small firms to apply fines\n\r            to correct violations.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Streamlining and improving the Small Business\n\r            Administration. Under President Clinton, the SBA has\n\r            cut its staff by 35 percent, while doubling its loan\n\r            volume. Under one program, the application for an SBA\n\r            7(a) Guaranteed Loan used to be an inch thick,\n\r            requiring 5 to 6 weeks for approval; the form is now\n\r            only one page long and takes 3 days to approve.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Building on Our\n\r    Progress"
+End element:   b
+End element:   font
+Characters:    "\n\r    "
+Start element: p
+Characters:    "President Clinton believes America�s more than 22 million\n\r    small businesses are instrumental in driving our nation�s\n\r    successful economy. The Clinton Administration has made it a\n\r    top priority to implement their growth and development. The\n\r    President will continue to pursue polices that benefit American\n\r    small businesses."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: align, Value: center
+Key: cellpading, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Simplifying tax forms. The Clinton Administration�s\n\r            Simplified Tax and Wage Reporting System (STAWRS) is\n\r            working with Federal and State agencies to simplify,\n\r            unify, and streamline tax reporting and reduce the\n\r            paperwork burden for small businesses.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Introducing a new small business pension plan. Today\n\r            only 24 percent of workers in businesses with fewer\n\r            than 100 employees have pensions. President Clinton�s\n\r            National Employee Savings Trust (NEST) would provide\n\r            benefits similar to those of a 401(k) pension plan and\n\r            would be simple to create and operate.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Meeting Our Challenges\n\r    "
+Characters:    " Protecting Our Values"
+End element:   b
+End element:   font
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

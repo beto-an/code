@@ -1,0 +1,598 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Nationwide News Events Information"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    September 18, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "PROMINENT ELECTED OFFICIALS AND LAW ENFORCEMENT EXPERTS\n\r    HOLD NEWS EVENTS NATIONWIDE BACKING PRESIDENT CLINTON�S CRIME\n\r    FIGHTING RECORD"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "WASHINGTON, D.C. -- Nationally prominent elected\n\r    officials and law enforcement experts are holding news events\n\r    in Washington, D.C. and in 46 states across the nation today\n\r    backing President Clinton�s strong crime fighting record,\n\r    announced Clinton/Gore �96 Campaign Manager Peter S.\n\r    Knight."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "This nationwide response comes one day after the\n\r    Department of Justice�s Bureau of Justice Statistics released a\n\r    new report showing the sharpest decrease in violent crime in\n\r    eight years. It also follows major endorsements of President\n\r    Clinton by the Fraternal Order of Police, the National\n\r    Association of Police Organizations, and the International\n\r    Union of Police Associations."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"President Clinton doesn�t point fingers, he points the\n\r    nation in the right direction for fighting crime and drugs,\"\n\r    said Knight. \"In four years, the President has moved past\n\r    decades of tough talk to implement a solid record of tough\n\r    action,\" he added."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The President�s anti-crime achievements include signing\n\r    a crime bill that banned the deadliest assault weapons, created\n\r    a 24-hour Domestic Violence Hotline, provided the death penalty\n\r    for drug kingpins and is putting 100,000 police on the streets.\n\r    In addition to passing the Brady Bill, President Clinton\n\r    provided grants to fight gangs and youth violence, and expanded\n\r    the �Safe and Drug Free Schools� initiative which benefits 40\n\r    million children in 97 percent of America�s school\n\r    districts."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "News events highlighting President Clinton�s strong\n\r    crime fighting record -- and contrasting it with Bob Dole�s --\n\r    are being held today in states from coast to coast (see a list\n\r    of contacts attached)."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Participants in the Washington, D.C. news conference\n\r    include Chris Dodd, who is a Senator from Connecticut; Bob\n\r    Miller who is Governor of Nevada; Dianne Feinstein who is a\n\r    Senator from California; John Conyers who is a Congressman from\n\r    Michigan; Jim Brady who is a former Reagan Administration Press\n\r    Secretary; Scott Harshbarger who is President of the National\n\r    Association of Attorneys General and Massachusetts Attorney\n\r    General; Thomas C. Frazier who is Baltimore City Police\n\r    Commissioner; Patricia C. Jessamy who is Baltimore City State�s\n\r    Attorney; Bob Scully who is Executive Director of the National\n\r    Association of Police Organizations; Robert Robbins, who is a\n\r    senior member of the Legislative Committee of the National\n\r    Fraternal Order of Police; and Art Reddy who is Vice President\n\r    of the International Union of Police Associations."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "State by State Crime/Law Enforcement\n\r      Events"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "ALABAMA Contact: Peggy Roberts 334-262-6887"
+Characters:    "\n\r    Date: Wednesday 9/18 at 4:00 p.m."
+Characters:    "\n\r    Activity: Press conference in Huntsville at opening of\n\r    Clinton/Gore headquarters"
+Characters:    "\n\r    Surrogates: District Attorney Jimmy Fry Huntsville District\n\r    Attorney Tim Morgan Sheriff Grady Rose"
+Characters:    "\n\r    Date: Wednesday 9/18"
+Characters:    "\n\r    Activity: Montgomery on steps of State Capitol"
+Characters:    "\n\r    Surrogates: Montgomery County District Attorney Ellen Brooks\n\r    Tuskeegee Police Chief Gwethylyn Averheart Wilcox County\n\r    Sheriff Prince Arnold Laindes County Sheriff Willie\n\r    Verney"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "ARIZONA Contact: Lisa McSpadden 602-253-9600"
+Characters:    "\n\r    Date: Tuesday 9/15 at 1:00 p.m."
+Characters:    "\n\r    Activity: Press conference in Maricopa County"
+Characters:    "\n\r    Surrogates: Sofia Lopez -- President of Phoenix Mothers Against\n\r    Gangs Ken Gurby -- President of International Union of Police\n\r    Associations"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "ARKANSAS Contact: Steve Harrelson 501-374-2500"
+Characters:    "\n\r    Date: Wednesday 9/18 at 2:30 p.m. (CST)"
+Characters:    "\n\r    Activity: Press conference at Central High�s Alert Center"
+Characters:    "\n\r    Surrogates: Searcy Police Chief J.R. Thomas Mayor Patrick Hayes\n\r    of North Little Rock"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "CALIFORNIA Contact: Neera Tanden 213-951-1996"
+Characters:    "\n\r    Date: Wednesday 9/18 at 4:00 p.m."
+Characters:    "\n\r    Activity: Press conference in Sacramento Mather Airport"
+Characters:    "\n\r    Surrogates: Vice President Al Gore LA City Attorney James K.\n\r    Hahn John Brimage - President of Southern California Alliance\n\r    of Law Enforcement 11 Associations have officially endorsed\n\r    Clinton/Gore -- 5 of which will represented here. 33 Statewide\n\r    Off duty law enforcement officials endorsed Clinton/Gore -- 6\n\r    of which will be represented here"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "COLORADO Contact: Sharon Kennedy 303-832-9696"
+Characters:    "\n\r    Activity: Op-Ed�s"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "CONNECTICUT Contact: Patty McQueen 860-525-1996"
+Characters:    "\n\r    Date: Wednesday 9/18 10:00 a.m."
+Characters:    "\n\r    Activity: Press Conference at Bridgeport City Hall at new\n\r    substation"
+Characters:    "\n\r    Surrogates: Bridgeport Mayor Joe Ganim Fraternal Order of\n\r    Police President Carlos Perez"
+Characters:    "\n\r    Date: Thursday 9/19"
+Characters:    "\n\r    Activity: Press Conference"
+Characters:    "\n\r    Surrogates: Fraternal Order of Police representative"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "DELAWARE Contact: Peter Woolfolk 302-998-6041"
+Characters:    "\n\r    Date: Wednesday 9/18 at 11:15 a.m."
+Characters:    "\n\r    Activity: Press conference outside of Wilmington Police\n\r    Athletic Center"
+Characters:    "\n\r    Surrogates: Governor Tom Carper Wilmington Mayor Sills New\n\r    Castle County Chief of Police Freeby Karen Johnson State\n\r    Senator Patricia Blevins Several off duty Police\n\r    officers"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "FLORIDA Contacts: Tallahassee - Jo Miglino 904-222-9094\n\r    Miami - Blanca Messa 305-876-0033"
+Characters:    "\n\r    Date: Tuesday 9/17"
+Characters:    "\n\r    Activity: Press Conference"
+Characters:    "\n\r    Surrogates: Tampa Mayor Dick Greco Governor Lawton Chiles"
+Characters:    "\n\r    Date: Wednesday 9/18 at 8:45 a.m."
+Characters:    "\n\r    Activity: Press conference at River Ridge Middle/High School in\n\r    New Pert Richey"
+Characters:    "\n\r    Surrogates: Governor Lawton Chiles Brian Prescott -- State\n\r    House candidate Pasco Sheriff Lee Canon"
+Characters:    "\n\r    Date: Wednesday 9/18 at 11:00 a.m."
+Characters:    "\n\r    Activity: Press Conference with the capitol press corp outside\n\r    of substation in Tallahassee"
+Characters:    "\n\r    Surrogates: Lt. Governor Buddy Mc Kay Under-Sheriff Larry\n\r    Campbell Fraternal Order of Police State President Phil Cameron\n\r    Lt. Duane West of Tallahassee Police department"
+Characters:    "\n\r    Date: Wednesday 9/18 at 3:00 p.m."
+Characters:    "\n\r    Activity: Talk with residents -- Orlando"
+Characters:    "\n\r    Surrogates: Governor Chiles Attorney General Bob Butterworth\n\r    Orange County Commissioner Mary Johnson Elderly neighbors"
+Characters:    "\n\r    Date: Wednesday 9/18 at 11:00 a.m."
+Characters:    "\n\r    Activity: Press conference in Ft. Lauderdale at Tamarac\n\r    Elementary School"
+Characters:    "\n\r    Surrogates: Attorney General Bob Butterworth Broward Sheriff\n\r    Ron Cochran"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "GEORGIA Contact: Caroline Adelman Aronovitch\n\r    404-872-2516"
+Characters:    "\n\r    Date: Wednesday 9/18"
+Characters:    "\n\r    Activity: Press conference"
+Characters:    "\n\r    Surrogate: Mayor Campbell Director of Public Safety in county\n\r    Former District Attorney�s and sheriffs Off duty law\n\r    enforcement from surrounding counties"
+Characters:    "\n\r    Activity: Satellite activities around the state"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "HAWAII Contact: Allicyn Hikida 808-832-9696"
+Characters:    "\n\r    Date: Wednesday 9/18"
+Characters:    "\n\r    Activity: Press Conference"
+Characters:    "\n\r    Surrogates: Keith Kaneshiro, Honolulu City & County Prosecutor\n\r    Margery Bronster, State Attorney General Michael Nakamura, City\n\r    and County Police Chief Susan Chandler, Director of Hawaii\n\r    Department of Human Services Nancy Kriedman, Executive Director\n\r    Domestic Violence Clearinghouse"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "ILLINOIS Contact: Camille Johnston 312-329-9696"
+Characters:    "\n\r    Date: Thursday 9/19"
+Characters:    "\n\r    Event: Press Conference in Chicago to be announced"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "INDIANA Contact: Jeff Fites 317-231-7100"
+Characters:    "\n\r    Date: Wednesday 9/18"
+Characters:    "\n\r    Theme: Crime Bill"
+Characters:    "\n\r    Activity: Press Conference in Indianapolis"
+Characters:    "\n\r    urrogates: Former Marion County Prosecutor Jeff Modisette"
+Characters:    "\n\r    Date: Wednesday 9/18"
+Characters:    "\n\r    Activity: Press Conference in Merrillville"
+Characters:    "\n\r    Surrogates: 25 Mayors"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "IOWA Contact: Julie Stauch 515-244-9696"
+Characters:    "\n\r    Date: Tuesday 9/17"
+Characters:    "\n\r    Activity: Press Conference in Des Moines outside of Police\n\r    Department Headquarters"
+Characters:    "\n\r    Surrogates: Iowa Attorney General Tom Miller State Senator Tom\n\r    Vilfack State Representative & Newton Police officer Paul Bell\n\r    Story County Attorney Mary Richards Marion County Sheriff Marv\n\r    Van Haaften"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "KANSAS Contact: Joe Wagner 913-354-4696"
+Characters:    "\n\r    Date: Thursday 9/19"
+Characters:    "\n\r    Activity: Press Conference"
+Characters:    "\n\r    Surrogates: Fraternal Order of Police representative"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "KENTUCKY Contact: Ernie Gibble 502-695-7844"
+Characters:    "\n\r    Date: Wednesday 9/18 at 2:00 p.m."
+Characters:    "\n\r    Activity: Press Conference in Bowling Green at City Hall"
+Characters:    "\n\r    Surrogate: Mayor Eldon Renaud Sheriff Peanut Gaines --\n\r    tentative"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "LOUISIANA Contact: Bill Bryan 504-267-5290"
+Characters:    "\n\r    Date: Tuesday 9/17"
+Characters:    "\n\r    Activity 1: Street Walk in Lake Charles"
+Characters:    "\n\r    Activity 2: Round table Discussion with community activists"
+Characters:    "\n\r    Surrogate: Tipper Gore Mayor Clinton COPS on bikes"
+Characters:    "\n\r    Date: Wednesday 9/18 at noon"
+Characters:    "\n\r    Activity: Press Conference at Sheriffs office in New\n\r    Orleans"
+Characters:    "\n\r    Surrogates: Sheriff Harry Lee 15 off duty police\n\r    officers"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "MAINE Contact: Deborah Cook 207-774-1396"
+Characters:    "\n\r    Date: Wednesday 9/18 at 2:00 p.m."
+Characters:    "\n\r    Activity: Press Conference at Bangor Housing Authority"
+Characters:    "\n\r    Surrogates: Attorney General Andrew Ketterer Glen Ross -- Chief\n\r    Deputy Sheriff East Millinocket Police Chief Gerald Cramp Pat\n\r    Sieroif -- Teacher Sara Parker -- DARE Student Bangor\n\r    Mayor"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "MARYLAND Contact: Jess Sarmiento 410-662-4470"
+Characters:    "\n\r    Date: Wednesday 9/18 at 2:00 p.m."
+Characters:    "\n\r    Event: Press Conference in Montgomery County outside District\n\r    Courthouse"
+Characters:    "\n\r    Surrogates: Governor Glendening Lt. Governor Kathleen Kennedy\n\r    Townsend Attorney General Joe Curran Montgomery County\n\r    Executive Doug Duncan Montgomery Sheriff Kight (with deputies\n\r    and lieutenants) Anne Arundel County Sheriff George Johnson\n\r    Prince Georges County Sheriff James Aluisi Baltimore City\n\r    Police Commissioner Tom Frazier Off duty law enforcement from\n\r    Montgomery County Dick Willis (son was murdered by assault\n\r    weapon)"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "MASSACHUSETTS Contact: Doug Hattaway 617-742-6770"
+Characters:    "\n\r    Date: Wednesday 9/18 at 11:30 a.m."
+Characters:    "\n\r    Activity: Press Conference at State House in Boston"
+Characters:    "\n\r    Surrogates: Mayor Tom Menino Elizabeth Giannetti - Fraternal\n\r    Order of Police representative Mayor Capuano of Summerville\n\r    Mayor McManus of Lynn Mayor Sheets of Quincy"
+Characters:    "\n\r    Date: Wednesday 9/18 at 10:30 a.m."
+Characters:    "\n\r    Activity: Press Conference in Springfield"
+Characters:    "\n\r    Surrogates: Mayor Albano Sheriff Ashe Sheriff Garvey Joe Lyons\n\r    of the FOP"
+Characters:    "\n\r    Date: Wednesday 9/18 at 2:00 p.m."
+Characters:    "\n\r    Activity: Press Conference in Worcester"
+Characters:    "\n\r    Surrogates: Mayor Marlano Sheriff Flynn Joe Lyons of the\n\r    Fraternal Order of Police"
+Characters:    "\n\r    Date: Wednesday 9/18 at 2:30 p.m."
+Characters:    "\n\r    Activity: Press Conference in Pittsville"
+Characters:    "\n\r    Surrogates: Mayor Riley Sheriff Massimiano State Representative\n\r    Hodgkins District Attorney Downing"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "MICHIGAN Contact: Craig Sutherland 313-965-3933"
+Characters:    "\n\r    Date: Wednesday 9/18"
+Characters:    "\n\r    Activity: Press Conference in East Lansing"
+Characters:    "\n\r    Surrogates: Michigan Attorney General Frank Kelly Ingraham\n\r    County Sheriff Wrigglesworth"
+Characters:    "\n\r    Date: Wednesday 9/18"
+Characters:    "\n\r    Activity: Press Conference in Detroit"
+Characters:    "\n\r    Surrogates: Mayor Dennis Archer Wayne County Sheriff Bob\n\r    Ficano"
+Characters:    "\n\r    Date: Wednesday 9/18"
+Characters:    "\n\r    Activity: Press Conference in Flint"
+Characters:    "\n\r    Surrogates: Michigan Attorney General Frank Kelly Genesse\n\r    County Sheriff Joe Wilson"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "MINNESOTA Contact: Peter Hamm 612-642-9600"
+Characters:    "\n\r    Date: Wednesday 9/18"
+Characters:    "\n\r    Event: Roundtable"
+Characters:    "\n\r    Surrogates: Hillary Rodham Clinton Attorney General Skip\n\r    Humphrey Off duty police officers"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "MISSISSIPPI Contact: Glenn Rushing 601-960-0796"
+Characters:    "\n\r    Date: Wednesday 9/18 at 3:00 p.m."
+Characters:    "\n\r    Activity: Press conference in midtown neighborhood -- they are\n\r    building a substation for new Clinton Administration funded\n\r    Community Off duty police officers."
+Characters:    "\n\r    Surrogates: Mississippi Supreme Court Justice Ruben Anderson\n\r    Former Governor Winter Perry Coleman -- Community Police\n\r    Officer Jackson Attorney General Mike Moore -- tentative Former\n\r    prosecutor, State Representative Alyce Clark (Coordinator of\n\r    Drug Courts) Sheriff Malcolm McMillan -- tentative Habitat for\n\r    Humanity representative Housing Authority representative Off\n\r    duty Police Officers"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "MISSOURI Contacts: Kansas City -- Nina Thompson\n\r    816-363-0096 St. Louis -- Rachel Faymen 314-647-0880"
+Characters:    "\n\r    Date: Wednesday 9/18"
+Characters:    "\n\r    Activity: Press Conference in St. Louis outside of community\n\r    policing station"
+Characters:    "\n\r    Surrogates: Attorney General Jay Nixon St. Louis Mayor Freeman\n\r    Bosley St. Louis off duty public officers"
+Characters:    "\n\r    Date: Wednesday 9/18"
+Characters:    "\n\r    Activity: Press Conference in Kansas City on steps of\n\r    Courthouse"
+Characters:    "\n\r    Surrogates: Governor Carnahan Jackson County official Claire\n\r    McCaskill"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "MONTANA Contact: Jay Strell 406-442-5560"
+Characters:    "\n\r    Date: Wednesday 9/18"
+Characters:    "\n\r    Activity: Press Conference at Lewis and Clark County Courthouse\n\r    in Helena"
+Characters:    "\n\r    Surrogates: Attorney General Joe Mazurek Mike McGrath, County\n\r    Attorney Butte-Silver Bow Sheriff John McPherson Cascade County\n\r    Prosecutor Brant Light"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "NEVADA Contact: Angelina Ornelas 702-822-1211"
+Characters:    "\n\r    Activity: Op-Ed�s and statements"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "NEW HAMPSHIRE Contact: Jennifer Miller 603-626-6696"
+Characters:    "\n\r    Date: Wednesday 9/18 at 9:00 a.m."
+Characters:    "\n\r    Activity: Press Conference in Concord"
+Characters:    "\n\r    Surrogates: Hillsborough County Attorney Peter McDonough\n\r    (Manchester) Former Congressman Dick Swett (Senate\n\r    Candidate)"
+Characters:    "\n\r    Date: Wednesday 9/18"
+Characters:    "\n\r    Activity: Individuals available to media throughout the day"
+Characters:    "\n\r    Surrogates: Rockingham County Attorney Bill Hart Retired state\n\r    police Colonel Paul O�Leary Former Manchester Chief Tom King\n\r    Concord Chief David Walchchak (R)"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "NEW JERSEY Contact: Jo Astrid-Glading 908-296-8848"
+Characters:    "\n\r    Date: Wednesday 9/18 at 10:00 a.m."
+Characters:    "\n\r    Event: Press Conference at State House in Trenton"
+Characters:    "\n\r    Surrogates: Local Fraternal Order of Police President Rick\n\r    Whelan Essex Sheriff Fontoura Union Sheriff Frohlick Middlesex\n\r    Sheriff Spicuzzo Off duty police people"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "NEW MEXICO Contact: Anne Uhring 505-262-9600"
+Characters:    "\n\r    Date: Monday 9/16 9:00 p.m."
+Characters:    "\n\r    Event: Press Conference at Albuquerque International\n\r    Airport"
+Characters:    "\n\r    Surrogates: National Fraternal Order of Police President Gil\n\r    Gallegos Sheriff Bowditch of Bernalillo County Santa Fe Chief\n\r    Carlos Jaramillo"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "NEW YORK Contact: Max Smith 212-253-9456"
+Characters:    "\n\r    Date: Wednesday 9/18 at 11:00 a.m."
+Characters:    "\n\r    Activity: Press Conference"
+Characters:    "\n\r    Surrogates: Peter Vallone, speaker of the City Council Former\n\r    Commissioner of New York City Corrections Department Catharine\n\r    Abate Former Attorney General Bob Abrams Guardian Society\n\r    representative (Black Police Society) -- tentative Tom Scotto\n\r    of New York Detectives Endowment Association Bronx Assemblyman\n\r    Roberto Ramirez Representatives from the Latino Officers\n\r    Association Barbara Holt, New Yorkers Against Gun Violence\n\r    Charlotte Watson Sherry Price of Women Against Domestic\n\r    Violence Mr. Africanus of Crown Heights Youth\n\r    Objective"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "NORTH CAROLINA Contact: Hal Kwalwasser 919-508-1996"
+Characters:    "\n\r    Date: Wednesday 9/18 at 9:45 a.m."
+Characters:    "\n\r    Activity: Press conference in Raleigh"
+Characters:    "\n\r    Surrogates: NC Fraternal Order of Police Board Member Michael\n\r    Tucker Wake county Sheriff John Baker Orange county Sheriff\n\r    Linda Pendergraph Johnston county Sheriff Freddy Narron John B.\n\r    Chief Thomas Moss of Garner W.K. Jones and Don Jones of Wake\n\r    County Corrections State Representative Ann Barnes Wanda Bryant\n\r    - Deputy Attorney General, Citizens Rights Division Christopher\n\r    Eaddy, Director of the Safe Neighborhoods Initiative Juanita\n\r    Bryant, Executive Director of NC Council of Women Catherine\n\r    Rieger, NC Council of Women Kit Grulle -- Chatham County Rape\n\r    Center Eaddy and Raleigh City Councilman Eric Reeves Jackie\n\r    Ballard, teacher at Daniels Middle School"
+Characters:    "\n\r    Date: Wednesday 9/18"
+Characters:    "\n\r    Surrogates: Police Chiefs in Winston-Salem, Charlotte, High\n\r    Point & Greensboro -- available to speak with press"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "NORTH DAKOTA Contact: Julie Durick 701-255-0460"
+Characters:    "\n\r    Date: Thursday 9/19"
+Characters:    "\n\r    Activity: Press Conference"
+Characters:    "\n\r    Surrogate: Attorney General of North Dakota"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "OHIO Contact: Jay Byrne 614-280-1996"
+Characters:    "\n\r    Date: Friday 9/20"
+Characters:    "\n\r    Activity: Press conference in Columbus"
+Characters:    "\n\r    Surrogates: Bob Scully of the National Association of Police\n\r    Organizations -- tentative"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "OKLAHOMA Contact: Elissa Dozona 405-524-9996"
+Characters:    "\n\r    Date: Wednesday 9/18"
+Characters:    "\n\r    Activity: Statement and interviews"
+Characters:    "\n\r    Surrogates: Attorney General Drew Edmondson Chief of Police\n\r    John Whetsel"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "OREGON Contact: Leslie Carlson 503-225-9600"
+Characters:    "\n\r    Date: Monday 9/16"
+Characters:    "\n\r    Activity: Press conference"
+Characters:    "\n\r    Surrogates: Chief of Portland Police President of Portland Off\n\r    duty police officers� Association Captain Paul May from Yamhill\n\r    County Sheriff Josh Marquis, Clatsop County District Attorney\n\r    Chief Gary McKenzie from Washington County."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "PENNSYLVANIA Contacts: Philadelphia -- Tricia Enright\n\r    215-985-4096 Pittsburgh -- Adrienne Schwartz 412-434-7456"
+Characters:    "\n\r    Date: Wednesday 9/18 at 9:30 a.m."
+Characters:    "\n\r    Activity: Student Program at Community House in Pittsburgh"
+Characters:    "\n\r    Surrogates: Mayor Tom Murphy Jim Allen, Director Of Youth\n\r    Policy Outreach Dr. Henry Benz, City of Pittsburgh Schools Bob\n\r    Fazden, Chief of Security of public schools Lori Shaler,\n\r    Director of outreach program Richard Garland, former gang\n\r    member now counselor Darlene Harris, school board member and\n\r    parent of student speaking -- tentative Students Mel Blount,\n\r    baseball player -- tentative"
+Characters:    "\n\r    Date: Wednesday 9/18"
+Characters:    "\n\r    Activity: Press conference in Wilkes Barre"
+Characters:    "\n\r    Surrogates: Mr. Zigland -- President of Luzerne County Police\n\r    Chiefs Peter Olszeweski - Luzerne District Attorney Mayor Tom\n\r    McGroarty of Wilkes Barre Pat Kwetkauskie -- Domestic Violence\n\r    Service Center"
+Characters:    "\n\r    Date: Wednesday 9/18"
+Characters:    "\n\r    Activity: Press conference in Johnstown"
+Characters:    "\n\r    Surrogates: Cambria County Fraternal Order of Police\n\r    representative Francis Sanna Cambria County Sheriff Jay Roberts\n\r    Cambria County Drug Task Force Chief Rod Miller"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "RHODE ISLAND Contact: Cindy Gire 401-459-3800"
+Characters:    "\n\r    Date: Wednesday 9/18 at 10:45 a.m."
+Characters:    "\n\r    Activity: Press conference outside of North Providence police\n\r    department"
+Characters:    "\n\r    Surrogates: North Providence police chief William Devine Mayor\n\r    Fossa of North Providence Johnston Police Chief Richard\n\r    Tamborini Pawtuckett Police Commander Morris W. Pawtuckett\n\r    patrolman John Malloy Former prosecutors and other Off duty law\n\r    enforcement officials Retired Sargeant Michael Damiani"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "SOUTH CAROLINA Contact: Marly Nicholson 803-799-7789"
+Characters:    "\n\r    Date: Thursday 9/19 or Friday 9/20"
+Characters:    "\n\r    Activity: Press Conference in Greenville"
+Characters:    "\n\r    Surrogates: Sheriff James Surgleton Sheriff Howard Wells --\n\r    Union County"
+Characters:    "\n\r    Date: Wednesday 9/18 at 2:00 p.m."
+Characters:    "\n\r    Activity: Press conference in Charleston at playground used for\n\r    midnight basketball"
+Characters:    "\n\r    Surrogates: Sheriff John T. Henry -- Harry County Sheriff Lane\n\r    Cribb - Georgetown County Vice President of SC Fraternal Order\n\r    of Police Detective David Fair"
+Characters:    "\n\r    Date: Friday 9/20 at 11:00 a.m."
+Characters:    "\n\r    Activity: Press conference in Columbia at Sims Park"
+Characters:    "\n\r    Surrogates: Sheriff Ding Jones Sheriff Herman Young Pete Strom\n\r    - Former U.S. Attorney Columbia Chief of Police Charles Austin\n\r    State Fraternal Order of Police representative Leon Lott -Chief\n\r    of Police in St. Matthews (Candidate for Sheriff in Richland\n\r    County)"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "SOUTH DAKOTA Contact: Debbie Hoffman 605-373-9600"
+Characters:    "\n\r    Date: Wednesday 9/18"
+Characters:    "\n\r    Activity: Press Tour in Rapid City (West River)"
+Characters:    "\n\r    Surrogates: Former U.S. Marshall of South Dakota Robert\n\r    Ecoffey"
+Characters:    "\n\r    Date: Wednesday 9/18"
+Characters:    "\n\r    Activity: Press Tour in Sioux Falls (East River)"
+Characters:    "\n\r    Surrogates: Davison County Sheriff Lyle Swenson"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "TENNESSEE Contact: Patrick Willard 615-320-3889"
+Characters:    "\n\r    Date: Wednesday 9/18 at 2:00 p.m."
+Characters:    "\n\r    Activity: Press Conference in Nashville"
+Characters:    "\n\r    Surrogates: Bill Purcell - State Director Clinton/Gore State\n\r    Representative Edith Langster of Nashville Metro Council Member\n\r    Horace Johns (Also chair of Public Safety Committee) Metro\n\r    Council Member --Chris Ferrell"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "TEXAS Contact: Margaret Justus 512-327-1243"
+Characters:    "\n\r    Date: Wednesday 9/18"
+Characters:    "\n\r    Activity: Press Conference in State Capitol"
+Characters:    "\n\r    Surrogates: Travis County Attorney Ken Oden Barbara Luckard --\n\r    Domestic violence survivor Debbie Tucker -- Women�s advocate\n\r    Travis County District Attorney Ronnie Earle Bell County\n\r    District Attorney Arthur C. �Cappy� Eads Hidalgo County\n\r    District Attorney Rene Guerra Corpus Christi County Attorney\n\r    Carl Lewis Travis County Constable Bruce Elfant"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "VERMONT Contact: Elli Kaplan 802-865-4496"
+Characters:    "\n\r    Date: Wednesday 9/18 at 11:00 a.m."
+Characters:    "\n\r    Theme: COPS and domestic violence"
+Characters:    "\n\r    Activity: Press Conference WLAX television station in\n\r    Burlington"
+Characters:    "\n\r    Surrogates: Judy Rex -- Director of Vermont Network Against\n\r    Domestic Violence Lori Hayes -- Director of the Center for\n\r    Crime Victims States Attorney for Franklin County Jim Hughes\n\r    Detective Cheryl Goslant of Montpelier Police Off duty police\n\r    people"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "VIRGINIA Contact: Tyler Beardsly 804-649-1996"
+Characters:    "\n\r    Date: Wednesday 9/18 at 1:30 p.m."
+Characters:    "\n\r    Activity: Press Conference at Festival Park at police monument\n\r    to fallen officers"
+Characters:    "\n\r    Surrogate: Commonwealth Attorney David Hicks Hampton Sheriff\n\r    B.J. Robertson Former Richmond Police Chief Marty\n\r    Tapscott"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "WASHINGTON Contact: Joe Cerrell 206-287-1996"
+Characters:    "\n\r    Activity: Op-Ed�s and statements"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "WEST VIRGINIA Contact: Dan Israel 304-347-8681"
+Characters:    "\n\r    Date: Wednesday 9/18 at 2:00 p.m."
+Characters:    "\n\r    Event: Street walk with officers on bikes in east end of\n\r    Charleston neighborhood and end with a press conference"
+Characters:    "\n\r    Surrogates: Sheriff Art Ashley of Kanawha County Kanawha County\n\r    Prosecutor Bill Forbes Diane Reese of the West Virginia\n\r    Coalition Against Domestic Violence Members of the West\n\r    Virginia Legislature"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "WISCONSIN Contact: Jim Cullinan 608-257-1996"
+Characters:    "\n\r    Date: Wednesday 9/18"
+Characters:    "\n\r    Activity: Press Conferences 1.) Madison: Attorney General Jim\n\r    Doyle, Madison Mayor Sogiln 2.) Milwaukee: Mayor Norquist 3.)\n\r    Green Bay: TBD"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "WYOMING Contact: Ken Ulman 307-778-9600"
+Characters:    "\n\r    Activity: Op-Ed�s and statements"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

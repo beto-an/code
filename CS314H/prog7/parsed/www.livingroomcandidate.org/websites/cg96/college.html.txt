@@ -1,0 +1,126 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "President, Vice President and First Lady To Kick Off\n\r  College Day"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 21, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "PRESIDENT CLINTON, VICE PRESIDENT GORE, AND FIRST LADY\n\r      HILLARY RODHAM CLINTON TO KICK OFF \"COLLEGE DAY\" ON OCTOBER\n\r      22"
+End element:   b
+End element:   tt
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Start element: b
+Start element: i
+Characters:    "Activities to be held in 15\n\r      states"
+End element:   i
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Washington, D.C. -- President Bill Clinton, Vice\n\r    President Al Gore, and First Lady Hillary Rodham Clinton will\n\r    kick off the Clinton/Gore campaign�s \"College Day\" on Tuesday,\n\r    October 22. \"College Day\" is a national effort to speak\n\r    directly to college students across the country and encourage\n\r    their participation in this critical election."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "On October 22, President Clinton will speak to students\n\r    at Miami-Dade Community College, Vice President Gore will speak\n\r    to students at South Dakota School of Mines and Technology, and\n\r    Mrs. Clinton will speak at University of Nevada-Las Vegas in\n\r    the Arternus W. Ham Concert Hall."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "There will be \"College Day\" events in 15 states\n\r    sponsored by the Coordinated Campaign that will bring together\n\r    students, celebrities, elected officials, and activists from\n\r    across the nation to talk about the importance of young people\n\r    in this election and how they can and will use their voices and\n\r    their votes."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "For more information on the Coordinated Campaign\n\r    activities, contact Mark Nevins at 202/479-5178."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

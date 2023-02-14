@@ -1,0 +1,235 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Campaign Releases New Advertisement: \"Jobs\""
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 28, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "La Campa�a Clinton/Gore Produce Anuncio Nuevo"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Start element: tt
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Hoy, la Campa�a Clinton/Gore '96 anuncia la salida de un\n\r    anuncio nuevo que se titula, \"Jobs.\" El anuncio sale en\n\r    espa�ol."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Today, October 28, 1996, the Clinton/Gore '96 campaign\n\r    announces the release of a new ad entitled \"Jobs.\" The ad is in\n\r    Spanish. The English translation follows the Spanish: "
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Start element: b
+Characters:    "Jobs"
+End element:   b
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "Gracias al Presidente Clinton, se han creado m�s de\n\r    10 millones de trabajos nuevos desde 1992."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "En �se mismo per�odo, se han creado un record n�mero\n\r    de empresas nuevas Hispanas."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "Se aument� el salario m�nimo, aunque Bob Dole y los\n\r    Republicanos lo opusieron."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "M�s trabajos. M�s negocios. Mejores\n\r    sueldos."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "As� se mejora nuestro futuro."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "Vote por el Presidente Clinton el cinco de\n\r    noviembre...el se preocupa por nosotros."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Para mas informaci�n, llame a la oficina de prensa de\n\r    Clinton/Gore �96 al 202-496-1037."
+Characters:    "\n\r    "
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Start element: b
+Characters:    "Jobs"
+End element:   b
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "Thanks to President Clinton, over 10 million jobs\n\r    have been created since 1992."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "In that same time, a record number of new Hispanic\n\r    businesses were created."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "The minimum wage increased, despite opposition from\n\r    Bob Dole and the Republicans."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "More jobs. More business. Better wages."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "That is how we better our future."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "Vote for President Clinton. He cares about people\n\r    like us."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "For more information, call the Clinton/Gore �96 Press\n\r    Office at 202/496-1037."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "# # #"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

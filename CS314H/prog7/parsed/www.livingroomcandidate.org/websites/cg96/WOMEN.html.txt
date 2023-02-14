@@ -1,0 +1,1285 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | The Briefing Room | Bill Clinton & Al Gore on the\n\r  Issues"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    " "
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index89.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +2
+Start element: font
+Key: color, Value: #001058
+Start element: nobr
+Start element: i
+Characters:    "Creating Greater\n\r    Opportunity for Women"
+End element:   i
+End element:   nobr
+End element:   font
+End element:   font
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: i
+Characters:    "y improving the lives of\n\r      American women, we are making a vital investment in America�s\n\r      future. By investing in women, we enable them to reach their\n\r      fullest potential as individuals and as members of our\n\r      society. When women thrive, their families thrive. When\n\r      families thrive, communities flourish, and our nation reaps\n\r      the benefits.”"
+End element:   i
+Characters:    "\n\r      "
+Start element: p
+Start element: b
+Characters:    "—President Bill Clinton"
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "President Clinton has an\n\r    unprecedented record of supporting women and their\n\r    families."
+End element:   b
+End element:   font
+Characters:    " He understands that by improving the lives\n\r    of American women, we make a vital investment in America's\n\r    future. His Administration is committed to providing more\n\r    economic and educational opportunities for women, to providing\n\r    quality health and child care, and to preventing violence on\n\r    the streets and at home.\n\r    "
+Start element: p
+Characters:    "President Clinton is expanding opportunities for women\n\r    by:"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "\n\r    "
+Start element: b
+Characters:    "Ensuring That Women�s Voices Are Heard at Every Level of\n\r    Government"
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Appointing more women to his Administration than any\n\r            other (40 percent).\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Appointing women for the first time to high-level\n\r            posts: Attorney General, Chair of the Council of\n\r            Economic Advisors, Secretary of Energy, Office of\n\r            Management and Budget Director, and White House Deputy\n\r            Chief of Staff.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Appointing a record number of women (73) to the federal\n\r            bench.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Creating the White House Office for Women�s Initiatives\n\r            & Outreach; the Department of Justice�s Violence\n\r            Against Women Office; and the Interagency Council on\n\r            Women�s Business Enterprise.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: b
+Characters:    "Helping Every American Achieve Economic Security in the New\n\r    Economy"
+End element:   b
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Winning enactment of the largest deficit-cutting plan\n\r            in history — cutting the deficit by more than half\n\r            within four years.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Fighting for and signing into law the first increase in\n\r            the minimum wage in five years — almost 60 percent of\n\r            all minimum wage earners are women.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Increasing funding for child care in every budget.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Working to make child care programs more consistent and\n\r            coordinated by streamlining programs, linking services,\n\r            reducing red tape, and giving states more flexibility.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Proposing an employee choice flex-time initiative that\n\r            will allow workers to agree with their employers to\n\r            work overtime in exchange for up to 80 hours of paid\n\r            time-off.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Signing the Family and Medical Leave Act (FMLA) to\n\r            enable workers to take up to 12 weeks of unpaid leave\n\r            to care for a family member without fear of losing\n\r            their jobs; he is proposing to expand the FMLA to allow\n\r            workers to take up to 24 hours of unpaid leave to\n\r            support their children�s educational needs, older\n\r            relatives� health care, and other family medical\n\r            obligations.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Providing tax relief for 15 million working families by\n\r            increasing the Earned Income Tax Credit (EITC) to help\n\r            ensure that parents who work full-time do not raise\n\r            their children in poverty. Nearly half of all EITC\n\r            recipients with children are female heads of\n\r            households.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Fostering growth of women-owned businesses by improving\n\r            access to capital, expanding the federal procurement\n\r            market, and increasing business training and technical\n\r            assistance. From 1993 to 1994, the volume of loans to\n\r            women increased by 86 percent.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Supporting effective, fair, and balanced affirmative\n\r            action programs that provide opportunities for\n\r            minorities and women.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Ending welfare as we know it by signing the Personal\n\r            Responsibility and Work Opportunity Act. This bill\n\r            includes time-limits and work requirements, gives\n\r            states incentives to create jobs for welfare\n\r            recipients, increases funding for child care,\n\r            strengthens child support enforcement, and maintains\n\r            the federal guarantee of nutrition programs and\n\r            Medicaid coverage for pregnant women, children, and the\n\r            disabled. Even before signing national welfare reform,\n\r            President Clinton granted waivers to 43 states to\n\r            reform welfare on their own — making work and\n\r            responsibility a way of life for 75 percent of welfare\n\r            recipients.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Collecting $11 billion in child support in 1995 — a 40\n\r            percent increase from 1992 — by strengthening\n\r            enforcement of child support laws.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: b
+Characters:    "Expanding Access to Quality Health Care"
+End element:   b
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Revoking the Reagan/Bush restrictions on abortion\n\r            counseling (�gag rule�), abortions in military\n\r            hospitals, and the �Mexico City� policy. He has\n\r            protected Medicaid for abortion services for poor women\n\r            who are victims of rape or incest and signed the\n\r            Freedom of Access to Clinic Entrances Act to fight\n\r            violence and intimidation against women and their\n\r            doctors.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Signing the Health Insurance Reform Act\n\r            (Kassebaum-Kennedy Bill) that expands and protects\n\r            access to health insurance by limiting exclusions for\n\r            pre-existing conditions and allowing individuals to\n\r            take their health insurance with them when they change\n\r            or lose their jobs.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Increasing funding for breast cancer research by 65\n\r            percent and initiating the National Action Plan on\n\r            Breast Cancer, a public/private partnership to fight\n\r            the disease.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Fighting to preserve the guarantee of Medicaid coverage\n\r            for women, children, people with disabilities, and\n\r            older Americans. Sixty percent of all Medicaid\n\r            beneficiaries are women.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Strengthening Medicare by enacting savings and\n\r            structural changes that extended the life of the\n\r            Medicare Hospital Insurance Trust Fund for an estimated\n\r            three years. Women comprise over 20 million, or 57\n\r            percent, of the 37 million Medicare recipients, and\n\r            nearly 5 million women, or 23 percent of women aged 65\n\r            or older, depend solely on Medicare to help with their\n\r            medical bills.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Launching the Medicare Mammography Campaign to educate\n\r            older women about the importance of detecting breast\n\r            cancer early and to inform them about Medicare coverage\n\r            of mammography services.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Requiring that women and minorities be included in all\n\r            clinical research supported by the National Institutes\n\r            of Health.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Fighting for full funding for the Women, Infants and\n\r            Children (WIC) Program.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Requesting budget increases each year for the federal\n\r            Family Planning Program in order to help women reduce\n\r            the risk of unintended pregnancies.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Vetoing legislation that would have banned late-term\n\r            abortions because it did not include an exception for\n\r            serious adverse health consequences for women.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: b
+Characters:    "Providing Educational Opportunities for the New Century"
+End element:   b
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Supporting education equity and leadership training for\n\r            young girls.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Increasing Head Start funding by nearly $800 million to\n\r            provide early education to tens of thousands of\n\r            additional children in need.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Signing the School-to-Work Opportunities Act, which\n\r            broadens educational, career and economic opportunities\n\r            for students not immediately bound for four-year\n\r            colleges.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Increasing access to college by reforming student\n\r            loans, by creating AmeriCorps, by expanding Pell\n\r            Grants, and by proposing tax cuts for higher education\n\r            and training.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: b
+Characters:    "Making Homes and Communities Safer"
+End element:   b
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Signing his tough Crime Bill, which:\n\r            "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Included the Violence Against Women Act, the\n\r                    first national effort to reduce violence\n\r                    against women. The Act increases funding for\n\r                    battered women�s shelters and has already\n\r                    provided $156 million in state grants to\n\r                    bolster law enforcement, prosecution, and\n\r                    victims� services.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Created the first nationwide 24-hour Domestic\n\r                    Violence Hotline, providing immediate crisis\n\r                    intervention, counseling, and referrals for\n\r                    women in need.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Increased penalties for sex offenders and\n\r                    imposed a registration requirement for violent\n\r                    sexual offenders.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Imposed a targeted\n\r                    �Three-Strikes-and-You�re-Out� provision to put\n\r                    career violent offenders behind bars for life.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Banned 19 of the deadliest assault weapons and\n\r                    their copies, but specifically protected more\n\r                    than 650 legitimate sporting weapons.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Created the COPS program, putting 100,000 more\n\r                    community police officers in cities, towns, and\n\r                    rural areas.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r            "
+End element:   table
+Characters:    "\n\r            "
+Start element: table
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Fighting for and signing the Brady Bill, which\n\r                    has prevented more than 60,000 fugitives,\n\r                    felons, and other criminals from buying\n\r                    handguns.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r            "
+End element:   table
+Characters:    "\n\r          "
+End element:   blockquote
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Building on Our\n\r            Progress"
+End element:   b
+End element:   font
+Characters:    "\n\r            "
+Start element: p
+Characters:    "President Clinton believes that we have an historic\n\r            opportunity and a responsibility to lead the world in\n\r            our efforts to better the lives of women. He will\n\r            continue to work for women by:"
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+End element:   p
+Characters:    "\n\r            "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: align, Value: center
+Key: cellpading, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r              "
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Protecting women�s health and safety and the\n\r                    right of American women to make their own\n\r                    reproductive choices.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Fighting against drastic budget cuts that\n\r                    threaten Medicare, Medicaid, education, and the\n\r                    environment.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Investing in education and helping Americans\n\r                    invest in their children�s futures with public\n\r                    school choice, charter schools, tax deductions\n\r                    and tax credits for higher education, and a $2\n\r                    billion Technology Literacy Challenge Fund to\n\r                    help communities and the private sector ensure\n\r                    that every student is equipped with the\n\r                    computer literacy skills they need for the 21st\n\r                    century.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Providing more relief to working families\n\r                    through a $500 per child tax credit.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Calling for an extension of the Brady Bill to\n\r                    prevent those who commit acts of domestic\n\r                    violence from buying guns.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Continuing to support affirmative action\n\r                    consistent with Supreme Court rulings and\n\r                    working with federal agencies to reform\n\r                    programs so that they are stronger where\n\r                    needed. The Administration will oppose\n\r                    legislation that will turn back the clock on\n\r                    the federal government�s historic, bipartisan\n\r                    commitment to equal opportunity.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Challenging businesses: to create workplaces\n\r                    that allow workers to be productive employees\n\r                    and responsible family members; to provide the\n\r                    security that a living wage, safe and\n\r                    affordable, child care, health care and pension\n\r                    benefits can give; to recognize that investment\n\r                    in employees is as important as investing in\n\r                    factories and equipment; to give employees a\n\r                    greater voice in the workplace; and to protect\n\r                    the health and safety of employees.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r            "
+End element:   table
+Characters:    "\n\r          "
+End element:   blockquote
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Meeting Our\n\r            Challenges "
+Characters:    "\n\r            Protecting Our Values"
+End element:   b
+End element:   font
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election\n\r            Committee, Inc."
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

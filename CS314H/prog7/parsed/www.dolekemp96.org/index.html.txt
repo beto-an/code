@@ -1,0 +1,108 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Dole Kemp 96 Web Site"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: link, Value: #000080
+Key: vlink, Value: #0000FF
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #000080
+Key: size, Value: 2
+Characters:    "Dole Kemp 96 Web Site "
+Start element: a
+Key: href, Value: main.html
+Characters:    "Enter\n\r  Here"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #000080
+Key: size, Value: 2
+Characters:    "The Dole Kemp 96 Web Site is Presented for Educational\n\r  Purposes by "
+Start element: a
+Key: href, Value: ../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../www.livingroomcandidate.org/websites/cg96/index.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #000080
+Key: size, Value: 2
+Characters:    "The Clinton Gore"
+End element:   font
+Characters:    " "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #000080
+Key: size, Value: 2
+Characters:    "96 Web Site is Archived "
+Start element: a
+Key: href, Value: ../www.livingroomcandidate.org/websites/cg96/index.html
+Characters:    "Here"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: main.html
+End element:   a
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/main.html
+file:///C:/CS314H/prog7/president96/external.html

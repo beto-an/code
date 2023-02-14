@@ -1,0 +1,80 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "Bob Dole's Deficit"
+End element:   TITLE
+Characters:    "\r\n\r\r\n\r"
+Start element: KPETITLE
+Start element: B
+Characters:    "For Immediate Release:"
+End element:   B
+Characters:    "\r\n\rBob Dole's Deficit"
+Start element: DD
+End element:   KPETITLE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "  "
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "  "
+Characters:    "\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r"
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "August 19, 1996\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "STATEMENT BY JOE LOCKHART\r\n\r"
+Characters:    "NATIONAL PRESS SECRETARY\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "Today, Bob Dole urged the people of New York to take a look at his record.  It�s a record he would be wise to \r\n\rrun away from.  Last year, Bob Dole led the fight for Republican legislation that would have raised taxes on nearly one\r\n\r million New York taxpayers by cutting the Earned Income Tax Credit.  He voted against the Family and Medical \r\n\rLeave Act that protects 3.1 million New York families and blocked raising the minimum wage.\r\n\r"
+Start element: P
+Characters:    "Economists around the country warn that Dole�s economic plan would blow a giant hole in the deficit, raise interest \r\n\rrates and harm the economy.  Just this past Friday, August 16, the Concord Coalition, headed by Republicans Warren\r\n\r Rudman and Pete Peterson and Democrat Paul Tsongas, commented that Dole�s plan \"embodies nearly every pitfall \r\n\rwe warned against,\" in their Sunday, August 4 New York Times full page ad.\r\n\r"
+Start element: P
+Characters:    "President Clinton has an unmatched record of economic leadership. In New York, 475,000 workers will be eligible for\r\n\r a raise due to the President�s minimum wage bill.  Unemployment in New York dropped from 8.4% to 6.4% and over \r\n\r200,000 new jobs have been created.  President Clinton also cut taxes for nearly 900,000 of New York�s working \r\n\rfamilies by expanding the Earned Income Tax Credit.   \r\n\r"
+Start element: P
+Characters:    "President Clinton is fighting for $110 billion in tax cuts targeted for education and child-rearing, while Bob Dole�s\r\n\r risky $548 billion campaign promise will undermine the American dream.\r\n\r\r\n\r"
+Start element: p
+Start element: center
+Characters:    "###\r\n\r"
+End element:   center
+Characters:    "\r\n\r\r\n\r\r\n\r \r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    " "
+Characters:    " "
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee, Inc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End of document

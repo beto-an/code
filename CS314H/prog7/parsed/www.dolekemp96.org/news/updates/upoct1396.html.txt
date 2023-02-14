@@ -1,0 +1,219 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "October 13, 1996 Update"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Key: link, Value: #FF0000
+Key: vlink, Value: #FF0000
+Key: alink, Value: #FF0000
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Start element: b
+Start element: font
+Key: size, Value: +1
+Characters:    "October 13, 1996"
+End element:   font
+Characters:    "\n\r  "
+Start element: font
+Key: size, Value: +2
+Characters:    "FIRST TIME OR FREQUENT VISITOR - WHAT YOU CAN\n\r  FIND AT THE DOLE/KEMP WEB SITE"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: pre
+Characters:    "Digital Dole/Kemp '96\n\rVolume 3, Number 6\n\rOctober 11, 1996 \n\r\n\rTo our many thousands of new subscribers, welcome!\n\r\n\rWhether you are a first time visitor or a frequent guest who \n\rhasn't had a chance to look around recently, we want to let \n\ryou know what you can find at the Dole/Kemp web site:\n\r\n\rCustomization - http://www.dolekemp96.org/\n\rIf you are using a Netscape 2.0 compatible browser, you can \n\rcustomize our site to your interests. Tell us what issues are \n\rimportant to you, what state you are from, and we'll make a \n\rweb site just for you. You'll get your own personal tool bar \n\rand in box. Each time you visit back, the site checks when \n\ryou last visited and puts everything added since then into \n\ryour personal in box.\n\r\n\rAbout The Team - http://www.dolekemp96.org/about/\n\rHere you can learn more about Bob Dole and Jack Kemp \n\rand their families. Read the very personal story of Bob \n\rDole's life - from childhood in Russell, Kansas to World \n\rWar II, his injury and recovery, to his service for America in \n\rCongress.\n\r\n\rDole Interactive - http://www.dolekemp96.org/interactive/\n\rA place for some fun. Take a trivia quiz, fill out a crossword \n\rpuzzle, send a postcard to your friends, or make your own \n\rbutton or poster. Download wallpaper for your computer \n\rand show your support for Dole/Kemp.\n\r\n\rThe Dole Agenda - http://www.dolekemp96.org/agenda/\n\rLearn Bob Dole and Jack Kemp's agenda for America's \n\rfuture. A comprehensive listing of Bob Dole's stand on \n\rissues, a state by state analysis of Bill Clinton's liberal \n\rrecord in your state and Bob Dole's agenda for a better \n\rAmerica in the Dole/Kemp Economic plan and Crime and \n\rDrug plan.\n\r\n\rGet Involved - http://www.dolekemp96.org/involved/\n\rHere you can volunteer, donate, and find out how to contact \n\rthe campaign in your area. Place the Dole/Kemp Logo on \n\ryour personal web page! Each time someone views your \n\rpage, you can show your support for Dole/Kemp. Visit our \n\rsite, choose the graphic you want on your page, place the \n\rappropriate line of text on your web page and that's it. Are \n\ryou a Business Entrepreneur? Be sure to join the Dole/Kemp \n\rCommittee for Economic growth. \n\r\n\rOn The Campaign Trail - http://www.dolekemp96.org/trail/\n\rThis is where you will find our Debate and Convention \n\rcoverage. Track our campaign across the country - a listing \n\rof the cities and towns the campaign has visited in the course \n\rof outlining their agenda for a better America.\n\r\n\rNews Room - http://www.dolekemp96.org/news/\n\rAll the latest commercials, speeches, press releases, Hot \n\rTopics, and other multimedia files. \n\r\n\r-----------\n\r\n\rThanks again for your continued support, and we hope to \n\rsee you again soon.\n\r\n\r-----------\n\r\n\rBob Dole. The Better Man. For a Better America.\n\r\n\r-----------\n\r\n\rAuthorized and Paid for by Dole/Kemp '96\n\r\n\rTo subscribe or unsubscribe from the Dole/Kemp '96 \n\rMailing list, \n\rgo to:\n\rhttp://www.dolekemp96.org/\n\r"
+End element:   pre
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    "\n\r  "
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get\n\r  Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

@@ -1,0 +1,125 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Campaign Adds Honorary Campaign Chair"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 3, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "CLINTON/GORE �96 ADDS HONORARY CAMPAIGN\n\r    CHAIR"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "WASHINGTON -- The Clinton/Gore �96 Campaign today\n\r    announced the addition of Gary Locke as Honorary Campaign\n\r    Chair. Mr. Locke is currently Chief Executive of King County,\n\r    Washington, and Democratic candidate for Governor of\n\r    Washington."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"We are honored to have Gary Locke joining the campaign\n\r    as an honorary chair,\" Clinton/Gore Campaign Manager Peter S.\n\r    Knight said. \"His impressive record of public service will make\n\r    him a valued member of the Clinton/Gore team.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Locke has a distinguished career in public service.\n\r    Prior to his election as Chief Executive, he served 11 years in\n\r    the Washington state legislature, including five as chairman of\n\r    the House Appropriations Committee. Locke has championed\n\r    education, public safety, economic development, environmental\n\r    and government reform issues. His accomplishments include\n\r    increasing financial aid and the availability of computers for\n\r    students; passing training, transportation and utilities\n\r    initiatives to strengthen growth; toughening laws against\n\r    violent offenders and burglars; and streamlining state\n\r    government."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Prior to his work in the legislature, Locke was a deputy\n\r    prosecutor in King County and has been an attorney and\n\r    community affairs manager for US West."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Locke�s addition coincides with the official\n\r    announcement of the Clinton/Gore �96 Asian Pacific American\n\r    National Governing Council. The National Governing Council will\n\r    mobilize Asian Pacific American voters across the country in\n\r    support of the reelection of President Clinton and Vice\n\r    President Gore."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Locke joins Terence R. McAuliffe, National Finance\n\r    Chairman of Clinton/Gore �96; Alma Arrington Brown, who is Vice\n\r    President of Community Affairs at Chevy Chase Bank Corporation;\n\r    David Pryor, who is U.S. Senator from Arkansas; Roy Romer, who\n\r    is Governor of Colorado; Ann Richards, former Governor of\n\r    Texas; Linda Chavez-Thompson, who is Executive Vice President\n\r    of the AFL-CIO; and John Lewis, who is U.S. Congressman from\n\r    Georgia, as Honorary Campaign Chairs."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

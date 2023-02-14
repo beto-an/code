@@ -1,0 +1,119 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "President Clinton's Remarks on the Fox Network"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 5, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "TRANSCRIPT OF PRESIDENT CLINTON�S FREE AIR TIME\n\r    REMARKS ON THE FOX NETWORK"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "QUESTION: America�s young people believe they are more\n\r    apt to encounter an alien than receive Social Security in their\n\r    lifetime. What will you do to make sure Social Security is\n\r    still there for young people�s future?"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "PRESIDENT CLINTON: Social Security and Medicare speak to\n\r    our most fundamental values: honoring our parents. Protecting\n\r    our families. Rewarding work. That�s why my commitment to\n\r    Social Security and Medicare is unwavering."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "We do need to strengthen Social Security. But the trust\n\r    fund is solvent well into the next century. We should take\n\r    advantage of that time and address this issue in a thoughtful,\n\r    bipartisan way just as we did in 1983, when a bipartisan\n\r    commission made changes that protected Social Security into the\n\r    21st century with broad support from seniors."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "What I will never do is accept a budget that undercuts\n\r    our commitment to our parents. Last year, when Republicans in\n\r    Congress passed a plan that cut $270 billion from Medicare, I\n\r    vetoed it. When they shut the government down to force me to\n\r    sign it, I still said no. My balanced budget plan saves\n\r    Medicare instead of undermining it. We�ve also protected 40\n\r    million private pensions, and made pensions more portable and\n\r    available to small business people."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Our children deserve the same security and retirement\n\r    that our parents have and by working together, reaching beyond\n\r    politics, we can give it to them."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

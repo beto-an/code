@@ -1,0 +1,306 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "America’s Home Page"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #BE0023
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: width, Value: 230
+Key: valign, Value: top
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: font
+Key: size, Value: +6
+Start element: b
+Characters:    "“With A Little Help From My\n\r          Friends...”"
+End element:   b
+End element:   font
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +2
+Characters:    "by Dharm Guruswamy"
+Characters:    "\n\r            Atlanta, GA"
+End element:   font
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: b
+Characters:    "http://www.prism.gatech.edu/~dg63/"
+End element:   b
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“I came to this country in 1978 as a young six year\n\r          old. I've worked hard and am now a United States citizen.\n\r          I support Clinton/Gore �96 because they fight for the\n\r          values and programs that are important for America."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“When my mother died while I was still a sophomore at\n\r          the University of Maryland, federal financial aid —\n\r          including student loans and grants — helped me to not\n\r          only complete my degree, but do it in four years. Without\n\r          the assistance available through federal aid programs I\n\r          would not have been able to graduate on time and I would\n\r          not now be less than a year from recieving two graduate\n\r          degrees. Bill Clinton and Al Gore have always been strong\n\r          supporters of federal financial aid programs for\n\r          college."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“Bill Clinton and Al Gore also understand the benefits\n\r          of legal immigration to this country. The outward looking\n\r          foreign policy of Bill Clinton makes me proud to call\n\r          myself an American."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“In November of this year I will cast my first vote\n\r          for President, and I will cast it proudly for the\n\r          Clinton-Gore ticket.”"
+End element:   p
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: center
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 230
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +4
+Start element: b
+Characters:    "A Bachelor's In Hand"
+End element:   b
+End element:   font
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: size, Value: +2
+Characters:    "by W. Lane Startin"
+Characters:    "\n\r            Chicago, Il"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Characters:    "http://www.chinet.com/~faustus/"
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“President Clinton has been without a doubt the most\n\r          effective president of my lifetime. I worked on his\n\r          campaign in 1992 at Idaho State University during the\n\r          primary and general election season. I did it because I\n\r          felt he was someone who could deliver. I think I was\n\r          right. AmeriCorps, family leave, student loans, Vice\n\r          President Gore's efforts in streamlining government and a\n\r          host of other projects will remain a part of his legacy\n\r          for years to come."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“Today, I am a graduate in mass communication living\n\r          and working in the Chicago area, and I'm still solidly\n\r          behind the President. I'm very grateful for the\n\r          President's stance on student loans."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“Without those, there's no way I'd be sitting here\n\r          with a B.A. in hand today. At best, I'd be working and\n\r          going to school on the ten-year plan. I'm also very\n\r          supportive of his overall progressive outlook towards\n\r          government, particularly in social policy. I firmly\n\r          believe history demands us to move forward, not back, in\n\r          time."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“As for me, I'm working through the web and other\n\r          resources to elect the President and other Democrats in\n\r          1996.”"
+End element:   p
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: center
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: width, Value: 230
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +6
+Start element: b
+Characters:    "“Shocked in Oberlin”"
+End element:   b
+End element:   font
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: size, Value: +2
+Characters:    "by Jeffrey Brick"
+Characters:    "\n\r            Pittsburgh, PA"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Characters:    "http://www.pitt.edu/~jabst41/c.html"
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“My name is Jeffrey Brick and I am a 23 year old\n\r          student at Oberlin College in Ohio, but currently taking\n\r          classes at the University of Pittsburgh."
+End element:   p
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "I am a Political Science Major with an interest in the\n\r          Internet and new multimedia. To help get the right kind\n\r          of positive political messages that are needed on the\n\r          net, "
+Start element: a
+Key: href, Value: ../../../external.html
+Start element: b
+Characters:    "I created a\n\r          short Shockwave movie that you can see here,"
+End element:   b
+End element:   a
+Characters:    "\n\r          showing why Bill Clinton should be elected once\n\r          again!"
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“Bill Clinton, in his four years as President, has\n\r          shown that government can help to make us efficient\n\r          workers, students, teachers and volunteers. He has fought\n\r          hard against cuts in education spending, worked to start\n\r          a youth volunteer program, raised the minimum wage for\n\r          all American workers, and proposed a tax credit for those\n\r          seeking further education. Clinton has a view of the\n\r          future in which education, hand in hand with technology\n\r          and volunteering, will lead us with great hope into the\n\r          twenty-first century.”"
+End element:   p
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Key: height, Value: 25
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Characters:    "\n\r          "
+Characters:    " "
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: a
+Key: border, Value: 0
+Key: href, Value: index8-2.html
+Key: name, Value: America's Home Page
+End element:   a
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Key: height, Value: 25
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: b
+Start element: i
+Characters:    "Past Editions"
+End element:   i
+End element:   b
+Characters:    "\n\r      "
+Start element: p
+Start element: a
+Key: href, Value: index1.html
+Start element: i
+Characters:    "First Edition"
+End element:   i
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index210.html
+Start element: i
+Characters:    "Second Edition"
+End element:   i
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

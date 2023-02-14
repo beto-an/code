@@ -1,0 +1,865 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | The Briefing Room | Bill Clinton & Al Gore on the\n\r  Issues"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    " "
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index89.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +2
+Start element: font
+Key: color, Value: #001058
+Start element: nobr
+Start element: i
+Characters:    "Fighting\n\r    AIDS—Care, Research, Prevention"
+End element:   i
+End element:   nobr
+End element:   font
+End element:   font
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: i
+Characters:    "IDS inflicts tragedy on too\n\r      many families. But ultimately, it is a disease; one we can\n\r      defeat just as we have defeated polio, many forms of cancer,\n\r      and other scourges in the history of our nation. How can we\n\r      do it? With commitment and courage and constancy, and with\n\r      vocal and responsible leadership from our nation’s\n\r      government.”"
+End element:   i
+Characters:    "\n\r      "
+Start element: p
+Start element: b
+Characters:    "—President Bill Clinton"
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "HIV/AIDS is a national\n\r    public-health emergency."
+End element:   b
+End element:   font
+Characters:    " &nbsp;Every day, the\n\r    disease affects more people in more communities. Preventing HIV\n\r    infection, finding a cure for AIDS, and providing quality care\n\r    and treatment for those living with the disease are top\n\r    priorities for President Clinton. He is providing the\n\r    commitment and leadership that are making the difference by:\n\r    "
+Start element: p
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Increasing overall AIDS funding by more than 56 percent\n\r            in four years.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Creating the Office of National AIDS Policy at the\n\r            White House to bring greater direction and visibility\n\r            to the war on AIDS.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Convening the first-ever White House Conference on HIV\n\r            and AIDS and appointing the Presidential Advisory\n\r            Council on HIV and AIDS, composed of a group of whom 30\n\r            percent are HIV-positive and 50 percent are\n\r            self-identified lesbian or gay.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Increasing funding for the Ryan White CARE Act 186\n\r            percent in four years to nearly $1 billion.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Tripling federal funding for the AIDS Drug Assistance\n\r            Program to help those without insurance coverage obtain\n\r            prescription drugs.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Strengthening the Office of AIDS Research at NIH and\n\r            vesting it with new authority to plan and carry out the\n\r            AIDS research agenda.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Accelerating AIDS drug approval to record times. In\n\r            four years, the FDA has approved 16 new AIDS drugs and\n\r            3 new diagnostic tests.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Doubling funding for Housing Opportunities for People\n\r            with AIDS.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Winning the fight to preserve the Medicaid guarantee of\n\r            coverage for the more than 50 percent of people living\n\r            with AIDS who rely on Medicaid for health coverage.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Revising eligibility rules for Social Security\n\r            Disability Insurance to make it easier for people with\n\r            HIV to qualify for benefits.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Signing the Kassebaum-Kennedy Health Insurance and\n\r            Portability and Accountability Act, which bans\n\r            insurance discrimination against people with\n\r            pre-existing medical conditions, including HIV/AIDS.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Launching a four-year $100 million effort to develop\n\r            topical microbicides to allow people to protect\n\r            themselves from HIV.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Establishing the HIV prevention community planning\n\r            partnership, which empowers local communities to make\n\r            decisions about the direction of AIDS protection\n\r            programs.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Launching the Prevention Marketing Initiative, focusing\n\r            on the risk to young adults (aged 18 to 25) with frank\n\r            public service announcements recommending sexual\n\r            abstinence and, for those who are sexually active, the\n\r            correct and consistent use of latex condoms.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Vigorously enforcing the Americans with Disabilities\n\r            Act, which prohibits discrimination against people with\n\r            HIV/AIDS. More than 800 charges of AIDS-related\n\r            discrimination have been settled in four years.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Leading the fight to repeal the discriminatory �Dornan\n\r            Amendment,� which would have discharged all\n\r            HIV-positive military personnel.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Creating the Forum for Collaborative HIV Research to\n\r            improve knowledge of HIV treatment methods.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Working with AIDS activists to protect the rights of\n\r            immigrants with HIV and people living with AIDS\n\r            enrolled in managed care plans.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Creating the Advisory Commission on Consumer Protection\n\r            and Quality in the Health Care Industry to increase\n\r            consumers� rights.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Building on Our\n\r    Progress"
+End element:   b
+End element:   font
+Characters:    "\n\r    "
+Start element: p
+Characters:    "To protect our families, President Clinton will continue to\n\r    fight for funding for AIDS research, prevention, and care."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "He will continue to work with business and religious\n\r    leaders, community organizations, the pharmaceutical industry,\n\r    and those living with the disease to improve our national\n\r    response to HIV/AIDS by:"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Eliminating barriers to AIDS vaccine and drug\n\r            development and their approval. Vice President Gore is\n\r            leading an effort to increase cooperation between the\n\r            federal government and the pharmaceutical industry on\n\r            AIDS research and drug development.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Protecting the federal guarantee of Medicaid coverage\n\r            for people living with HIV/AIDS.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Continuing strong support for the Office of AIDS\n\r            Research at the National Institutes of Health (NIH) to\n\r            provide greater focus and direction for our national\n\r            AIDS research effort.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Decreasing the number of infants born with HIV by\n\r            administering AZT to HIV positive women during\n\r            pregnancy and delivery and to infants after birth.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Supporting efforts to protect health care professionals\n\r            in the workplace.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Establishing a national goal to reduce the number of\n\r            new HIV infections each year until AIDS is eradicated.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Working to eliminate AIDS-related discrimination in the\n\r            workplace, health care institutions, employment, and\n\r            housing.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Collaborating with business leaders to increase\n\r            workplace AIDS education to help reduce the stigma\n\r            attached to HIV/AIDS.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Working with parents, schools, clergy, and youth\n\r            advocates to reduce the number of adolescents and young\n\r            adults becoming infected with HIV.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Meeting Our Challenges\n\r    "
+Characters:    " Protecting Our Values"
+End element:   b
+End element:   font
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

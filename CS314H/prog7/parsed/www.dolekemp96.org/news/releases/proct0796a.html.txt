@@ -1,0 +1,320 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "October 7, 1996 Press Release"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: vlink, Value: #000080
+Key: alink, Value: #000080
+Key: background, Value: ../../background.jpg
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: +1
+Characters:    "October 7,\n\r  1996"
+End element:   font
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "\n\r  "
+Start element: font
+Key: size, Value: +2
+Characters:    "DEBATE MENTION OF WEB SITE CAUSES FLOOD OF\n\r  VISITORS"
+End element:   font
+Characters:    "\n\r  Site Receives More Than 762,000 Hits in Single Four-Hour Period\n\r  Today"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Following Bob Dole's mention of\n\r  his campaign Web site address in his closing remarks last night\n\r  in Hartford, the site has been deluged by a flood of first-time\n\r  visitors. In a single four-hour period today, the Dole-Kemp '96\n\r  Web site received more than 762,000 \"hits\" -- the Web standard\n\r  for measuring traffic on a site. The total hits on the site for\n\r  today alone is expected to pass the 2 million mark."
+Characters:    "\n\r  "
+Characters:    "\n\r  The Dole-Kemp '96 Web site is the first political Web site to\n\r  individually-customize itself for each user's interests, home\n\r  state, and last visit."
+Characters:    "\n\r  "
+Characters:    "\n\r  When users first visit the site, they are given the option of\n\r  setting up a custom Dole Web page. Each custom page contains a\n\r  personal tool bar that welcomes the user by name, alerts them to\n\r  an electronic \"In Box\" containing any new press releases or other\n\r  campaign materials posted since their last visit, directs them to\n\r  briefing papers on issues in which they expressed interest, and\n\r  offers a home-state icon for local information about the Clinton\n\r  record and the Dole agenda in that state."
+Characters:    "\n\r  "
+Characters:    "\n\r  Unlike other political Web sites, the Dole campaign also offers\n\r  users a mechanism to give feedback to the campaign on policy\n\r  positions. Each briefing paper is an interactive document that\n\r  lets users tell the campaign what priority they think a Dole\n\r  administration should give the initiative."
+Characters:    "\n\r  "
+Characters:    "\n\r  An Interactive section on the site includes options for users\n\r  to:"
+Characters:    "\n\r  "
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: ul
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Create custom Dole campaign\n\r      buttons."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Download official Dole for\n\r      President computer \"wallpaper.\""
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Design and mail their own\n\r      e-mail postcards to friends."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Make a personalized Dole for\n\r      President campaign poster."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Test their knowledge with\n\r      Dole trivia questions and crossword puzzles."
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Review state issues and\n\r      where Dole has visited through interactive maps."
+End element:   font
+End element:   li
+Characters:    "\n\r    "
+End element:   ul
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+End element:   p
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: font
+Key: face, Value: Times New Roman
+Start element: b
+Start element: font
+Key: size, Value: 4
+Characters:    "CHECK IT\n\r    OUT:"
+End element:   font
+End element:   b
+End element:   font
+Characters:    "\n\r  "
+End element:   center
+Start element: font
+Key: face, Value: Times New Roman
+End element:   font
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: font
+Key: face, Value: Times New Roman
+Start element: b
+Start element: font
+Key: size, Value: 4
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "http://www.dolekemp96.org/"
+End element:   a
+End element:   font
+End element:   b
+End element:   font
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    "\n\r  "
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get\n\r  Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

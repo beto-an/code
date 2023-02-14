@@ -1,0 +1,157 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Innovations to the Campaign Web Site"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    September 30, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "CLINTON/GORE �96 ANNOUNCES INNOVATIONS TO\n\r    WEB-SITE"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton�s and Vice President Gore�s\n\r    re-election campaign is breaking new ground on the information\n\r    superhighway. Clinton/Gore �96 is relaunching its world wide\n\r    web site to showcase state of the art technological advances,\n\r    announced Clinton/Gore �96 Campaign Manager Peter S. Knight.\n\r    All of the groundbreaking changes can be found on the internet\n\r    at"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "http://www.cg96.org"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton and Vice President Gore understand\n\r    that continuing investments in technology represent an\n\r    investment in our nation�s future. Technology opens doors,\n\r    creates jobs, and makes possible the opportunity for all of our\n\r    citizens to reach out for the American dream. \"We are excited\n\r    about these additions and innovations on our web site. Through\n\r    these interactive components, our web site users can be a part\n\r    of our campaign and see first hand how the campaigns are\n\r    strategizing to win the electoral college on November 5th,\"\n\r    said Knight."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "One of the most exciting changes in the website is a new\n\r    main menu which features a \"java script mouse-over\n\r    application.\" Animated icons appear as the mouse rolls over the\n\r    headings for each section offering the viewer a \"sneak peak\" of\n\r    each section of the site. \"We have not found any other site\n\r    that has implemented this unique viewing option,\" stated\n\r    Clinton/Gore �96 Director of Technology Adam Sohn."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Another new, interactive aspect of the web site is an\n\r    electoral college simulation game. The simlulator allows users\n\r    to learn about the state-by-state electoral voting system in a\n\r    fun, easy to use interactive, map-driven game. As users choose\n\r    states for each candidate, the electoral process is revealed\n\r    and a presidential candidate becomes the winner."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The web site also includes a new multimedia presentation\n\r    entitled, \"The Challenges Ahead\" to keep web browsers informed\n\r    about the issues important to them. This visually stimulating\n\r    presentation features streaming audio and still photographs,\n\r    and will be continually updated with short segments of\n\r    President Clinton�s vision for the challenges that face our\n\r    nation."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton�s trademark of listening to\n\r    communities and appealing to people all across America to\n\r    become involved has been incorporated into the web site in a\n\r    new feature called, \"America�s Home Page.\" Each week,\n\r    Clinton/Gore �96 web site users submit testimonials and stories\n\r    on why they support the Clinton/Gore ticket. These are made\n\r    available to read each week in the \"America�s Home Page\"\n\r    newsletter. It is an opportunity for web users to share how\n\r    they have been affected by President Clinton and the work of\n\r    this Administration and another example of the Clinton/Gore �96\n\r    campaign�s commitment to community involvement."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "With all these new services available, Clinton/Gore �96\n\r    has added a new technology which allows users to select\n\r    specific content from the web site and register to have it\n\r    automatically updated whenever they are on the web. Every time\n\r    a user logs back into the Internet, the server automatically\n\r    begins downloading the updated information from the\n\r    Clinton/Gore �96 page in the background. The viewer is alerted\n\r    when it is done. This exciting technology will keep\n\r    Clinton/Gore �96 web site users updated on information\n\r    including the President�s campaign speeches and additions to\n\r    the \"Challenges Ahead\" video."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The web site will continue to provide instant access to\n\r    statements by the President, position papers, and detailed\n\r    accounts of the Clinton Administration�s record. Those who want\n\r    to get involved can register to volunteer, while journalists\n\r    will also gain access to valuable information quickly and\n\r    easily."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Finally, no campaign is complete without bumper stickers\n\r    and buttons. The Clinton/Gore �96 web site has available bumper\n\r    stickers and buttons in addition to screen savers and\n\r    wallpaper."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "For the next five weeks this virtual campaign\n\r    headquarters will take the President�s vision for the next four\n\r    years and his proud record of achievement directly to America�s\n\r    voters."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

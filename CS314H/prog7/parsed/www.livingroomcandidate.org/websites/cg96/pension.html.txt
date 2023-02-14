@@ -1,0 +1,561 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | The Briefing Room | Bill Clinton & Al Gore on the\n\r  Issues"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index89.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +2
+Start element: font
+Key: color, Value: #001058
+Start element: nobr
+Start element: i
+Characters:    "Protecting and\n\r    Expanding Pensions"
+End element:   i
+End element:   nobr
+End element:   font
+End element:   font
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: i
+Characters:    " challenge every business\n\r      that can possibly afford it to provide pensions for your\n\r      employees. And I challenge Congress to ... make it easier for\n\r      small businesses and farmers to establish their own"
+Characters:    "\n\r      pension plans. That is something we should all agree on.”"
+End element:   i
+Characters:    "\n\r      "
+Start element: p
+Start element: b
+Characters:    "—President Bill Clinton"
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "President Clinton is\n\r    expanding pension coverage"
+End element:   b
+End element:   font
+Characters:    " to more of the 51 million\n\r    Americans currently without a retirement savings plan,\n\r    increasing pension portability for workers changing jobs and\n\r    enhancing pension security so that retirement savings are there\n\r    when they are needed. The President is seeking to increase\n\r    every working American�s access to a secure retirement by:"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: align, Value: center
+Key: cellpading, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Establishing two new small business retirement savings\n\r            plans. The President proposed and signed into law a new\n\r            small business 401(k) plan and a new small business IRA\n\r            plan that employers can establish with a simple\n\r            one-page form to provide pensions for up to 10 million\n\r            workers in small businesses who do not have pension\n\r            coverage.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Simplifying pension laws for businesses of all sizes.\n\r            The President proposed and won enactment of a dramatic\n\r            simplification of the pension laws, making it cheaper\n\r            and easier for employers to set up pension plans. The\n\r            Administration has also simplified pension regulations\n\r            to encourage employers to establish and maintain these\n\r            plans.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Making non-profits eligible for 401(k) plans.\n\r            Tax-exempt organizations, which employ 9 million\n\r            people, were made eligible for 401(k) plans in the\n\r            minimum wage law as the President proposed.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Establishing a retirement savings education campaign.\n\r            The President established an ongoing retirement savings\n\r            education campaign involving 150 private co-sponsors\n\r            and expanded it in 1996 to include a special focus on\n\r            women�s particular pension needs.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Discouraging a one-year wait to begin saving at a new\n\r            job. Millions of workers have been forced to wait a\n\r            year before they could join their new employers�\n\r            pension plan. President Clinton proposed and won\n\r            enactment of a change in the law that encourages\n\r            employers to stop imposing this one-year wait.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Guaranteeing benefits for workers on the move. The\n\r            President proposed and won enactment of the law that\n\r            reduced the vesting period from 10 to 5 years for\n\r            multi-employer plans, which cover union workers — such\n\r            as construction workers — who frequently change jobs,\n\r            immediately guaranteeing 1 million people their\n\r            benefits.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Securing portability for veterans. The President\n\r            proposed and won enactment of changes in tax laws to\n\r            ensure that veterans are not penalized and can continue\n\r            their pension coverage when they return from service.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Making it easier for workers to take their retirement\n\r            savings with them when they change jobs. The Clinton\n\r            Administration is taking administrative action to give\n\r            employers a green light to let their new employees\n\r            transfer their retirement savings from their previous\n\r            employer to their new employer�s plan.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Protecting the pension benefits of more than 40 million\n\r            Americans. The President won enactment of his\n\r            Retirement Protection Act in 1994. This protects the\n\r            benefits of more than 40 million workers and retirees\n\r            in traditional pension plans from being underfunded.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Protecting government employees� savings from Orange\n\r            County-style fiascos. President Clinton won enactment\n\r            of a law requiring state and local government\n\r            retirement savings to be held in trust so that\n\r            employees do not lose their savings if the government\n\r            declares bankruptcy, as Orange County recently did.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Recovering nearly $10 million in savings for workers\n\r            and retirees. As a result of the Labor Department�s\n\r            ongoing nationwide enforcement effort to protect\n\r            retirement savings in defined contribution — 401(k) —\n\r            plans, nearly $10 million has been recovered for\n\r            workers.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Building on Our\n\r    Progress"
+End element:   b
+End element:   font
+Characters:    "\n\r    "
+Start element: p
+Characters:    "President Clinton will continue to help workers save for\n\r    their retirements by expanding pension coverage, increasing\n\r    pension portability, and enhancing pension protection. He will\n\r    do so by:"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: align, Value: center
+Key: cellpading, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Working to expand IRAs. The President�s balanced budget\n\r            makes another 20 million families eligible for IRAs by\n\r            doubling the income limits and allowing penalty-free\n\r            withdrawals for education, first home purchases, and\n\r            major medical expenses, in addition to retirement.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Helping more workers receive benefits after an employer\n\r            goes out of business. The President will work to enact\n\r            his legislative proposal to use the PBGC as a\n\r            clearinghouse for terminated retirement savings plans\n\r            to ensure that workers get the benefits they earned,\n\r            even if they have long since left the job and the\n\r            employer is no longer in business.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Continuing to oppose corporate pension raids. The\n\r            President will continue to oppose any legislation that\n\r            encourages pension reversions, such as that in the 1995\n\r            GOP budget that would have allowed corporations to raid\n\r            $15 billion from pension plans.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Requiring prompt action on misuse of pension funds. The\n\r            President has proposed legislation to require\n\r            full-scale audits of large pension plans and to require\n\r            plan administrators and accountants to report promptly\n\r            serious misuse of pension funds.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Strengthening protection of 9 million union workers�\n\r            savings. The President has proposed doubling the\n\r            maximum level of annual benefits guaranteed under\n\r            multi-employer plans. For 30-year workers, the level\n\r            would be increased from $5,850 — set in 1980 — to\n\r            $12,870.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Meeting Our Challenges\n\r    "
+Characters:    " Protecting Our Values"
+End element:   b
+End element:   font
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

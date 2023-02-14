@@ -1,0 +1,263 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | 21st Century Express | Wyandotte, MI"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index8.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: b
+Characters:    "Remarks by the President to the People of the Wyandotte\n\r    Area"
+End element:   b
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Bacon Memorial Public Library"
+Characters:    "\n\r    Wyandotte, Michigan"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "[RealAudio\n\r    "
+Start element: a
+Key: href, Value: wyan144.ram
+Characters:    "14.4"
+End element:   a
+Characters:    " | "
+Start element: a
+Key: href, Value: wyan288.ram
+Characters:    "28.8"
+End element:   a
+Characters:    "]"
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE PRESIDENT: Thank you. Let's give them another hand. They\n\r    were terrific, weren't they? (Applause.) Wow. First, I think we\n\r    ought to say to Justin and Elizabeth, there are a lot of people\n\r    three or four or five times their age that couldn't get up in\n\r    front of a crowd like this and do what they did. Let's give\n\r    them another hand. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "That book, of all the hundreds and hundreds of books that\n\r    Hillary and I read to Chelsea when she was a little girl, is\n\r    probably one of our favorites. And you see it today. This was a\n\r    mountain that Justin and Elizabeth had never been on, but they\n\r    thought they could. And sure enough, they did. And I'm proud of\n\r    them. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Ladies and gentlemen, I am very glad to be in Wyandotte\n\r    today. And I didn't know I was the only President who had ever\n\r    been here as President. I like Teddy Roosevelt; he's one of my\n\r    favorite Republican Presidents, one of my favorite Presidents\n\r    ever. But he didn't know what he missed when he didn't stop\n\r    when he went through here on the train. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I've got a lot of folks I'd like to thank. I'd like to thank\n\r    the VFW Post 1136. Their color guard met me when I got off the\n\r    train. It was a wonderful thing. Thank you. (Applause.) I want\n\r    to thank the people here at the Bacon Memorial Library. It is a\n\r    beautiful, beautiful building, and they gave me a few moments\n\r    there to collect my thoughts. And I thank them for the work\n\r    they do in this community."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want to thank Joey Palamara, who was the program M.C.\n\r    before I came out. Thank you, Mayor DeSana, for making me feel\n\r    welcome in your home town. Thank you to the Wyandotte City\n\r    Council. I want to thank the principal of the McKinley\n\r    Elementary School who met me when I came in. (Applause.) I\n\r    thank the public school band, the high school band. (Applause.)\n\r    And I want to thank all the teachers, the principals, the\n\r    people who work in our school buildings and help to maintain\n\r    them and feed our school children — all the people who are here\n\r    today. I thank you for helping to educate our children.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want to thank State Senator Chris Dingell for being here.\n\r    Thank you, Dr. Patricia Cole, for the fine work that you do in\n\r    this school system. (Applause.) I want to thank all the folks\n\r    that made signs. I've loved reading the signs. And one lady\n\r    brought my mother's book — thank you for doing that. Her's is\n\r    better than the one I just wrote. It's a wonderful book. Thank\n\r    you for all these signs."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Let me say that Hillary and Chelsea would love to be here\n\r    today, but they have already gone on to Chicago because Hillary\n\r    has to speak there tonight. And Chelsea spent yesterday on the\n\r    train with me, but she wants to be there with her mom when she\n\r    speaks. So they're not here, but I know they would love seeing\n\r    this."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Let me also thank all the people in the community. That\n\r    beautiful old house across the street with the bunting — I\n\r    don't know who put the bunting up, but all the things that\n\r    anyone in this community did to make us feel so welcome we\n\r    thank you very, very much. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Ladies and gentlemen, I'd like to say a very, very special\n\r    word of thanks to two of the best friends I have in the United\n\r    States Congress, Senator Carl Levin and Congressman John\n\r    Dingell. (Applause.) You should know that there are no people\n\r    in Congress who work harder, who are more scrupulously honest,\n\r    and who labor more diligently for the economic interests of the\n\r    people of this district and of this state and for the values\n\r    that have made America strong."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I don't know how many times one or the other of them has\n\r    come to see me in the last four years to try to get me to do\n\r    something to create jobs in Michigan, to advance the economy of\n\r    Michigan, to make sure that our workers are being treated\n\r    fairly in global trade. Day in and day out, month in, month\n\r    out, they are up there working hard. And it made a profound\n\r    impression on me because you don't see what I see, and I'm\n\r    there, and I see it. Every day, in every way, it's not just\n\r    speeches for them; it's hard work. They're there for you, and I\n\r    appreciate them, and I know you do, too. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Folks, I have loved taking this train trip through America.\n\r    We have been in West Virginia and Kentucky and Ohio. This\n\r    morning I was in Toledo, where I watched an American automobile\n\r    plant where they make Jeeps roll of their two-millionth Jeep in\n\r    the oldest operating auto plant in America. It goes back to\n\r    1910."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Last year, because of the partnership we have established\n\r    when I was in Japan, I went into a dealership and I sat in a\n\r    Jeep in a Japanese dealership made in Toledo, Ohio, by American\n\r    workers. That's the kind of thing I want to see more of.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "On this train trip we're saying to the American people,\n\r    number one, I wanted to go on a train to Chicago so I could\n\r    stop in towns like Wyandotte and look into the faces of the\n\r    people I've been trying to work for for the last four years.\n\r    But I also wanted to say that this train is on the right track\n\r    to Chicago and also on the right track to the 21st century for\n\r    America. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The people of Michigan, with all their diversity in the\n\r    economy and the diversity of our citizens, coming from all\n\r    walks of life, all faiths, all races, doing all different kinds\n\r    of things for a living, know as well as anyone that we are\n\r    going through a period of profound change in how we work, how\n\r    we live, how we relate to each other, how we relate to the rest\n\r    of the world."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I sought the presidency because I wanted to make sure we\n\r    were prepared for the 21st century, because I wanted us to go\n\r    roaring and united into the next century with the American\n\r    Dream alive for everyone, with every person in this country\n\r    who's willing to work hard having the chance to live out their\n\r    dreams and live up to their God-given potential. And we are\n\r    moving in the right direction to meet that goal.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I have followed a very simple strategy. I think it's the\n\r    basic American bargain — opportunity for all, responsibility\n\r    from all, and then telling every single person if you will be\n\r    responsible, if you will seize your opportunity, if you believe\n\r    in the Constitution, the Declaration of Independence and the\n\r    Bill of Rights, you don't have to tell us anything else. We\n\r    don't care what your race is, we don't care what your religion\n\r    is, we don't care where you started out in life. If you're\n\r    willing to work hard and share our values, we'll join arm in\n\r    arm with you and walk together into the future. You're a part\n\r    of our America. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Yesterday in Ohio I talked mostly about responsibility and\n\r    especially about our responsibility to make our streets, our\n\r    schools, our neighborhoods safe for our children to bring down\n\r    the crime rate. Today I've been talking about opportunity. In\n\r    Toledo we talked about how we work together and how management\n\r    and labor work together to create hundreds of new jobs; and how\n\r    America, after 20 years, is now number one again in the\n\r    production and sales of automobiles because of what we have\n\r    done. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Here I come to this library with all these school children\n\r    because their future is our future, and because we need to talk\n\r    about another kind of opportunity — educational opportunity,\n\r    without which America cannot triumph in the global economy, in\n\r    the Information Age of the 21st century."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We've been making some progress on opportunity in\n\r    Washington. Just last week, as Mr. Dingell said, I signed a\n\r    bill to raise the minimum wage for 10 million Americans,\n\r    including 325,000 here in Michigan. (Applause.) But, you know,\n\r    even in Michigan, the manufacturing capital of the world, there\n\r    are most people working for small businesses. So that minimum\n\r    wage bill also contained a tax cut for small businesses that\n\r    invest more in their business to create more jobs and income,\n\r    and it contained provisions making it easier for small business\n\r    people and their employees to take out pensions and to keep\n\r    those pensions when they change jobs, and that's very\n\r    important. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And there's a third thing that that bill contained that I\n\r    believe every single American, without regard to party or\n\r    conviction, can agree on — that bill did some dramatic things\n\r    to encourage the adoption of children who do not have permanent\n\r    homes. It gave a $5,000 tax credit to families who adopt a\n\r    child, a bigger one if the child has a disability. And it\n\r    removed the historic barriers to cross-racial adoption. There\n\r    are hundreds of thousands of kids out there who need loving,\n\r    strong parents in good homes. This bill did it. (Applause.)\n\r    This bill was good for workers, good for business, good for\n\r    families. It was a great American bill, and I'm proud of it.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I also signed the Kassebaum-Kennedy health care bill to make\n\r    25 million Americans more eligible for health insurance by\n\r    simply saying you can't be denied health insurance anymore if\n\r    somebody in your family gets sick and you can't lose it if you\n\r    move from job to job. That is a dramatic step for guaranteeing\n\r    health access to all. (Applause.) And I thank you, John\n\r    Dingell, for your lifelong commitment to health care for all\n\r    Americans. (Applause.) And I thank you, Senator Levin, for your\n\r    support of that bill. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now let's talk about education a minute. I have worked hard\n\r    to increase the quality and the availability of education, to\n\r    expand Head Start, to expand the Chapter One program so that it\n\r    helps more poor children reach their full potential, to help\n\r    school districts and local schools set high standards with\n\r    grass-roots reforms, to give more authority to principals and\n\r    teachers and parents to basically chart their own course. I\n\r    will say again, I am grateful for the people who give their\n\r    lives to education, and I don't think it serves the cause of\n\r    education to attack the people who are educating are children\n\r    and carrying our future. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We have increased college scholarships for deserving\n\r    students. We have made dramatic strides in making the college\n\r    student loan program more affordable and giving better\n\r    repayment options so that young people can now choose to pay\n\r    those loans back as a percentage of their future income, and\n\r    they need never drop out of school or refuse to go just because\n\r    they're worried about the burden of repaying the loans. That's\n\r    a terribly important thing that has been done. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Let me say that even though we know we have got a good ways\n\r    to go, there is a lot to be encouraged about in our country.\n\r    National math and science scores are up. SAT scores are up. The\n\r    SAT scores in math are now at a 24-year high. (Applause.) ACT\n\r    scores have gone up three out of the last four years. And as\n\r    Dr. Cole said, that's an America that is more diverse,\n\r    culturally, racially, religiously, and economically, than ever\n\r    before, and we're still moving forward into a bright new future\n\r    with improving education. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But we have to do more. Not every child has access to the\n\r    same information and learning every other child does. By the\n\r    year 2000, I want to see every classroom in this country not\n\r    simply have computers and teachers well-trained to teach them\n\r    how to use them, but connected to the Information Superhighway\n\r    so that every child in the poorest inner city school, the most\n\r    remote rural district, the standard middle class community, and\n\r    the wealthiest school districts — they all have access to the\n\r    same unlimited store of information that is the key to our\n\r    future. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want to see our nation become involved for the very first\n\r    time in helping our schools rebuild their dilapidated\n\r    facilities and build new ones, because we will have the largest\n\r    number of young people starting school this fall of any class\n\r    in the history of the United States of America, and they need\n\r    to have good schools to attend. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We want to help states work to set high standards and\n\r    systems of accountability, so that when people get a diploma it\n\r    will mean something. We want to open the doors of college even\n\r    wider. Perhaps this is the most critical thing for those of you\n\r    who are already out of school or about to be out. We need in\n\r    the next four years to make at least two years of college as\n\r    universal as a high school education is today. And that's\n\r    exactly what I propose to do. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want a $1,500 tax credit refundable to every family who\n\r    needs it to go to a community college, to pay for two years of\n\r    education after high school. (Applause.) I want every college\n\r    student, including the parents as well as the kids that are\n\r    going back to college, to be able to deduct the cost of college\n\r    tuition up to $10,000 a year. That will revolutionize the cause\n\r    of education in America. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But before that, we must make sure that basic learning is\n\r    taking place. I told you the good news. Now let me tell you\n\r    some of the challenging news. Over the last decade, our country\n\r    has worked hard to raise math and science scores, but reading\n\r    scores have stayed flat. And it may be because a higher and\n\r    higher percentage of our young people come from countries and\n\r    families where English is not their first language. It may be\n\r    because a lot of our young people live in homes where the\n\r    parents are having to work two jobs, sometimes three jobs, and\n\r    don't have enough time to spend with them reading. But for\n\r    whatever reason we know that our reading scores have not\n\r    increased as much as our math and science scores, and we know\n\r    that unless we can read we will not be able to take advantage\n\r    of the future or understand the past."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "That's why Justin and Elizabeth were up here. The Little\n\r    Engine That Could pointing us the way to the future. That is\n\r    what we have to have — a Justin and an Elizabeth in every\n\r    single home in the United States of America. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I have come here to this wonderful community to ask all of\n\r    you to join me, without regard to your political party or your\n\r    views on other issue, in a simple, straightforward, critical\n\r    national goal: All America's children should be able to read on\n\r    their own by the third grade, every single one of them.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We know — look at what we know — we know that students who\n\r    can't read as well as they should by the third grade are much\n\r    less likely even to graduate from high school. We know that\n\r    without reading, the history books are closed, the Internet is\n\r    turned off, the promise of America is much harder to reach. We\n\r    know the children who can read can learn from our founding\n\r    fathers, explore the limits of the universe and build the\n\r    future of their dreams. If we're going to ensure that those are\n\r    the children of America's future, they need not only the best\n\r    possible teaching in school, they need individualized tutoring,\n\r    help with their homework before school, after school and over\n\r    the summer, and they need more parents involved in helping them\n\r    to learn to read and to keep reading. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "To meet this challenge we need one million tutors ready and\n\r    able to give our children the personal attention they need to\n\r    catch up and get ahead. Today I propose a national literacy\n\r    campaign to help our children learn to read by the third grade\n\r    — a plan that offers 30,000 reading specialists and volunteer\n\r    coordinators to communities that are willing to do their part.\n\r    People who will mobilize the citizen army of volunteer tutors\n\r    we need, America's reading corps."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We will only succeed, however, if the 30,000 are joined by\n\r    legions of volunteers — seniors and teenagers, business and\n\r    civic groups, libraries and religious institutions and, above\n\r    all, parents. We have to build on the groundwork we have been\n\r    laying by AmeriCorps, our nation's national service program.\n\r    Today I am giving AmeriCorps a new charge: Make reading central\n\r    to your mission."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Let me tell you what they have done already. Let's just take\n\r    one place — in Simpson County, Kentucky, a county in rural\n\r    Kentucky, 25 of our young AmeriCorps volunteers helped 128\n\r    second-grade students make up almost three years of reading\n\r    progress in just one school year. We can do that. We can do\n\r    that. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "All over America efforts like this are working. And in\n\r    several places in America organized attempts to train,\n\r    galvanize and energize parents are making a difference. We\n\r    worked hard on that when I was the governor of Arkansas, I've\n\r    seen the program work in Missouri. Parents should be their\n\r    children's first teachers and we should give them the support\n\r    they need to be those first teachers. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "There are a lot of things you can do for your children, but\n\r    nothing will do them much more good in the long run than\n\r    reading to them every night. I can still remember as many of\n\r    Chelsea's books as she can. Some of them I can almost remember\n\r    by heart, because kids want to hear the same ones over and over\n\r    and over again."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But when they grow and they learn to read on their own, and\n\r    you see their imaginations fire, and you know their lives are\n\r    going to be richer because of it, then every single tired night\n\r    a parent spends reading a book to a child is a night well worth\n\r    it. (Applause.) Every dollar we spend bringing in people to\n\r    help these kids after school with personal tutoring is a dollar\n\r    well worth it. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We know our children have to spend more time reading and\n\r    less time in front of the television set. (Applause.) We know —\n\r    we know that if every single parent would just spend a half an\n\r    hour a night reading to their children, within a matter of\n\r    years there would be no issue about whether our third graders\n\r    could read as they should. (Applause.) We know that."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We know, too, that the private sector can help. Let me say\n\r    that one thing I'm really proud of in America is the way the\n\r    business community is moving to change its standards of what's\n\r    good for business. I was proud when I visited that Chrysler\n\r    plant in Toledo that they gave their workers an average bonus\n\r    of $8,000 a year last year because they all made money and they\n\r    thought the workers were entitled to their fair share. I'm\n\r    proud of that. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But I want you to know something else — when we passed the\n\r    telecommunications bill not very long ago to create hundreds of\n\r    thousands of new jobs in the telecommunications industry, we\n\r    also required new TVs to give you, the parents of this country,\n\r    a V-chip so that parents will be able to control what their\n\r    younger children see and not see inappropriate material.\n\r    (Applause.) But it wouldn't work if the entertainment industry\n\r    hadn't stepped up to the plate and said, we're going to start\n\r    rating television shows the way we rate movies, and we're going\n\r    to give that information to parents and let them make their own\n\r    decisions. And now the entertainment industry is working with\n\r    us to create three hours more of prime time educational\n\r    programming a week in the next couple of years. (Applause.)\n\r    People are moving in the right direction. We need more of\n\r    that."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "So let me leave you with this thought — we've got 10 million\n\r    more jobs, a million and a half fewer people on welfare, the\n\r    crime rate is coming down, child support collections are going\n\r    up. America is growing together and going forward, wages are\n\r    rising for the first time in a decade. But the most important\n\r    thing we have to do is to make sure our children are ready for\n\r    the 21st century. And I want you to join with me in saying one\n\r    way we're going to do that is to make sure every single boy and\n\r    girl in America can read on his or her own by the time they're\n\r    in the third grade. Will you do it? (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Thank you and God bless you. Thank you. (Applause.)"
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

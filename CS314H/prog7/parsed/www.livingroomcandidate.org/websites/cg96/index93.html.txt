@@ -1,0 +1,573 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    " Supporter Information "
+End element:   TITLE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #FFFFFF
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: #FFFFFF
+Characters:    "\r\n\r"
+Start element: CENTER
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index12-2.html
+End element:   A
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    " \r\n\r\r\n\r\r\n\r"
+Start element: FORM
+Key: METHOD, Value: GET
+Key: ACTION, Value: ../../../external.html
+Characters:    "\r\n\r\r\n\r"
+Characters:    " "
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r"
+Start element: BLOCKQUOTE
+Start element: CENTER
+Characters:    "\r\n\r"
+Start element: I
+Characters:    "y filling out the form below, you will be added to our mailing list and will receive, by e-mail, daily campaign talking points and other special bulletins for the remainder of the campaign.\r\n\rThank you for taking the time to provide Clinton/Gore&#160;&#146;96 with the information requested. Please note that any information you send to us will be used for official campaign purposes only."
+End element:   I
+Characters:    " "
+End element:   CENTER
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TABLE
+Key: BORDER, Value: 0
+Characters:    "\r\n\r"
+Start element: TR
+Characters:    " "
+Start element: TR
+Start element: TD
+Key: WIDTH, Value: 50
+Start element: P
+Characters:    "Last:"
+End element:   TD
+Characters:    "\r\n\r"
+Start element: TD
+End element:   TD
+Characters:    "\r\n\r"
+Start element: TD
+Characters:    "First:"
+End element:   TD
+Characters:    "\r\n\r"
+Start element: TD
+End element:   TD
+Characters:    "\r\n\r"
+Start element: TD
+Characters:    "Middle Initial:"
+End element:   TD
+Characters:    "\r\n\r"
+Start element: TD
+End element:   TD
+Characters:    "\r\n\r"
+End element:   TABLE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: TABLE
+Key: BORDER, Value: 0
+Characters:    "\r\n\r"
+Start element: TR
+Characters:    " "
+Start element: TR
+Start element: TD
+Start element: P
+Characters:    "Street:"
+End element:   TD
+Characters:    "\r\n\r"
+Start element: TD
+Key: COLSPAN, Value: 5
+End element:   TD
+Characters:    "\r\n\r"
+Start element: TR
+Start element: TD
+Key: WIDTH, Value: 50
+Start element: P
+Characters:    "City:"
+End element:   TD
+Characters:    "\r\n\r"
+Start element: TD
+End element:   TD
+Characters:    "\r\n\r"
+Start element: TD
+Characters:    "State:"
+End element:   TD
+Characters:    "\r\n\r"
+Start element: TD
+End element:   TD
+Characters:    "\r\n\r\t"
+Start element: TD
+Characters:    "Zip:"
+End element:   TD
+Characters:    "\r\n\r\t"
+Start element: TD
+End element:   TD
+End element:   TR
+Characters:    "\r\n\r"
+End element:   TABLE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: TABLE
+Key: BORDER, Value: 0
+Characters:    "\r\n\r"
+Start element: TR
+Characters:    " "
+Start element: TR
+Start element: TD
+Key: WIDTH, Value: 50
+Characters:    "Home:"
+End element:   TD
+Characters:    "\r\n\r"
+Start element: TD
+End element:   TD
+Characters:    "\r\n\r"
+Start element: TD
+Characters:    "Fax:"
+End element:   TD
+Characters:    "\r\n\r"
+Start element: TD
+End element:   TD
+Characters:    "\r\n\r"
+Start element: TR
+Start element: TD
+Characters:    "Office:"
+End element:   TD
+Characters:    "\r\n\r"
+Start element: TD
+End element:   TD
+Characters:    "\r\n\r"
+Start element: TD
+Characters:    "Email:"
+End element:   TD
+Characters:    "\r\n\r"
+Start element: TD
+End element:   TD
+Characters:    "\r\n\r"
+End element:   TABLE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: P
+Start element: CENTER
+End element:   CENTER
+Characters:    " \r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: TABLE
+Key: BORDER, Value: 0
+Characters:    "\r\n\rAre you registered to vote in a state other than the one listed above?\r\n\r\r\n\r\r\n\r"
+Characters:    "Yes\r\n\r"
+Characters:    "No\r\n\r\r\n\r"
+Start element: P
+Characters:    "\r\n\r"
+Start element: SELECT
+Key: NAME, Value: VoteState
+Characters:    "]\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: 
+Characters:    "If yes, what state?\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: AL
+Characters:    "Alabama\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: AK
+Characters:    "Alaska\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: AS
+Characters:    "American Samoa\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: AZ
+Characters:    "Arizona\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: AR
+Characters:    "Arkansas\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: CA
+Characters:    "California\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: CO
+Characters:    "Colorado\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: CT
+Characters:    "Connecticut\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: DE
+Characters:    "Delaware\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: DC
+Characters:    "District of Columbia\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: FM
+Characters:    "Federated States of Micronesia\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: FL
+Characters:    "Florida\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: GA
+Characters:    "Georgia\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: GU
+Characters:    "Guam\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: HI
+Characters:    "Hawaii\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: ID
+Characters:    "Idaho\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: IL
+Characters:    "Illinois\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: IN
+Characters:    "Indiana\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: IA
+Characters:    "Iowa\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: KS
+Characters:    "Kansas\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: KY
+Characters:    "Kentucky\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: LA
+Characters:    "Louisiana\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: ME
+Characters:    "Maine\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: MH
+Characters:    "Marshall Islands\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: MD
+Characters:    "Maryland\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: MA
+Characters:    "Massachusetts\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: MI
+Characters:    "Michigan\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: MN
+Characters:    "Minnesota\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: MS
+Characters:    "Mississippi\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: MO
+Characters:    "Missouri\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: MT
+Characters:    "Montana\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: NE
+Characters:    "Nebraska\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: NV
+Characters:    "Nevada\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: NH
+Characters:    "New Hampshire\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: NJ
+Characters:    "New Jersey\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: NM
+Characters:    "New Mexico\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: NY
+Characters:    "New York\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: NC
+Characters:    "North Carolina\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: ND
+Characters:    "North Dakota\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: MP
+Characters:    "Northern Mariana Islands\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: OH
+Characters:    "Ohio\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: OK
+Characters:    "Oklahoma\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: OR
+Characters:    "Oregon\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: PW
+Characters:    "Palau\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: PA
+Characters:    "Pennsylvania\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: PR
+Characters:    "Puerto Rico\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: RI
+Characters:    "Rhode Island\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: SC
+Characters:    "South Carolina\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: SD
+Characters:    "South Dakota\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: TN
+Characters:    "Tennessee\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: TX
+Characters:    "Texas\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: TT
+Characters:    "Trust Territories\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: UT
+Characters:    "Utah\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: VT
+Characters:    "Vermont\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: VI
+Characters:    "Virgin Islands\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: VA
+Characters:    "Virginia\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: WA
+Characters:    "Washington\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: WV
+Characters:    "West Virginia\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: WI
+Characters:    "Wisconsin\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: WY
+Characters:    "Wyoming\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: AE
+Characters:    "Armed Forces Africa\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: AA
+Characters:    "Armed Forces Americas (except Canada)\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: AE
+Characters:    "Armed Forces Canada\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: AE
+Characters:    "Armed Forces Europe\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: AE
+Characters:    "Armed Forces Middle East\r\n\r"
+Start element: OPTION
+Key: VALUE, Value: AP
+Characters:    "Armed Forces Pacific\r\n\r"
+End element:   SELECT
+Characters:    "\r\n\r\r\n\r"
+End element:   TABLE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    " \r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: TABLE
+Characters:    "\r\n\r\r\n\rDo you hold a position in any state or county Democratic Party \r\n\rorganizations?\r\n\r\r\n\r"
+Start element: P
+Characters:    "Yes\r\n\r"
+Characters:    "No\r\n\r\r\n\r"
+End element:   TABLE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    " \r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: TABLE
+Characters:    "\r\n\r\r\n\rAre you willing to volunteer to organize Clinton supporters in your \r\n\rprecinct?\r\n\r\r\n\r"
+Start element: P
+Characters:    "Yes\r\n\r"
+Characters:    "No\r\n\r\r\n\r"
+End element:   TABLE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    " \r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\rWhich of the following would describe you? (OPTIONAL)\r\n\r\r\n\r"
+Start element: TABLE
+Key: BORDER, Value: 0
+Key: WIDTH, Value: 75%
+Characters:    "\r\n\r"
+Start element: TR
+Start element: TD
+Key: WIDTH, Value: 50%
+Characters:    "Clergy"
+End element:   TD
+Characters:    "\r\n\r\t"
+Start element: TD
+Key: WIDTH, Value: 50%
+Characters:    "Senior Citizen"
+End element:   TD
+End element:   TR
+Characters:    "\r\n\r"
+Start element: TR
+Start element: TD
+Characters:    "Military Veteran"
+End element:   TD
+Characters:    "\r\n\r\t"
+Start element: TD
+Characters:    "Law \r\n\rEnforcement"
+End element:   TD
+End element:   TR
+Characters:    "\r\n\r"
+Start element: TR
+Start element: TD
+Characters:    "Small Business Owner"
+End element:   TD
+Characters:    "\r\n\r\t"
+Start element: TD
+Characters:    "Republican"
+End element:   TD
+End element:   TR
+Characters:    "\r\n\r"
+Start element: TR
+Start element: TD
+Characters:    "Student"
+End element:   TD
+Characters:    "\r\n\r\t"
+Start element: TD
+Characters:    "Gay/Lesbian"
+End element:   TD
+End element:   TR
+Characters:    "\r\n\r"
+Start element: TR
+Start element: TD
+Characters:    "Elected Official"
+End element:   TD
+Characters:    "\r\n\r\t"
+Start element: TD
+Characters:    "Teacher"
+End element:   TD
+End element:   TR
+Characters:    "\r\n\r"
+Start element: TR
+Start element: TD
+Characters:    "Environmental Group Member"
+End element:   TD
+Characters:    "\r\n\r\t"
+Start element: TD
+Characters:    "Union \r\n\rMember"
+End element:   TD
+End element:   TR
+Characters:    "\r\n\r"
+Start element: TR
+Start element: TD
+Characters:    "Person with Disability"
+End element:   TD
+Characters:    "\r\n\r\t"
+Start element: TD
+Characters:    "Independent"
+End element:   TD
+End element:   TR
+Characters:    "\r\n\r"
+Start element: TR
+Start element: TD
+Characters:    "Youth"
+End element:   TD
+End element:   TR
+Characters:    "\r\n\r"
+End element:   TABLE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    " \r\n\r"
+Characters:    "\r\n\r\r\n\rAre you interested in participating in any of the following \r\n\rorganizations? (OPTIONAL)\r\n\r\r\n\r"
+Start element: P
+Start element: TABLE
+Key: BORDER, Value: 0
+Key: WIDTH, Value: 75%
+Characters:    "\r\n\r"
+Start element: TR
+Start element: TD
+Characters:    "Adelante \r\n\rcon Clinton"
+End element:   TD
+End element:   TR
+Characters:    "\r\n\r"
+Start element: TR
+Start element: TD
+Characters:    "African-American Leadership Council"
+End element:   TD
+End element:   TR
+Characters:    "\r\n\r"
+Start element: TR
+Start element: TD
+Characters:    "Women for \r\n\rClinton/Gore"
+End element:   TD
+End element:   TR
+Characters:    "\r\n\r"
+Start element: TR
+Start element: TD
+Characters:    "Rural \r\n\rAmerica for Clinton/Gore"
+End element:   TD
+End element:   TR
+Characters:    "\r\n\r"
+Start element: TR
+Start element: TD
+Characters:    "Asian-Americans for Clinton/Gore"
+End element:   TD
+End element:   TR
+Characters:    "\r\n\r"
+Start element: TR
+Start element: TD
+Characters:    "Clinton/Gore Jewish Leadership Council"
+End element:   TD
+End element:   TR
+Characters:    "\r\n\r"
+End element:   TABLE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: P
+Start element: CENTER
+End element:   CENTER
+Characters:    " \r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    " "
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee, Inc."
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r"
+End of document

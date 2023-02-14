@@ -1,0 +1,325 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "The Bob Dole Story"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: h2
+Characters:    "&nbsp;"
+End element:   h2
+Characters:    "\n\r    "
+Start element: h2
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "The Bob Dole Story"
+End element:   font
+End element:   h2
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: left
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    " "
+Start element: font
+Key: size, Value: +1
+Start element: b
+Characters:    "\"I Thought My Arms Were\n\r  Missing\""
+End element:   b
+End element:   font
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: left
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "That's when the\n\r  Germans saw him. Seconds later, an exploding shell ripped into\n\r  his right shoulder - shattering his collarbone, smashing part of\n\r  his spine and leaving his arm dangling. \"I lay face down in the\n\r  dirt,\" Bob Dole said. \"I could not see or move my arms. I thought\n\r  they were missing.\""
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: left
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "After the battle,\n\r  one of his men gave him a shot of morphine and marked his\n\r  forehead with an \"M\" written in his own blood. Another shot of\n\r  morphine would have killed him. But no one really thought it\n\r  mattered: Doctors said he wouldn't make it anyway."
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: left
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "\n\r  "
+Start element: font
+Key: size, Value: +1
+Start element: b
+Characters:    "Courage:\n\r  On the Road to Recovery"
+End element:   b
+End element:   font
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: left
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "He was paralyzed\n\r  from the neck down. They sent him to a nearby military hospital\n\r  and put him in a full-body cast. After a few days, the Army\n\r  shipped him to Kansas - so he could die near his home. But Bob\n\r  Dole was never one to give up. And he did not give up then.\n\r  Slowly, with agonizing effort, sensation came back to his legs\n\r  and left arm."
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: left
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Then he caught a\n\r  fever that just would not go away. 108.7 degrees. His mom told\n\r  the rest of the family that Bob would not make it through the\n\r  night. They called a chaplain. Doctors made a last ditch attempt:\n\r  A kidney operation and a shot of penicillin. He rebounded and his\n\r  long and hard journey to recovery had begun."
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+End element:   font
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: page2.html
+Characters:    "Previous Page"
+End element:   a
+Characters:    " | "
+Start element: a
+Key: href, Value: dole.html
+Characters:    "1"
+End element:   a
+Characters:    " | "
+Start element: a
+Key: href, Value: page2.html
+Characters:    "2"
+End element:   a
+Characters:    " | 3 | "
+Start element: a
+Key: href, Value: page4.html
+Characters:    "4"
+End element:   a
+Characters:    " | "
+Start element: a
+Key: href, Value: page5.html
+Characters:    "5"
+End element:   a
+Characters:    " | "
+Start element: a
+Key: href, Value: page6.html
+Characters:    "6"
+End element:   a
+Characters:    " | "
+Start element: a
+Key: href, Value: page7.html
+Characters:    "7"
+End element:   a
+Characters:    " | "
+Start element: a
+Key: href, Value: page8.html
+Characters:    "8"
+End element:   a
+Characters:    " | "
+Start element: a
+Key: href, Value: page9.html
+Characters:    "9"
+End element:   a
+Characters:    " | "
+Start element: a
+Key: href, Value: page4.html
+Characters:    "Next Page"
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole Interactive"
+End element:   u
+Characters:    "\n\r  | "
+Start element: u
+Start element: a
+Key: href, Value: ../../news/news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    "\n\r  "
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get\n\r  Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

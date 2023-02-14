@@ -1,0 +1,173 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "President Clinton Works to Improve Public\n\r  Education"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    7/18/96"
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    STATEMENT BY JOE LOCKHART NATIONAL PRESS SECRETARY"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bashing America's teachers and slashing funding for\n\r    public education is not an education plan for our future. Last\n\r    year, Bob Dole and Newt Gingrich passed the most anti-education\n\r    budget in American history cutting $31 billion in funding for\n\r    public education. Today, Bob Dole said he wants to take another\n\r    $15 billion from public education. Bob Dole is using teacher\n\r    bashing as a smoke screen in another attempt to siphon funds\n\r    from public education."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "What a contrast today's proposal presents."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton is working to improve public education\n\r    by working with parents, teachers and local communities,\n\r    providing more choice and improving standards, facilities and\n\r    safety in our schools."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole wants to tear down public education by pitting\n\r    teachers against parents and dramatically reducing our\n\r    investment in public schools."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "###"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "CHECK THEIR RECORDS ON SCHOOL CHOICE: PRESIDENT CLINTON\n\r    HAS BEEN A LEADER IN PROMOTING COMPETITION, ACCOUNTABILITY AND\n\r    PARENTAL CHOICE"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"I challenge every state to give all parents the right\n\r    to choose which public school their children will attend; and\n\r    to let teachers form new schools with a charter they can keep\n\r    only if they do a good job.\" - President Bill Clinton, State of\n\r    the Union Address, January 23, 1996"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "I. AS GOVERNOR, BILL CLINTON PROPOSED AND WON PUBLIC\n\r    SCHOOL CHOICE. Governor Bill Clinton proposed and signed the\n\r    law in 1989 allowing parents to choose any public school in any\n\r    school district -- making Arkansas among the first states to\n\r    have such a law."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "II. AS PRESIDENT, BILL CLINTON HAS REPEATEDLY ACTED TO\n\r    PROMOTE CHARTER SCHOOLS AND CHOICE -- BOB DOLE REPEATEDLY\n\r    OPPOSED HIM:"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "1. PRESIDENT CLINTON WON PASSAGE OF LEGISLATION TO HELP\n\r    ESTABLISH CHARTER SCHOOLS TO EXPAND PARENTAL CHOICE AND\n\r    COMPETITION. As part of his 1993 proposal to re-authorize the\n\r    Elementary and Secondary Education Act, President Clinton\n\r    proposed providing start-up funds for teachers, parents, and\n\r    others to start charter schools -- innovative public schools\n\r    governed by teachers, parents and others that operate free of\n\r    many district and state regulations but are held accountable\n\r    for results through performance-based contracts. In 1995,\n\r    President Clinton announced grants to provide start-up funds\n\r    for Charter Schools in 11 states, including Minnesota,\n\r    Michigan, California, Texas, and Massachusetts."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "BOB DOLE VOTED NO: Bob Dole voted against the Improving\n\r    America's Schools Act that created the Charter School program.\n\r    [Congressional Record 10/5/94, Senate Vote 321]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "2. PRESIDENT CLINTON MADE CHARTER SCHOOLS A CLEAR OPTION\n\r    FOR SCHOOLS THAT DON'T PERFORM. The President reformed the\n\r    Title I education program -- which provides funds to improve\n\r    the basic skills of children from disadvantaged schools. The\n\r    President's proposal specifically listed \"the creation of a\n\r    charter schools\" as an option for local communities."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "BOB DOLE VOTED NO: Bob Dole voted against the Improving\n\r    America's Schools Act that reformed Title 1, which helps\n\r    improve reading and math skills. [CR 10/5/94, Senate Vote\n\r    321]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "3. PRESIDENT CLINTON FOUGHT FOR AND SIGNED GOALS 2000 TO\n\r    RAISE ACADEMIC STANDARDS AND INCREASE ACCOUNTABILITY AND\n\r    CHOICE. 48 states -- including all but two Republican governors\n\r    -- are using Goals 2000 to raise achievement and choice. Goals\n\r    2000 funds can be used to support the development of charter\n\r    schools, and at least three states are already doing so:\n\r    Minnesota, Michigan, and Massachusetts. In Michigan, 8 charter\n\r    schools were funded in 1995 with Goals 2000 funds."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "BOB DOLE VOTED NO: Even as the Senate voted in a\n\r    bipartisan manner to pass it (63-22), Bob Dole voted against\n\r    Goals 2000: Educate America's Act. [HR 1804, 3/26/94] \"It was a\n\r    bad idea when I voted against it in the Senate, and it's still\n\r    a worse idea now.\" [New York Times, 7/5/95]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "4. PRESIDENT CLINTON'S BALANCED BUDGET MORE THAN DOUBLES\n\r    FUNDING FOR CHARTER SCHOOLS to $40 million in 1997, and\n\r    increases funding over the next 5 years to fund start-up costs\n\r    for up to 3,000 new charter schools. [OMB, FY97 Budget,\n\r    3/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "BOB DOLE RESIGNED AND REPUBLICANS VOTED NO: The\n\r    House-passed FY97 Labor-HHS appropriations bill provides less\n\r    than half the funding requested for charter schools."
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

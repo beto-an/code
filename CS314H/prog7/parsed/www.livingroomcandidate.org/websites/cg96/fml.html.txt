@@ -1,0 +1,109 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Family and Medical Leave Act"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "6/24/96"
+Characters:    "\n\r    PRESS RELEASE"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "STATEMENT BY ANN LEWIS"
+Characters:    "\n\r    DEPUTY CAMPAIGN MANAGER"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Let's talk about Family and Medical Leave and compare\n\r    the two candidates. President Clinton fought for and signed the\n\r    Family and Medical Leave Act. Bob Dole twice voted to defeat\n\r    it, led the filibusters against it, and still opposes it today.\n\r    President Clinton has said Family Leave is one of the most\n\r    important acts of his Administration because it strengthens\n\r    working families. Bob Dole stated that Family and Medical Leave\n\r    had \"nothing to do with family values.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "In 1992, Republican President George Bush vetoed the\n\r    Family and Medical Leave Act. Bob Dole later voted against\n\r    overriding President Bush's veto of the Family and Medical\n\r    Leave Act. President Clinton made it law. Now Republicans are\n\r    trying to play catch up on Family and Medical Leave."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "On the issue of flex-time for families, President\n\r    Clinton has consistently supported employee-choice flex-time\n\r    while opposing artificial proposals that would diminish\n\r    employee-choice and leave them vulnerable to unfair coercion at\n\r    the workplace."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "We hope the Republicans will drop the objectionable\n\r    provisions in their comp-time bill and join the President in\n\r    passing a true employee-choice flex-time bill. We welcome their\n\r    dawning recognition that Family and Medical Leave is important\n\r    to American families."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "###"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

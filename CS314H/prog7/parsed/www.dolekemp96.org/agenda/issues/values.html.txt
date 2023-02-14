@@ -1,0 +1,239 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Where Bob Dole Stands on Values"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: h2
+Key: align, Value: center
+Key: style, Value: text-align:center
+Characters:    "Where Bob Dole\n\r  Stands on Values"
+End element:   h2
+Characters:    "\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Bob Dole\n\r  Will Be a Role Model for America's Children"
+End element:   span
+End element:   b
+Characters:    "\n\r  The President should be a powerful voice in teaching and\n\r  promoting the values that made America great. Ronald Reagan and\n\r  George Bush both used the Oval Office to address timely social\n\r  and value-related issues ranging from teen drug use to urban\n\r  violence and social decay. They offered visible role models for\n\r  our young people to emulate, and their leadership helped\n\r  strengthen the American family."
+Characters:    "\n\r  "
+Characters:    "\n\r  As President, Bob Dole will restore that important tradition of\n\r  leadership by example. He will use the bully pulpit of the\n\r  Presidency to speak out on the important moral issues of the\n\r  day."
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Bob Dole Has the Strong Moral\n\r  Character to Lead America into the 21st Century"
+End element:   span
+End element:   b
+Characters:    "\n\r  Bob Dole's values are rooted in the small Kansas town in which he\n\r  grew up: love of God and country and family, commitment to\n\r  honesty, decency and personal responsibility, and self-reliance\n\r  tempered by a sense of community."
+Characters:    "\n\r  "
+Characters:    "\n\r  Those values have guided Bob Dole throughout his life, and they\n\r  will be the foundation on which he bases his Presidency."
+Characters:    "\n\r  "
+Characters:    "\n\r  It was those values that Bob Dole talked about last year in\n\r  Hollywood when he challenged the entertainment industry to stop\n\r  peddling gratuitous sex and random violence to our children. \"Our\n\r  music, movies, television and advertising regularly push the\n\r  limits of decency, bombarding our children with destructive\n\r  messages of casual violence and even more casual sex,\" Dole said.\n\r  \"The mainstreaming of deviancy must come to an end, but it will\n\r  only stop when the leaders of the entertainment industry\n\r  recognize their responsibility.\""
+Characters:    "\n\r  "
+Characters:    "\n\r  He took a similar message to Indianapolis a few months later: \"We\n\r  must speak out about our values,\" Dole said, \"and insist that our\n\r  culture and our government reflect them. Yes, this means braving\n\r  the ridicule of the cultural elites and speaking out about our\n\r  popular entertainment. Our movies and music, advertising and\n\r  television are having a profound impact on our children. And it's\n\r  not for the good.\""
+Characters:    "\n\r  "
+Characters:    "\n\r  Dole's message struck a chord with millions of parents and\n\r  launched a national debate over the impact popular culture has on\n\r  our children. The grassroots movement he started has borne fruit\n\r  in a voluntary television ratings system and this summer's\n\r  educational programming agreement with the major networks."
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "A Better America"
+End element:   span
+End element:   b
+Characters:    "\n\r  With Bob Dole as President, America will once again have a\n\r  President who will focus public attention on values -- a role\n\r  model who every parent can point to in teaching their children\n\r  the difference between right and wrong."
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../../news/news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    " "
+Start element: a
+Key: href, Value: ../agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the\n\r  Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

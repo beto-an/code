@@ -1,0 +1,101 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "Campaign Releases New Advertisement"
+End element:   TITLE
+Characters:    "\r\n\r\r\n\r"
+Start element: KPETITLE
+Start element: B
+Characters:    "For Immediate Release:"
+End element:   B
+Characters:    "\r\n\rCampaign Releases New Advertisement"
+Start element: DD
+End element:   KPETITLE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "  "
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "  "
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r"
+Start element: TT
+Characters:    "\r\n\r"
+Start element: P
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "August 17, 1996\r\n\r\r\n\r\r\n\r\t"
+Start element: P
+Start element: center
+Characters:    "CLINTON/GORE �96 RELEASES NEW ADVERTISEMENT"
+End element:   center
+Characters:    "\r\n\r\r\n\r"
+Start element: P
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: P
+Characters:    "Today, August 17, 1996, the Clinton/Gore �96 campaign begins running a new advertisement entitled \"Nobody\".  The text of the ad follows:\r\n\r\r\n\r"
+Start element: i
+Start element: p
+Characters:    "Nobody\r\n\r\r\n\r"
+Start element: p
+Characters:    "The Oval Office.\r\n\r\r\n\r"
+Start element: p
+Characters:    "If Dole sits here, and Gingrich runs Congress, what could happen?\r\n\r\r\n\r"
+Start element: p
+Characters:    "Medicare slashed.\r\n\r\r\n\r"
+Start element: p
+Characters:    "Women�s right to choose, gone.\r\n\r\r\n\r"
+Start element: p
+Characters:    "Education, school drug programs cut.\r\n\r\r\n\r"
+Start element: p
+Characters:    "And a risky $550 billion plan balloons the deficit, raises interest rates, hurts the economy.\r\n\r\r\n\r"
+Start element: p
+Characters:    "President Clinton says balance the budget, cut taxes for families, college tuition...\r\n\r\r\n\r"
+Start element: p
+Characters:    "Stands up to Dole and Gingrich.\r\n\r\r\n\r"
+Start element: p
+Characters:    "But if Dole wins, and Gingrich runs Congress, there�ll be nobody there to stop them."
+Characters:    "\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: P
+Start element: CENTER
+Characters:    "###\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    " "
+Characters:    " "
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee, Inc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End of document

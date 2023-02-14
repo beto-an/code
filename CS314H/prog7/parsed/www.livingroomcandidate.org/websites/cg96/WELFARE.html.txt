@@ -1,0 +1,465 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | The Briefing Room | Bill Clinton & Al Gore on the\n\r  Issues"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index89.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: blockquote
+Characters:    "\n\r        "
+Start element: font
+Key: color, Value: #00105A
+Characters:    "The Clinton/Gore Administration has\n\r        approved 67 welfare-to-work programs in 40 states. These\n\r        welfare waivers cover approximately 75% of all AFDC\n\r        recipients or 10 million people each month. Overall, the\n\r        number of AFDC recipients has fallen from 14.1 million in\n\r        12.1 million over the last three years."
+End element:   font
+Characters:    "\n\r      "
+End element:   blockquote
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +2
+Start element: font
+Key: color, Value: #001058
+Start element: nobr
+Start element: i
+Characters:    "Committed to\n\r    Moving People from Welfare to Work"
+End element:   i
+End element:   nobr
+End element:   font
+End element:   font
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: i
+Characters:    "his is not the end of\n\r      welfare reform, this is the beginning. And we have to all\n\r      assume responsibility. Now that we are saying with this bill\n\r      we expect work, we have to make sure the people have a chance\n\r      to go to work.”"
+End element:   i
+Characters:    "\n\r      "
+Start element: p
+Start element: b
+Characters:    "—President Bill Clinton"
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "President Clinton has taken\n\r    an historic step to end welfare as we know it."
+End element:   b
+End element:   font
+Characters:    "\n\r    &nbsp; For four years, he has done everything in his power to\n\r    reward and require work, demand responsibility, and help\n\r    families move from welfare to independence.\n\r    "
+Start element: p
+Characters:    "The new welfare law is based on key principles President\n\r    Clinton has consistently fought for and supported — time limits\n\r    and work requirements; tough child support enforcement; child\n\r    care and health care to help people move from welfare to work;\n\r    and a requirement that minor mothers stay in school and live at\n\r    home in order to receive assistance."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "President Clinton is promoting work over welfare and is\n\r    reinforcing basic American values of family, work, and\n\r    responsibility by: "
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            "
+Start element: font
+Key: face, Value: garamond, times, new york
+Characters:    "Granting waivers\n\r            to 43 states — more than all his predecessors combined\n\r            — to give them the flexibility to reform their own\n\r            welfare systems. These reforms are already making work\n\r            and responsibility a way of life for over 10 million\n\r            people — about 75 percent of all welfare recipients.\n\r            Since January 1993, welfare rolls are down by 1.8\n\r            million people, a decrease of 13 percent."
+End element:   font
+Characters:    "\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Ensuring that work pays: by expanding the Earned Income\n\r            Tax Credit (EITC) to provide tax relief to 15 million\n\r            working families and by raising the Minimum Wage for 10\n\r            million workers, so that work is a better deal than\n\r            welfare.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Fighting to make welfare reform pro-child, pro-family,\n\r            and pro-work. The new welfare reform bill:\n\r            "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Protects the federal guarantee to Medicaid for\n\r                    millions of pregnant women, people with\n\r                    disabilities, poor children, and people working\n\r                    their way off welfare.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Provides $14 billion in child-care funding — a\n\r                    $4 billion increase — and restores child-care\n\r                    safety standards.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Safeguards nutritional guarantees for children\n\r                    by keeping the Food Stamp program intact and by\n\r                    protecting the school lunch program.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Imposes the toughest ever child support\n\r                    enforcement by garnishing wages, suspending\n\r                    drivers� licenses, and tracking deadbeats\n\r                    across state lines.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Protects child welfare, foster care, child\n\r                    abuse prevention services, and programs for\n\r                    disabled children.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Provides performance incentives to encourage\n\r                    states to place welfare recipients in jobs.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Doubles the contingency fund from $1 to $2\n\r                    billion to protect needy families against\n\r                    economic downturns.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r            "
+End element:   table
+Characters:    "\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Building on Our\n\r    Progress"
+End element:   b
+End element:   font
+Characters:    "\n\r    "
+Start element: p
+Characters:    "President Clinton will continue to reward work over welfare\n\r    and support basic American values. He is committed to working\n\r    with Congress to change elements of the new welfare law that go\n\r    too far in cutting benefits for legal immigrants and\n\r    nutritional assistance for working families. President Clinton\n\r    will enlist the private sector in a national effort to help\n\r    move people from welfare to work by:"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Proposing a Welfare-to-Work Jobs Challenge to help move\n\r            one million of the hardest-to-employ welfare recipients\n\r            to work over the next four years. This $3.4 billion\n\r            initiative is fully paid for by cutting corporate\n\r            subsidies. It includes:\n\r            "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Welfare-to-Work Tax Credit, enabling employers\n\r                    to claim a 50 percent credit on the first\n\r                    $10,000 of annual wages for long-term welfare\n\r                    recipients. This builds on the Work Opportunity\n\r                    Tax Credit (WOTC) signed into law by President\n\r                    Clinton on August 20, 1996.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Tax Incentives to Increase Investment in\n\r                    Distressed Areas, expanding on the President�s\n\r                    comprehensive strategy to build investment\n\r                    through Empowerment Zones, Enterprise\n\r                    Communities, Brownfields Tax Incentives, and\n\r                    Community Development Banking and Financial\n\r                    Institutions. New tax incentives will encourage\n\r                    investment in community development\n\r                    institutions and venture capital funds, and\n\r                    expand current tax incentives for businesses\n\r                    that clean up abandoned, contaminated\n\r                    industrial properties.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Welfare-to-Work Jobs Initiative, giving\n\r                    communities, businesses and private sector\n\r                    placement firms incentives to move one million\n\r                    of the hardest-to-employ welfare recipients\n\r                    into jobs by the year 2000.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r            "
+End element:   table
+Characters:    "\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Meeting Our Challenges\n\r    "
+Characters:    " Protecting Our Values"
+End element:   b
+End element:   font
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

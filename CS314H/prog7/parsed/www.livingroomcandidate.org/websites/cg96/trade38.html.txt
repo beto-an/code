@@ -1,0 +1,454 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Export Growth: Connecticut"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +2
+Start element: font
+Key: color, Value: #001058
+Characters:    "OPENING NEW MARKETS"
+Characters:    "\n\r    TO CREATE JOBS FOR U.S. WORKERS"
+End element:   font
+End element:   font
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    " "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Connecticut recorded goods exports totaling $13.7\n\r              billion in 1995, up 25 percent ($2.8 billion) from\n\r              1993. During 1995, Connecticut was the 12th largest\n\r              state exporter of goods.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Connecticut�s jobs supported by goods exports grew an\n\r              estimated 14 percent (21,015 jobs) since 1993.\n\r              Export-related jobs pay 13 to 16 percent higher than\n\r              the national average.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              In 1991, the latest year available, Connecticut�s\n\r              exports accounted for 25.9 percent of its\n\r              manufacturing output and represented 24.2 percent of\n\r              its total manufacturing employment.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Connecticut�s exports of manufactured products were\n\r              up by 23 percent between 1993 and 1995 (from $8.7\n\r              billion in 1993 to $10.7 billion in 1995).\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              The five largest manufacturing sectors in terms of\n\r              Connecticut�s exports were: Chemical Products ($3.0\n\r              billion of exports in 1995), Transportation Equipment\n\r              ($1.8 billion), Industrial Machinery and Computers\n\r              ($953.0 million), Electronic and Electric Equipment\n\r              ($773.8 million), and Scientific and Measuring\n\r              Instruments ($735.5 million). These five sectors\n\r              accounted for over 53 percent of the state�s total\n\r              exports in 1995.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Among Connecticut's fastest growing manufactured\n\r              exports (in millions) were:"
+Characters:    "\n\r              "
+Start element: blockquote
+Characters:    "\n\r                "
+Start element: table
+Key: border, Value: 1
+Characters:    "\n\r                  "
+Start element: tr
+Characters:    "\n\r                    "
+Start element: td
+Start element: b
+Characters:    "Sector"
+End element:   b
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Start element: b
+Characters:    "1993"
+End element:   b
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Start element: b
+Characters:    "1995"
+End element:   b
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Start element: b
+Characters:    "Change"
+End element:   b
+End element:   td
+Characters:    "\n\r                  "
+End element:   tr
+Characters:    "\n\r                  "
+Start element: tr
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "Primary Metal Industries"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$314.8"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$563.9"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "79%"
+End element:   td
+Characters:    "\n\r                  "
+End element:   tr
+Characters:    "\n\r                  "
+Start element: tr
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "Petroleum and Coal Products"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$387.2"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$604.2"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "56%"
+End element:   td
+Characters:    "\n\r                  "
+End element:   tr
+Characters:    "\n\r                  "
+Start element: tr
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "Paper Products"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$506.1"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$707.0"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "40%"
+End element:   td
+Characters:    "\n\r                  "
+End element:   tr
+Characters:    "\n\r                  "
+Start element: tr
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "Chemical Products"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$2,245.9"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$3,055.0"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "36%"
+End element:   td
+Characters:    "\n\r                  "
+End element:   tr
+Characters:    "\n\r                "
+End element:   table
+Characters:    "\n\r              "
+End element:   blockquote
+Characters:    "\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Connecticut is the country�s 42nd largest\n\r              agricultural exporting state, shipping $42.5 million\n\r              in agricultural exports abroad in 1994 (latest year\n\r              available for Department of Agriculture state export\n\r              data). Given the 22 percent increase in total U.S.\n\r              agriculture exports in 1995, agriculture exports from\n\r              Connecticut in 1995 will likely range between $47\n\r              million and $54 million.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Total exports from Connecticut to NAFTA countries\n\r              increased by 5 percent between 1993 (pre-NAFTA) and\n\r              1995 (from $2.0 billion in 1993 to $2.1 billion in\n\r              1995). During 1995, Canada was Connecticut�s largest\n\r              export market, while Mexico was Connecticut�s 12th\n\r              largest export market. Exports to Canada were up by 6\n\r              percent ($0.1 billion) from $1.7 billion in 1993 to\n\r              $1.8 billion in 1995. Connecticut�s exports to Mexico\n\r              were down by 4 percent ($15.3 million), from $363.6\n\r              million in 1993 to $348.3 million in 1995.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              During 1995, Japan was Connecticut�s second largest\n\r              export market. Total exports from Connecticut to\n\r              Japan were up 33 percent ($314 million), from 950.8\n\r              million in 1993 to $1.3 billion in 1995.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Total exports from Connecticut to the European Union\n\r              were up 28 percent ($0.8 billion), from $2.8 billion\n\r              in 1993 to $3.6 billion in 1995.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r      "
+End element:   table
+Characters:    "\n\r      "
+Start element: center
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Start element: center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee,\n\r          Inc."
+End element:   p
+Characters:    "\n\r        "
+End element:   center
+Characters:    "\n\r      "
+End element:   center
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

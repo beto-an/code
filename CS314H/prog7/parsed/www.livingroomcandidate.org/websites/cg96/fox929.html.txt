@@ -1,0 +1,87 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "President's Remarks on the Fox Network"
+End element:   TITLE
+Characters:    "\r\n\r\r\n\r"
+Start element: KPETITLE
+Start element: B
+Characters:    "For Immediate Release:"
+End element:   B
+Characters:    "\r\n\rPresident's Remarks on the Fox Network"
+Start element: DD
+End element:   KPETITLE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Start element: A
+Key: HREF, Value: index22.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r"
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "September 29, 1996\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "TRANSCRIPT OF PRESIDENT CLINTON�S \r\n\r"
+Characters:    "FREE AIR TIME REMARKS ON THE FOX NETWORK\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "QUESTION: Why should we trust you?\r\n\r\r\n\r"
+Start element: P
+Characters:    "PRESIDENT CLINTON: Four years ago, I asked you to take me on faith.  Now you can look at the record.  It demonstrates my commitment to protect our values, meet our challenges, and build America�s bridge to the 21st century.\r\n\r\r\n\r\t"
+Start element: P
+Characters:    "Here it is: The lowest unemployment in 7 1/2 years.  Over ten and a half million new jobs.  A steady decline in crime.  1.8 million people off welfare.  A cleaner environment.  A 60% cut in the deficit.\r\n\r\r\n\r\t"
+Start element: P
+Characters:    "Our opponents passed deep cuts in Medicare, Medicaid, education, and the environment.  They even shut the government down to force the cuts.  But I stopped them with the veto.\r\n\r\r\n\r\t"
+Start element: P
+Characters:    "We fought against them to pass Family Leave, which my opponent still opposes.  We fought for the Brady Bill that has stopped 60,000 felons, fugitives, and stalkers from buying guns.  We fought to raise the minimum wage.  We said no to tobacco ads aimed at our children.\r\n\r\r\n\r\t"
+Start element: P
+Characters:    "I�ve kept faith with America�s families by fighting for them every day.  And that�s what you can count on for the future.\r\n\r"
+Start element: p
+Start element: center
+Characters:    "###\r\n\r"
+End element:   center
+Characters:    "\r\n\r\r\n\r\r\n\r \r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Election Committee, Inc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End of document

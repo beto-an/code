@@ -1,0 +1,225 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Doles Big Prep"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 2, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "STATEMENT BY JOE LOCKHART"
+Characters:    "\n\r    NATIONAL PRESS SECRETARY"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "With Eleven Days to Prep, What Will Bob Dole Have To\n\r    Say For Himself?"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole has spent an "
+Start element: u
+Characters:    "unprecedented"
+End element:   u
+Characters:    " amount of\n\r    time this week preparing for his first debate with President\n\r    Clinton and publicly musing about what the President will say.\n\r    Consider the following:"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "Since Thursday, September 26, "
+Start element: b
+Start element: i
+Characters:    "eleven days before\n\r      the first debate"
+End element:   i
+End element:   b
+Characters:    ", Bob Dole has all but ceased\n\r      non-debate related campaigning;"
+End element:   tt
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "Even his weekly response to President Clinton�s radio\n\r      address eight days before the first debate was devoted to a\n\r      discussion of the debate the following week;"
+End element:   tt
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "Taking a respite from the sun in Bal Harbour, Florida\n\r      - which gave rise to one of the most memorable lines from the\n\r      campaign, �The naked eye may think he�s sitting in the sun\n\r      boiling like a lobster when he�s really thinking like a fox,�\n\r      - Bob Dole travelled Tuesday to Ohio and will be in\n\r      Pennsylvania tomorrow to remind the people of Elizabethtown\n\r      how important Sunday�s debate will be for him;"
+End element:   tt
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "In his only other non-debate prep time this week, Bob\n\r      Dole will spend a couple of hours in Tennessee and Georgia --\n\r      on the way back to Bal Harbour."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Could it be that Bob Dole needs eleven days to come\n\r    up with answers for the record he�s compiled after 35 years in\n\r    Congress? Attached are just 10 of Bob Dole�s greatest hits on\n\r    America�s working families."
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "# # #"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "SENATOR BOB DOLE'S LEGACY"
+Characters:    "\n\r      35 Years Of Opposition to America's Working\n\r      Families"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "1. 1965: DOLE VOTED AGAINST CREATING THE MEDICARE\n\r    PROGRAM: On July 27, 1965, then-Representative Bob Dole voted\n\r    against passage of the conference report creating Medicare (H\n\r    Rept 682). Just 3 months earlier, on April 8, 1965, Dole voted\n\r    against House passage of legislation creating the Medicare\n\r    program (HR 6675). Instead, Dole voted to recommit HR 6675 to\n\r    the Ways and Means Committee with instructions to substitute a\n\r    \"voluntary\" Medicare bill. During a 1995 speech to the American\n\r    Conservative Union, Dole bragged about this vote, saying, \"I\n\r    was there, fighting the fight, voting against Medicare -- one\n\r    of twelve, because we knew it wouldn't work in 1965.\" [CQ\n\r    Almanac, 1965, p. 252, 950, 982; Votes # 34, 35, 97; Dole ACU\n\r    Speech, 10/24/95]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "2. 1965: DOLE VOTED AGAINST CREATING THE STUDENT LOAN\n\r    PROGRAM: On October 20, 1965, Dole was one of only 63\n\r    Representatives who voted against the conference report on the\n\r    Higher Education Act of 1965, which established guaranteed\n\r    federal student loans for higher education. The bill marked\n\r    \"the first time in U.S. history [that] Congress approved\n\r    federal scholarships for undergraduate students.\" The bill\n\r    authorized $70 million annually to provide 140,000 students\n\r    with scholarships. The bill also established a federally\n\r    insured private loan program, with interest subsidies paid by\n\r    the government. [CQ Almanac, 1965, p. 294, p. 1020, Vote # 197;\n\r    CQ Almanac, 1966, p. 299]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "3. 1982: DOLE AUTHORED FOR THE LARGEST PEACETIME TAX\n\r    INCREASE IN HISTORY: In 1982, Bob Dole wrote, voted for, and,\n\r    passed the Tax Equity and Fiscal Responsibility Act of 1982\n\r    (TEFRA 82). Dole's plan increased taxes by $298 billion in 1993\n\r    constant dollars. Dole's tax increase amounted to 1.06% of GDP\n\r    -- nearly 60% larger than the tax increases on the wealthiest\n\r    1.2% contained in President Clinton's 1993 economic package\n\r    (0.67% of GDP). [CQ Almanac, 1982, p. 55-S, Vote # 337; Wall\n\r    Street Journal, 10/26/94] The New York Times wrote, \"When\n\r    adjusted for inflation -- the only way to make comparisons of\n\r    dollar amounts from different years -- a tax increase\n\r    engineered by Mr. Dole in 1982, when he was the chairman of the\n\r    Senate Finance Committee, was larger [than the President's 1993\n\r    economic plan.]\" The Times criticized a November 1995 Dole\n\r    commercial which claimed that President Clinton passed the\n\r    largest tax increase as \"not true\" and \"dubious.\" [New York\n\r    Times, 11/03/95]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "4. 1965: DOLE VOTED AGAINST THE ORIGINAL HEAD START\n\r    AUTHORIZATION: On July 22, 1965, Dole voted against amendments\n\r    to the Economic Opportunity Act of 1964 -- which authorized\n\r    funds for Project Head Start. Project Head Start offered social\n\r    services, health services and pre-learning experiences to\n\r    children from deprived families. [CQ Almanac, 1965, p. 410, p.\n\r    980, Vote # 95]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "5. 1994: DOLE VOTED AGAINST 100,000 NEW POLICE OFFICERS\n\r    & ASSAULT WEAPONS BAN: Dole voted against President Clinton's\n\r    1994 crime bill and led the GOP filibuster of the bill. This\n\r    bill gave grants to law enforcement agencies to put 100,000 new\n\r    community police officers on the nation�s streets and banned 19\n\r    specific kinds of assault weapons, among other things. When\n\r    asked if he had the votes to block the bill, Dole said, �I hope\n\r    I have, I think I have, but I�m prepared to move ahead in any\n\r    event.� Dole's filibuster failed and the crime bill passed by a\n\r    61-38 vote. [Reuters, 8/24/94; CQ Almanac, 1994, p. 50-S, Vote\n\r    # 293-295]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "6. 1995: DOLE VOTED FOR THE EXTREME 1995 REPUBLICAN\n\r    BUDGET: Bob Dole voted for the extreme 1995 GOP budget, which\n\r    did a number of destructive things, including:"
+Characters:    "\n\r    Cut Medicare by $270 Billion: The Dole/Gingrich reconciliation\n\r    bill would have cut Medicare by $270 billion over seven years.\n\r    [CBO, Analysis of HR 2491, 11/16/95]"
+Characters:    "\n\r    Cut Education & Training and Eliminated Direct Student Loans:\n\r    Dole backed $31 billion in education and training cuts and the\n\r    near-elimination of direct student loans. [FY97 Budget Report,\n\r    Chart 8-1; ]"
+Characters:    "\n\r    Cut Medicaid by $163 Billion: The Dole/Gingrich budget would\n\r    have cut Medicaid by $163 billion over seven years and\n\r    eliminated the guarantee of meaningful health care to children,\n\r    seniors, the disabled and pregnant women. [Congressional\n\r    Quarterly, 11/25/95, p. 3613, vote #584, 11/17/95; CBO Analysis\n\r    of H.R. 2491, 11/16/95]"
+Characters:    "\n\r    Gutted Environmental Protections: The Dole/Gingrich budget\n\r    would have cut safe drinking water funding by 45% , toxic dump\n\r    cleanup by 25% and environmental enforcement by 25%. [Los\n\r    Angeles Times, 12/17/95; CQ, 12/16/95, vote #606, p. 3843,\n\r    12/14/95; Statement of Administration Policy on H.R. 2099,\n\r    12/14/95; Veto Message on H.R. 2099, 12/18/95]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "7. 1963: DOLE VOTED AGAINST CREATION OF THE CLEAN AIR\n\r    ACT IN 1963: On December 10, 1963, Dole voted against the\n\r    Conference Report on H.R. 6518, the Clean Air Act. The bill\n\r    initiated and strengthened programs for the prevention and\n\r    abatement of air pollution. The measure passed 273-109 (R\n\r    69-94; D 204-15). Dole also voted against original passage of\n\r    the Clean Air Act on July 18, 1963. [CQ Almanac, 1963, p. 236;\n\r    p. 648, Vote # 104; p. 620, Vote # 47]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "8. 1993: DOLE VOTED AGAINST BRADY BILL, WHICH HAS KEPT\n\r    GUNS FROM 43,000 FELONS: In 1993 Dole led Republican opposition\n\r    to the Brady Bill -- a five-day waiting period for the purchase\n\r    of a handgun to allow for background checks -- and voted\n\r    against final passage of the bill, saying, \"We lost one.\" The\n\r    measure passed 63-36 (R 16-28; D 47-8). The Brady Law is\n\r    working to keep handguns out of the hands of felons. In 1995,\n\r    60,613 people were denied access to a handgun as a result of\n\r    background checks. Of those, 43,217 individuals were denied\n\r    because they were convicted felons. [CQ Almanac, 1993, p. 300 -\n\r    302; p. 50-S, 51-S, Votes # 387, 390, 394; Houston Chronicle,\n\r    11/25/93; BATF, 1/18/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "9. DOLE OPPOSED MINIMUM WAGE INCREASE AT LEAST 10 TIMES\n\r    IN HIS CAREER: Bob Dole voted against or opposed increases in\n\r    the minimum wage at least 10 times during his career --\n\r    including voting against raising the minimum wage from $1.00\n\r    per hour to $1.25 per hour in 1961, his freshmen year in\n\r    Congress. Dole also opposed minimum wage increases in 1966,\n\r    1972, 1973, 1987, 1988, 1993, 1995, 1996. [CQ Almanac, 1961, p.\n\r    518, Vote # 14; Associated Press, 3/26/96; CQ Almanac, 1972, p.\n\r    43-S, Vote # 270; CQ Almanac, 1966, p. 882, Vote # 60; CQ\n\r    Almanac, 1973, p. 48-S, Vote # 296; CQ Almanac, p. 40-S, Vote #\n\r    222; CQ Almanac, p. 55-S, Vote # 336]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "10. DOLE REPEATEDLY DELAYED, THEN VOTED AGAINST FAMILY &\n\r    MEDICAL LEAVE: In 1993, Bob Dole filibustered and voted against\n\r    the Family and Medical Leave Act, which provides workers with\n\r    up to 12 weeks of unpaid leave for the birth or adoption of a\n\r    child or the illness of a close family member. From 1988\n\r    through 1993 Dole opposed and led filibusters against passage\n\r    of the Act. In 1992, Dole voted against overriding President\n\r    Bush's veto of the bill, saying, \"I don't think this has\n\r    anything to do with family values...\" [Democratic Study Group,\n\r    6/13/94, CQ Almanac, 1993, p. 391; p. 3-S, Vote # 11; Hutchison\n\r    News, 9/26/92; CQ Almanac, 1988, p. 261-263; p. 58-S, Vote #\n\r    355; CQ Almanac, 1992, p. 354; Vote # 232, p. 30-S]"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

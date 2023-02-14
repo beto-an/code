@@ -1,0 +1,262 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Speech made on August 10, 1996"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: b
+Start element: font
+Key: size, Value: +1
+Characters:    "August 10, 1996"
+End element:   font
+Characters:    "\n\r      "
+Start element: font
+Key: size, Value: -1
+Characters:    "Remarks by Jack Kemp"
+End element:   font
+Characters:    "\n\r      "
+Start element: font
+Key: size, Value: -1
+Characters:    "Jack Kemp Joins the Winning Team"
+End element:   font
+Characters:    "\n\r      "
+Start element: font
+Key: size, Value: -1
+Characters:    "Russell, Kansas"
+End element:   font
+Characters:    "\n\r      &nbsp;"
+End element:   b
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      Well, Bob, thank you so very, very much for that wonderful\n\r      introduction and that great welcome to Russell, Kansas for\n\r      Joanne and me. We just happened to be in the neighborhood. To\n\r      those who have heard me speak before, it may be somewhat of a\n\r      disappointment. I understand this is going to be a short Jack\n\r      Kemp speech. I kind of got a feeling it was going to be\n\r      short. At lunch today with Elizabeth and Robin, I turned to\n\r      Bob and I said, \"Bob, how long would you like me to speak.\"\n\r      He said, \"Kemp, you can speak as long as you want, but we're\n\r      only going to be here for five more minutes.\""
+Characters:    "\n\r      "
+Characters:    "\n\r      Or until it rains, right. It is no secret that I believe this\n\r      is the most exciting time in the most eventful century in\n\r      human history. Here on the eve of the third century, the 21st\n\r      century and the third millennium, American ideals and\n\r      American ideas grip the imagination of men and women in every\n\r      corner of the globe."
+Characters:    "\n\r      "
+Characters:    "\n\r      In every country in which we travel, you hear the echoes of\n\r      1776, the words of our Declaration of Independence, that all\n\r      men are created equal. The history of our nation has become\n\r      the central feature of the history of the world. There is no\n\r      more challenging nor exhilarating time in history to help\n\r      shape America's leadership and America's future."
+Characters:    "\n\r      "
+Characters:    "\n\r      And let me say from the bottom of my heart to Bob and\n\r      Elizabeth, to their daughter Robin, with my wife at my side,\n\r      I don't believe there's a higher honor than the one Bob Dole\n\r      has bestowed upon me and my dear family and my wife\n\r      Joanne."
+Characters:    "\n\r      "
+Characters:    "\n\r      It will be with a keen sense of determination, as well as\n\r      confidence in our ultimate victory, that I accept the\n\r      challenge and the trust of running on Bob Dole's ticket for\n\r      vice president of the United States of America."
+Characters:    "\n\r      "
+Characters:    "\n\r      It is within our grasp. It is within our grasp to renew\n\r      America's promise, its possibilities, and, most of all, its\n\r      potential. Bob Dole has formally accepted that challenge. He\n\r      has unfurled our banner of growth and opportunity and hope\n\r      and cultural renewal. He has proposed to fundamentally\n\r      reorganize and finally change and reform the way government\n\r      does business. He wants to expand equality of opportunity for\n\r      all our people. That's made the Republican Party the Lincoln\n\r      party. It's now the Lincoln-Reagan-Dole reform party for\n\r      America."
+Characters:    "\n\r      "
+Characters:    "\n\r      When he proposed major tax cuts - when Bob Dole and his team\n\r      proposed major tax cuts to get America growing again - the\n\r      Clinton White House immediately came out with a million\n\r      reasons why it just couldn't be done. But it forgot the real\n\r      lives of millions of our fellow Americans - parents who lay\n\r      awake at night because they can't pay their taxes or their\n\r      bills; workers in the permanent recession of stagnant wages;\n\r      the children of poverty in America's inner cities who have\n\r      never seen a business open in their life."
+Characters:    "\n\r      "
+Characters:    "\n\r      They face despair instead of opportunity and a shot at the\n\r      American dream."
+Characters:    "\n\r      "
+Characters:    "\n\r      Tell them that the status quo is good enough. Tell them we\n\r      can't do better and grow faster. Tell them that inflation is\n\r      caused by too much economic growth. I am especially excited\n\r      about Bob's bold proposal, because our final goal is even\n\r      bolder. This is just the beginning. This is just a down\n\r      payment on true reform, reorganization and renewal."
+Characters:    "\n\r      "
+Characters:    "\n\r      Bob Dole's vision - Bob's vision - is to start with a blank\n\r      slate, create a fairer, flatter, simpler tax code that will\n\r      carry us into the next century and into unimagined prosperity\n\r      in our children's future. Bob Dole knows it's time to release\n\r      the pent-up and the great potential of human freedom and the\n\r      free men and women of our free society. It's a hopeful\n\r      agenda. It's an inclusive agenda."
+Characters:    "\n\r      "
+Characters:    "\n\r      And as one that Bob has described, it is not just limited to\n\r      taxes. It extends to welfare and education, crime and drugs,\n\r      breaking the destructive monopoly of federal power, giving\n\r      authority and resources and responsibility to states and\n\r      families. In every area, Republicans today are testing and\n\r      confronting the frontiers of true, ambitious reform. This is\n\r      the place for the people of America who want to reform this\n\r      great nation and our government."
+Characters:    "\n\r      "
+Characters:    "\n\r      On one side, the Clinton administration seems satisfied with\n\r      a kind of stagnation. On the other side, Bob Dole is pursuing\n\r      the high road begun by Ronald Reagan in 1980, a positive,\n\r      specific agenda of restoring hope, cultural renewal and\n\r      growth. An election should be about, most of all, the big\n\r      things that touch our lives. I can't wait to make that case.\n\r      I can't wait to make that case for Bob Dole in every\n\r      community and every neighborhood of the United States of\n\r      America."
+Characters:    "\n\r      "
+Characters:    "\n\r      This, above all, is a great nation, and we have a great\n\r      mission and a great cause. The entire world is looking to\n\r      America for inspiration and leadership. More than ever, we\n\r      are the bright signal in an otherwise dark night. And our\n\r      country needs a leader whose stature is equal to that\n\r      calling, and it's Bob Dole."
+Characters:    "\n\r      "
+Characters:    "\n\r      We need someone who will fight for his principles, who loves\n\r      America, knows what it means to sacrifice for others, to\n\r      sacrifice for his nation, to demonstrate courage under fire,\n\r      a leader who has, throughout his career, brought together men\n\r      and women of all parties and all backgrounds and all colors\n\r      in a common cause. Bob Dole is that man."
+Characters:    "\n\r      "
+Characters:    "\n\r      Let me close by suggesting that in recent years it has been a\n\r      presidential practice, when delivering a State of the Union\n\r      address, to turn and introduce the heroes in the balcony.\n\r      Next year, when Bob Dole delivers the State of the Union\n\r      address, there will be a hero at the podium."
+Characters:    "\n\r      "
+Characters:    "\n\r      He'll be able to if you let me finish my speech. Let me take\n\r      a moment to put our opponents on notice. Bob and I are going\n\r      to be asking for the support of every single American, from\n\r      the boroughs of New York to the barrios of California. The\n\r      appeal of growth and opportunity crosses every boundary of\n\r      geography and climate and race."
+Characters:    "\n\r      "
+Characters:    "\n\r      Reaching these voters, shaking hands and touching hearts, is\n\r      our foremost goal. We may not get every vote, but we're going\n\r      to make it unambiguously clear in word and in our actions\n\r      that we want to and intend to represent the whole American\n\r      family, that no one will be left behind and no one will be\n\r      turned away. That's the Bob Dole mission for America."
+Characters:    "\n\r      "
+Characters:    "\n\r      One other thought. The great purpose of a great party is not\n\r      to defeat the other party. The purpose of a great party is to\n\r      provide superior leadership and great ideas and to motivate,\n\r      inspire and take this country up, not divide us. Our goal is\n\r      not just to win, but to be worthy of winning."
+Characters:    "\n\r      "
+Characters:    "\n\r      Bob and I are asking Americans to believe again in the\n\r      promise of the American dream, to reach once more for the\n\r      distant stars. We ask for your hands. We ask for your hearts\n\r      and prayers. We want you to stand by us in this battle. And\n\r      together, with God's help, we can achieve a better life for\n\r      each and every American."
+Characters:    "\n\r      "
+Characters:    "\n\r      Dr. King said, \"I don't know what the future holds, but I do\n\r      know who holds the future.\" God bless you. God bless America.\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    "\n\r  "
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/debates/debates.html
+Characters:    "On the Campaign Trail"
+End element:   a
+End element:   u
+Characters:    "\n\r  | "
+Start element: u
+Characters:    "Get Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

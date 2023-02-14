@@ -1,0 +1,146 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "New Assistant Director of Public Liason for Asian Pacific\n\r  American Outreach"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    7/30/96"
+Characters:    "\n\r    PRESS RELEASE"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "CLINTON/GORE '96 APPOINTS NEW ASSISTANT DIRECTOR OF\n\r    PUBLIC LIASON FOR ASIAN PACIFIC AMERICAN OUTREACH"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Clinton/Gore '96 has named Sharon P. Singh, Assistant\n\r    Director of the Office of Public Liaison for Asian Pacific\n\r    American Outreach. Ms. Singh will direct the organizing and\n\r    coordination of Clinton/Gore '96 campaign events in the APA\n\r    community nationwide."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"Clinton/Gore '96 is very excited to have Sharon working\n\r    on these issues. Her broad political experience along with her\n\r    commitment to the greater involvement of the Asian Pacific\n\r    American community will greatly benefit the campaign,\" said\n\r    Deputy Campaign Manager, former Congressman Alan\n\r    Wheat."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton and Vice President Gore have taken the\n\r    lead on issues important to all Asian Pacific Americans\n\r    including:"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: ul
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "Expanding trade markets in Asia and the Pacific for\n\r      U.S. exports;"
+End element:   tt
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "Appointing 195 Asian Pacific American political\n\r      appointees to this Administration;"
+End element:   tt
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "Signing the Family and Medical Leave Act so workers\n\r      can take time off to care for sick members without losing\n\r      their jobs;"
+End element:   tt
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "Increasing access to college by reforming student\n\r      loans and expanding work study;"
+End element:   tt
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "Establishing Americorps, young people now have the\n\r      opportunity to serve their communities while earning money\n\r      for college."
+End element:   tt
+End element:   li
+Characters:    "\n\r    "
+End element:   ul
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Ms. Singh joins Clinton/Gore '96 from the Democratic\n\r    National Committee, where she was deputy director of Asian\n\r    Pacific American Affairs. Her previous political experience\n\r    includes working for the Democratic Congressional Campaign\n\r    Committee and various members of Congress, including\n\r    Congressman Vic Fazio (D-CA). She has been an active leader and\n\r    advocate for Asian Pacific Americans for several\n\r    years."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"Asian Pacific Americans are a critical constituent\n\r    group whose active involvement and support are vital for the\n\r    successful reelection of President Clinton and Vice President\n\r    Gore. Clinton/Gore '96 recognizes the enormous contributions of\n\r    APAs and they truly are part of the diversity of support that\n\r    is testament to President Clinton and Vice President Gore's\n\r    outstanding record of accomplishments and their understanding\n\r    of the critical importance of this community's vote,\" said Ms.\n\r    Singh."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "###"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

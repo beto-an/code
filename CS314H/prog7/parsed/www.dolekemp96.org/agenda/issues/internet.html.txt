@@ -1,0 +1,312 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Where Bob Dole Stands on Technology and Internet\n\r  Issues"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: h2
+Key: align, Value: center
+Key: style, Value: text-align:center
+Characters:    "Where Bob Dole\n\r  Stands on Technology and Internet Issues"
+End element:   h2
+Characters:    "\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Key: style, Value: margin-bottom:12.0pt
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "America Should be the Technology Leader of the\n\r  World"
+End element:   span
+End element:   b
+Characters:    "\n\r  Bob Dole has long been a supporter of policies that foster\n\r  innovation and entrepreneurship. He understands that the United\n\r  States must remain the technological leader of the world."
+Characters:    "\n\r  "
+Characters:    "\n\r  Bob Dole recognizes the opportunities that the Internet and\n\r  interactive media can provide American citizens to express their\n\r  ideas, enhance individual liberty, and create and engage in\n\r  electronic commerce. The openness and decentralized nature of the\n\r  Internet demands a new approach to policy making that recognizes\n\r  the unique characteristics of this new medium."
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Bill Clinton Wants to Put \"Big\n\r  Brother\" in Your Computer"
+End element:   span
+End element:   b
+Characters:    "\n\r  Bill Clinton believes in bureaucratic micro-management of the\n\r  information economy."
+End element:   p
+Characters:    "\n\r  "
+Start element: ul
+Key: type, Value: disc
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l11 level1 lfo21;tab-stops:list .5in
+Characters:    "\n\r    Within his first 100 days as President, Bill Clinton proposed\n\r    the Clipper Chip -- a secret government-controlled encryption\n\r    algorithm -- and a companion key escrow system where two\n\r    government agencies would hold a copy of the keys for every\n\r    Clipper user. Since then Bill Clinton has released updated\n\r    versions of encryption proposals which insist that the\n\r    government hold a key to individual's private data\n\r    communications."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;margin-bottom:12.0pt; mso-list:l11 level1 lfo21;tab-stops:list .5in
+Characters:    "\n\r    The Clinton Administration's Internet Task Force has proposed\n\r    legislation that would reduce the rights of users of\n\r    copyrighted material if that information is used on the\n\r    Internet. Their infamous \"NII White Paper\" ignored important\n\r    court decisions which balance the rights of information users\n\r    with those of information creators."
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Bob Dole Will Protect the\n\r    Constitutional Liberty of Internet Users"
+End element:   span
+End element:   b
+Characters:    "\n\r    Bob Dole is concerned about children accessing unsuitable\n\r    material when using the Internet. But strict censorship of the\n\r    Internet is not the answer. Bob Dole believes that parents\n\r    should take responsibility for the material that their children\n\r    view, and he wants to encourage technology which allows those\n\r    decisions to be made within each home."
+Characters:    "\n\r    "
+Characters:    "\n\r    Throughout his Senate career, Bob Dole has fought to protect\n\r    the Constitutional liberty of Americans:"
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l11 level1 lfo21;tab-stops:list .5in
+Characters:    "\n\r    Bob Dole is a supporter of the Pro-CODE bill that limits the\n\r    federal government's control of encryption and user keys. It\n\r    permits the export of software that includes encryption if the\n\r    software is easily available in this country."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l11 level1 lfo21;tab-stops:list .5in
+Characters:    "\n\r    Bob Dole strongly supports the observations made in the recent\n\r    National Research Council report that widespread use of\n\r    encryption to promote information security outweighs the\n\r    difficulties encrypted communications place on law enforcement.\n\r    Economic espionage from foreign countries and companies is a\n\r    serious threat, and Bob Dole believes Americans should have the\n\r    right to guard themselves using encryption."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l11 level1 lfo21;tab-stops:list .5in
+Characters:    "\n\r    Bob Dole supported the Senate hearings on Internet copyright\n\r    laws. The hearings provided suggestions from information\n\r    creators, Internet and on-line service providers, librarians\n\r    and Internet users on developing compromises that balance the\n\r    rights and needs of all participants."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l11 level1 lfo21;tab-stops:list .5in
+Characters:    "\n\r    Bob Dole fought for provisions in the Telecommunications Act of\n\r    1996 that encourage parents to take responsibility for the\n\r    Internet material which their children view."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;margin-bottom:12.0pt; mso-list:l11 level1 lfo21;tab-stops:list .5in
+Characters:    "\n\r    Bob Dole helped pass the Bayh-Dole act of 1980 which helped\n\r    create the biotechnology industry by allowing inventions from\n\r    federal research dollars to be commercially developed."
+Characters:    "\n\r    "
+Characters:    "\n\r    As President, Bob Dole will:"
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l11 level1 lfo21;tab-stops:list .5in
+Characters:    "\n\r    Promote policies that ensure that the United States remains the\n\r    world leader in technological innovation."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l11 level1 lfo21;tab-stops:list .5in
+Characters:    "\n\r    Reject heavy-handed big-government regulations of\n\r    cyberspace."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l11 level1 lfo21;tab-stops:list .5in
+Characters:    "\n\r    Promote policies that preserve and advance the openness and\n\r    decentralization of computer-based communications."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l11 level1 lfo21;tab-stops:list .5in
+Characters:    "\n\r    Preserve and protect American citizens' right to privacy and\n\r    the need for secure communications."
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "A Better\n\r    America"
+End element:   span
+End element:   b
+Characters:    "\n\r    With Bob Dole as President, the United States will once again\n\r    be the world's technology leader. Americans will have the\n\r    freedom to use the Internet without governmental intrusion. He\n\r    believes the American people know best how to manage their own\n\r    lives and their own computers."
+End element:   li
+Characters:    "\n\r  "
+End element:   ul
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../../news/news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    " "
+Start element: a
+Key: href, Value: ../agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the\n\r  Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

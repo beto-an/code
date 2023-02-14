@@ -1,0 +1,138 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "College Day Kick Off"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 22, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "PRESIDENT CLINTON, VICE PRESIDENT GORE, AND FIRST LADY\n\r      HILLARY RODHAM CLINTON SPEAK TO YOUNG VOTERS ON \"COLLEGE\n\r      DAY\""
+End element:   b
+End element:   tt
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Start element: b
+Start element: i
+Characters:    "Elected Officials, Celebrities and Students\n\r      Speak Out in over 15 states"
+End element:   i
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Washington, D.C. -- President Bill Clinton, Vice\n\r    President Al Gore, and First Lady Hillary Rodham Clinton today\n\r    are kicking off the Clinton/Gore campaign�s \"College Day.\"\n\r    College Day, October 22, is a national effort to speak directly\n\r    to college students across the country and encourage their\n\r    participation in the upcoming election."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton will speak to students at Miami-Dade\n\r    Community College in Florida. Throughout Florida, students have\n\r    registered over 10,000 new college voters. Vice President Gore\n\r    is speaking at South Dakota School of Mines and Technology, and\n\r    Mrs. Clinton will address students at the University of\n\r    Nevada-Las Vegas."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton, who is speaking about College Day,\n\r    said, \"Young people are critical in our campaign and in this\n\r    election process. They must join us, use their voices, and\n\r    participate in this critical election. They must help to shape\n\r    their future.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "There will be \"College Day\" events today in 15 states\n\r    sponsored by the Coordinated Campaign that feature Senators,\n\r    Governors, Congressmen, celebrities, activists and students.\n\r    The events will bring national attention to the importance of\n\r    young people in this election and how young people can and will\n\r    use their voices and their votes."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"The President, Vice President, and the First Lady have\n\r    always been committed to the young people of this country. On\n\r    this day, they are standing up for young people and asking for\n\r    their input, their participation, and their votes. I am proud\n\r    to work on a campaign that has worked so hard for America�s\n\r    young voters,\" said Sarah Lichtman, Director of Youth\n\r    Outreach."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "For more information on the Coordinated Campaign\n\r    activities, contact Mark Nevins at 202/479-5178."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "# # #"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

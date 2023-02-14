@@ -1,0 +1,312 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "The Bob Dole Story"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: h2
+Characters:    "&nbsp;"
+End element:   h2
+Characters:    "\n\r    "
+Start element: h2
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "The Bob Dole Story"
+End element:   font
+End element:   h2
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Start element: font
+Key: size, Value: +1
+Start element: b
+Characters:    "Introduction"
+End element:   b
+End element:   font
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Bob Dole has been called \"a\n\r  towering figure\" and \"the most enduring Republican leader of the\n\r  twentieth century.\" But like many of our greatest leaders, Bob\n\r  Dole had the humblest of beginnings. His story begins on the\n\r  Great Plains, in a small town in America's breadbasket - a place\n\r  where everybody knows each other by first name, where families go\n\r  to church every Sunday and where the community doesn't think\n\r  twice about rallying around a neighbor in need. It is from those\n\r  roots deep in the Western Kansas soil that he still draws\n\r  strength and that has shaped his vision for America's\n\r  future."
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "\n\r  "
+Characters:    "&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: face, Value: Times New Roman
+Start element: b
+Characters:    "Growing Up in\n\r  Small-Town Kansas"
+End element:   b
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Robert Joseph Dole was born on\n\r  July 22, 1923 in a small plains town in western Kansas called\n\r  Russell. He grew up in a small frame house with his mother and\n\r  father, two sisters, Norma Jean and Gloria, and brother Kenny.\n\r  Bob Dole's father, Doran, ran a cream-and-egg stand. He proudly\n\r  wore his overalls to work everyday for 42 years. Dole's mother,\n\r  Bina, sold sewing machines door-to-door. During the Depression,\n\r  the Dole family pulled together to get by in the most difficult\n\r  financial times. To make ends meet, the Doles moved into the\n\r  basement of their home and rented out the rest of the house.\n\r  Young Bob went to work as a soda jerk at Dawson's Drug Store in\n\r  Russell. In those early years, when times were tough and money\n\r  was short, Bob Dole learned the value of hard work, the worth of\n\r  a dollar earned and the need to be financially\n\r  responsible."
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    1 | "
+Start element: a
+Key: href, Value: page2.html
+Characters:    "2"
+End element:   a
+Characters:    " | "
+Start element: a
+Key: href, Value: page3.html
+Characters:    "3"
+End element:   a
+Characters:    " |\n\r    "
+Start element: a
+Key: href, Value: page4.html
+Characters:    "4"
+End element:   a
+Characters:    " | "
+Start element: a
+Key: href, Value: page5.html
+Characters:    "5"
+End element:   a
+Characters:    " |\n\r    "
+Start element: a
+Key: href, Value: page6.html
+Characters:    "6"
+End element:   a
+Characters:    " | "
+Start element: a
+Key: href, Value: page7.html
+Characters:    "7"
+End element:   a
+Characters:    " |\n\r    "
+Start element: a
+Key: href, Value: page8.html
+Characters:    "8"
+End element:   a
+Characters:    " | "
+Start element: a
+Key: href, Value: page9.html
+Characters:    "9"
+End element:   a
+Characters:    " |\n\r    "
+Start element: a
+Key: href, Value: page2.html
+Characters:    "Next Page"
+End element:   a
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole Interactive"
+End element:   u
+Characters:    "\n\r  | "
+Start element: u
+Start element: a
+Key: href, Value: ../../news/news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    "\n\r  "
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get\n\r  Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/about/bob/page6.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/about/bob/page7.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/about/bob/page3.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/about/bob/page9.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/about/bob/page4.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/about/bob/page8.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/about/bob/page5.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/about/bob/page2.html

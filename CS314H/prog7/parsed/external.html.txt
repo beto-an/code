@@ -1,0 +1,156 @@
+Start of document
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Page not retrieved! - HTTrack Website Copier"
+End element:   title
+Characters:    "\n\r  "
+Start element: style
+Key: type, Value: text/css
+Characters:    "\n\r\n\r        <!--\n\r\n\r  body {\n\r        margin: 0;  padding: 0;  margin-bottom: 15px;  margin-top: 8px;\n\r        background: #77b;\n\r  }\n\r  body, td {\n\r        font: 14px \"Trebuchet MS\", Verdana, Arial, Helvetica, sans-serif;\n\r        }\n\r\n\r  #subTitle {\n\r        background: #000;  color: #fff;  padding: 4px;  font-weight: bold; \n\r        }\n\r\n\r  #siteNavigation a, #siteNavigation .current {\n\r        font-weight: bold;  color: #448;\n\r        }\n\r  #siteNavigation a:link    { text-decoration: none; }\n\r  #siteNavigation a:visited { text-decoration: none; }\n\r\n\r  #siteNavigation .current { background-color: #ccd; }\n\r\n\r  #siteNavigation a:hover   { text-decoration: none;  background-color: #fff;  color: #000; }\n\r  #siteNavigation a:active  { text-decoration: none;  background-color: #ccc; }\n\r\n\r\n\r  a:link    { text-decoration: underline;  color: #00f; }\n\r  a:visited { text-decoration: underline;  color: #000; }\n\r  a:hover   { text-decoration: underline;  color: #c00; }\n\r  a:active  { text-decoration: underline; }\n\r\n\r  #pageContent {\n\r        clear: both;\n\r        border-bottom: 6px solid #000;\n\r        padding: 10px;  padding-top: 20px;\n\r        line-height: 1.65em;\n\r  background-image: url(backblue.gif);\n\r  background-repeat: no-repeat;\n\r  background-position: top right;\n\r        }\n\r\n\r  #pageContent, #siteNavigation {\n\r        background-color: #ccd;\n\r        }\n\r\n\r\n\r  .imgLeft  { float: left;   margin-right: 10px;  margin-bottom: 10px; }\n\r  .imgRight { float: right;  margin-left: 10px;   margin-bottom: 10px; }\n\r\n\r  hr { height: 1px;  color: #000;  background-color: #000;  margin-bottom: 15px; }\n\r\n\r  h1 { margin: 0;  font-weight: bold;  font-size: 2em; }\n\r  h2 { margin: 0;  font-weight: bold;  font-size: 1.6em; }\n\r  h3 { margin: 0;  font-weight: bold;  font-size: 1.3em; }\n\r  h4 { margin: 0;  font-weight: bold;  font-size: 1.18em; }\n\r\n\r  .blak { background-color: #000; }\n\r  .hide { display: none; }\n\r  .tableWidth { min-width: 400px; }\n\r\n\r  .tblRegular       { border-collapse: collapse; }\n\r  .tblRegular td    { padding: 6px;  background-image: url(fade.gif);  border: 2px solid #99c; }\n\r  .tblHeaderColor, .tblHeaderColor td { background: #99c; }\n\r  .tblNoBorder td   { border: 0; }\n\r\n\r\n\r  // -->\n\r  "
+End element:   style
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Characters:    "\n\r  %s\n\r  "
+Start element: table
+Key: width, Value: 76%%
+Key: border, Value: 0
+Key: align, Value: center
+Key: cellspacing, Value: 0
+Key: cellpadding, Value: 3
+Key: class, Value: tableWidth
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: id, Value: subTitle
+Characters:    "HTTrack Website Copier - Open Source\n\r      offline browser"
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r  "
+End element:   table
+Characters:    "\n\r  "
+Start element: table
+Key: width, Value: 76%%
+Key: border, Value: 0
+Key: align, Value: center
+Key: cellspacing, Value: 0
+Key: cellpadding, Value: 0
+Key: class, Value: tableWidth
+Characters:    "\n\r    "
+Start element: tr
+Key: class, Value: blak
+Characters:    "\n\r      "
+Start element: td
+Characters:    "\n\r        "
+Start element: table
+Key: width, Value: 100%%
+Key: border, Value: 0
+Key: align, Value: center
+Key: cellspacing, Value: 1
+Key: cellpadding, Value: 0
+Characters:    "\n\r          "
+Start element: tr
+Characters:    "\n\r            "
+Start element: td
+Key: colspan, Value: 6
+Characters:    "\n\r              "
+Start element: table
+Key: width, Value: 100%%
+Key: border, Value: 0
+Key: align, Value: center
+Key: cellspacing, Value: 0
+Key: cellpadding, Value: 10
+Characters:    "\n\r                "
+Start element: tr
+Characters:    "\n\r                  "
+Start element: td
+Key: id, Value: pageContent
+Characters:    "\n\r                    "
+Characters:    "\n\r                    "
+Start element: h1
+Start element: strong
+Start element: u
+Characters:    "Oops!..."
+End element:   u
+End element:   strong
+End element:   h1
+Characters:    "\n\r                    "
+Start element: h3
+Characters:    "This page has "
+Start element: font
+Key: color, Value: red
+Start element: em
+Characters:    "not"
+End element:   em
+End element:   font
+Characters:    " been retrieved by\n\r                    HTTrack Website Copier."
+End element:   h3
+Characters:    "\n\r                    "
+Start element: script
+Key: language, Value: Javascript
+Characters:    "\n\r                    <!--\n\r                    var loc=document.location.toString();\n\r                    if (loc) {\n\r                    var pos=loc.indexOf('link=');\n\r                    if (pos>0) {\n\r                    document.write('Clic to the link <b>below</b> to go to the online location!<br><a href=\"'+loc.substring(pos+5)+'\">'+loc.substring(pos+5)+'</a><br>');\n\r                    } else\n\r                    document.write('(no location defined)');\n\r                    }\n\r                    // -->\n\r                    "
+End element:   script
+Characters:    "\n\r                    "
+Start element: h6
+Key: align, Value: right
+Characters:    "Mirror by HTTrack Website\n\r                    Copier"
+End element:   h6
+Characters:    "\n\r                    "
+Characters:    "\n\r                  "
+End element:   td
+Characters:    "\n\r                "
+End element:   tr
+Characters:    "\n\r              "
+End element:   table
+Characters:    "\n\r            "
+End element:   td
+Characters:    "\n\r          "
+End element:   tr
+Characters:    "\n\r        "
+End element:   table
+Characters:    "\n\r      "
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r  "
+End element:   table
+Characters:    "\n\r  "
+Start element: table
+Key: width, Value: 76%%
+Key: height, Value: 100%%
+Key: border, Value: 0
+Key: align, Value: center
+Key: valign, Value: bottom
+Key: cellspacing, Value: 0
+Key: cellpadding, Value: 0
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: id, Value: footer
+Start element: small
+Characters:    "© 2014 Xavier Roche & other\n\r      contributors - Web Design: Kauler Leto."
+End element:   small
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r  "
+End element:   table
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

@@ -1,0 +1,454 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Export Growth: Mississippi"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +2
+Start element: font
+Key: color, Value: #001058
+Characters:    "OPENING NEW MARKETS"
+Characters:    "\n\r    TO CREATE JOBS FOR U.S. WORKERS"
+End element:   font
+End element:   font
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    " "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Mississippi recorded goods exports totaling $1.4\n\r              billion in 1995, up 58 percent ($531.9 million) from\n\r              1993. During 1995, Mississippi was the 39th largest\n\r              exporter of goods.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Mississippi�s jobs supported by goods exports grew an\n\r              estimated 44 percent (5,616 jobs) since 1993.\n\r              Export-related jobs pay 13 to 16 percent higher than\n\r              the national average.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              In 1991, the latest year available, Mississippi\n\r              exports accounted for 16.6 percent of its\n\r              manufacturing output and represented 12.9 percent of\n\r              its total manufacturing employment.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Mississippi�s exports of manufactured products were\n\r              up by 51 percent between 1993 and 1995 (from 880.0\n\r              million in 1993 to $1.3 billion in 1995).\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              The five largest manufacturing sectors in terms of\n\r              Mississippi�s exports were: Transportation Equipment\n\r              ($221.5 million of exports in 1995), Electronic and\n\r              Electric Equipment (186.2 million), Paper Products\n\r              ($178.0 million), Food Products ($144.5 million), and\n\r              Industrial Machinery and Computers ($110.5 million).\n\r              These five sectors accounted for 58 percent of the\n\r              state�s total exports in 1995.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Among Mississippi�s fastest growing manufactured\n\r              exports (in millions) were:"
+Characters:    "\n\r              "
+Start element: blockquote
+Characters:    "\n\r                "
+Start element: table
+Key: border, Value: 1
+Characters:    "\n\r                  "
+Start element: tr
+Characters:    "\n\r                    "
+Start element: td
+Start element: b
+Characters:    "Sector"
+End element:   b
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Start element: b
+Characters:    "1993"
+End element:   b
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Start element: b
+Characters:    "1995"
+End element:   b
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Start element: b
+Characters:    "Change"
+End element:   b
+End element:   td
+Characters:    "\n\r                  "
+End element:   tr
+Characters:    "\n\r                  "
+Start element: tr
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "Food Products"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$50.7"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$144.5"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "185%"
+End element:   td
+Characters:    "\n\r                  "
+End element:   tr
+Characters:    "\n\r                  "
+Start element: tr
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "Transportation Equipment"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$119.8"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$221.5"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "85%"
+End element:   td
+Characters:    "\n\r                  "
+End element:   tr
+Characters:    "\n\r                  "
+Start element: tr
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "Paper Products"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$111.5"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$178.0"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "60%"
+End element:   td
+Characters:    "\n\r                  "
+End element:   tr
+Characters:    "\n\r                  "
+Start element: tr
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "Electronic and Electric Equipment"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$127.7"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$186.2"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "46%"
+End element:   td
+Characters:    "\n\r                  "
+End element:   tr
+Characters:    "\n\r                "
+End element:   table
+Characters:    "\n\r              "
+End element:   blockquote
+Characters:    "\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Mississippi is the country�s 23rd largest\n\r              agricultural exporting state, shipping $580 million\n\r              in agricultural exports abroad or 1.3% of the U.S.\n\r              total in 1994 (latest year available for Department\n\r              of Agriculture state export data). The largest export\n\r              categories, cotton, soybeans, and poultry, accounted\n\r              for over 80 percent of Mississippi�s agricultural\n\r              exports in 1994. Given the 22 percent increase in\n\r              total U.S. agriculture exports in 1995, agriculture\n\r              exports from Mississippi in 1995 will likely range\n\r              between $675 million and $725 million.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Total exports from Mississippi to NAFTA countries\n\r              increased by 19 percent between 1993 (pre-NAFTA) and\n\r              1995 (from $418.7 million in 1993 to $497.3 million\n\r              in 1995). During 1995, Canada was Mississippi�s\n\r              largest export market, while Mexico was Mississippi�s\n\r              fifth largest export market. Exports to Canada were\n\r              up by 3 percent ($9.7 million), from $391.7 million\n\r              in 1993 to $401.4 million in 1995. Mississippi�s\n\r              exports to Mexico were up by 255 percent ($68.9\n\r              million), from $27.0 million in 1993 to $95.9 million\n\r              in 1995.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              During 1995, Japan was Mississippi�s 13th largest\n\r              export market. Total exports from Mississippi to\n\r              Japan were down 8 percent ($2.4 million), to $26.8\n\r              million in 1995.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Total exports from Mississippi to the European Union\n\r              were up 35 percent ($60.6 million), from $172.1\n\r              million in 1993 to $232.7 million in 1995.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r      "
+End element:   table
+Characters:    "\n\r      "
+Start element: center
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Start element: center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee,\n\r          Inc."
+End element:   p
+Characters:    "\n\r        "
+End element:   center
+Characters:    "\n\r      "
+End element:   center
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

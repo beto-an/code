@@ -1,0 +1,133 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "Dole Equals Medicare Cuts"
+End element:   TITLE
+Characters:    "\r\n\r"
+Start element: kpetitle
+Characters:    "Dole Equals Meidcare Cuts"
+End element:   kpetitle
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Start element: A
+Key: HREF, Value: index22.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r"
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "September 26, 1996\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "STATEMENT BY JOE LOCKHART\r\n\r"
+Characters:    "NATIONAL PRESS SECRETARY\r\n\r\r\n\r\r\n\r\r\n\r\t"
+Start element: P
+Characters:    "It was just two years ago tomorrow that Newt Gingrich stood on the steps of the Capitol and unveiled the Dole/Gingrich legislative \"Contract\" agenda.  \r\n\r\r\n\r\t"
+Start element: P
+Characters:    "And out on the campaign trail in 1994, Bob Dole protested that the President -- because he opposed the radical Dole/Gingrich agenda -- was trying to \"scare\" older Americans by \"falsely accusing Republicans of secret plans to cut... Medicare benefits...\" \r\n\r\r\n\r\t"
+Start element: P
+Characters:    "The only problem?  Last year�s record Medicare cut is now hanging around Dole�s neck like a millstone.  Once Dole and Gingrich came to power, they unveiled their secret plan -- which they hid from the American public during the 1994 campaign -- to cut Medicare by $270 billion. \r\n\r\r\n\r\t"
+Start element: P
+Characters:    "Bob Dole is up to his old tricks in Florida today, saying the President is trying to scare senior citizens about Medicare.  Bob Dole should take some responsibility for his own actions.    \r\n\r\r\n\r\t"
+Start element: P
+Characters:    "What scares older Americans in Florida and around the nation is Bob Dole�s own record of hostility towards Medicare.  It was Bob Dole voted against the creation of Medicare in 1965 and bragged about it in 1995, saying: \"I was there, fighting the fight, voting against Medicare -- one of twelve, because we knew it wouldn�t work in 1965.\"  And it was Bob Dole who voted on November 17, 1995 for the Dole/Gingrich budget which would have cut Medicare by $270 billion -- the deepest cuts in history.  \r\n\r\r\n\r\t"
+Start element: P
+Characters:    "Now Bob Dole is proposing a risky $548 billion election-year economic scheme which experts say could lead to even deeper cuts in Medicare.  Given Bob Dole�s record, and his cover-up of the secret Dole/Gingrich plan to cut Medicare in 1994, older Americans have a right to be afraid of what Bob Dole would do to Medicare.   \r\n\r\r\n\r"
+Start element: center
+Characters:    "###"
+End element:   center
+Characters:    "\r\n\r\r\n\r\r\n\r"
+Start element: P
+Start element: CENTER
+Characters:    "Bob Dole and Medicare"
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r\r\n\r"
+Start element: B
+Start element: P
+Characters:    "IN 1994 DOLE HID SECRET DOLE/GINGRICH PLAN TO CUT MEDICARE: "
+Characters:    "\r\n\r\r\n\r  "
+Characters:    "Just days before the 1994 elections, Dole mislead seniors and other voters about secret GOP plans to cut Medicare spending. Dole said, \"[Clinton and Gore are] falsely accusing Republicans of secret plans to cut Social Security and Medicare benefits as well as student loans and farm programs.\"  [Washington Post, 11/6/94] \r\n\r\r\n\r"
+Start element: B
+Start element: P
+Characters:    "...THEN IN 1995 DOLE VOTED TO CUT MEDICARE BY $270 BILLION:"
+Characters:    "\r\n\r "
+Characters:    "On November 17, 1995, Dole voted for passage of the Republican budget reconciliation bill conference report. The GOP budget reconciliation cut Medicare by $270 billion and Medicaid by $164 billion over seven years. [Congressional Record, 11/17/95; Vote # 584, p. S-17330; CBO, Analysis of HR 2491, 11/16/95]\r\n\r\r\n\r"
+Start element: B
+Start element: P
+Characters:    "IN 1995 DOLE BRAGGED ABOUT VOTING AGAINST CREATION OF MEDICARE IN 1965:"
+Characters:    "\r\n\r "
+Characters:    "During an October 1995 speech to the American Conservative Union, Bob Dole bragged about voting against the bill that created Medicare: \"I was there, fighting the fight, voting against Medicare -- one of 12 -- because we knew it wouldn't work in 1965.\" [American Conservative Union Speech, 10/24/95]\r\n\r\r\n\r"
+Start element: P
+Start element: b
+Characters:    "IN 1965 DOLE VOTED AGAINST CREATING THE MEDICARE PROGRAM:"
+End element:   B
+Characters:    "\r\n\r "
+Characters:    "On April 8, 1965 then-Representative Bob Dole voted against House passage of legislation creating the Medicare program (HR 6675).  On July 27, 1965, Dole also voted against passage of the conference report creating Medicare (H Rept 682) which passed. [1965 CQ Almanac]\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "EXPERTS & AL D�AMATO SAY DOLE�S RISKY SCHEME WILL CAUSE MEDICARE CUTS:"
+End element:   B
+Characters:    "\r\n\r "
+Characters:    "In August, Dole�s campaign chairman Al D�Amato admitted Dole would have to cut Medicare under his plan. D�Amato said that under Dole risky $548 billion scheme, \r\n\r\"You're gonna have to look at Medicare... I would never say it if I were him [Dole] until after the election. No way. No way.  Absolutely. I mean I'm not running this year so I can say it and tell the truth.\" [Don Imus Show, 8/12/96]\r\n\r\r\n\r "
+Start element: P
+Start element: U
+Characters:    "BusinessWeek "
+End element:   U
+Characters:    "wrote of Dole�s risky $548 billion scheme, \"Where on earth does he come up with that kind of dough...? From popular programs, such as Medicare and environmental protection. But candidate Dole knows it's bad politics to admit that now.\" The "
+Start element: U
+Characters:    "Boston Globe "
+End element:   U
+Characters:    "wrote that \"a wide variety of budget specialists said the Dole proposal would require\" cuts in Medicare. ["
+Start element: U
+Characters:    "Business Week"
+End element:   U
+Characters:    ", 8/19/96; "
+Start element: U
+Characters:    "Boston Globe"
+End element:   U
+Characters:    ", 8/6/96]\r\n\r"
+Start element: P
+Characters:    "\r\n\r\r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Election Committee,\r\n\rInc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End of document

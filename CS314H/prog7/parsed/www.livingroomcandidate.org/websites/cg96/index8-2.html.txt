@@ -1,0 +1,241 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "America’s Home Page"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index12-2.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: i
+Characters:    "o\n\r      you have a message you would like to see on this site? We are\n\r      creating&nbsp;"
+Start element: a
+Key: href, Value: index133.html
+Characters:    "“America’s Home\n\r      Page,”"
+End element:   a
+Characters:    " a compendium of text, pictures, and multimedia\n\r      pertaining to the Clinton/Gore ’96 candidacy, made entirely\n\r      of submissions from supporters across America."
+End element:   i
+Characters:    "\n\r      "
+Start element: p
+Start element: i
+Characters:    "If you have an anecdote, thought, story, photograph, or\n\r      even a video or audio recording that you would like to share\n\r      with the other visitors to this site, you can send us the\n\r      location of your materials electronically. Just fill out the\n\r      form below, with the URL of the material you would like us to\n\r      consider for this project."
+End element:   i
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: i
+Characters:    "If you are not able to put up your material on the web,\n\r      you can send it by regular mail to the address below. Please\n\r      be aware that no materials submitted can be returned."
+End element:   i
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: b
+Characters:    "America’s Home Page"
+Characters:    "\n\r      c/o Clinton/Gore ’96"
+Characters:    "\n\r      P.O. Box 19300"
+Characters:    "\n\r      Washington, D.C."
+Characters:    "\n\r      20036"
+End element:   b
+End element:   p
+Characters:    "\n\r      "
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: form
+Key: method, Value: get
+Key: action, Value: ../../../external.html
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: table
+Key: border, Value: 0
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: width, Value: 50
+Characters:    "\n\r            "
+Start element: p
+Characters:    "Last:"
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "First:"
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "Middle Initial:"
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r      "
+End element:   table
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: table
+Key: border, Value: 0
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Start element: p
+Characters:    "Street:"
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: colspan, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: width, Value: 50
+Characters:    "\n\r            "
+Start element: p
+Characters:    "City:"
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "State:"
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Characters:    "Zip:"
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r      "
+End element:   table
+Characters:    "\n\r      "
+Start element: table
+Key: border, Value: 0
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: width, Value: 70
+Characters:    "Email:"
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: width, Value: 70
+Characters:    "URL:"
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r      "
+End element:   table
+Characters:    "\n\r      "
+Start element: textarea
+Key: name, Value: Comment
+Key: rows, Value: 10
+Key: cols, Value: 54
+Characters:    "\n\rSend us your comments.\n\r"
+End element:   textarea
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r    "
+End element:   form
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index12-2.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index133.html

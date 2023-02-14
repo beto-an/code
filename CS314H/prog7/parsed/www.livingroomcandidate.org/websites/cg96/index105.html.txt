@@ -1,0 +1,269 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | 21st Century Express | Pontiac, MI"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index8.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: b
+Characters:    "REMARKS BY THE PRESIDENT TO THE PEOPLE OF THE PONTIAC\n\r    AREA"
+End element:   b
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Amtrak Station"
+Characters:    "\n\r    Pontiac, Michigan"
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    THE PRESIDENT: Thank you. Thank you. Thank you. (Applause.)\n\r    First of all, let me say it is wonderful to be in Pontiac.\n\r    (Applause.) I am sorry that it's been since Harry Truman came\n\r    here in 1948 since a President has been here. But I'm glad to\n\r    be following in Harry Truman's footsteps with you today.\n\r    (Applause.)\n\r    "
+Start element: p
+Characters:    "Let me begin by saying a thank you to Jay and to Jenna for\n\r    their work in AmeriCorps, for the example they set for our\n\r    young people, and for their proof that our young people still\n\r    care about others and want our country to be a stronger,\n\r    better, brighter place. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Thank you, Mayor Moore, for your enthusiastic welcome and\n\r    for your leadership. (Applause.) I want to that all the\n\r    community leaders, all the school leaders, all the ministers,\n\r    all the other folks from Pontiac who are here who've made us\n\r    feel so welcome. Thank you, my good friend, Rosa Parks, for\n\r    being here with us and for inspiring so many people.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Thank you, Congressman Kildee, for standing up for America\n\r    and for standing up for the people of this district, and\n\r    standing against what they tried to do in that budget last year\n\r    when we made our veto stick. (Applause.) Thank you, Senator\n\r    Levin. Thank you for all your many fights on behalf of the\n\r    people of Michigan and the people of the United States. I hope\n\r    you all will send Carl Levin and Dale Kildee back to the United\n\r    States Congress. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want to thank all the fine people from Michigan who came\n\r    with me, including your former governor, Jim Blanchard; and\n\r    your former senator, Don Riegle; and a whole bunch of other\n\r    folks who came here with us. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And I'd like to thank my friend, Vinnie Johnson, for being\n\r    the M.C. (Applause.) I've never seen him M.C. anything. And I\n\r    was wondering if he had as many moves up here as he did on the\n\r    basketball court. (Laughter.) Did he do well? (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want to thank Alice Moore for singing the National Anthem,\n\r    the Anointed Voices of Praise, the Gang God's Anointed Next\n\r    Generation, the Pontiac High School Band, the Pontiac Northern\n\r    High School Band, the fellow that played the saxophone — Randy\n\r    Scott — thank you, all. Thank you. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Ladies and gentlemen, I'm taking this train through the\n\r    heartland of America. We've been in West Virginia and Kentucky,\n\r    all through Ohio and now into Michigan. And I'm doing it for\n\r    two reasons. First, selfishly, at this, the beginning of what\n\r    will be my last campaign, to go to Chicago to once again accept\n\r    the nomination of my party for President. (Applause.) I wanted\n\r    to go through America's heartland. I wanted to look into the\n\r    faces, into the eyes, and into the hearts of the people I have\n\r    been working and fighting for for four years to make America a\n\r    better place. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And second, I wanted you to see that not only is this train\n\r    on the right track, America is on the right track for the 21st\n\r    century. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I'm proud of our convention in Chicago. I wish Hillary and\n\r    Chelsea were with me. They started out with me, but Hillary had\n\r    to go home to Chicago, and she's going to speak tonight. I hope\n\r    you'll go home and watch it and give her a cheer. (Applause.)\n\r    And our daughter stayed with me a little while longer, but she\n\r    left me this morning in Toledo because she wanted to hear Mom\n\r    give her speech. (Laughter.) So that's where they are."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But we've had a wonderful time on this trip. You heard the\n\r    Mayor — we started the morning in Toledo. Last night an\n\r    autoworker from Toledo was one of the American citizens\n\r    speaking at the opening of the Democratic Convention. And he\n\r    was speaking there because the work we have done with the auto\n\r    industry to open new markets abroad helped to put 700 jobs in\n\r    the oldest automobile in America in Toledo, Ohio, built in 1910\n\r    — an automobile plant since 1910. That 1910 auto plant is\n\r    exporting over 41,000 Jeeps overseas this year, selling our\n\r    cars. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And let me tell you why it happened. It happened because the\n\r    UAW and the management have a partnership. It happened because\n\r    they're working together. It happened because 70 percent of the\n\r    people in that plant are getting continuing education, and they\n\r    made so much money for Chrysler last year the workers got an\n\r    average bonus of $8,000. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, why? Because that's a company that believes that if\n\r    they make money the workers ought to have their fair share.\n\r    That's good for America. It's right for America. (Applause.)\n\r    But guess what? It turned out to be good for the company. For\n\r    the first time in 20 years, it is the United States that is\n\r    making and selling the largest number of automobiles of any\n\r    country in the world. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Then we went on to Wyandotte, and there we gathered in front\n\r    of a beautiful old library, about 100 years old, and a huge\n\r    crowd turned out. And I was introduced by two really young\n\r    people — not grown young people, I mean young people — about\n\r    eight years old, maybe seven. And we built them little\n\r    platforms and they stood up in front of the library and they\n\r    read the end of that wonderful little children's book, The\n\r    Little Engine That Could, Do you know that story? (Applause.)\n\r    The little engine had only been used for switching cars. The\n\r    little engine had never been over the mountain. But the toys\n\r    couldn't get to the boys and girls unless the little engine\n\r    went over the mountain for the only time in its life. And the\n\r    little engine kept saying, \"I think I can. I think I can.\""
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I still remember reading that book to Chelsea over and over\n\r    and over again. (Laughter.) But you know what? The message gets\n\r    through. And that's a message every child in America, without\n\r    regard to race or income or background, ought to have, because\n\r    they can if we give them a chance. They can if we give them a\n\r    chance. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And there in Wyandotte we made a commitment — a commitment\n\r    to make sure that if this administration is returned we are\n\r    going to put out 30,000 tutors, we're going to mobilize a\n\r    million volunteers. We're going to ask AmeriCorps to take as\n\r    its main charge teaching children to read so that by the year\n\r    2000 every boy and girl in the 3rd grade in America will be\n\r    able to read well on their own. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And then we went to Royal Oak. I didn't see the royal oak,\n\r    but I saw the biggest crowd of folks I ever saw in a long time.\n\r    And there the National Association of Police Officers endorsed\n\r    BIll Clinton and Al Gore in the presidential election —\n\r    (applause) — because for four years in a row the crime rate has\n\r    been coming down in America because we're putting 100,000\n\r    police on the street; because we did pass the Brady Bill and,\n\r    according to Mrs. Brady last night at our convention, 100,000\n\r    felons, fugitives and stalkers have not been able to get guns,\n\r    but no hunter has lost a gun since we did that. (Applause.) And\n\r    because we have to keep working until all of our children are\n\r    free and safe."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I met one young woman police office up on that platform who\n\r    was in the DARE program. Chelsea still talks about her\n\r    5th-grade DARE officer. One of the things that we did that I\n\r    was so proud of was to pass the Safe and Drug Free Schools law,\n\r    to give our communities the resources to send people into these\n\r    schools when the children are young and try to help them stay\n\r    off drugs in the first place. It's one thing that isn't going\n\r    so well in this country — teenage drug use is going up. But\n\r    when the Congress tried to cut the Safe and Drug Free Schools\n\r    program I said, no, we've got a problem, we need to do more of\n\r    that. We turned it around and we're going forward. (Applause.)\n\r    And they stayed with us."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "So it's been a wonderful day. And it's real nice now.\n\r    (Applause.) I look around here, I look in this audience and I\n\r    see what makes America great. I want to lead this country into\n\r    the 21st century with the American Dream alive for every person\n\r    in America. (Applause.) I believe that we ought to have a\n\r    country where everybody has a chance to live up to their\n\r    God-given abilities, everyone has a chance to live out their\n\r    dreams. To do it we have to have opportunity for everybody,\n\r    responsibility from everybody, and we have to recognize that we\n\r    are all one country in spite of all of our differences, and we\n\r    better get used to it and like it and go forward together.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "That's what AmeriCorps is about. That's what this Golden\n\r    Opportunity Club is about. (Applause.) That's what these Scout\n\r    leaders and the Scouts are all about. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "AUDIENCE: The cheerleaders!"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE PRESIDENT: The cheerleaders. Look at the little kids.\n\r    Give them a hand there. (Applause.) And where are our veterans'\n\r    leaders? We've got some veterans over here somewhere. Thank\n\r    you. And here's what this is about."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE AUDIENCE: Teachers!"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE PRESIDENT: I'm coming to you. (Laughter.) Oh, no, no,\n\r    no. I'm coming to you. I've got a special thing to say about\n\r    you."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "So here's what I want you to think about. I want all of you\n\r    to think in your own mind: What do I want my country to look\n\r    like when we start this new century? What do I want my country\n\r    to look like when my children are my age? What kind of legacy\n\r    do I want to leave to my grandchildren?"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "If we have more opportunity, more responsibility, and we're\n\r    one American community, there is no stopping this country. Our\n\r    best days are ahead. That's what I've been working on."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Number one, I knew when I became President we had to get\n\r    that deficit down to get interest rates down to put people back\n\r    to work. Now we've got over 10 million new jobs and we're just\n\r    getting warmed up. (Applause.) We brought the deficit down four\n\r    years in a row for the first time in a President's\n\r    administration since before the Civil War. (Applause.) We would\n\r    have a surplus today in our budget — a surplus — if it weren't\n\r    for the interest we have to pay on the debt run up in the 12\n\r    years before I showed up. But I'm working on it. And I want you\n\r    to let me finish the job. (Applause.) I want you to let me\n\r    finish the job."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And we did this, and we're going to balance that budget\n\r    without cutting education, cutting environmental protection,\n\r    and breaking the backs of Medicare and Medicaid.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And we have to make sure that ordinary Americans can benefit\n\r    from this economy. We have got to do that. We had a good week\n\r    for ordinary Americans last week. We raised the minimum wage\n\r    for 10 million workers. (Applause.) The same bill contained a\n\r    tax cut for small businesses who create most of our jobs so\n\r    they can invest more in their businesses and made it easier for\n\r    them to take out pensions for themselves and their workers and\n\r    for the workers in small businesses to keep those pensions when\n\r    they change jobs. That was a good thing. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The same bill gave a $5,000 tax credit to adults who will\n\r    adopt children, and even more if the children have\n\r    disabilities. And it removed the barriers to cross-racial\n\r    adoption. There's a lot of kids out there that need a happy\n\r    home. That was a good thing to do that we did. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And the Congress passed the Kassebaum-Kennedy bill that your\n\r    two members here have been working for, for a long time. It\n\r    says to 25 million Americans, just because somebody in your\n\r    family has been sick, they can't take your insurance away from\n\r    you anymore. It says you don't lose your insurance when you\n\r    change jobs. This is a good thing."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But we have to do more. We have to do more. We ought now to\n\r    say just because you can't lose your insurance doesn't mean you\n\r    can pay for it. We ought to help families that are unemployed\n\r    keep their health insurance for six months. I'm for that.\n\r    (Applause.) I want to help people who have someone in their\n\r    family with Alzheimer's and they're trying to care for them get\n\r    a little respite care. That's in my balanced budget plan, too,\n\r    so they can keep their families and take care of them. We have\n\r    to do more. And I want you to believe that we can do these\n\r    things."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The most important thing we have to do is to make sure every\n\r    child in this country and every adult in this country can get\n\r    the education they need. (Applause.) And I want to say to you —\n\r    I don't know about the rest of you, but I wouldn't be standing\n\r    up here if it weren't for my teachers, the people that believed\n\r    in me. (Applause.) And I know that not every school is perfect\n\r    and not every class is successful, but we've still got a public\n\r    education system that is doing it's best to take everybody that\n\r    comes in the door and give all those kids a chance. And some of\n\r    these teachers are laboring under great difficulties."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And so I say to you — I say to you, we need to make a\n\r    commitment that we're going to do what we can to take\n\r    responsibility for our schools and lift up the people that are\n\r    trying to make them work, not get out here and bash them day in\n\r    and day out. We need to be lifting them up. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want to see — I want to see every classroom in this\n\r    country, every single one, in four years not only have the\n\r    computers they need, not only have teachers trained in the\n\r    computers, but I want every single classroom hooked up to the\n\r    worldwide Information Superhighway — every one. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, consider what this means. This could mean that for the\n\r    first time in the history of the United States ever, children\n\r    in the poorest urban classrooms, children in the most remote\n\r    hill or hollow of Appalachia would have access to the same\n\r    information in the same time at the same quality as the\n\r    children in the wealthiest financed schools in the United\n\r    States of America. It has never happened before. (Applause.)\n\r    Then we'll see what happens on those test scores. Then we'll\n\r    see what happens."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want to see an America where every young person can go to\n\r    college and every adult can go to college. (Applause.) Four\n\r    years from now, I want two years of education after high\n\r    school, the equivalent of a community college diploma, to be\n\r    just as universal as a high school diploma is today.\n\r    (Applause.) And I want to give you a tax credit to pay for\n\r    those two years and a deduction for all college costs to up to\n\r    $10,000 a year of tuition. That's a tax cut. That's a tax cut\n\r    we can pay for and a tax cut that will pay for itself many\n\r    times over. (Applause.) We need to do that."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "There's a lot more I'd like to tell you, but you get the\n\r    idea. We've got 10 million more jobs, 1.5 million fewer people\n\r    on welfare, 12 million people took advantage of the Family and\n\r    Medical Leave law and didn't lose their jobs. And that's a good\n\r    thing for America. We've got 4.5 million new homeowners, 10\n\r    million American families who refinanced their homes at lower\n\r    interest rates, 50 million Americans breathing cleaner air. We\n\r    cleaned up more toxic waste dumps in three years than the\n\r    previous administrations did in 12. (Applause.) You get the\n\r    picture. You get the picture?"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE AUDIENCE: Yesss!"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE PRESIDENT: We're on the right track. We're moving in the\n\r    right direction. (Applause.) We've got 10 million people with a\n\r    minimum wage increase. But we've got to do it."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Will you help us stay on the right track?"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE AUDIENCE: Yesss!"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE PRESIDENT: Will you help us all the way to November?"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE AUDIENCE: Yesss!"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE PRESIDENT: Will you stay with us all the way to\n\r    2000?"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE AUDIENCE: Yesss!"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE PRESIDENT: Will you stand with the children in your\n\r    community?"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE AUDIENCE: Yesss!"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE PRESIDENT: Thank you and God bless you."
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

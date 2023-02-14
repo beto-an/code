@@ -1,0 +1,108 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Campaign Flashback: Dole and Medicare"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 7, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "STATEMENT BY JOE LOCKHART"
+Characters:    "\n\r    NATIONAL PRESS SECRETARY"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "In a campaign flashback, Bob Dole is warning people of a\n\r    Democratic plot to scare senior citizens about the effects of\n\r    his economic scheme on Medicare. Senior citizens have a right\n\r    to be scared."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "In 1994, Bob Dole chastised Democrats for telling\n\r    Americans about a Republican plan to cut Medicare. He accused\n\r    the President saying, \"In a state of near panic, President\n\r    Clinton and Vice President Gore are resorting to scare tactics.\n\r    They�re falsely accusing Republicans of secret plans to cut\n\r    Social Security and Medicare benefits ...\" (Radio address,\n\r    Federal News Service, 11/5/94) Yet after Republicans took\n\r    control of Congress, what did Bob Dole do? In 1995, Bob Dole\n\r    and Newt Gingrich tried to cut Medicare, offering a budget that\n\r    would have reduced Medicare by $270 billion to pay for $245 in\n\r    tax cuts. It�s 1996 and Bob Dole has proposed an economic\n\r    scheme that doubles the tax cut bet to $548 billion. What will\n\r    Bob Dole do to pay for it?"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "They say \"history repeats itself\" and since Bob Dole\n\r    won�t tell the American public what he will cut to pay for his\n\r    scheme, Americans must let \"history be their guide.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

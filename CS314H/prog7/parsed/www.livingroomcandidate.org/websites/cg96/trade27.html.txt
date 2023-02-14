@@ -1,0 +1,454 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Export Growth: Nebraska"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +2
+Start element: font
+Key: color, Value: #001058
+Characters:    "OPENING NEW MARKETS"
+Characters:    "\n\r    TO CREATE JOBS FOR U.S. WORKERS"
+End element:   font
+End element:   font
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    " "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Nebraska recorded goods exports totaling $2.4 billion\n\r              in 1995, up 25 percent ($474.1 million) from 1993.\n\r              During 1995, Nebraska was the 35th largest state\n\r              exporter of goods.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Nebraska�s jobs supported by goods exports grew an\n\r              estimated 14 percent (3,626 jobs) since 1993.\n\r              Export-related jobs pay 13 to 16 percent higher than\n\r              the national average.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              In 1991, the latest year available, Nebraska exports\n\r              accounted for 13.1 percent of its manufacturing\n\r              output and represented 13.7 percent of its total\n\r              manufacturing employment.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Nebraska�s exports of manufactured products were up\n\r              by 24 percent between 1993 and 1995 (from $1.8\n\r              billion in 1993 to $2.2 billion in 1995).\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              The five largest manufacturing sectors in terms of\n\r              Nebraska�s exports were: Food Products ($1.5 billion\n\r              of exports in 1995), Industrial Machinery and\n\r              Computers ($144.8 million), Electronic and Electric\n\r              Equipment ($125.2 million), Transportation Equipment\n\r              ($118.4 million), and Leather Products ($73.6\n\r              million). These five sectors accounted for over 85\n\r              percent of the state�s total exports in 1995.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Among Nebraska�s fastest growing manufactured exports\n\r              (in billions) were:"
+Characters:    "\n\r              "
+Start element: blockquote
+Characters:    "\n\r                "
+Start element: table
+Key: border, Value: 1
+Characters:    "\n\r                  "
+Start element: tr
+Characters:    "\n\r                    "
+Start element: td
+Start element: b
+Characters:    "Sector"
+End element:   b
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Start element: b
+Characters:    "1993"
+End element:   b
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Start element: b
+Characters:    "1995"
+End element:   b
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Start element: b
+Characters:    "Change"
+End element:   b
+End element:   td
+Characters:    "\n\r                  "
+End element:   tr
+Characters:    "\n\r                  "
+Start element: tr
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "Scientific and Measuring Industries"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$35.9"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$50.5"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "41%"
+End element:   td
+Characters:    "\n\r                  "
+End element:   tr
+Characters:    "\n\r                  "
+Start element: tr
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "Electronic and Electric Equipment"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$91.0"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$125.2"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "38%"
+End element:   td
+Characters:    "\n\r                  "
+End element:   tr
+Characters:    "\n\r                  "
+Start element: tr
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "Food Products"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$1,144.0"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$1,533.7"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "34%"
+End element:   td
+Characters:    "\n\r                  "
+End element:   tr
+Characters:    "\n\r                  "
+Start element: tr
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "Leather Products"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$55.8"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$73.6"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "32%"
+End element:   td
+Characters:    "\n\r                  "
+End element:   tr
+Characters:    "\n\r                "
+End element:   table
+Characters:    "\n\r              "
+End element:   blockquote
+Characters:    "\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Nebraska is the country�s fourth largest agricultural\n\r              exporting state, shipping $2.5 billion in\n\r              agricultural exports abroad or 5.7% of the U.S. total\n\r              in 1994 (latest year available for Department of\n\r              Agriculture state export data). The largest export\n\r              categories, feed grains and live animals and meat\n\r              (excluding poultry), accounted for over 55 percent of\n\r              Nebraska�s agricultural exports in 1994. Given the 22\n\r              percent increase in total U.S. agriculture exports in\n\r              1995, agriculture exports from Nebraska in 1995 will\n\r              likely range between $2.9 billion and $3.1 billion.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Total exports from Nebraska to NAFTA countries\n\r              increased by 1 percent between 1993 (pre-NAFTA) and\n\r              1995 (from $449.6 million in 1993 to $453.1 million\n\r              in 1995). During 1995, Canada was Nebraska�s second\n\r              largest export market, while Mexico was Nebraska�s\n\r              fourth largest export market. Exports to Canada were\n\r              down by 4 percent ($16.4 million), to $368.7 million\n\r              in 1995. Nebraska�s exports to Mexico were up by 31\n\r              percent ($19.9 million), from $64.5 million in 1993\n\r              to $84.4 million in 1995.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              During 1995, Japan was Nebraska�s largest export\n\r              market. Total exports from Nebraska to Japan were up\n\r              27 percent ($249.6 million), from $939.6 million in\n\r              1993 to $1.2 billion in 1995.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Total exports from Nebraska to the European Union\n\r              were up 6 percent ($12.2 million), from $209.2\n\r              million in 1993 to $221.4 million in 1995.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r      "
+End element:   table
+Characters:    "\n\r      "
+Start element: center
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Start element: center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee,\n\r          Inc."
+End element:   p
+Characters:    "\n\r        "
+End element:   center
+Characters:    "\n\r      "
+End element:   center
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

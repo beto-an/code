@@ -1,0 +1,235 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | Briefing Room | Clinton/Gore in Your\n\r  State"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index13.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: table
+Key: align, Value: right
+Key: border, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Start element: b
+Characters:    "On the Horizon"
+End element:   b
+Characters:    "\n\r    "
+Start element: p
+Characters:    "As we head into the\n\r    final days"
+Characters:    "\n\r    of the campaign, we need your help"
+Characters:    "\n\r    energizing your community to"
+Characters:    "\n\r    GET OUT THE VOTE!"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Call the Clinton/Gore office number"
+Characters:    "\n\r    below to volunteer."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Texas Highlights"
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "November 2 - The President\n\r    at the Alamo"
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "November 1 - The\n\r    President's Remarks in El Paso"
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "September 27 - The\n\r    President visits Fort Worth"
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Houston children write “If I Were President”"
+Characters:    "\n\r    in the 8th edition of "
+Start element: a
+Key: href, Value: ../../../external.html
+Start element: i
+Characters:    "America's Home Page"
+End element:   i
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Clinton-Gore '96 Headquarters"
+End element:   b
+Characters:    "\n\r    1011 San Jacinto"
+Characters:    "\n\r    Second Floor"
+Characters:    "\n\r    Austin, TX 78701"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Phone: 512-469-6096"
+Characters:    "\n\r    Fax: 512-469-0258"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Start element: b
+Characters:    "State\n\r    Director:"
+End element:   b
+End element:   font
+Characters:    " Andreas Gonzales"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Start element: b
+Characters:    "Political\n\r    Director:"
+End element:   b
+End element:   font
+Characters:    " Dawnna Dukes"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Start element: b
+Characters:    "Press\n\r    Secretary:"
+End element:   b
+End element:   font
+Characters:    " Margaret Justus"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Texas Unity '96"
+End element:   b
+Characters:    "\n\r    "
+Characters:    "\n\r    1011 San Jacinto"
+Characters:    "\n\r    Suite 101"
+Characters:    "\n\r    Austin, TX 78701"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Phone: 512-494-VOTE"
+Characters:    "\n\r    Fax: 512-494-1529"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Start element: b
+Characters:    "Director:"
+End element:   b
+End element:   font
+Characters:    " Steve Gutow"
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

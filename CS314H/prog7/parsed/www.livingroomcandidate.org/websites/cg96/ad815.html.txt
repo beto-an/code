@@ -1,0 +1,103 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "Campaign Releases New Advertisement"
+End element:   TITLE
+Characters:    "\r\n\r\r\n\r"
+Start element: KPETITLE
+Start element: B
+Characters:    "For Immediate Release:"
+End element:   B
+Characters:    "\r\n\rCampaign Releases New Advertisement"
+Start element: DD
+End element:   KPETITLE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "  "
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "  "
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r"
+Start element: TT
+Characters:    "\r\n\r"
+Start element: P
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "August 15, 1996\r\n\r\r\n\r\r\n\r\t"
+Start element: P
+Start element: center
+Characters:    "CLINTON/GORE �96 RELEASES NEW ADVERTISEMENT"
+End element:   center
+Characters:    "\r\n\r\r\n\r"
+Start element: P
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\t"
+Start element: P
+Characters:    "Today, August 15, 1996, the Clinton/Gore �96 campaign begins running a new advertisement entitled \"Real Ticket\".  The text of the ad follows:\r\n\r\r\n\r\r\n\r"
+Start element: i
+Start element: P
+Characters:    "Real Ticket\r\n\r\r\n\r"
+Start element: P
+Characters:    "The Oval Office.\r\n\r\r\n\r"
+Start element: P
+Characters:    "If it were Bob Dole sitting here...\r\n\r\r\n\r"
+Start element: P
+Characters:    "He would have already cut Medicare $270 billion dollars.\r\n\r\r\n\r"
+Start element: P
+Characters:    "Toxic polluters off the hook.  \r\n\r\r\n\r"
+Start element: P
+Characters:    "No to the Brady Bill...60,000 criminals allowed to buy handguns.  \r\n\r\r\n\r"
+Start element: P
+Characters:    "Slashed education.\r\n\r\r\n\r"
+Start element: P
+Characters:    "President Clinton stood firm and defended our values. \r\n\r\r\n\r"
+Start element: P
+Characters:    "But next year, if  Newt Gingrich controls Congress and his partner, Bob Dole, enters the Oval Office, they�ll be nobody there to stop them."
+Characters:    "\r\n\r\r\n\r"
+Start element: P
+Characters:    "(President Clinton. Protecting our values.)\r\n\r\r\n\r"
+Start element: P
+Characters:    "VHS and Beta copies of the ad are available at Clinton/Gore �96 headquarters.  Please call the press office at 202/496-1037. \r\n\r\r\n\r"
+Start element: P
+Start element: CENTER
+Characters:    "###\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    " "
+Characters:    " "
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee, Inc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End of document

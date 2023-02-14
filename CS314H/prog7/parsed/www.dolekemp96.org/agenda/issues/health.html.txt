@@ -1,0 +1,340 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Where Bob Dole Stands on Health Care"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: h2
+Key: align, Value: center
+Key: style, Value: text-align:center
+Characters:    "Where Bob Dole\n\r  Stands on Health Care"
+End element:   h2
+Characters:    "\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Key: style, Value: margin-bottom:12.0pt
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Bob Dole Favors Common Sense, Free Market\n\r  Health-Care Reforms"
+End element:   span
+End element:   b
+Characters:    "\n\r  Losing health insurance coverage or facing obstacles to obtaining\n\r  such coverage is a real concern for many Americans. We need\n\r  insurance reform -- but the answer is not a federal government\n\r  takeover of the health care industry. Bob Dole supports consumer\n\r  choice, open enrollment and portability of medical insurance."
+Characters:    "\n\r  "
+Characters:    "\n\r  In 1994, Dole introduced a health care reform bill which had no\n\r  price controls, no mandates and no taxes. The bill took on a\n\r  common sense, free market approach to health-care reform,\n\r  focusing primarily on insurance reform, while offering subsidies\n\r  to help low-income Americans buy health insurance."
+Characters:    "\n\r  "
+Characters:    "\n\r  As President, he will:"
+End element:   p
+Characters:    "\n\r  "
+Start element: ul
+Key: type, Value: disc
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l3 level1 lfo19;tab-stops:list .5in
+Characters:    "\n\r    Seek ways to make health care more accessible and affordable\n\r    for all Americans."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l3 level1 lfo19;tab-stops:list .5in
+Characters:    "\n\r    Ensure that individuals who change jobs do not lose their\n\r    coverage or face pre-existing condition limitations."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l3 level1 lfo19;tab-stops:list .5in
+Characters:    "\n\r    Give self-employed individuals the same tax deductions that\n\r    large corporations have to buy health insurance."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l3 level1 lfo19;tab-stops:list .5in
+Characters:    "\n\r    Make Medical Savings Accounts a real option available to all\n\r    Americans."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;margin-bottom:12.0pt; mso-list:l3 level1 lfo19;tab-stops:list .5in
+Characters:    "\n\r    Support efforts to make community and home based care more\n\r    readily available."
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Medicaid Should Serve\n\r    Low-Income Families in a More Effective Way"
+End element:   span
+End element:   b
+Characters:    "\n\r    Medicaid reform is crucial. The states should be given the\n\r    opportunity to redesign their programs without the heavy hand\n\r    of the federal government, so that they can serve low-income\n\r    families and the disabled in a more efficient and effective\n\r    way."
+Characters:    "\n\r    "
+Characters:    "\n\r    As President, Bob Dole will overhaul the nation's Medicaid\n\r    system by giving greater control to state governments who best\n\r    know the needs of the low-income and disabled populations in\n\r    their state."
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Bob Dole Will Propose\n\r    Innovative Solutions to Address Long-Term Care\n\r    Needs"
+End element:   span
+End element:   b
+Characters:    "\n\r    Bob Dole believes that access and funding for long-term care is\n\r    as serious a problem as any before us. As President, Bob Dole\n\r    will:"
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l3 level1 lfo19;tab-stops:list .5in
+Characters:    "\n\r    Propose a tax deduction for families who care for their elderly\n\r    parents or family members."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l3 level1 lfo19;tab-stops:list .5in
+Characters:    "\n\r    Encourage the development of private long-term care insurance\n\r    and provide government help for those wishing to purchase the\n\r    coverage but unable to afford it."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l3 level1 lfo19;tab-stops:list .5in
+Characters:    "\n\r    Expand the options for long-term care beyond institutional care\n\r    to include home, hospice and community-based care\n\r    alternatives."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;margin-bottom:12.0pt; mso-list:l3 level1 lfo19;tab-stops:list .5in
+Characters:    "\n\r    Support efforts to ensure the quality of nursing home care and\n\r    to adequately protect against spousal impoverishment."
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Bob Dole Will Save Medicare\n\r    from Bankruptcy"
+End element:   span
+End element:   b
+Characters:    "\n\r    Bob Dole is committed to protecting, improving and\n\r    strengthening Medicare."
+Characters:    "\n\r    "
+Characters:    "\n\r    Last spring, a study supported by three members of Bill\n\r    Clinton's own Cabinet showed that Medicare will be bankrupt in\n\r    five years. Bob Dole will act now to save Medicare for future\n\r    generations. As President, Bob Dole will:"
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l3 level1 lfo19;tab-stops:list .5in
+Characters:    "\n\r    Lead the effort to save Medicare from insolvency --\n\r    guaranteeing that Medicare will be available to future\n\r    generations."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l3 level1 lfo19;tab-stops:list .5in
+Characters:    "\n\r    Support giving Medicare beneficiaries the right to choose the\n\r    kind of coverage that best fits their own priorities and needs.\n\r    Bob Dole thinks that they should be given the same kind of\n\r    choices that federal government employees have had for\n\r    years."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l3 level1 lfo19;tab-stops:list .5in
+Characters:    "\n\r    Advocate innovative ideas like Medical Savings Accounts and\n\r    managed care as well as traditional fee-for-service plans."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l3 level1 lfo19;tab-stops:list .5in
+Characters:    "\n\r    Recommend the establishment of a blue-ribbon bipartisan\n\r    advisory commission -- similar to the one he served on in 1983\n\r    that saved Social Security -- to solve the Medicare crisis."
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "A Better\n\r    America"
+End element:   span
+End element:   b
+Characters:    "\n\r    As President, Bob Dole will use common sense solutions to\n\r    reform the health care industry. Americans won't fear losing\n\r    their health care benefits when they leave their jobs. States\n\r    will be given the freedom to reform Medicaid. And Americans in\n\r    need of long-term care will have more options."
+End element:   li
+Characters:    "\n\r  "
+End element:   ul
+Characters:    "\n\r  "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../../news/news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    " "
+Start element: a
+Key: href, Value: ../agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the\n\r  Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/issues/main.html

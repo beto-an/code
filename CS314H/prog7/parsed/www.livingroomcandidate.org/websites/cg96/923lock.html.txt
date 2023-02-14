@@ -1,0 +1,222 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Dole and Health Care"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "FOR IMMEDIATE RELEASE"
+Characters:    "\n\r    September 23, 1996"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "STATEMENT OF JOE LOCKHART"
+Characters:    "\n\r    NATIONAL PRESS SECRETARY"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "In a desperate attempt to try to find a message for his\n\r    campaign, Bob Dole continues his negative attacks against the\n\r    President. But what�s missing from his speeches and\n\r    advertisements is any discussion of his own record of 35 years\n\r    in Congress:"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: ul
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "\"But there is one place that Dole hardly ever\n\r      mentions: Washington, D.C. It�s as if the most important part\n\r      of his life ended when ... when he entered politics.\" (U.S.\n\r      News & World Report, 9/2/96);"
+End element:   tt
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "In his acceptance speech in San Diego, Bob Dole\n\r      barely mentioned the Congress in a 50 minute\n\r      address;"
+End element:   tt
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "In a critique of Bob Dole�s 30 minute infomercial\n\r      \"Portrait of a Man\" the New York Times wrote \"the\n\r      advertisement ... utterly shorn of Bob Dole�s economic\n\r      proposals and even his experience in the United States\n\r      Senate.\" (9/5/96)."
+End element:   tt
+End element:   li
+Characters:    "\n\r    "
+End element:   ul
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Today, September 23, 1996, the Clinton/Gore '96 campaign\n\r    announces a new ad entitled \"Wrong In The Past\". \"Wrong in the\n\r    Past\" is designed to fill the 35 year issue and legislative gap\n\r    left by the Dole campaign."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The text of the ad follows:"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Wrong In The Past"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "Let�s go back in time. The �60s. Bob Dole�s in\n\r    Congress."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "Votes against creating Medicare. Against creating\n\r    student loans."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "(1970s)"
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "Against the Department of Education. Against a higher\n\r    minimum wage"
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "(1980s)"
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "Still there. Against creating a drug czar. Against\n\r    the Brady Bill to fight crime."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "(1990s)"
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "Against Family and Medical Leave. Against vaccines\n\r    for children."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "Against Medicare - again. Dole-Gingrich tried to cut\n\r    270 billion."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "Bob Dole. Wrong in the past. Wrong for our\n\r    future."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: i
+Characters:    "###"
+End element:   i
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Start element: i
+Characters:    "\n\r  "
+End element:   i
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+Start element: i
+End element:   i
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Start element: i
+Characters:    "\n\r  "
+End element:   i
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Start element: i
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   i
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

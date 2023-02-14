@@ -1,0 +1,142 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "President Clinton's Free Air Time Remarks"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October30, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "TRANSCRIPT OF PRESIDENT CLINTON�S FREE AIR TIME\n\r      REMARKS"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "President Clinton�s remarks will be broadcast this\n\r    evening, October 30, 1996, on the following stations: CNN,\n\r    C-SPAN, NOSTALGIA TELEVISION, NPR, PBS and UPN."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Throughout these televised forums, the American people\n\r    have seen two very different visions of how to lead our country\n\r    into the 21st century. Do we work together, to help people have\n\r    the tools they need to make the most of their own lives? Or do\n\r    we leave people to fend for themselves? Do we build a bridge\n\r    together to a brighter future -- or a bridge to the\n\r    past?"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "That choice is very important. And that is why I urge\n\r    every American to participate on Election Day."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "After all, it�s your vote which will decide whether we\n\r    balance the budget while protecting Medicare, Medicaid,\n\r    education, and the environment."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Your vote will decide whether we give our children the\n\r    education that is the key to opportunity, and higher-paying\n\r    jobs -- whether we help every child learn to read, and log onto\n\r    the vast new world of the Internet, and meet the highest\n\r    standards of excellence. Whether everyone who wants to go to\n\r    college has the chance to go. Whether we even have a Department\n\r    of Education to stand up for America�s children."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Your vote will decide whether we make our families\n\r    stronger -- with better, more affordable health care; the tools\n\r    to succeed both at home and at work; and children that grow up\n\r    free from gangs and guns, drugs and tobacco."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Your vote will decide whether we keep the Brady Bill and\n\r    keep guns out of the hands of felons, fugitives, and stalkers.\n\r    Whether we keep the ban on deadly assault weapons -- and keep\n\r    putting 100,000 police on our streets, all across\n\r    America."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "This is the last presidential election of the 20th\n\r    century. But in many ways, it is our first discussion of how we\n\r    move forward, into the 21st century. I believe more than ever\n\r    that our best days are still ahead of us. And if we work\n\r    together -- if we cast that vote for our future -- we can build\n\r    a bridge to the 21st century that is wide enough and strong\n\r    enough for all of us to cross."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "# # #"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

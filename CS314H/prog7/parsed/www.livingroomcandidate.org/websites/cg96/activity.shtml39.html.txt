@@ -1,0 +1,282 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | Briefing Room | Clinton/Gore in Your\n\r  State"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index13.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: align, Value: right
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Start element: b
+Characters:    "On the Horizon"
+End element:   b
+Characters:    "\n\r    "
+Start element: p
+Characters:    "As we head into the\n\r    final days"
+Characters:    "\n\r    of the campaign, we need your help"
+Characters:    "\n\r    energizing your community to"
+Characters:    "\n\r    GET OUT THE VOTE!"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Call the Clinton/Gore office number"
+Characters:    "\n\r    below to volunteer."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "California Highlights"
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "November 1 - The\n\r    President's Remarks in Santa Barbara"
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "October 17 - The President\n\r    in Orange Country"
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "October 16 - The President\n\r    at a"
+Characters:    "\n\r    Post-Debate Rally in San Diego"
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "October 16 - San Diego\n\r    Hosts the"
+Characters:    "\n\r    Second Presidential Debate"
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "September 12 - The\n\r    President visits Fresno"
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Los Angeles resident Tarja Black"
+Characters:    "\n\r    describes her web site, \"Clinton, Yes!\","
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Los Angeles"
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Clinton-Gore '96 Headquarters"
+End element:   b
+Characters:    "\n\r    8425 West Third Street"
+Characters:    "\n\r    Suite 400"
+Characters:    "\n\r    Los Angeles, CA 90048"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Phone: 213-951-1996"
+Characters:    "\n\r    Fax: 213-951-0060"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Characters:    "State\n\r    Director:"
+End element:   font
+Characters:    " Tom Umberg"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Characters:    "Political\n\r    Director:"
+End element:   font
+Characters:    " Mike Monasmith"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Characters:    "Press\n\r    Secretary:"
+End element:   font
+Characters:    " Neera Tanden"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "San Francisco"
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Clinton-Gore '96 Headquarters"
+End element:   b
+Characters:    "\n\r    100 Van Ness Avenue"
+Characters:    "\n\r    San Francisco, CA"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Phone: 415-674-0413"
+Characters:    "\n\r    Fax: 415-674-0404"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Characters:    "Political\n\r    Director:"
+End element:   font
+Characters:    " Yvette Martinez"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Characters:    "Press\n\r    Secretary:"
+End element:   font
+Characters:    " Erin Callahan"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "California Democratic Coordinated Campaign"
+End element:   b
+Characters:    "\n\r    8425 West Third Street"
+Characters:    "\n\r    Suite 400"
+Characters:    "\n\r    Los Angeles, CA 90048"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Phone: 213-653-1996"
+Characters:    "\n\r    Fax: 213-966-2525"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: i
+Characters:    "The Coordinated Campaign is a distinct entity,"
+Characters:    "\n\r    directed by the Democratic National Party and the"
+Characters:    "\n\r    State Democratic Parties, and designed to"
+End element:   i
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: i
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+End element:   i
+Characters:    "\n\r    "
+Start element: p
+Start element: i
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   i
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

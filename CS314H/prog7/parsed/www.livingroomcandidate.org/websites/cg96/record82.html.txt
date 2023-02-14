@@ -1,0 +1,127 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Bob Dole's Rhetoric Overshadows His Record"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    August 23, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "STATEMENT BY JOE LOCKHART"
+Characters:    "\n\r    NATIONAL PRESS SECRETARY"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole needs a reality check because once again his\n\r    rhetoric does not match his record."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole and Jack Kemp told the National Association of\n\r    Black Journalists that he supported recruitment and outreach to\n\r    the African American community. But Bob Dole and Jack Kemp\n\r    support the California Civil Rights Initiative which legal\n\r    scholars contend will explicitly ban such outreach efforts in\n\r    the work place to African Americans and other\n\r    minorities."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole told the journalists that he does not support\n\r    denying citizenship to children of illegal immigrants. But just\n\r    last week, Bob Dole's party platform endorsed the amendment.\n\r    Bob Dole did not have the political courage to express his\n\r    views among his Republican friends."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole told the journalists we had moved beyond the\n\r    debate on assault weapons ban. But it was Bob Dole along with\n\r    the Washington gun lobby that led the effort to block the ban\n\r    on assault weapons."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole talks about bringing the experts together to\n\r    fight the war on drugs. But it was Bob Dole and Newt Gingrich\n\r    who tried to block the expansion of the Safe and Drug Free\n\r    School program. A year later, Bob Dole tried to cut funding for\n\r    Safe and Drug Free Schools by 50 percent. Dole voted against\n\r    zero tolerance for students who bring guns into schools and\n\r    opposed the President's plan to put 100,000 additional cops on\n\r    the street. Bob Dole even voted against the creation of the\n\r    Drug Office in 1982."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Finally, Bob Dole has capped this week by further\n\r    stretching the thin credibility of his economic program. Bob\n\r    Dole said he will cut taxes by $548 billion. But Bob Dole says\n\r    he will not cut social security, Medicare, veterans programs\n\r    and will increase defense spending by more than $60 billion\n\r    with his Star Wars program. The reality of Bob Dole's risky\n\r    economic scheme will be higher deficits and across the board\n\r    slashing of programs such as education, environment and law\n\r    enforcement."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The reality is Bob Dole's 35 year record rarely matches\n\r    his recent rhetoric."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

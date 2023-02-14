@@ -1,0 +1,82 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "Clear Differences"
+End element:   TITLE
+Characters:    "\r\n\r"
+Start element: kpetitle
+Characters:    "Clear Differences"
+End element:   kpetitle
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r\r\n\r"
+Start element: CENTER
+Start element: A
+Key: HREF, Value: index22.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r"
+Start element: P
+Characters:    "FOR IMMEDIATE RELEASE\t\t\t\t\r\n\r"
+Characters:    "November 2, 1996\t\t\t\t\t\t\r\n\r\t\t\t\t\r\n\r"
+Start element: P
+Characters:    "STATEMENT OF JOE LOCKHART\r\n\r"
+Characters:    "NATIONAL PRESS SECRETARY\r\n\r\r\n\r"
+Start element: p
+Characters:    "The differences could not be clearer between President Clinton and Bob Dole.   \r\n\r\r\n\r"
+Start element: p
+Characters:    "President Clinton wants to keep the economy on the right track with a balanced budget plan that protects Medicare. Bob Dole wants to \"bet the country\" on a risky economic scheme that could force cuts in Medicare and Medicaid that are even deeper than the record-breaking cuts proposed by the 1995 Dole/Gingrich budget and require 40 percent cuts in education, environmental protection, the FBI, Border Patrol and other crucial areas.\r\n\r\r\n\r"
+Start element: p
+Characters:    "President Clinton wants to fight crime with tough enforcement and prevention measures and gun control.  Bob Dole opposed putting 100,000 more cops on the street, filibustered the Brady Bill and fought the ban on assault weapons.  Bob Dole even tried to slash funding for the war on drugs, including the Safe and Drug Free Schools Program which the President expanded.\r\n\r\r\n\r"
+Start element: p
+Characters:    "President Clinton wants to increase educational opportunities by expanding Head Start, ensuring that every child can read well by the end of the third grade, and making college more affordable through a tax cut for education and expanded Pell Grants.  Bob Dole opposed the creation of students loans, Head Start, Americorps, and the Department of Education.  And now he wants to eliminate the Department of Education.\r\n\r\r\n\r"
+Start element: p
+Characters:    "President Clinton wants to bring the nation together, building common ground, rejecting division and building a bridge to the 21st century for everyone to cross.  Bob Dole is seeking to divide Americans by race and ethnicity, calling affirmative action and immigration \"very important ... wedge issues\" to his campaign. (Washington Post 10/29/96) \r\n\r\r\n\r"
+Start element: p
+Characters:    "Not only are the differences between President Clinton and Bob Dole clear, so is the choice.  Americans know that President Clinton is the one they can count on to lead the country forward into the 21st century. \r\n\r\r\n\r\t\t\t\t\t\t"
+Start element: P
+Start element: CENTER
+Characters:    "###"
+End element:   center
+Characters:    "\r\n\r\r\n\r \r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee,\r\n\rInc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End of document

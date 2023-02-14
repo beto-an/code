@@ -1,0 +1,293 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Where Bob Dole Stands on Tax Reform"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: h2
+Key: align, Value: center
+Key: style, Value: text-align:center
+Characters:    "Where Bob Dole\n\r  Stands on Tax Reform"
+End element:   h2
+Characters:    "\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "The IRS\n\r  Has Grown Too Large and Bureaucratic"
+End element:   span
+End element:   b
+Characters:    "\n\r  Our tax system is so complicated that Americans now spend 5.4\n\r  billion hours each year just to comply with it. By comparison, it\n\r  took the same amount of time to build all of the cars, trucks and\n\r  airplanes produced in America last year. It's no wonder when the\n\r  instructions for the easiest tax form our government can produce\n\r  -- the EZ form -- runs 36 pages long."
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Ending the IRS As We Know\n\r  It"
+End element:   span
+End element:   b
+Characters:    "\n\r  The Dole-Kemp 15 percent, across-the-board tax cut for America's\n\r  families is a good first step toward reforming our tax code. But\n\r  the long-term goal of serious tax reform must be the overhaul of\n\r  the federal tax code. In achieving that goal, a Dole-Kemp\n\r  Administration will bear in mind these six basic principles:"
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Characters:    "1. Fairness"
+End element:   b
+Characters:    " "
+Start element: i
+Characters:    "Restore fairness to our tax laws by ending,\n\r  once and for all, special interest loopholes, and taxing income\n\r  at lower tax rates."
+End element:   i
+Characters:    "\n\r  Tax laws should apply equally to all. No loopholes designed for a\n\r  privileged few. No special favors for those with the money to buy\n\r  the influence of tax lobbyists. The Dole-Kemp plan aims to\n\r  restore one basic principle: Tax laws should treat all Americans\n\r  equally. Tax relief should be given to all taxpayers."
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Characters:    "2. Simplicity"
+End element:   b
+Characters:    " "
+Start element: i
+Characters:    "Let taxpayers file with a postcard-sized\n\r  form or not file a return at all."
+End element:   i
+Characters:    "\n\r  In all its complexity, our tax code is today unfair in almost\n\r  every way imaginable: Our tax laws are beyond the comprehension\n\r  of most mortals. That's why some 55 million Americans need the\n\r  help of an accountant to file our tax returns. And often even the\n\r  accountants cannot make sense of the tax code. It is also a\n\r  tremendous drag on productivity. But that's the price Americans\n\r  are paying today to meet the demands of a burdensome and\n\r  irrational tax code."
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Characters:    "3. Pro-Growth"
+End element:   b
+Characters:    " "
+Start element: i
+Characters:    "End the bias against savings and\n\r  investment in our tax laws."
+End element:   i
+Characters:    "\n\r  Under the current system, income that is used for consumption is\n\r  taxed once, while income that is saved is taxed again and again.\n\r  The Dole-Kemp tax reforms begin the process of reducing the high\n\r  taxes on certain types of income, such as capital gains. In doing\n\r  so, it seeks to stop punishing investment and savings."
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Characters:    "4. Helps Workers"
+End element:   b
+Characters:    " "
+Start element: i
+Characters:    "Relieve the tax burden on working\n\r  Americans by allowing for the deductibility of the payroll\n\r  tax."
+End element:   i
+Characters:    "\n\r  Working Americans pay taxes every time they receive a paycheck\n\r  from their employers. Many employees actually pay more in payroll\n\r  taxes than they do in federal income taxes. Bob Dole and Jack\n\r  Kemp want to move toward a system that permits them to deduct the\n\r  payroll tax from their overall tax bill, more money will be\n\r  directed back to the working taxpayer."
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Characters:    "5. Protects Social Security"
+End element:   b
+Characters:    " "
+Start element: i
+Characters:    "Help the elderly and those\n\r  living on fixed incomes."
+End element:   i
+Characters:    "\n\r  How did the Clinton tax hike affect them? It raised the tax on\n\r  their benefits even higher, so that 85 percent of the Social\n\r  Security payments government makes are now subject to taxes. This\n\r  was just plain wrong, and our plan will reverse it. The Kemp-Dole\n\r  plan will repeal that tax on elderly Americans."
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Characters:    "6. Safeguards Against Tax Hikes"
+End element:   b
+Characters:    " "
+Start element: i
+Characters:    "Require a 60 percent\n\r  majority vote to raise incoeme tax rates."
+End element:   i
+Characters:    "\n\r  Our tax laws have seen "
+Start element: i
+Characters:    "31 major changes in just 40 years"
+End element:   i
+Characters:    ".\n\r  Such constant changes in tax rates, apart from their unfairness\n\r  to working Americans, are extremely destabilizing to our whole\n\r  economy. Earnings should be put further from government. Raising\n\r  tax rates should not be done according to political whim or the\n\r  shifting balance of power in Washington. It's a serious matter,\n\r  one of the most serious responsibilities government has. It's\n\r  serious enough to require the consent of 60 percent of the\n\r  Congress and not a mere majority."
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "A Better America"
+End element:   span
+End element:   b
+Characters:    "\n\r  With Bob Dole as President, Americans won't spend their weekends\n\r  during tax season trying to fill out complicated and confusing\n\r  forms."
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../../news/news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    " "
+Start element: a
+Key: href, Value: ../agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the\n\r  Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

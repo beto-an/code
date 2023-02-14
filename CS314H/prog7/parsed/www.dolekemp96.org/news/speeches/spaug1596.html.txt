@@ -1,0 +1,357 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Speech made on August 15, 1996"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: b
+Start element: font
+Key: size, Value: +1
+Characters:    "August 15, 1996"
+End element:   font
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: -1
+Characters:    "Remarks by Jack Kemp"
+End element:   font
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: -1
+Characters:    "Kemp Accepts Nomination"
+End element:   font
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: -1
+Characters:    "San Diego, California"
+End element:   font
+Characters:    "\n\r    &nbsp;"
+End element:   b
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    Abraham Lincoln believed you serve your party best by serving\n\r    our country first. Ladies and gentlemen, I cannot think of a\n\r    better way of serving our nation than by electing Bob Dole\n\r    President of the United States of America."
+Characters:    "\n\r    "
+Characters:    "\n\r    And by the way, this time let's reelect a Republican Congress\n\r    to help Bob Dole restore the"
+Characters:    "\n\r    American dream. That's what is important in 1996. It's just\n\r    that we need to re-elect our Republican Congress."
+Characters:    "\n\r    "
+Characters:    "\n\r    Tonight, here in San Diego, Bob Dole and I begin this campaign\n\r    to take our message of growth, hope, leadership and cultural\n\r    renewal to all Americans."
+Characters:    "\n\r    "
+Characters:    "\n\r    As I said in Russell, Kansas, Bob Dole's hometown, last\n\r    Saturday, we're going to take our cause from the boroughs of\n\r    New York to the barrios of California. We're not going to leave\n\r    anyone out of this cause and this campaign."
+Characters:    "\n\r    "
+Characters:    "\n\r    We're going to carry the word to every man, woman and child of\n\r    every color and background that today, on the eve of the new\n\r    American century, it's time to renew the American promise and\n\r    to recapture the American dream, and to give our nation a new\n\r    birth of freedom with liberty, equality and justice for all.\n\r    That's what it means to be a Republican."
+Characters:    "\n\r    "
+Characters:    "\n\r    Tonight, I'm putting our opponents on notice. We're going to\n\r    ask for the support of every single American. Our appeal of\n\r    boundless opportunity crosses every barrier of geography, race\n\r    and belief in America. We're not going to leave anybody out of\n\r    this opportunity"
+Characters:    "\n\r    "
+Characters:    "\n\r    We may not get every vote. Now, listen to me for a moment. We\n\r    may not get every vote, but we'll speak to every heart. In word\n\r    and action, we will represent the entire American family.\n\r    That's what we must be all about."
+Characters:    "\n\r    "
+Characters:    "\n\r    And so, in the spirit of Mr. Lincoln, who believed that the\n\r    purpose of a great party was not to defeat the other party. The\n\r    purpose of a truly great party is to provide superior ideas,\n\r    principled leadership and a compelling cause, and in that\n\r    spirit, I accept your nomination for the Vice Presidency of the\n\r    United States of America."
+Characters:    "\n\r    "
+Characters:    "\n\r    Thank you. OK, I accept, I accept, I accept. I had to say\n\r    it."
+Characters:    "\n\r    "
+Characters:    "\n\r    Our convention is not just the meeting of a political party;\n\r    our convention is a celebration of ideas. Our goal is not just\n\r    to win, but to be worthy of winning."
+Characters:    "\n\r    "
+Characters:    "\n\r    This is a great nation with a great mission, and last night we\n\r    nominated a leader whose stature is equal to that calling, a\n\r    man whose words convey a quiet strength, who knows what it\n\r    means to sacrifice for others, to sacrifice for his country,\n\r    and to demonstrate courage under fire; who brings together all\n\r    parties and backgrounds in a common cause."
+Characters:    "\n\r    "
+Characters:    "\n\r    In recent years it has been a presidential practice when\n\r    delivering the State of the Union address to introduce heroes\n\r    in the balcony. Next year, when Bob Dole delivers the State of\n\r    the Union address there'll be a hero at the podium."
+Characters:    "\n\r    "
+Characters:    "\n\r    There is another hero with us tonight. He's here in our hearts,\n\r    he's here in our spirit. He's here in our minds. He brought\n\r    America back and restored America's spirit. He gave us a decade\n\r    of prosperity and expanding horizons. Make no mistake about it,\n\r    communism came down, not because it fell, but because he pushed\n\r    it."
+Characters:    "\n\r    "
+Characters:    "\n\r    Thank you, Ronald Reagan. The Gipper."
+Characters:    "\n\r    "
+Characters:    "\n\r    Our campaign -- for just a moment, let me talk about this\n\r    campaign, this cause -- is dedicated to completing that\n\r    revolution. I'm sure he's watching us. So let me just say to\n\r    him, on behalf of all of us who love him, thanks to the\n\r    Gipper."
+Characters:    "\n\r    "
+Characters:    "\n\r    And tonight is the party of Abraham Lincoln and Ronald Reagan\n\r    and Bob Dole, and all the great Republicans who precede us and\n\r    upon whose shoulders we stand, we begin our campaign to restore\n\r    the adventure of the American dream."
+Characters:    "\n\r    "
+Characters:    "\n\r    With the end of the Cold War, all the \"isms\" of the 20th\n\r    century -- Fascism, Nazism, Communism, Socialism, and the evil\n\r    of Apartheidism -- have failed, except one. Only democracy has\n\r    shown itself true to the hopes of all mankind. We must be that\n\r    party"
+Characters:    "\n\r    "
+Characters:    "\n\r    You see, democratic capitalism is not just the hope of wealth,\n\r    but it's the hope of justice. When we look into the face of\n\r    poverty, we see the pain, the despair and need of human beings.\n\r    But above all, in every face of every child, we must see the\n\r    image of God."
+Characters:    "\n\r    "
+Characters:    "\n\r    You see, the Creator of All has planted the seed of creativity\n\r    in every single one of us, the desire within every child of God\n\r    to work and build and improve our lot in life, and that of our\n\r    families and those we love. And in our work, and in the act of\n\r    creating that is part of all labor, we discover that part\n\r    within ourselves that is divine. I believe the ultimate\n\r    imperative for growth and opportunity is to advance human\n\r    dignity."
+Characters:    "\n\r    "
+Characters:    "\n\r    Dr. Martin Luther King believed that we must see a sleeping\n\r    hero in every soul. I belive America must establish policies\n\r    that summon those heroes and call forth their boundless\n\r    potential and that of the human spirit. But our fullest\n\r    potential will never be achieved by following leaders who call\n\r    us to timid tasks, diminished dreams and some era of\n\r    limits."
+Characters:    "\n\r    "
+Characters:    "\n\r    You see, every generation faces a choice: hope or despair -- to\n\r    plan for scarcity or to embrace the possibilities. Societies\n\r    throughout history believed they had reached the frontiers of\n\r    human accomplishment. But in every age, those who trusted that\n\r    divine spark of imagination discovered that vastly greater\n\r    horizons still lay ahead."
+Characters:    "\n\r    "
+Characters:    "\n\r    You see, Americans do not accept limits. We transcended those\n\r    limits. We do not settle for things as they are. We are intent\n\r    on succeeding."
+Characters:    "\n\r    "
+Characters:    "\n\r    I learned this as a lesson as a young boy growing up in the\n\r    street in Los Angeles, California. My dad was a truck\n\r    driver."
+Characters:    "\n\r    "
+Characters:    "\n\r    My daddy was a truck driver. He and my uncle bought the truck,\n\r    started a trucking company, put four boys through college. From\n\r    them and my mom, a teacher, I learned to never give up. Now I\n\r    want you to know tonight, from the bottom of my heart, to me,\n\r    faith, freedom and family, as well as life, are the greatest\n\r    gifts of God to all humanity. It is precious and we need to be\n\r    that party."
+Characters:    "\n\r    "
+Characters:    "\n\r    Today America is on the threshold of the greatest period of\n\r    economic activity, technological development and\n\r    entrepreneurial adventure in the history of the world. We have\n\r    before us tomorrows that are even more thrilling than our more\n\r    glorious of yesterdays."
+Characters:    "\n\r    "
+Characters:    "\n\r    And yet the genius of the American people is being stifled. Our\n\r    economy is growing at the slowest pace in any recovery in this\n\r    century. The income of working men and woman in America is\n\r    dropping or stagnant. And there's kind of a gnawing feeling\n\r    throughout our nation that -- in some way, for some reason --\n\r    just something wrong."
+Characters:    "\n\r    "
+Characters:    "\n\r    Our friends in the other party say the economy is great. It's\n\r    moving forward. It's moving, like a ship dragging an anchor,\n\r    the anchor of taxes, and excessive regulations and big\n\r    government and bureaucracy."
+Characters:    "\n\r    "
+Characters:    "\n\r    They say it's the best we do and the best we can hope for. But\n\r    that's because they have put their entire trust in government\n\r    rather than people. They want a government that runs our lives,\n\r    runs our businesses, runs our schools. You see, they just don't\n\r    believe in the unlimited possibilities that freedom can\n\r    bring."
+Characters:    "\n\r    "
+Characters:    "\n\r    Today, the Democratic Party is not democratic. They are\n\r    elitist. They don't have faith in people. They have in\n\r    government. They trust government more than markets. And that's\n\r    why they raised taxes on middle income families. That's why\n\r    they tried to nationalize health care. That's why that today\n\r    they say they are \"unalterably opposed\" to cutting taxes on the\n\r    American family."
+Characters:    "\n\r    "
+Characters:    "\n\r    That's the problem with elitists -- they think they know better\n\r    than the people. But the truth is, there's a wisdom, there's an\n\r    intelligence in ordinary women and men far superior to the\n\r    greatest so-called experts that have every lived. That's what\n\r    our party must be all about."
+Characters:    "\n\r    The Democratic Party is the party of the status quo. And as of\n\r    tonight, with Bob Dole as our leader, we are the party of\n\r    change."
+Characters:    "\n\r    "
+Characters:    "\n\r    Our first step will be to balance the budget with a strategy\n\r    that combines economy in government with the type of tax cuts\n\r    designed to liberate the productive genius of the American\n\r    people."
+Characters:    "\n\r    "
+Characters:    "\n\r    Now, of course, the naysayers in the Clinton White House say it\n\r    can't be done. They've got to say that. They don't know Bob\n\r    Dole and they don't know Jack Kemp."
+Characters:    "\n\r    "
+Characters:    "\n\r    As Bob and I have said before and will continue to say\n\r    throughout this campaign, with a pro-growth Republican\n\r    Congress, balancing the budget while cutting taxes is just a\n\r    matter of presidential will. If you have it, you can do it. Bob\n\r    Dole has it. And Bob Dole will do it."
+Characters:    "\n\r    "
+Characters:    "\n\r    You can count on it."
+Characters:    "\n\r    "
+Characters:    "\n\r    And guess what? And guess what? And guess what?"
+Characters:    "\n\r    "
+Characters:    "\n\r    All the critics aside, I'm going to be with him, at his side,\n\r    every step of the way. And so will you, so will you."
+Characters:    "\n\r    "
+Characters:    "\n\r    But this is just the beginning. But this is just the beginning.\n\r    This is the first step."
+Characters:    "\n\r    "
+Characters:    "\n\r    We're going to scrap the whole fatally flawed tax code of\n\r    America, and replace it with a flatter, fairer, simpler,\n\r    pro-family, pro-growth tax code for the 21st century. We can do\n\r    it."
+Characters:    "\n\r    "
+Characters:    "\n\r    And guess what? Guess what? Guess what? That's rhetorical. You\n\r    don't have to answer."
+Characters:    "\n\r    "
+Characters:    "\n\r    We're going to end the IRS and its intrusiveness as we have\n\r    known it these past 83 years."
+Characters:    "\n\r    "
+Characters:    "\n\r    We're going to start with a 15 percent across-the-board tax\n\r    rate cut. There's going to be tax relief and a $500 per child\n\r    tax credit. We're going to cut the capital gains tax in half,\n\r    and not apologize for it."
+Characters:    "\n\r    "
+Characters:    "\n\r    We're going to take the side of the worker, the side of the\n\r    saver, the entrepreneur, the family. The American people can\n\r    use their money more wisely than can government. It's time they\n\r    had more of a chance, and we're going to give them that\n\r    opportunity, that chance."
+Characters:    "\n\r    "
+Characters:    "\n\r    That's what this is all about."
+Characters:    "\n\r    "
+Characters:    "\n\r    Here we are, on the eve of the 21st century, in the middle of\n\r    that technological revolution that is transforming the world in\n\r    which we live. But how can it be that so many families find\n\r    themselves struggling just to keep even, or just to get by?"
+Characters:    "\n\r    "
+Characters:    "\n\r    And I want to say this from the heart -- that as long as it\n\r    takes two earners to do what one earner used to do, how can\n\r    anybody say this economy is good enough for the American\n\r    people?"
+Characters:    "\n\r    "
+Characters:    "\n\r    Our tax cut will mean that parents will have more time to spend\n\r    with their children -- and with each other. It means that a\n\r    working parent can afford to take a job that lets them maybe be\n\r    home when the kids come home from school. It means that the\n\r    struggling, single mother in the inner city of America will\n\r    find it easier to get out of poverty and to work off the\n\r    welfare system which is a drag on her hopes and\n\r    aspirations."
+Characters:    "\n\r    "
+Characters:    "\n\r    We cannot forget, my friends, that a single mom and her\n\r    children in this country cannot be left out of our great\n\r    revolution for this country."
+Characters:    "\n\r    "
+Characters:    "\n\r    The American society as a whole can never achieve the outer-\n\r    reaches of its potential so long as it tolerates the inner\n\r    cities of despair. And I can tell you that Bob Dole and Jack\n\r    Kemp will not tolerate that despair in our nation's cities."
+Characters:    "\n\r    "
+Characters:    "\n\r    I read the account by a reporter -- I read the report -- when I\n\r    was at Housing and Urban Development, I read the account of a\n\r    reporter of his conversation with a 10-year-old child at Henry\n\r    Horner public housing in Chicago, which I had had the honor of\n\r    visiting."
+Characters:    "\n\r    "
+Characters:    "\n\r    The reporter told in his book that he asked the little boy what\n\r    he wanted to be when he grew up. The little boy said, \"If I\n\r    grow up, I'd like to be a bus driver.\""
+Characters:    "\n\r    "
+Characters:    "\n\r    He said, \"If I grow up.\" He said \"If\" -- not when. At the age\n\r    of 10 he wasn't sure he'd even make it to adulthood."
+Characters:    "\n\r    "
+Characters:    "\n\r    Think how much poorer our nation is, and deprived of, not\n\r    allowing that child to reach his or her potential. And those\n\r    like him. Think how much richer our nation will be when every\n\r    single child is able to grow up to reach for his or her\n\r    God-given potential -- including those who come to America.\n\r    Including those who are willing to risk everything to come to\n\r    this nation."
+Characters:    "\n\r    "
+Characters:    "\n\r    My friends, we are a nation of immigrants. And as the former\n\r    president of Notre Dame University, Father Theodore Hesburgh,\n\r    said, the reason we have to close the back door of illegal\n\r    immigration is so that we can keep open the front door of legal\n\r    immigration."
+Characters:    "\n\r    "
+Characters:    "\n\r    That is what it means to be in America."
+Characters:    "\n\r    "
+Characters:    "\n\r    You see, our goal is not just a more prosperous America, but a\n\r    better America. An America that recognizes the infinite\n\r    worthwhile of every individual and, like the Good Shepherd,\n\r    leaves the 99 to find the one stray lamb."
+Characters:    "\n\r    "
+Characters:    "\n\r    An America that honors all its institutions -- the values that\n\r    moms and dads want to pass on to their children."
+Characters:    "\n\r    "
+Characters:    "\n\r    An America that makes the ideal of equality a daily reality --\n\r    equality of opportunity, equality in human dignity, equality\n\r    before the laws of mankind as well as in the eyes of God."
+Characters:    "\n\r    "
+Characters:    "\n\r    An America that transcends the boundaries between the races\n\r    with the revolutionary power of the simple, yet profound idea\n\r    to love our neighbors as ourselves."
+Characters:    "\n\r    "
+Characters:    "\n\r    We must remember all that is at stake in America's cultural\n\r    renewal -- not just the wealth of our nation but the meaning as\n\r    well."
+Characters:    "\n\r    "
+Characters:    "\n\r    Today, more than ever before, America's ideals and ideas grip\n\r    the imaginations of women and men in every corner of the globe.\n\r    And isn't it exciting -- isn't it exciting to think, that it's\n\r    1776 -- only this time all over the world?"
+Characters:    "\n\r    "
+Characters:    "\n\r    You know, President Reagan spoke of America as a shining city\n\r    on a hill, a light unto nations. And in decades past, so many\n\r    of those who looked for that light did so from behind a wall\n\r    and barbed wire, and tyrannical regimes."
+Characters:    "\n\r    "
+Characters:    "\n\r    Now, because the American people stood strong, those people are\n\r    free."
+Characters:    "\n\r    "
+Characters:    "\n\r    Freedom is not free. It's never guaranteed. Our nation and its\n\r    president must be strong enough to stand up for freedom against\n\r    all who would challenge it."
+Characters:    "\n\r    "
+Characters:    "\n\r    A world of peace. A world of hope. That's what America's\n\r    economic and cultural renewal means at home and around the\n\r    world. This is what our cause is all about. This is why we'll\n\r    elect Bob Dole the next president. This is why we need a\n\r    Republican Congress."
+Characters:    "\n\r    "
+Characters:    "\n\r    And I want you to know, the other night I was honored, I was so\n\r    honored to be part of that tribute, so meaningfully to\n\r    President Reagan. Afterwards. Mrs. Reagan said she was touched\n\r    by my calling Ronald Reagan the last lion of the 20th century.\n\r    Well, I said history will record that."
+Characters:    "\n\r    "
+Characters:    "\n\r    I believe America is fortunate that last night you, and you,\n\r    and you nominated a leader worthy of succeeding President\n\r    Reagan -- a man with the strength, the determination and the\n\r    vision to do the job that lies ahead."
+Characters:    "\n\r    "
+Characters:    "\n\r    And I want you to know tonight from the bottom of my heart, I\n\r    believe Bob Dole will be the first lion of the 21st\n\r    century."
+Characters:    "\n\r    "
+Characters:    "\n\r    Thank you."
+Characters:    "\n\r    &nbsp;\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    "\n\r  "
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get\n\r  Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

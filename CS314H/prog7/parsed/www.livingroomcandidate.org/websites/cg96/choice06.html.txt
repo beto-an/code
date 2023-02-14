@@ -1,0 +1,85 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "The Bob Dole Flip: Now He's Anti-Choice"
+End element:   TITLE
+Characters:    "\r\n\r\r\n\r"
+Start element: KPETITLE
+Start element: B
+Characters:    "For Immediate Release:"
+End element:   B
+Characters:    "\r\n\rThe Bob Dole Flip: Now's He's Anti-Choice"
+Start element: DD
+End element:   KPETITLE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "  "
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "  "
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r"
+Start element: TT
+Characters:    "\r\n\r"
+Start element: P
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "August 6, 1996\r\n\r\r\n\r\r\n\r\t"
+Start element: P
+Characters:    "STATEMENT BY ANN LEWIS\r\n\r"
+Characters:    " DEPUTY CAMPAIGN MANAGER\r\n\r\r\n\r"
+Start element: P
+Characters:    "    Two months ago Bob Dole said that his platform would definitely include tolerance language on the issue of abortion:\r\n\r\r\n\r"
+Start element: P
+Start element: I
+Characters:    "\t \"It has been resolved. I think I make that decision--it�s not \t\t\tnegotiable.  It�s the decision.  And that�s going to be in the plank.\""
+End element:   I
+Characters:    "\r\n\r                        (CNN Inside Politics 6/10/96)\r\n\r\r\n\r"
+Start element: P
+Characters:    "      Yesterday, Bob Dole agreed to the demands by Pat Robertson and Pat Buchanan, and walked away from his own commitment to \"tolerance\" toward those Republicans who support a woman�s right to choose.  Now the 1996 Republican platform, like Bob Dole�s record, is clearly and consistently anti-choice. \r\n\r      \r\n\r"
+Start element: P
+Characters:    "     Bob Dole opposed Roe v. Wade; voted against ending the gag rule in family planning clinics; and voted against the Freedom of Access to Clinic Entrances Act which protects clinics from violence.   His platform will oppose Roe v. Wade.  His platform will call for a constitutional amendment that would make abortion illegal for every woman in every state.  His platform will demand the appointment of judges who meet an anti-abortion litmus test. \r\n\r\r\n\r"
+Start element: P
+Characters:    "     With his decision to abandon mainstream Republicans, and adopt Pat Robertson�s and Pat Buchanan�s definition of \"tolerance,\" all traces of Bob Dole�s reported move to the center have been erased. \r\n\r\r\n\r\r\n\r"
+Start element: P
+Start element: CENTER
+Characters:    "###\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    " "
+Characters:    " "
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee, Inc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End of document

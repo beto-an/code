@@ -1,0 +1,142 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "For Immediate Release"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #BE0023
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+End element:   p
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: center
+Characters:    "\n\r        "
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: pushban.html
+Characters:    "6/26/96 --\n\r        Clinton/Gore ’96 supports ban on &nbsp;“push\n\r        polling”"
+End element:   a
+End element:   font
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: hampton.html
+Characters:    "6/25/96 -- Jazz\n\r        legend Lionel Hampton endorses President\n\r        Clinton"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: fml.html
+Characters:    "6/24/96 -- Compare\n\r        the candidates on Family and Medical Leave"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: dole.html
+Characters:    "6/22/96 -- Bob Dole\n\r        continues negative campaign"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: taxes.html
+Characters:    "6/21/96 -- Taxes\n\r        lower today than when President Clinton took\n\r        office"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: economy2.html
+Characters:    "6/21/96 --\n\r        Clinton/Gore ’96 welcomes the debate on economic\n\r        policy"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: nurses.html
+Characters:    "6/19/96 --\n\r        American Nurses Association supports President\n\r        Clinton"
+End element:   a
+End element:   font
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+End element:   p
+Characters:    "\n\r        "
+Start element: center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee,\n\r          Inc."
+End element:   p
+Characters:    "\n\r        "
+End element:   center
+Characters:    "\n\r      "
+End element:   center
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/dole.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/pushban.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/hampton.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/economy2.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/nurses.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/taxes.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/fml.html

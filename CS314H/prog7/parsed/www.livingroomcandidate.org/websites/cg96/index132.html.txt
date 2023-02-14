@@ -1,0 +1,157 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r\n\r  "
+Start element: style
+Characters:    "\n\r  a:link                  {font:8pt/11pt verdana; color:FF0000}\n\r  a:visited               {font:8pt/11pt verdana; color:#4e4e4e}\n\r  "
+End element:   style
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "The page cannot be found"
+End element:   title
+Characters:    "\n\r  "
+Start element: script
+Characters:    "\n\r\n\r  function Homepage(){\n\r  <!--\n\r  // in real bits, urls get returned to our script like this:\n\r  // res://shdocvw.dll/http_404.htm#http://www.DocURL.com/bar.htm \n\r\n\r        //For testing use DocURL = \"res://shdocvw.dll/http_404.htm#https://www.microsoft.com/bar.htm\"\n\r        DocURL = document.URL;\n\r                \n\r        //this is where the http or https will be, as found by searching for :// but skipping the res://\n\r        protocolIndex=DocURL.indexOf(\"://\",4);\n\r        \n\r        //this finds the ending slash for the domain server \n\r        serverIndex=DocURL.indexOf(\"../../../external.html\",protocolIndex + 3);\n\r\n\r                //for the href, we need a valid URL to the domain. We search for the # symbol to find the begining \n\r        //of the true URL, and add 1 to skip it - this is the BeginURL value. We use serverIndex as the end marker.\n\r        //urlresult=DocURL.substring(protocolIndex - 4,serverIndex);\n\r        BeginURL=DocURL.indexOf(\"#\",1) + 1;\n\r        \n\r        urlresult=DocURL.substring(BeginURL,serverIndex);\n\r                                \n\r        //for display, we need to skip after http://, and go to the next slash\n\r        displayresult=DocURL.substring(protocolIndex + 3 ,serverIndex);\n\r\n\r        InsertElementAnchor(urlresult, displayresult);\n\r  }\n\r\n\r  function HtmlEncode(text)\n\r  {\n\r    return text.replace(/&/g, '&amp').replace(/'/g, '&quot;').replace(/<\\/g, '&lt;').replace(/>/g, '&gt;');\n\r  }\n\r\n\r  function TagAttrib(name, value)\n\r  {\n\r    return ' '+name+'=\"'+HtmlEncode(value)+'\"';\n\r  }\n\r\n\r  function PrintTag(tagName, needCloseTag, attrib, inner){\n\r    document.write( '<' + tagName + attrib + '>' + HtmlEncode(inner) );\n\r    if (needCloseTag) document.write( '</' + tagName +'>' );\n\r  }\n\r\n\r  function URI(href)\n\r  {\n\r    IEVer = window.navigator.appVersion;\n\r    IEVer = IEVer.substr( IEVer.indexOf('MSIE') + 5, 3 );\n\r\n\r    return (IEVer.charAt(1)=='.' && IEVer >= '5.5') ?\n\r        encodeURI(href) :\n\r        escape(href).replace(/%3A/g, ':').replace(/%3B/g, ';');\n\r  }\n\r\n\r  function InsertElementAnchor(href, text)\n\r  {\n\r    PrintTag('A', true, TagAttrib('HREF', URI(href)), text);\n\r  }\n\r\n\r  //-->\n\r  "
+End element:   script
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Characters:    "\n\r  "
+Start element: table
+Key: width, Value: 410
+Key: cellpadding, Value: 3
+Key: cellspacing, Value: 5
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: middle
+Key: width, Value: 360
+Characters:    "\n\r        "
+Start element: h1
+Key: style, Value: COLOR:000000; FONT: 13pt/15pt verdana
+Characters:    "\n\r        "
+Characters:    "The page cannot be found"
+End element:   h1
+Characters:    "\n\r      "
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: width, Value: 400
+Key: colspan, Value: 2
+Start element: font
+Key: style, Value: COLOR:000000; FONT: 8pt/11pt verdana
+Characters:    "The page you are\n\r      looking for might have been removed, had its name changed, or\n\r      is temporarily unavailable."
+End element:   font
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: width, Value: 400
+Key: colspan, Value: 2
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: style, Value: COLOR:000000; FONT: 8pt/11pt verdana
+Characters:    "Please try the\n\r        following:"
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: ul
+Characters:    "\n\r          "
+Start element: li
+Start element: font
+Key: style, Value: COLOR:000000; FONT: 8pt/11pt verdana
+Characters:    "If\n\r          you typed the page address in the Address bar, make sure\n\r          that it is spelled correctly."
+End element:   font
+End element:   li
+Characters:    "\n\r          "
+Start element: li
+Start element: font
+Key: style, Value: COLOR:000000; FONT: 8pt/11pt verdana
+Characters:    "Open the \n\r          "
+Start element: script
+Characters:    "\n\r\n\r\n\r          <!--\n\r          if (!((window.navigator.userAgent.indexOf(\"MSIE\") > 0) && (window.navigator.appVersion.charAt(0) == \"2\")))\n\r          { \n\r                Homepage();\n\r          }\n\r          //-->\n\r          "
+End element:   script
+Characters:    " home page, and then look for links to the\n\r          information you want."
+End element:   font
+End element:   li
+Characters:    "\n\r          "
+Start element: li
+Start element: font
+Key: style, Value: COLOR:000000; FONT: 8pt/11pt verdana
+Characters:    "Click the "
+Start element: a
+Key: href, Value: javascript:history.back(1)
+Characters:    "Back"
+End element:   a
+Characters:    " button to try\n\r          another link."
+End element:   font
+End element:   li
+Characters:    "\n\r        "
+End element:   ul
+Characters:    "\n\r        "
+Start element: h2
+Key: style, Value: font:8pt/11pt verdana; color:000000
+Characters:    "\n\r        "
+Start element: font
+Key: style, Value: COLOR:000000; FONT: 8pt/11pt verdana
+Characters:    "HTTP 404\n\r        - File not found"
+Characters:    "\n\r        Internet Information Services"
+End element:   font
+End element:   h2
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: style, Value: COLOR:000000; FONT: 8pt/11pt verdana
+Characters:    "Technical\n\r        Information (for support personnel)"
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: ul
+Characters:    "\n\r          "
+Start element: li
+Start element: font
+Key: style, Value: COLOR:000000; FONT: 8pt/11pt verdana
+Characters:    "More\n\r          information:"
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+Key: target, Value: _blank
+Characters:    "Microsoft Support"
+End element:   a
+End element:   font
+End element:   li
+Characters:    "\n\r        "
+End element:   ul
+Characters:    "\n\r      "
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r  "
+End element:   table
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

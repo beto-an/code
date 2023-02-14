@@ -1,0 +1,168 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Campaign Releases New Advertisement: Missing"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October, 11 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "STATE ATTORNEYS GENERAL ENDORSE PRESIDENT CLINTON AND\n\r      HAIL HIS EFFORTS TO COMBAT DOMESTIC VIOLENCE"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "WASHINGTON, D.C. -- Applauding President Clinton�s\n\r    \"fight to make America safer for our families and children,\" 23\n\r    state Attorneys General endorsed the reelection of President\n\r    Bill Clinton and Vice President Al Gore. The Attorneys General\n\r    explained that they \"wanted everybody to know about President\n\r    Clinton�s unprecedented efforts to end domestic\n\r    violence.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The endorsement of the Attorneys General comes during\n\r    Domestic Violence Awareness Month, established by the\n\r    President, which seeks to heighten the country�s awareness of a\n\r    national problem. President Clinton is the first president in\n\r    history to make combating domestic violence a priority: signing\n\r    the Violence Against Women Act, creating the Violence Against\n\r    Women Office, establishing a national 24-hour hotline\n\r    (1-800-799-SAFE) for victims of domestic violence, and\n\r    increasing funding for shelters, counseling, and other efforts.\n\r    Across the country, communities and neighborhoods today are\n\r    recognizing the Administration�s accomplishments on domestic\n\r    violence, and the partnership that now exists between the\n\r    local, state, and national levels to protect women, children,\n\r    and the elderly."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The Attorneys General hailed the President�s actions to\n\r    bolster the ability of states to protect women and their\n\r    families."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Frankie Sue Del Papa, Attorney General of Nevada,\n\r    explained that the \"Violence Against Women Act, included in the\n\r    President�s Crime Bill, has already provided $126 million to\n\r    states to strengthen local law enforcement, prosecution, and\n\r    victims� services. No other President has done more to help\n\r    communities protect their families.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "James Doyle, Attorney General of Wisconsin, added that\n\r    President Clinton has fought to take guns off of our streets.\n\r    He explained that the \"Brady Bill, which President Clinton\n\r    fought for and signed, has already prevented more than 60,000\n\r    felons, fugitives, and stalkers from buying handguns. The\n\r    President also fought for the Brady Bill�s expansion, so that\n\r    it now prohibits those convicted of any offense involving\n\r    domestic violence -- felony or misdemeanor -- from owning or\n\r    possessing a firearm.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "While recognizing President Clinton�s accomplishments,\n\r    many of the Attorneys General criticized Bob Dole�s lack of\n\r    support."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Scott Harshbarger, Attorney General of Massachusetts,\n\r    pointed out that \"while President Clinton fought for the\n\r    Violence Against Women Act, created a national 24-hour crisis\n\r    hotline and the Violence Against Women Office in the Department\n\r    of Justice, and proposed the toughest child support enforcement\n\r    measures ever, Bob Dole opposed President Clinton�s efforts.\n\r    Bob Dole voted against the President�s Crime Bill, including\n\r    $1.6 billion in funding for the Violence Against Women Act, and\n\r    tried to cut the Violence Against Women Act funding by almost\n\r    43 percent.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "###"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "ATTORNEYS GENERAL THAT ENDORSED THE PRESIDENT"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "J. Joseph Curran, Jr., Maryland Tom Miller, Iowa\n\r    Frankie Sue Del Papa, Nevada Mike Moore, Mississippi James\n\r    Doyle, Wisconsin Dan Morales, Texas Michael Easley, North\n\r    Carolina Jay Nixon, Missouri Drew Edmondson, Oklahoma Tom\n\r    Udall, New Mexico Christine Gregoire, Washington"
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r      Inc."
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: width, Value: 330
+Characters:    "Richard Blumenthal, Connecticut Scott\n\r        Harshbarger, Massachusetts Winston Bryant, Arkansas Heidi\n\r        Heitkamp, North Dakota Charles Burson, Tennessee Hubert\n\r        Humphrey III, Minnesota Bob Butterworth, Florida Richard\n\r        Ieyoub, Louisiana Pamela Carter, Indiana Frank Kelley,\n\r        Michigan Ben Chandler III, Kentucky Ted Kulongoski,\n\r        Oregon"
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

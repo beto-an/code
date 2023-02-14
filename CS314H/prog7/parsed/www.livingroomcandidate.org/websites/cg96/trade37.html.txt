@@ -1,0 +1,454 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Export Growth: Massachusetts"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +2
+Start element: font
+Key: color, Value: #001058
+Characters:    "OPENING NEW MARKETS"
+Characters:    "\n\r    TO CREATE JOBS FOR U.S. WORKERS"
+End element:   font
+End element:   font
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    " "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Massachusetts recorded goods exports totaling $15.3\n\r              billion in 1995, up 21 percent ($2.7 billion) from\n\r              1993. During 1995, Massachusetts was the 11th largest\n\r              state exporter of goods.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Nearly 200 thousand Massachusetts� jobs were\n\r              supported by goods exports during 1995.\n\r              Massachusetts� jobs supported by goods exports grew\n\r              an estimated 10 percent (17,900 jobs) since 1993.\n\r              Export-related jobs pay 13 to 16 percent higher than\n\r              the national average.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              In 1991, the latest year available, Massachusetts�\n\r              exports accounted for 23.4 percent of its\n\r              manufacturing output and represented 22.7 percent of\n\r              its total manufacturing employment.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Massachusetts� exports of manufactured products were\n\r              up by 22 percent between 1993 and 1995 (from $12.1\n\r              billion in 1993 to $14.8 billion in 1995).\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              The five largest manufacturing sectors in terms of\n\r              Massachusetts� exports were: Industrial Machinery and\n\r              Computers ($4.6 billion of exports in 1995),\n\r              Electronic and Electric Equipment ($3.4 billion),\n\r              Scientific and Measuring Instruments ($2.2 billion),\n\r              Chemical Products ($956.6 million), and Fabricated\n\r              Metal Products ($ 557.5 million). These five sectors\n\r              accounted for 77 percent of the state�s total exports\n\r              in 1995.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Among Massachusetts� fastest growing manufactured\n\r              exports (in millions) were:"
+Characters:    "\n\r              "
+Start element: blockquote
+Characters:    "\n\r                "
+Start element: table
+Key: border, Value: 1
+Characters:    "\n\r                  "
+Start element: tr
+Characters:    "\n\r                    "
+Start element: td
+Start element: b
+Characters:    "Sector"
+End element:   b
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Start element: b
+Characters:    "1993"
+End element:   b
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Start element: b
+Characters:    "1995"
+End element:   b
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Start element: b
+Characters:    "Change"
+End element:   b
+End element:   td
+Characters:    "\n\r                  "
+End element:   tr
+Characters:    "\n\r                  "
+Start element: tr
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "Chemical Products"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$597.9"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$956.6"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "60%"
+End element:   td
+Characters:    "\n\r                  "
+End element:   tr
+Characters:    "\n\r                  "
+Start element: tr
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "Electronic and Electric Equipment"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$2,226.6"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$3,412.4"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "53%"
+End element:   td
+Characters:    "\n\r                  "
+End element:   tr
+Characters:    "\n\r                  "
+Start element: tr
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "Industrial Machinery and Computers"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$3,920.9"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$4,613.7"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "18%"
+End element:   td
+Characters:    "\n\r                  "
+End element:   tr
+Characters:    "\n\r                  "
+Start element: tr
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "Scientific and Measuring Equipment"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$1,964.6"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$2,248.9"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "15%"
+End element:   td
+Characters:    "\n\r                  "
+End element:   tr
+Characters:    "\n\r                "
+End element:   table
+Characters:    "\n\r              "
+End element:   blockquote
+Characters:    "\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Massachusetts is the country�s 44th largest\n\r              agricultural exporting state, shipping $29 million in\n\r              agricultural exports abroad in 1994 (latest year\n\r              available for Department of Agriculture state export\n\r              data). Given the 22 percent increase in total U.S.\n\r              agriculture exports in 1995, agriculture exports from\n\r              Massachusetts in 1995 will likely range between $30\n\r              million and $35 million.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Total exports from Massachusetts to NAFTA countries\n\r              increased by 16 percent between 1993 (pre-NAFTA) and\n\r              1995 (from $3.4 billion in 1993 to $3.9 billion in\n\r              1995). During 1995, Canada was Massachusetts� largest\n\r              export market, while Mexico was Massachusetts� 12th\n\r              largest export market. Exports to Canada were up by\n\r              20 percent ($588 million), from $3.0 billion in 1993\n\r              to $3.6 billion in 1995. Massachusetts� exports to\n\r              Mexico were down by 11 percent ($44 million), to $349\n\r              million in 1995.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              During 1995, Japan was Massachusetts� third largest\n\r              export market. Total exports from Massachusetts to\n\r              Japan were up 32 percent ($348 million), from $1.1\n\r              billion in 1993 to $1.4 billion in 1995.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Total exports from Massachusetts to the European\n\r              Union were up 20 percent ($0.9 billion), from 4.6\n\r              billion in 1993 to $5.5 billion in 1995.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r      "
+End element:   table
+Characters:    "\n\r      "
+Start element: center
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Start element: center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee,\n\r          Inc."
+End element:   p
+Characters:    "\n\r        "
+End element:   center
+Characters:    "\n\r      "
+End element:   center
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

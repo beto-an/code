@@ -1,0 +1,122 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Former NYPD Commissioner Endorsement"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 31, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "FORMER NEW YORK CITY POLICE COMMISSIONER WILLIAM J.\n\r      BRATTON ENDORSES PRESIDENT CLINTON AND VICE PRESIDENT\n\r      GORE"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "WASHINGTON, D.C. -- Former New York City Police\n\r    Commissioner William J. Bratton, one of the nation�s preeminent\n\r    and most effective police managers, will personally endorse the\n\r    re-election of President Clinton and Vice President Gore today.\n\r    Bratton will join the President at Arizona State University in\n\r    Phoenix today to present his endorsement."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bratton is a national leader in community policing and\n\r    in successfully applying executive management to crime\n\r    prevention. Under Bratton�s leadership, crime in New York\n\r    dropped to its lowest level in all categories in 25 years.\n\r    Violent crime decreased by over 38 percent and murders dropped\n\r    a remarkable 51 percent in New York City during Bratton�s\n\r    tenure. He was Police Commissioner of the City of New York from\n\r    January 1994 to April 1996."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bratton credits President Clinton�s crime policies as a\n\r    key factor in his success. \"When it came to passing the Crime\n\r    Bill, President Clinton delivered. His crime bill is putting\n\r    100,000 police on the streets of America and we are now seeing\n\r    its success. Crime is going down across America and is a result\n\r    of Bill Clinton�s effort,\" Bratton said. Bratton has noted that\n\r    funding and other provisions in that legislation greatly\n\r    assisted New York City in reducing crime."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "When Bratton became police commissioner, he announced\n\r    that he would be \"taking the City back from criminals one\n\r    block, one street, and one neighborhood at a time.\" The results\n\r    speak for themselves. As one New York City beat cop remarked,\n\r    \"This is a guy who is ending urban crime as we know\n\r    it.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bratton is currently President of First Security\n\r    Consulting and is working with police departments throughout\n\r    the United States and abroad to implement the crime reduction\n\r    strategies that were so successful in New York City."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "# # #"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

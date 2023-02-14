@@ -1,0 +1,394 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CLINTON GORE '96 | MAIN MENU"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: frameset
+Key: border, Value: 0
+Key: rows, Value: *, 50
+Characters:    "\n\r  "
+Start element: frame
+Key: name, Value: body
+Key: border, Value: 0
+Key: src, Value: menu2.html
+Characters:    "\n\r  "
+Start element: frame
+Key: name, Value: bottom
+Key: border, Value: 0
+Key: scrolling, Value: no
+Key: src, Value: scroll.html
+Characters:    "\n\r  "
+Start element: noframes
+Characters:    "\n\r    "
+Start element: body
+Characters:    "\n\r      "
+Start element: title
+Characters:    "M A I N M E N U"
+End element:   title
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: table
+Key: width, Value: 65%
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: colspan, Value: 2
+Characters:    "\n\r            "
+Start element: center
+Characters:    "\n\r              "
+Start element: a
+Key: href, Value: ../../../external.html
+End element:   a
+Characters:    "\n\r            "
+End element:   center
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r      "
+End element:   table
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: center
+Characters:    "\n\r        "
+Start element: font
+Key: size, Value: +2
+Characters:    "A Welcome Message from Vice President Al\n\r        Gore"
+End element:   font
+Characters:    "\n\r      "
+End element:   center
+Characters:    "\n\r      "
+Start element: center
+Characters:    "\n\r        "
+Start element: font
+Key: size, Value: +1
+Characters:    "RealAudio ["
+Start element: a
+Key: href, Value: vp14.ram
+Characters:    "14.4"
+End element:   a
+Characters:    "|"
+Start element: a
+Key: href, Value: vp28.ram
+Characters:    "28.8"
+End element:   a
+Characters:    "]"
+End element:   font
+Characters:    "\n\r      "
+End element:   center
+Characters:    "\n\r      "
+Start element: center
+Characters:    "\n\r        "
+Start element: table
+Key: width, Value: 80%
+Key: border, Value: 0
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r          "
+Start element: tr
+Characters:    "\n\r            "
+Start element: td
+Characters:    "\n\r              "
+Start element: center
+Characters:    "\n\r                "
+Start element: a
+Key: href, Value: index-2.html
+Characters:    "The Presidential Debates"
+End element:   a
+Characters:    "\n\r              "
+End element:   center
+Characters:    "\n\r            "
+End element:   td
+Characters:    "\n\r            "
+Start element: td
+Characters:    "\n\r              "
+Start element: center
+Characters:    "\n\r                "
+Start element: a
+Key: href, Value: index2.html
+Characters:    "In Your State"
+End element:   a
+Characters:    "\n\r              "
+End element:   center
+Characters:    "\n\r            "
+End element:   td
+Characters:    "\n\r            "
+Start element: td
+Characters:    "\n\r              "
+Start element: center
+Characters:    "\n\r                "
+Start element: a
+Key: href, Value: index3.html
+Characters:    "Clinton/Gore Now"
+End element:   a
+Characters:    "\n\r              "
+End element:   center
+Characters:    "\n\r            "
+End element:   td
+Characters:    "\n\r          "
+End element:   tr
+Characters:    "\n\r          "
+Start element: tr
+Characters:    "\n\r            "
+Start element: td
+Characters:    "\n\r              "
+Start element: center
+Characters:    "\n\r                "
+Start element: a
+Key: href, Value: index2-2.html
+Characters:    "Meeting America's\n\r                Challenges"
+End element:   a
+Characters:    "\n\r              "
+End element:   center
+Characters:    "\n\r            "
+End element:   td
+Characters:    "\n\r            "
+Start element: td
+Characters:    "\n\r              "
+Start element: center
+Characters:    "\n\r                "
+Start element: a
+Key: href, Value: index3-2.html
+Characters:    "Bill Clinton and Al\n\r                Gore"
+End element:   a
+Characters:    "\n\r              "
+End element:   center
+Characters:    "\n\r            "
+End element:   td
+Characters:    "\n\r            "
+Start element: td
+Characters:    "\n\r              "
+Start element: center
+Characters:    "\n\r                "
+Start element: a
+Key: href, Value: index4.html
+Characters:    "About this Website"
+End element:   a
+Characters:    "\n\r              "
+End element:   center
+Characters:    "\n\r            "
+End element:   td
+Characters:    "\n\r          "
+End element:   tr
+Characters:    "\n\r          "
+Start element: tr
+Characters:    "\n\r            "
+Start element: td
+Characters:    "\n\r              "
+Start element: center
+Characters:    "\n\r                "
+Start element: a
+Key: href, Value: index5.html
+Characters:    "The Briefing Room"
+End element:   a
+Characters:    "\n\r              "
+End element:   center
+Characters:    "\n\r            "
+End element:   td
+Characters:    "\n\r            "
+Start element: td
+Characters:    "\n\r              "
+Start element: center
+Characters:    "\n\r                "
+Start element: a
+Key: href, Value: index6.html
+Characters:    "What You Can Do"
+End element:   a
+Characters:    "\n\r              "
+End element:   center
+Characters:    "\n\r            "
+End element:   td
+Characters:    "\n\r            "
+Start element: td
+Characters:    "\n\r              "
+Start element: center
+Characters:    "\n\r                "
+Start element: a
+Key: href, Value: index4-2.html
+Characters:    "The Challenges Ahead"
+End element:   a
+Characters:    "\n\r              "
+End element:   center
+Characters:    "\n\r            "
+End element:   td
+Characters:    "\n\r          "
+End element:   tr
+Characters:    "\n\r          "
+Start element: tr
+Characters:    "\n\r            "
+Start element: td
+Characters:    "\n\r              "
+Start element: center
+Characters:    "\n\r                "
+Start element: a
+Key: href, Value: index7.html
+Characters:    "The Electoral College\n\r                Computer"
+End element:   a
+Characters:    "\n\r              "
+End element:   center
+Characters:    "\n\r            "
+End element:   td
+Characters:    "\n\r            "
+Start element: td
+Characters:    "\n\r              "
+Start element: center
+Characters:    "\n\r                "
+Start element: a
+Key: href, Value: index8.html
+Characters:    "21st Century Express"
+End element:   a
+Characters:    "\n\r              "
+End element:   center
+Characters:    "\n\r            "
+End element:   td
+Characters:    "\n\r            "
+Start element: td
+Characters:    "\n\r              "
+Start element: center
+Characters:    "\n\r                "
+Start element: a
+Key: href, Value: index5-2.html
+Characters:    "We the People"
+End element:   a
+Characters:    "\n\r              "
+End element:   center
+Characters:    "\n\r            "
+End element:   td
+Characters:    "\n\r          "
+End element:   tr
+Characters:    "\n\r          "
+Start element: tr
+Characters:    "\n\r            "
+Start element: td
+Characters:    "\n\r              "
+Start element: center
+Characters:    "\n\r                "
+Start element: a
+Key: href, Value: index9.html
+Characters:    "America's Home Page"
+End element:   a
+Characters:    "\n\r              "
+End element:   center
+Characters:    "\n\r            "
+End element:   td
+Characters:    "\n\r            "
+Start element: td
+Characters:    "\n\r              "
+Start element: center
+Characters:    "\n\r                "
+Start element: a
+Key: href, Value: index10.html
+Characters:    "Volunteer of the Week"
+End element:   a
+Characters:    "\n\r              "
+End element:   center
+Characters:    "\n\r            "
+End element:   td
+Characters:    "\n\r            "
+Start element: td
+Characters:    "\n\r              "
+Start element: center
+Characters:    "\n\r                "
+Start element: a
+Key: href, Value: index6-2.html
+Characters:    "The Clinton/Gore\n\r                Channel"
+End element:   a
+Characters:    "\n\r              "
+End element:   center
+Characters:    "\n\r            "
+End element:   td
+Characters:    "\n\r          "
+End element:   tr
+Characters:    "\n\r          "
+Start element: tr
+Characters:    "\n\r            "
+Start element: td
+Characters:    "\n\r              "
+Start element: center
+Characters:    "\n\r                "
+Start element: a
+Key: href, Value: index11-2.html
+Characters:    "Downloadables"
+End element:   a
+Characters:    "\n\r              "
+End element:   center
+Characters:    "\n\r            "
+End element:   td
+Characters:    "\n\r            "
+Start element: td
+Characters:    "\n\r              "
+Start element: center
+Characters:    "\n\r                "
+Start element: a
+Key: href, Value: index7-2.html
+Characters:    "Search"
+End element:   a
+Characters:    "\n\r              "
+End element:   center
+Characters:    "\n\r            "
+End element:   td
+Characters:    "\n\r          "
+End element:   tr
+Characters:    "\n\r        "
+End element:   table
+Characters:    "\n\r      "
+End element:   center
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: center
+Characters:    "\n\r        "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: -2
+Characters:    "Photographs ©"
+Characters:    "\n\r        Larry Downing/SYGMA; Ira Wyman/SYGMA;"
+Characters:    "\n\r        Brooks Kraft/SYGMA; R. Ellis/SYGMA"
+End element:   font
+End element:   p
+Characters:    "\n\r      "
+End element:   center
+Characters:    "\n\r    "
+End element:   body
+Characters:    "\n\r  "
+End element:   noframes
+Characters:    "\n\r"
+End element:   frameset
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

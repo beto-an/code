@@ -1,0 +1,112 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Downloadables"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #FFFFFF
+Key: alink, Value: #FF0000
+Key: vlink, Value: #FFFFFF
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    " "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    " "
+Characters:    "\n\r     "
+Start element: map
+Key: name, Value: exec
+Key: id, Value: exec
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r    "
+End element:   map
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: blockquote
+Characters:    "\n\r        "
+Start element: i
+Characters:    "elow you’ll find\n\r        Clinton/Gore ’96 multimedia tools and memorabilia. You can\n\r        use them to show your support for the campaign even when\n\r        you’re not on the Internet."
+End element:   i
+Characters:    "\n\r      "
+End element:   blockquote
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r    "
+Characters:    "\n\r     "
+Start element: a
+Key: href, Value: index126.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index127.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index128.html
+End element:   a
+Characters:    " "
+Characters:    "\n\r\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index129.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index130.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index131.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index126.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index127.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index129.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index128.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index131.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index130.html

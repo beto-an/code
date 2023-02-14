@@ -1,0 +1,454 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Export Growth: Iowa"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +2
+Start element: font
+Key: color, Value: #001058
+Characters:    "OPENING NEW MARKETS"
+Characters:    "\n\r    TO CREATE JOBS FOR U.S. WORKERS"
+End element:   font
+End element:   font
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    " "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Iowa recorded goods exports totaling $2.8 billion in\n\r              1995, up 26 percent ($566.7 million) from 1993.\n\r              During 1995, Iowa was the 32nd largest state exporter\n\r              of goods.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Iowa�s jobs supported by goods exports grew an\n\r              estimated 14 percent (4,404 jobs) since 1993.\n\r              Export-related jobs pay 13 to 16 percent higher than\n\r              the national average.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              In 1991, the latest year available, Iowa�s exports\n\r              accounted for 14.6 percent of its manufacturing\n\r              output and represented 14.9 percent of its total\n\r              manufacturing employment.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Iowa�s exports of manufactured products were up by 27\n\r              percent between 1993 and 1995 (from $2.0 billion in\n\r              1993 to $2.6 billion in 1995).\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              The five largest manufacturing sectors in terms of\n\r              Iowa�s exports were: Industrial Machinery and\n\r              Computers ($793.1 million of exports in 1995),\n\r              Electronic and Electric Equipment ($327.5 million),\n\r              Food Products ($310.9 million), Transportation\n\r              Equipment ($204.6 million), and Scientific and\n\r              Measuring Instruments ($168.2 million). These five\n\r              sectors accounted for over 65 percent of the state�s\n\r              total exports in 1995.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Among Iowa�s fastest growing manufactured exports (in\n\r              millions) were:"
+Characters:    "\n\r              "
+Start element: blockquote
+Characters:    "\n\r                "
+Start element: table
+Key: border, Value: 1
+Characters:    "\n\r                  "
+Start element: tr
+Characters:    "\n\r                    "
+Start element: td
+Start element: b
+Characters:    "Sector"
+End element:   b
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Start element: b
+Characters:    "1993"
+End element:   b
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Start element: b
+Characters:    "1995"
+End element:   b
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Start element: b
+Characters:    "Change"
+End element:   b
+End element:   td
+Characters:    "\n\r                  "
+End element:   tr
+Characters:    "\n\r                  "
+Start element: tr
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "Industrial Machinery and Computers"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$463.4"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$793.1"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "71%"
+End element:   td
+Characters:    "\n\r                  "
+End element:   tr
+Characters:    "\n\r                  "
+Start element: tr
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "Food Products"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$219.6"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$310.9"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "42%"
+End element:   td
+Characters:    "\n\r                  "
+End element:   tr
+Characters:    "\n\r                  "
+Start element: tr
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "Chemical Products"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$114.3"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$143.9"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "26%"
+End element:   td
+Characters:    "\n\r                  "
+End element:   tr
+Characters:    "\n\r                  "
+Start element: tr
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "Rubber and Misc. Plastic Products"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$127.1"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "$142.6"
+End element:   td
+Characters:    "\n\r                    "
+Start element: td
+Characters:    "12%"
+End element:   td
+Characters:    "\n\r                  "
+End element:   tr
+Characters:    "\n\r                "
+End element:   table
+Characters:    "\n\r              "
+End element:   blockquote
+Characters:    "\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Iowa is the country�s fifth largest agricultural\n\r              exporting state, shipping $2.4 billion in\n\r              agricultural exports abroad or 5.4% of the U.S. total\n\r              in 1994 (latest year available for Department of\n\r              Agriculture state export data). The largest export\n\r              categories, soybean and feed grains, accounted for\n\r              over 65 percent of Iowa�s agricultural exports in\n\r              1994. Given the 22 percent increase in total U.S.\n\r              agriculture exports in 1995, agriculture exports from\n\r              Iowa in 1995 will likely range between $2.7 billion\n\r              and $2.9 billion.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Total exports from Iowa to NAFTA countries increased\n\r              by 20 percent between 1993 (pre-NAFTA) and 1995 (from\n\r              $1.2 billion in 1993 to $1.4 billion in 1995). During\n\r              1995, Canada was Iowa�s largest export market, while\n\r              Mexico was Iowa�s sixth largest export market.\n\r              Exports to Canada were up by 21 percent ($231.1\n\r              million) from $1.1 billion in 1993 to $1.3 billion in\n\r              1995. Iowa�s exports to Mexico were up by 9 percent\n\r              ($7.2 million), from $84.8 million in 1993 to $92.0\n\r              million in 1995.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              During 1995, Japan was Iowa�s second largest export\n\r              market. Total exports from Iowa to Japan were up 64\n\r              percent ($58.2 million), from $91.0 million to $149.2\n\r              million in 1995.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              Total exports from Iowa to the European Union were up\n\r              23 percent ($0.2 million), from $411.7 million in\n\r              1993 to $505.8 million in 1995.\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r      "
+End element:   table
+Characters:    "\n\r      "
+Start element: center
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Start element: center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee,\n\r          Inc."
+End element:   p
+Characters:    "\n\r        "
+End element:   center
+Characters:    "\n\r      "
+End element:   center
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

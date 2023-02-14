@@ -1,0 +1,163 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Questions for Dole's Campaign Finance Record"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 22, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "STATEMENT BY ANN LEWIS"
+Characters:    "\n\r      DEPUTY CAMPAIGN MANAGER"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole�s former Finance Committee Vice Chairman Simon\n\r    Fireman is scheduled to be sentenced to six months in jail\n\r    tomorrow for illegally funneling money through a Hong Kong bank\n\r    to the Dole campaign. Fireman has already agreed to pay a\n\r    record $6 million fine. In addition, federal agents are\n\r    currently investigating similar money schemes undertaken by\n\r    DeLuca Liquor & Wine of Nevada and Empire Landfill of\n\r    Pennsylvania that are linked to the Dole campaign\n\r    ("
+Start element: u
+Characters:    "Washington Post"
+End element:   u
+Characters:    ", 4/25/96; "
+Start element: u
+Characters:    "K.C. Star"
+End element:   u
+Characters:    "\n\r    10/21/96)."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Given Bob Dole�s current election-year campaign finance\n\r    conversion, here are a few questions for him on his own\n\r    campaign finance record:"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "1) Why did your running-mate Jack Kemp mislead the\n\r    American people by claiming on national television that you\n\r    fired your Vice Chairman after his illegal actions on behalf of\n\r    your campaign were discovered, when, in fact, you never fired\n\r    or even suspended Fireman? ("
+Start element: u
+Characters:    "K.C. Star"
+End element:   u
+Characters:    ",\n\r    10/21/96)"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "2) Why haven�t you made Simon Fireman available to the\n\r    press to answer questions about his illegal fundraising scheme\n\r    on your behalf?"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "3) Why won�t you make your staff fundraisers who raised\n\r    the money from Simon Fireman, Empire Landfill, and DeLuca\n\r    Liquor available to the press to answer questions about these\n\r    illegal schemes to raise funds for your Presidential\n\r    campaign?"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "4) Have you returned the nearly $50,000 that your\n\r    campaign received from Empire Landfill and the over $10,000\n\r    that your campaign received from DeLuca Liquor & Wine? ("
+Start element: u
+Characters:    "Wall\n\r    Street Journal"
+End element:   u
+Characters:    ", 5/8/96; "
+Start element: u
+Characters:    "K.C. Star,"
+End element:   u
+Characters:    "\n\r    9/29/96)."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "5) Do you expect Haley Barbour and Newt Gingrich to\n\r    resign from their jobs? Each said that they would stake their\n\r    jobs on the fact that the RNC had not accepted money from\n\r    foreign nationals or a foreign company. Yet yesterday�s "
+Start element: u
+Characters:    "Roll\n\r    Call"
+End element:   u
+Characters:    " reported that the RNC just returned an illegal $15,000\n\r    check from a Canadian company. ("
+Start element: u
+Characters:    "Roll Call"
+End element:   u
+Characters:    ",\n\r    10/21/96)"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "# # #"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

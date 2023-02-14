@@ -1,0 +1,155 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Dole at it Again"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "7/2/96"
+Characters:    "\n\r    PRESS RELEASE"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "BOB DOLE - AT IT AGAIN"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole is having a bad day. First he complains about\n\r    Katie Couric and Dr. C. Everett Koop; now he's complaining\n\r    about us."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "This absurd charge is an attempt to direct attention\n\r    away from the Dole campaign's very real problem: they have\n\r    exceeded the legal limit for presidential primary campaign\n\r    spending. The Dole campaign admits this complaint is based on\n\r    statements in Bob Woodward's book, THE CHOICE, statements which\n\r    have already been publicly corrected.*"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Today's events demonstrate the very real difference\n\r    between the two campaigns. The Clinton/Gore '96 campaign will\n\r    continue to obey the federal election laws. Instead of blaming\n\r    the President, the media, and anyone who disagrees with him,\n\r    Bob Dole should instruct his campaign to start living up to\n\r    their legal obligation."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "###"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "*See attached letter from Lawrence M. Noble, General\n\r    Counsel to the Federal Election Commission, as printed in THE\n\r    WASHINGTON POST, June 27, 1996."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Copyright 1996 THE WASHINGTON POST"
+Characters:    "\n\r    THE WASHINGTON POST"
+Characters:    "\n\r    June 27, 1996, Thursday, Final Edition"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "SECTION: OP-ED; Pg. A28; LETTERS TO THE EDITOR"
+Characters:    "\n\r    LENGTH: 202 words"
+Characters:    "\n\r    HEADLINE: \"Not What I Said\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "BODY:"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "In excerpting Bob Woodward's book, THE CHOICE, THE POST\n\r    attributes to me a statement which I did not make and which\n\r    does not appear in the book. Specifically, I would never say\n\r    that \"no presidential candidate should be deeply involved in\n\r    his party's advertising.\" The law presumes that a candidate may\n\r    be involved in his party's advertising, though the\n\r    ramifications of that involvement on spending and contribution\n\r    limits may raise difficult legal and factual\n\r    questions."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "In addition, the excerpt quotes me as saying that \"we\n\r    have forgotten the lessons of Watergate,\" but omits the book's\n\r    disclaimer that I was not referring to any specific factual\n\r    situation in this presidential election. My real concern is\n\r    that some courts are giving short shrift to the long-recognized\n\r    compelling government interests that gave rise to the campaign\n\r    finance laws."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The continuing debate about the campaign finance laws\n\r    deals with issues central to our democracy. If the debate is to\n\r    be meaningful and constructive, it is important that we are\n\r    accurate and avoid oversimplification in the quest for easily\n\r    understandable analysis."
+Characters:    "\n\r    "
+Characters:    "\n\r    LAWRENCE M. NOBLE"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "General Counsel"
+Characters:    "\n\r    Federal Election Commission"
+Characters:    "\n\r    Washington"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

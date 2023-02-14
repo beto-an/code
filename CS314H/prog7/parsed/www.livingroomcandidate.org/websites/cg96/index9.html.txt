@@ -1,0 +1,447 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "America’s Home Page"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #BE0023
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: width, Value: 230
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: p
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: size, Value: +2
+Characters:    "by Robert Farmer"
+Characters:    "\n\r            Upper Arlington, OH"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“Dear America's Home Page —"
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“I used all of the campaign button designs from your\n\r          website and made an animated gif. I hope you don't mind.\n\r          Actually, I hope you like it! Take it if you do, and use\n\r          it as much as you can!"
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "Thank you, and you have MY vote in '96!”"
+End element:   p
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +6
+Start element: b
+Characters:    "A Child's Poem"
+End element:   b
+End element:   font
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +1
+Characters:    "Armand Bayou Elementary"
+Characters:    "\n\r            Houston, TX"
+End element:   font
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: b
+Characters:    "If I Were President"
+Characters:    "\n\r            by Devin"
+End element:   b
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "If I were in charge of the U.S.A., I'd make America\n\r          better day by day. Legislative, judicial, and executive\n\r          all three, The branches of government would make us\n\r          free."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "The only war would be one on drugs, I'd do away with\n\r          gangs and rehabilitate thugs. My main platform would be\n\r          education, if I were President of this great and mighty\n\r          Nation."
+End element:   p
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: width, Value: 250
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +6
+Start element: b
+Characters:    "“Shocked in Oberlin”"
+End element:   b
+End element:   font
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: size, Value: +2
+Characters:    "by Jeffrey Brick"
+Characters:    "\n\r            Pittsburgh, PA"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Characters:    "http://www.pitt.edu/~jabst41/c.html"
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“My name is Jeffrey Brick and I am a 23 year old\n\r          student at Oberlin College in Ohio, but currently taking\n\r          classes at the University of Pittsburgh."
+End element:   p
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "I am a Political Science Major with an interest in the\n\r          Internet and new multimedia. To help get the right kind\n\r          of positive political messages that are needed on the\n\r          net, "
+Start element: a
+Key: href, Value: ../../../external.html
+Start element: b
+Characters:    "I created a\n\r          short Shockwave movie that you can see here,"
+End element:   b
+End element:   a
+Characters:    "\n\r          showing why Bill Clinton should be elected once\n\r          again!"
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“Bill Clinton, in his four years as President, has\n\r          shown that government can help to make us efficient\n\r          workers, students, teachers and volunteers. He has fought\n\r          hard against cuts in education spending, worked to start\n\r          a youth volunteer program, raised the minimum wage for\n\r          all American workers, and proposed a tax credit for those\n\r          seeking further education. Clinton has a view of the\n\r          future in which education, hand in hand with technology\n\r          and volunteering, will lead us with great hope into the\n\r          twenty-first century.”"
+End element:   p
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 230
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: b
+Start element: font
+Key: size, Value: +3
+Characters:    "Pip the Pundit"
+End element:   font
+End element:   b
+Characters:    "\n\r            "
+Start element: a
+Key: href, Value: ../../../external.html
+Start element: font
+Key: size, Value: -1
+Characters:    "Shockwave Animation"
+End element:   font
+End element:   a
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: p
+Characters:    " "
+Start element: noembed
+End element:   noembed
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: size, Value: +2
+Characters:    "by Bryan Lewellen"
+Characters:    "\n\r            Nashville, TN"
+End element:   font
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Characters:    "http://www.nashville.net/~bryrock/"
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“I'm a Multimedia Developer living and working in\n\r          Nashville. I'm married with no children - just Pip! Pip\n\r          almost visited the White House when she was 3 weeks old.\n\r          We had stopped in Washington on our way home from\n\r          Pennsylvania, where we had bought Pip from the farm near\n\r          where our car had broken down on the way to a wedding\n\r          (see, there's a reason for everything). As we walked by\n\r          the White House we were invited by the Park Police to\n\r          come in for the tour. We figured they must have seen that\n\r          my wife was holding a small puppy and that it must have\n\r          been okay. We went through the gate security - no\n\r          questions asked - only to be stopped by the Secret\n\r          Service just steps away from the White House entrance.\n\r          They were concerned about possible conflicts with K9\n\r          units and Socks, the cat. We were kindly escorted\n\r          out."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“As to why I'm plugging for President Clinton on my\n\r          web site, all I can say is that if I could put an\n\r          interactive bumper sticker on my car, I would, but I\n\r          figured it might work better on a web site.”"
+End element:   p
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Key: height, Value: 25
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: b
+Start element: font
+Key: size, Value: +3
+Characters:    "Art Online:"
+End element:   font
+End element:   b
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +1
+Characters:    "Carolyn M. Gravlin created a "
+Start element: a
+Key: href, Value: poster.html
+Characters:    "poster"
+End element:   a
+Characters:    " that shows her support for the\n\r            Clinton/Gore '96 ticket."
+End element:   font
+Characters:    "\n\r            "
+Start element: p
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Key: height, Value: 25
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Characters:    "\n\r          "
+Characters:    " "
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: a
+Key: border, Value: 0
+Key: href, Value: index8-2.html
+Key: name, Value: America's Home Page
+End element:   a
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Key: height, Value: 25
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: b
+Start element: i
+Characters:    "Past Editions"
+End element:   i
+End element:   b
+Characters:    "\n\r      "
+Start element: p
+Start element: a
+Key: href, Value: index1.html
+Start element: i
+Characters:    "First Edition"
+End element:   i
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index210.html
+Start element: i
+Characters:    "Second Edition"
+End element:   i
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index310.html
+Start element: i
+Characters:    "Campus Edition"
+End element:   i
+End element:   a
+Characters:    "\n\r      "
+Start element: a
+Key: href, Value: index410.html
+Start element: i
+Characters:    "Fourth Edition"
+End element:   i
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index510.html
+Start element: i
+Characters:    "Fifth Edition"
+End element:   i
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index610.html
+Start element: i
+Characters:    "Campus Edition II"
+End element:   i
+End element:   a
+Characters:    "\n\r      "
+Start element: a
+Key: href, Value: index710.html
+Start element: i
+Characters:    "Seventh Edition"
+End element:   i
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index810.html
+Start element: i
+Characters:    "Eighth Edition"
+End element:   i
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index810.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index310.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index510.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index710.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/poster.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index1.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index8-2.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index410.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index210.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index610.html

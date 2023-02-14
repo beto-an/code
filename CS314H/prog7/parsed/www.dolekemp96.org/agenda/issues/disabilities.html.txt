@@ -1,0 +1,329 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Where Bob Dole Stands on Disabilities"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: h2
+Key: align, Value: center
+Key: style, Value: text-align:center
+Characters:    "Where Bob Dole\n\r  Stands on Disabilities"
+End element:   h2
+Characters:    "\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Key: style, Value: margin-bottom:12.0pt
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Bob Dole Has Been America's Foremost Advocate\n\r  for the Disabled"
+End element:   span
+End element:   b
+Characters:    "\n\r  Bob Dole spent over 39 months recovering from massive injuries\n\r  that he received while leading a platoon of the 10th Mountain\n\r  Division in Italy during World War II. As a result of those\n\r  injuries, Bob Dole has limited use of his right arm -- which is\n\r  why he often carries a pen -- letting folks know that his arm is\n\r  'in use.'"
+Characters:    "\n\r  "
+Characters:    "\n\r  From the moment he was injured, Bob Dole has fought for the\n\r  rights of the disabled. In his first speech on the Senate floor,\n\r  Dole spoke of his vision for people with disabilities - of\n\r  independence, dignity and inclusion - and of his own membership\n\r  in the disabled community. In that speech, he said:"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Key: style, Value: margin-right:.5in;mso-margin-top-alt:auto;mso-margin-bottom-alt: auto;margin-left:.5in
+Characters:    "\n\r  \"Mr. President, my remarks today concern an exceptional group\n\r  which I joined on another April 14 - 24 years ago, during World\n\r  War II. It is a minority group whose existence effects every\n\r  person in our society and the very fiber of our nation . . . As a\n\r  minority, it has always known exclusion - maybe not exclusion\n\r  from the front of the bus, but perhaps from even climbing aboard\n\r  it; maybe not exclusion from pursuing advanced education, but\n\r  perhaps from experiencing any formal education; maybe not\n\r  exclusion from day-to-day life itself, but perhaps from an\n\r  adequate opportunity to develop and contribute to his or her\n\r  fullest capacity.\""
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Key: style, Value: margin-bottom:12.0pt
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Creating Opportunity for the\n\r  Disabled in Education, Employment and Housing"
+End element:   span
+End element:   b
+Characters:    "\n\r  During his years in the Senate, Bob Dole:"
+End element:   p
+Characters:    "\n\r  "
+Start element: ul
+Key: type, Value: disc
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l9 level1 lfo9;tab-stops:list .5in
+Characters:    "\n\r    Supported every major piece of disability legislation before\n\r    Congress. He has helped improve civil rights, education, job\n\r    training, employment, housing and vocational training for the\n\r    disabled."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l9 level1 lfo9;tab-stops:list .5in
+Characters:    "\n\r    Played key roles in passing the 1973 Rehabilitation Act, the\n\r    1975 Developmental Disabilities Assistance and Bill of Rights\n\r    Act, the 1975 Individuals with Disabilities Education Act, the\n\r    1986 Protection and Advocacy for the Mentally Ill Act, the 1986\n\r    Air Carriers Access Act, the 1986 Education of the Deaf Act,\n\r    the 1988 Technology Assistance Act and the 1990 Television\n\r    Decoder Circuitry Act."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l9 level1 lfo9;tab-stops:list .5in
+Characters:    "\n\r    Led the critical negotiations to ensure the passage of the\n\r    Americans with Disabilities Act in 1990."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l9 level1 lfo9;tab-stops:list .5in
+Characters:    "\n\r    Created the Dole Foundation, the nation's only grant-making\n\r    organization dedicated solely to creating new employment\n\r    opportunities for people with disabilities."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;margin-bottom:12.0pt; mso-list:l9 level1 lfo9;tab-stops:list .5in
+Characters:    "\n\r    Ensured the appointment of the first disabled American to the\n\r    President's Council on Physical Fitness."
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Bob Dole Will Continue to\n\r    Ensure That All Americans Are Treated Equally"
+End element:   span
+End element:   b
+Characters:    "\n\r    Bob Dole will build on his record in the Senate to ensure that\n\r    all minority groups enjoy all the rights guaranteed to all\n\r    American citizens. As President he will:"
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l9 level1 lfo9;tab-stops:list .5in
+Characters:    "\n\r    Ensure that the Americans with Disabilities Act is\n\r    enforced."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l9 level1 lfo9;tab-stops:list .5in
+Characters:    "\n\r    End the bias in the Medicaid program against home- and\n\r    community-based services."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l9 level1 lfo9;tab-stops:list .5in
+Characters:    "\n\r    Push for greater school choice for students with\n\r    disabilities."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l9 level1 lfo9;tab-stops:list .5in
+Characters:    "\n\r    Convene a White House Conference on employment of people with\n\r    disabilities."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l9 level1 lfo9;tab-stops:list .5in
+Characters:    "\n\r    Create a special Presidential award to recognize those\n\r    employees and programs that are succeeding in employing people\n\r    with disabilities."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l9 level1 lfo9;tab-stops:list .5in
+Characters:    "\n\r    Help people with disabilities afford high quality health\n\r    care."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l9 level1 lfo9;tab-stops:list .5in
+Characters:    "\n\r    Look into new solutions to solve the problem of poverty among\n\r    people with disabilities."
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "A Better\n\r    America"
+End element:   span
+End element:   b
+Characters:    "\n\r    With Bob Dole as President, people with disabilities will enjoy\n\r    the same rights and privileges that all Americans enjoy."
+End element:   li
+Characters:    "\n\r  "
+End element:   ul
+Characters:    "\n\r  "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../../news/news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    " "
+Start element: a
+Key: href, Value: ../agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the\n\r  Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

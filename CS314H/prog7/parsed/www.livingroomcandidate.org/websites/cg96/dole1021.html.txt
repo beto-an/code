@@ -1,0 +1,153 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Dole and Campaign Finance Reform"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 21, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "BOB DOLE: BLOCKING CAMPAIGN FINANCE REFORM"
+Characters:    "\n\r      1985-1996"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Start element: b
+Start element: i
+Characters:    "\"[Dole] is the individual in Congress most\n\r      responsible for blocking any serious campaign finance reform\n\r      in the past decade.\""
+End element:   i
+End element:   b
+Characters:    " -- Fred Wertheimer, former\n\r      president of Common Cause, Washington Post, Oct. 21,\n\r      1996"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "104TH CONGRESS, 1995-1996: DOLE DELAYED MCCAIN\n\r    PROPOSAL"
+End element:   b
+Characters:    "\n\r    Dole delayed consideration of the bipartisan campaign finance\n\r    reform bill proposed by Sens. McCain and Feingold. As\n\r    then-Majority Leader, Dole did not bring the bill to the Senate\n\r    floor -- despite the urging of its sponsors -- and resigned\n\r    from the Senate before the body voted against ending a\n\r    Republican filibuster on the bill. In 1995, Dole even tried to\n\r    kill an amendment by Sen. Feingold that put the Senate on\n\r    record as favoring consideration of campaign finance\n\r    legislation before the end of the 104th Congress. [New York\n\r    Times, 6/26/96; Washington Post, 4/28/96, 7/21/95; CQ Almanac,\n\r    1995, vote 313, pg. S-52]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "103RD CONGRESS, 1993-1994: DOLE HELPED KILL REFORM\n\r    BILL"
+End element:   b
+Characters:    "\n\r    Dole twice voted against ending the Republican-led filibuster\n\r    that killed campaign finance reform legislation in 1994. Dole\n\r    also voted three times against ending a filibuster on Senate\n\r    passage of the bill in 1993. In fact, Dole threatened to\n\r    filibuster the Democratic reform bill before it was even\n\r    unveiled. [CQ Almanac, 1994, vote 309, pg. 53-S; vote 314, pg.\n\r    55-S; CQ Almanac, 1993, pg. 39, votes 146, 147, 154, pg. 20-S,\n\r    21-S; New York Times, 4/25/93]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "102ND CONGRESS, 1992: DOLE VOTED AGAINST REFORM\n\r    BILL"
+End element:   b
+Characters:    "\n\r    Dole voted against the 1992 campaign finance reform bill that\n\r    passed Congress but was vetoed by President Bush. Dole also\n\r    voted against an override of President Bush�s veto, which\n\r    failed on a 57-42 vote on May 13, 1992. The bill would have\n\r    restricted PAC contributions, restricted \"soft money\" raised\n\r    and spent by state parties in federal elections, and provided\n\r    incentives to candidates to agree to voluntary spending limits.\n\r    [1992 CQ Almanac, vote 82, pg. 12-S, pg. 63; vote 88, pg.\n\r    12-S]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "101ST CONGRESS, 1990: DOLE HELPED KILL\n\r    RECOMMENDATIONS OF COMMISSION"
+End element:   b
+Characters:    "\n\r    In the 101st Congress, Democrat and Republican leaders agreed\n\r    to appoint a bipartisan commission to offer suggestions on\n\r    campaign finance reform. Dole, as Senate Minority Leader,\n\r    appointed half of the members on the six-person commission.\n\r    Dole was regarded as \"pivotal\" to the two parties coming to any\n\r    compromise on campaign finance reform. Yet just months after\n\r    the bipartisan panel offered their recommendations, Dole and\n\r    other Republicans offered legislation that completely ignored\n\r    the recommendations. Dole then voted against Senate passage of\n\r    campaign finance reform legislation, which never cleared\n\r    House-Senate conference committee. [CQ Almanac, 1990, vote 204,\n\r    pg. 43-S; Washington Post, 4/22/90; American Prospect, Summer\n\r    1990]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "100TH CONGRESS, 1987: DOLE CAST SEVEN VOTES AGAINST\n\r    ENDING FILIBUST"
+End element:   b
+Characters:    "ER"
+Characters:    "\n\r    Dole and Republican Senators filibustered a sweeping campaign\n\r    finance reform bill which included overall spending caps and\n\r    some public financing of campaigns and capped the amount of PAC\n\r    contributions candidates could accept. Dole voted against a\n\r    record seven cloture motions on the bill between June and\n\r    September. All seven cloture votes failed. [CQ Almanac, 1987,\n\r    pg. 33-36; votes 148, 150-153, 239, 242, pgs. 28-S, 29-S, 30-S,\n\r    43-S, 44-S; American Prospect, Summer 1995]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "99TH CONGRESS: 1985-1986: DOLE BLOCKED REFORM\n\r    BILL"
+End element:   b
+Characters:    "\n\r    In his first term as Senate Majority Leader, Dole worked\n\r    against campaign finance reform. In December, 1985, Dole put\n\r    off a final vote on a campaign finance reform bill, citing\n\r    \"procedural objections\" to the bill, and promised to bring it\n\r    to the floor the following year. In 1986, Dole \"appeared in no\n\r    hurry to bring the matter to the floor.\" When the measure\n\r    finally did reach the floor, Dole voted against the key\n\r    amendment which would have limited PAC contributions to House\n\r    and Senate campaigns. The amendment was adopted, 69-30. After\n\r    the amendment was adopted, the bill became mired in partisan\n\r    disagreement and was never enacted. [American Prospect, Summer\n\r    1995; Washington Post, 12/3/95; CQ Almanac, 1986, pg. 42; vote\n\r    209, pg. 37-S]"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

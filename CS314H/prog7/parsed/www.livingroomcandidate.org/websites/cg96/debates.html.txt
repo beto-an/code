@@ -1,0 +1,75 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "Debates"
+End element:   TITLE
+Characters:    "\r\n\r"
+Start element: kpetitle
+Characters:    "Debates"
+End element:   kpetitle
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r\r\n\r"
+Start element: CENTER
+Start element: A
+Key: HREF, Value: index22.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r"
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "September 28, 1996\r\n\r\r\n\r"
+Start element: P
+Characters:    "STATEMENT BY PETER KNIGHT\r\n\r"
+Characters:    "CAMPAIGN MANAGER\r\n\r\r\n\r"
+Start element: P
+Characters:    "Clinton/Gore �96 Campaign Manager Peter S. Knight announced that the Clinton/Gore and Dole/Kemp campaigns have reached final agreement on the 1996 presidential debates and that a contract to that effect has been signed by both parties.\r\n\r\r\n\r\t"
+Start element: P
+Characters:    "\"Presidential debates are an important part of the election process, offering the American people their best opportunity to compare and contrast the candidates� positions on the issues,\" Knight said.  \"I look forward to the first debate in Hartford, Connecticut on Sunday, October 6\".\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: P
+Start element: center
+Characters:    "###"
+End element:   center
+Characters:    "\r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Election Committee,\r\n\rInc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End of document

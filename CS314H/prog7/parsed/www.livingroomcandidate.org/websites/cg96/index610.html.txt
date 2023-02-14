@@ -1,0 +1,388 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "America’s Home Page"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #BE0023
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: width, Value: 230
+Key: valign, Value: top
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +3
+Start element: b
+Characters:    "Students For Clinton/Gore\n\r            '96"
+End element:   b
+End element:   font
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Characters:    "Nicole Ciacchella and her brother\n\r            Michael"
+Characters:    "\n\r            East Lansing, MI"
+End element:   font
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Characters:    "Michigan State University"
+End element:   font
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Characters:    "http://pilot.msu.edu/user/ciacchel"
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“As a 19-year-old college student and registered\n\r          voter, this will be my first election. Because I am a\n\r          registered voter, it is important to me to vote. Because\n\r          I am a college student, it is important to me to vote for\n\r          Bill Clinton and Al Gore."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“My hard-working, devoted parents are stretched thin\n\r          trying to finance my college education. In two more\n\r          years, my younger brother will be in college and then my\n\r          parents will have two tuition bills. Bill Clinton's plan\n\r          for a college tax credit is a life saver for families\n\r          like mine, who value a good education and who must pinch\n\r          pennies in order to pay for one.”"
+End element:   p
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 230
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +3
+Start element: b
+Characters:    "A College Education"
+End element:   b
+End element:   font
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +2
+Characters:    "by Debra Raynor"
+End element:   font
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: size, Value: +2
+Characters:    "Chowan College"
+Characters:    "\n\r            Murfreesboro, NC"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“My name is Debra Marie Raynor. I am a 19-year old\n\r          college sophomore from Littleton, North Carolina."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“Currently I attend Chowan College in Murfreesboro,\n\r          North Carolina and my major is Elementary Education with\n\r          a minor in Psychology. After I receive my Bachelors, I\n\r          hope to go to graduate school to get a Masters\n\r          Degree."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“I want President Clinton to be reelected because he\n\r          has proposed to save Federal Financial Aid to Students.\n\r          With a mom that has been remarried and a stepfather that\n\r          does not support me ( he has two of his own to support,\n\r          one of which is currently attending college), it is hard\n\r          for my family to pay for my education. Without the help I\n\r          get from the Federal Government, I would not be going to\n\r          college. Everyone in the country knows how important it\n\r          is to have a college education now."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“It is not fair for a person to be denied a chance to\n\r          go to school because their family cannot afford rising\n\r          tuitions.”"
+End element:   p
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 230
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +4
+Start element: b
+Characters:    "Teaching for the Future"
+End element:   b
+End element:   font
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: size, Value: +2
+Characters:    "by James Parker"
+End element:   font
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: size, Value: +2
+Characters:    "Southern Conneticut State\n\r            University"
+Characters:    "\n\r            Beacon Falls, CT"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“I just wanted to express how much I care about the\n\r          Clinton / Gore re-election campaign. I am a 20-year- old\n\r          college junior at Southern Connecticut State University,\n\r          and will be voting in my first presidential election. At\n\r          SCSU I am a special education major, and I also have\n\r          goals to teach at the elementary level. As a future\n\r          educator I have great interest in making sure public\n\r          education is well funded and safe from federal budget\n\r          cuts. And as a student I care about college loans — this\n\r          and the fact I am in great favor of saving & protecting\n\r          the environment make me a very big Clinton supporter."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“Mr. Clinton and Mr. Gore, I completely support your\n\r          campaign. I continue to get my fellow college friends to\n\r          vote this year and vote DEMOCRAT!!!"
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "Good Luck Clinton/Gore 96 — We're going all the\n\r          way!!”"
+End element:   p
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Key: height, Value: 25
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Characters:    "\n\r          "
+Start element: a
+Key: name, Value: wi
+Key: id, Value: wi
+End element:   a
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +4
+Start element: b
+Characters:    "Victory in Wisconsin: Bubba\n\r            Blume"
+End element:   b
+End element:   font
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            "
+Characters:    "\n\r            "
+Start element: center
+Characters:    "\n\r              "
+Start element: b
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "http://www.uwosh.edu/organizations/college_democrats/home.htm"
+End element:   a
+End element:   b
+Characters:    "\n\r            "
+End element:   center
+Characters:    "\n\r            "
+Start element: p
+Characters:    "“My name is M. Bubba Blume, even my mom calls me\n\r            Bubba so it's cool. I am a Sophmore at the University\n\r            of Wisconsin--Oshkosh. And I am the College Democrats\n\r            Chair here at UWO."
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Characters:    "“About 5 1/2 years ago I was no where close to being\n\r            where I am today. I wasn't worried about the up coming\n\r            elections, and had never heard of Bill Clinton. I was\n\r            worried about where I would get my next meal. I was\n\r            worried about where I would sleep at night. I was one\n\r            of the faceless, nameless, homeless population in our\n\r            nation. I am a veteran and had no idea, like most of us\n\r            out there, that this could happen to me. I spent days\n\r            going through garbage cans and dumpsters looking for\n\r            something to eat. I spent my nights barely asleep most\n\r            times."
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Characters:    "“After about 6 months of lying to myself and my mom\n\r            about where I was I decided to go home. After a long\n\r            time I was able to hold my head up again. And after a\n\r            nearly successful suicide attempt I got some REAL help.\n\r            And thanks to my family who supported me and believed\n\r            in me I am still here today."
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Characters:    "“Now, you may be wondering where the President fits\n\r            into all of this. Plain and simple:he believed in me\n\r            too. I couldn't have made it into college without\n\r            financial aid. And I couldn't have made it through my\n\r            first year without the help of the TRIO programs. I was\n\r            one of the millions of voices that decried the cuts to\n\r            financial aid the GOP wanted to make in '94. I worked\n\r            hard to stop them and was filled with pride when the\n\r            President said he'd veto any cuts to financial aid. And\n\r            we won."
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Characters:    "“Now, I am a sophmore here, in my 3rd year. It may\n\r            take me a little longer to graduate. But because my\n\r            President, and more importantly my family, believes in\n\r            me I know I will get through. Like my President said —\n\r            He'll provide the opportunity and I've accepted the\n\r            responsibility. I owe him much more than that, but it's\n\r            a start.”"
+End element:   p
+Characters:    "\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Key: height, Value: 25
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Characters:    "\n\r          "
+Characters:    " "
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: a
+Key: border, Value: 0
+Key: href, Value: index8-2.html
+Key: name, Value: America's Home Page
+End element:   a
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Key: height, Value: 25
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: b
+Start element: i
+Characters:    "Past Editions"
+End element:   i
+End element:   b
+Characters:    "\n\r      "
+Start element: p
+Start element: a
+Key: href, Value: index1.html
+Start element: i
+Characters:    "First Edition"
+End element:   i
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index210.html
+Start element: i
+Characters:    "Second Edition"
+End element:   i
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index310.html
+Start element: i
+Characters:    "Campus Edition"
+End element:   i
+End element:   a
+Characters:    "\n\r      "
+Start element: a
+Key: href, Value: index410.html
+Start element: i
+Characters:    "Fourth Edition"
+End element:   i
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index510.html
+Start element: i
+Characters:    "Fifth Edition"
+End element:   i
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

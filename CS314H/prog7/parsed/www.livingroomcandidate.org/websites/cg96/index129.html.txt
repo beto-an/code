@@ -1,0 +1,72 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Downloadables | Grassroots Action Kit"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: white
+Key: link, Value: #BE0023
+Key: alink, Value: #FF0000
+Key: vlink, Value: #100058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index11-2.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: i
+Characters:    "ur\n\r      Grassroots Action Kit contains printable campaign materials\n\r      for you to use: position papers, excerpts from speeches\n\r      (including the State of the Union Address) and an overview of\n\r      administration accomplishments. They are in "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Adobe Acrobat"
+End element:   a
+Characters:    " format so that\n\r      they can be viewed at any screen size and printed in high\n\r      resolution. They’re an effective grassroots way to spread\n\r      your enthusiasm about the campaign."
+End element:   i
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: GAK.pdf
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

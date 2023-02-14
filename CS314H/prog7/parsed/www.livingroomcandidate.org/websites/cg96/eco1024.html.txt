@@ -1,0 +1,606 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Environmental Endorsement"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 24, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "MORE THAN 100 ENVIRONMENTAL LEADERS FROM 35 STATES\n\r      PRESENT ENDORSEMENT TO PRESIDENT CLINTON AND VICE PRESIDENT\n\r      GORE"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Washington, D.C. -- More than 100 environmental leaders\n\r    from 35 states today announced their support for the reelection\n\r    of President Clinton and Vice President Gore. They represent a\n\r    broad spectrum of national leaders, community activists,\n\r    business executives and tribal and Native Alaskan leaders.\n\r    These individual endorsements follow the endorsement of the\n\r    President and the Vice President by the Sierra Club, Clean\n\r    Water Action and the League of Conservation Voters."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Vice President Gore remarked, \"President Clinton and I\n\r    will continue to fight for a clean and safe environment. We\n\r    will not let Bob Dole�s risky economic scheme devastate over 25\n\r    years of progress, by triggering a 40 percent across the board\n\r    cut in environmental programs, such as cleanups of toxic waste\n\r    sites, programs for safe drinking water and clean water, and\n\r    funding for our national parks, forests, refuges, public lands\n\r    and wildlife programs.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Speaking as a leader of the group, former Senator\n\r    Gaylord Nelson, founder of Earth Day, praised President Clinton\n\r    and Vice President Gore for the Clinton Administration�s\n\r    leadership on environmental issues. \"President Clinton and Vice\n\r    President Gore have protected the Everglades, Yellowstone,\n\r    Southern Utah, and the Arctic National Wildlife Refuge and they\n\r    have earned the support of environmental leaders from across\n\r    our great land.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Clinton/Gore Campaign Manager Peter S. Knight said, \"The\n\r    endorsements by these leaders is a strong acknowledgment of the\n\r    President�s and Vice President�s commitment to the environment.\n\r    We are very excited about the strong support from the\n\r    environmental communities.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Prominent endorsers include Brent Blackwelder, who is\n\r    President of Friends of the Earth; activist Bethine Church of\n\r    Idaho; actor Ted Danson; musician Don Henley; lawyer Robert\n\r    Kennedy, Jr.; author Margaret Murie; former Republican Governor\n\r    Russell Peterson; Carl Pope, who is Executive Director of the\n\r    Sierra Club; Mary Page Stegner of California; author Terry\n\r    Tempest Williams; former U.S. Interior Secretary Stewart L.\n\r    Udall; Ed Wayburn, who is Honorary President of the Sierra\n\r    Club; and Mrs. Peggy Wayburn; Joe Pulliam, who is CEO of Dagger\n\r    Canoe and Kayak; and Adam Werbach, who is President of the\n\r    Sierra Club."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "These endorsements were made by environmental leaders in\n\r    their individual capacities and are not endorsements of the\n\r    organizations for which they work. A complete list of endorsers\n\r    is attached."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "ENVIRONMENTALISTS FOR CLINTON/GORE 96"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "Alaska"
+End element:   u
+End element:   b
+Characters:    "\n\r    David R. Cline"
+Characters:    "\n\r    Ralph Eluska, President, Akhiok-Kaguyak, Inc."
+Characters:    "\n\r    Sarah James"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: u
+Start element: b
+Characters:    "Arizona"
+End element:   b
+End element:   u
+Characters:    "\n\r    Rob Elliott"
+Characters:    "\n\r    Rob Smith, Sierra Club"
+Characters:    "\n\r    Karan English, former Member of Congress"
+Characters:    "\n\r    Michael F. McNulty"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "Arkansas"
+End element:   u
+End element:   b
+Characters:    "\n\r    Kay Kelly Arnold"
+Characters:    "\n\r    Sam Ledbetter"
+Characters:    "\n\r    Richard H. Mason, former President, Arkansas Wildlife\n\r    Federation"
+Characters:    "\n\r    Tom McKinney, Sierra Club"
+Characters:    "\n\r    Ellen T. Neaville"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: u
+Start element: b
+Characters:    "California"
+End element:   b
+End element:   u
+Characters:    "\n\r    Judy Anderson, Sierra Club"
+Characters:    "\n\r    Ted Danson, actor"
+Characters:    "\n\r    Warner Chabot"
+Characters:    "\n\r    Jim Dodson, Sierra Club"
+Characters:    "\n\r    Bruce Hamilton, Sierra Club"
+Characters:    "\n\r    Eldn Hughes, Sierra Club"
+Characters:    "\n\r    Judy Jennings, Sierra Club"
+Characters:    "\n\r    Carl Pope, Executive Director, Sierra Club"
+Characters:    "\n\r    Norbert Riedy"
+Characters:    "\n\r    Sam Schuchat, Executive Director, California League of\n\r    Conservation Voters"
+Characters:    "\n\r    Tom Soto, CEO PS Enterprises"
+Characters:    "\n\r    Peggy and Ed Wayburn"
+Characters:    "\n\r    Adam Werbach, President, Sierra Club"
+Characters:    "\n\r    Nancy and Frank Wheat"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: u
+Start element: b
+Characters:    "Colorado"
+End element:   b
+End element:   u
+Characters:    "\n\r    Maggie Fox, Sierra Club"
+Characters:    "\n\r    Jim Martin"
+Characters:    "\n\r    Carmi McLean, Clean Water Action"
+Characters:    "\n\r    Ralph R. Peterson, CEO"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "Connecticut"
+End element:   u
+End element:   b
+Characters:    "\n\r    Paul T. Jones, II"
+Characters:    "\n\r    Dr. Vincent Rocco, CEO TRC Companies, Inc."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: u
+Start element: b
+Characters:    "Delaware"
+End element:   b
+End element:   u
+Characters:    "\n\r    The Honorable Russell Peterson, former Governor"
+Characters:    "\n\r    Grace Pierce Beck"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: u
+Start element: b
+Characters:    "District of Columbia"
+End element:   b
+End element:   u
+Characters:    "\n\r    Brent Blackwelder"
+Characters:    "\n\r    Debbie Sease, Sierra Club"
+Characters:    "\n\r    Daniel J. Weiss, Sierra Club"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "Florida"
+End element:   u
+End element:   b
+Characters:    "\n\r    Teo A. Babun, Jr., CEO T. Babun Group, Inc."
+Characters:    "\n\r    Mary Barley, Save Our Everglades Alliance"
+Characters:    "\n\r    Susan H. Caplowe"
+Characters:    "\n\r    Richard L. Coleman, Sierra Club"
+Characters:    "\n\r    Eric Draper"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: u
+Start element: b
+Characters:    "Georgia"
+End element:   b
+End element:   u
+Characters:    "\n\r    Dr. Robert D. Bullard"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "Idaho"
+End element:   u
+End element:   b
+Characters:    "\n\r    Bethine Church"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "Iowa"
+End element:   u
+End element:   b
+Characters:    "\n\r    Joe Bolkconn, Sierra Club"
+Characters:    "\n\r    Julianna Johnston"
+Characters:    "\n\r    Deborah Neustadt, Sierra Club"
+Characters:    "\n\r    Penny Thomson"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "Louisiana"
+End element:   u
+End element:   b
+Characters:    "\n\r    Murray Lloyd"
+Characters:    "\n\r    Marylee M. Orr"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "Maryland"
+End element:   u
+End element:   b
+Characters:    "\n\r    Robert L. Aberman"
+Characters:    "\n\r    Glen Besa, Sierra Club"
+Characters:    "\n\r    Ajax Eastman"
+Characters:    "\n\r    Melanie Griffin, Sierra Club"
+Characters:    "\n\r    Marguerite Mayo, President and Founder, Montgomery County Green\n\r    Democrats"
+Characters:    "\n\r    Edmund and Jennifer Stanley"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "Massachusetts"
+End element:   u
+End element:   b
+Characters:    "\n\r    Ted Williams, writer"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "Michigan"
+End element:   u
+End element:   b
+Characters:    "\n\r    Mary C. Brown, former State Representative"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "Missouri"
+End element:   u
+End element:   b
+Characters:    "\n\r    Robert Berkebile, Founding Chair, National Committee on the\n\r    Environment"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "Montana"
+End element:   u
+End element:   b
+Characters:    "\n\r    Dorothy Bradley"
+Characters:    "\n\r    Sherman H. Janke, Sierra Club"
+Characters:    "\n\r    James Posewitz"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "Nevada"
+End element:   u
+End element:   b
+Characters:    "\n\r    Lindsey W. Manning, Tribal Chairman (1993-1996),\n\r    Shoshone-Paiute Tribes of Duck Valley"
+Characters:    "\n\r    Marjorie Sill, Sierra Club"
+Characters:    "\n\r    Rose Strickland, Sierra Club"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "New Hampshire"
+End element:   u
+End element:   b
+Characters:    "\n\r    J. Willcox Brown"
+Characters:    "\n\r    Elaine Eakes, Sierra Club"
+Characters:    "\n\r    Gary Hirshberg, CEO Stonyfield Farms, Inc."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "New Jersey"
+End element:   u
+End element:   b
+Characters:    "\n\r    Eugene Geer, New Jersey Environmental Federation--Vote\n\r    Environment Committee"
+Characters:    "\n\r    William R. Neil"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "New Mexico"
+End element:   u
+End element:   b
+Characters:    "\n\r    Hon. Stewart L. Udall, Secretary of Interior (1961-1969)"
+Characters:    "\n\r    Jim Baca, former director, Bureau of Land Management"
+Characters:    "\n\r    Judith M. Espinosa, former State Secretary of Environment"
+Characters:    "\n\r    Gregory S. Green"
+Characters:    "\n\r    Van Perkins, Sierra Club"
+Characters:    "\n\r    Sally Rogers, New Mexico Conservation Voters Alliance"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "New York"
+End element:   u
+End element:   b
+Characters:    "\n\r    Robert Kennedy, Jr."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "North Carolina"
+End element:   u
+End element:   b
+Characters:    "\n\r    Joel B. Adams, Jr."
+Characters:    "\n\r    Dollie B. Burwell"
+Characters:    "\n\r    Karen Gottovi"
+Characters:    "\n\r    Bill Holman, Sierra Club"
+Characters:    "\n\r    John Runkle, Conservation Council of North Carolina"
+Characters:    "\n\r    Melvin M. Shepard, Jr."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "Oregon"
+End element:   u
+End element:   b
+Characters:    "\n\r    Anna Goldrich, Oregon League of Conservation Voters"
+Characters:    "\n\r    Stephen R. McCarthy, Sierra Club Legal Defense Fund"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "Pennsylvania"
+End element:   u
+End element:   b
+Characters:    "\n\r    Robert Wendelgass, Clean Water Action"
+Characters:    "\n\r    Dennis R. Winters, Sierra Club"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "Rhode Island"
+End element:   u
+End element:   b
+Characters:    "\n\r    Myrth York, Clean Water Action"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "South Carolina"
+End element:   u
+End element:   b
+Characters:    "\n\r    William L. Want"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "Tennessee"
+End element:   u
+End element:   b
+Characters:    "\n\r    W.J. Michael Cody, former State Attorney General"
+Characters:    "\n\r    Melissa Poe"
+Characters:    "\n\r    Joseph J. Pulliam, III, C.E.O. Dagger Canoe & Kayak Co."
+Characters:    "\n\r    Liane Russell"
+Characters:    "\n\r    William H. Skelton"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "Texas"
+End element:   u
+End element:   b
+Characters:    "\n\r    Don Henley"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "Utah"
+End element:   u
+End element:   b
+Characters:    "\n\r    Norma Matheson"
+Characters:    "\n\r    Mike Matz"
+Characters:    "\n\r    Terry Tempest Williams"
+Characters:    "\n\r    Mayor Ted Wilson"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "Virginia"
+End element:   u
+End element:   b
+Characters:    "\n\r    Senator Joe Gartlan"
+Characters:    "\n\r    Delegate W. Tayloe Murphy, Jr."
+Characters:    "\n\r    Judy Guse-Noritake"
+Characters:    "\n\r    Peter Fox Penner"
+Characters:    "\n\r    Justine K. Wolk"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "Washington"
+End element:   u
+End element:   b
+Characters:    "\n\r    Bill Arthur, Sierra Club"
+Characters:    "\n\r    Ed Zuckerman"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "Wisconsin"
+End element:   u
+End element:   b
+Characters:    "\n\r    Gaylord Nelson, former U.S. Senator, founder of Earth Day"
+Characters:    "\n\r    Nina Leopold Bradley"
+Characters:    "\n\r    Brett Hulsey, Sierra Club"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Start element: u
+Characters:    "Wyoming"
+End element:   u
+End element:   b
+Characters:    "\n\r    Margaret E. Murie"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "*The above are individual endorsements and does not\n\r    reflect endorsements from affiliated\n\r    organizations."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

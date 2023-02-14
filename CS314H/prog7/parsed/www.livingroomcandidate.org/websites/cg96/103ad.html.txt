@@ -1,0 +1,101 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "Clinton/Gore Releases New Ad"
+End element:   TITLE
+Characters:    "\r\n\r"
+Start element: kpetitle
+Characters:    "Clinton/Gore Releases New Ad"
+End element:   kpetitle
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Start element: A
+Key: HREF, Value: index22.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r"
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "October 3, 1996\t\t\t\t\t\t\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: P
+Start element: CENTER
+Start element: B
+Characters:    "CLINTON/GORE '96 RELEASES NEW ADVERTISEMENT"
+End element:   B
+Characters:    "\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r"
+Start element: P
+Characters:    "Today, October 3, 1996, the Clinton/Gore �96 campaign announces a new ad entitled \"Imagine\".  The text of the ad follows:\r\n\r\r\n\r\r\n\r"
+Start element: P
+Start element: b
+Characters:    "Imagine"
+End element:   B
+Characters:    "\r\n\r\r\n\r"
+Start element: I
+Start element: P
+Characters:    "Imagine.\r\n\r\r\n\r"
+Start element: P
+Characters:    "It�s 11 p.m.\r\n\r\r\n\r"
+Start element: P
+Characters:    "And you know where your kids are.\r\n\r\r\n\r"
+Start element: P
+Characters:    "At home.\r\n\r\r\n\r"
+Start element: P
+Characters:    "President Clinton supports curfews - so children are home and safe.\r\n\r\r\n\r"
+Start element: P
+Characters:    "School uniforms to instill discipline.\r\n\r\r\n\r"
+Start element: P
+Characters:    "Ban cigarette ads aimed at our children.\r\n\r\r\n\r"
+Start element: P
+Characters:    "Require teenage mothers to stay in school or lose welfare.\r\n\r\r\n\r"
+Start element: P
+Characters:    "Dole and Gingrich tried to slash school anti-drug programs.  They�d take us back.\r\n\r\r\n\r"
+Start element: P
+Characters:    "President Clinton is moving forward.  Helping parents teach our children responsibility.\r\n\r\r\n\r"
+Start element: P
+Characters:    "Protecting our values."
+Characters:    "\r\n\r\r\n\r"
+Start element: P
+Start element: CENTER
+Characters:    "###"
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End element:   TT
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee,\r\n\rInc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r\r\n\r"
+End of document

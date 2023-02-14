@@ -1,0 +1,366 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Bob Dole: The Better Man. For a Better America."
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: vlink, Value: #FF0000
+Key: alink, Value: #FF0000
+Key: background, Value: ../../background.jpg
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "&nbsp;\n\r    "
+Start element: p
+Start element: font
+Key: size, Value: +3
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Bob\n\r    Dole:"
+End element:   font
+End element:   b
+End element:   font
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +2
+Start element: b
+Characters:    "The Better Man. For a Better\n\r    America."
+End element:   b
+End element:   font
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: face, Value: Times New Roman
+Characters:    "More Opportunities.\n\r    Smaller Government. Stronger and Safer Families"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Start element: b
+Start element: font
+Key: size, Value: +1
+Characters:    "MORE\n\r    OPPORTUNITIES"
+End element:   font
+End element:   b
+Characters:    "\n\r    In the last four years, people have been working longer and\n\r    taking home less. Over the same time, personal bankruptcies and\n\r    the number of people living in poverty have gone up. Bob Dole\n\r    wants Americans to earn more, keep more and do more."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Start element: b
+Characters:    "Lower Taxes"
+End element:   b
+Characters:    "\n\r    The average family today faces the highest level of taxation in\n\r    history - more than $1 of every $3 earned goes to taxes. That\n\r    is wrong. Parents today spend as much time working to pay taxes\n\r    as they spend with their children. Many families are forced to\n\r    have two parents working just to meet the tax burden. As\n\r    chairman of the Senate Finance Committee in 1981, Bob Dole led\n\r    the enactment of the largest tax cut in American history. As\n\r    President, he will pursue a similar pro-growth, pro-family tax\n\r    cut."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Start element: b
+Characters:    "Higher Wages"
+End element:   b
+Characters:    "\n\r    Every year since Bill Clinton has been in office, taxes have\n\r    been higher and family income has been lower than when he got\n\r    elected. We're working harder and taking home less. Bob Dole\n\r    wants Americans to earn more and keep more of what they earn,\n\r    so parents can do more with their families, churches and\n\r    communities."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Start element: b
+Characters:    "Better Jobs"
+End element:   b
+Characters:    "\n\r    When Bill Clinton passed the largest tax increase in history,\n\r    small businesses were hit the hardest. The National Federation\n\r    of Independent Business called the Clinton Administration \"the\n\r    most anti-small business administration in history.\" But small\n\r    business is the engine for job creation in our economy. As a\n\r    result, Clinton's term has spawned a record number of personal\n\r    bankruptcies and lower rates of growth than America has seen in\n\r    21 of the last 30 years."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Start element: b
+Characters:    "Choice in Education"
+End element:   b
+Characters:    "\n\r    All families should have the same right to choose what school\n\r    is best for their children as Bill Clinton who blocks such\n\r    education reform -- and sends his daughter to an exclusive\n\r    private school."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Start element: b
+Start element: font
+Key: size, Value: +1
+Characters:    "SMALLER\n\r    GOVERNMENT"
+End element:   font
+End element:   b
+Characters:    "\n\r    The federal government is taking and wasting too much of our\n\r    money. We must push power, money and influence away from\n\r    Washington and back to the people in their states and\n\r    communities."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Start element: b
+Characters:    "End Wasteful Washington\n\r    Spending"
+End element:   b
+Characters:    "\n\r    We must end wasteful Washington spending so people don't have\n\r    to pay more in taxes than in food, shelter and clothing\n\r    combined, as the average American family does today."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Start element: b
+Characters:    "Balance the Budget"
+End element:   b
+Characters:    "\n\r    Working Americans will have about $2,000 more per year in their\n\r    pockets from the lower interest rates of a balanced budget. As\n\r    a Senator, Bob Dole ushered a balanced budget through Congress\n\r    and onto Bill Clinton's desk. But Clinton vetoed the first\n\r    balanced budget in 26 years. It's wrong for a country as great\n\r    as ours to impose a staggering debt on our children and\n\r    grandchildren because we are unwilling to break the habit of\n\r    deficit spending today."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Start element: b
+Start element: font
+Key: size, Value: +1
+Characters:    "STRONGER AND\n\r    SAFER FAMILIES"
+End element:   font
+End element:   b
+Characters:    "\n\r    The Clinton Administration has launched an assault on the\n\r    American family. Violent crime is up. Teenage drug use is\n\r    skyrocketing. Welfare recipients are becoming addicted to a\n\r    life of dependency. We must have the courage to choose right\n\r    over wrong to end decades of moral decline."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Start element: b
+Characters:    "Fight Drugs and Violent\n\r    Crime"
+End element:   b
+Characters:    "\n\r    Bill Clinton has slashed drug interdiction efforts, weakened\n\r    enforcement, appointed lenient soft-on-crime judges and joked\n\r    about marijuana use on MTV. Even liberal Rep. Charlie Rangel\n\r    (D-NY) says he has \"never, never, never,\" seen a President who\n\r    cares less about fighting drugs. It should be no surprise that\n\r    drug use is on the rise - after 11 consecutive years of\n\r    decline. Teenage drug use has increased in the past three years\n\r    and teenage marijuana use has doubled on Bill Clinton's\n\r    watch."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Start element: b
+Characters:    "Stem Illegal\n\r    Immigration"
+End element:   b
+Characters:    "\n\r    Under Bill Clinton, expenditures on benefits for illegal\n\r    immigrants has gone up 12.7 percent while wages for the typical\n\r    American worker have fallen 2.5 percent. Welcoming people who\n\r    abide by our laws and contribute to our economy is the American\n\r    way, but rewarding those who are here because they broke our\n\r    laws is the wrong way."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Start element: b
+Start element: font
+Key: size, Value: +1
+Characters:    "BOB DOLE:\n\r    THE BETTER MAN. FOR A BETTER AMERICA."
+End element:   font
+End element:   b
+Characters:    "\n\r    Bob Dole will lead us to a better America with pro-family,\n\r    pro-growth tax cuts, stepped-up drug interdiction and\n\r    prosecution to reverse the increase in teenage drug use, and\n\r    tougher enforcement of our immigration laws."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Bob Dole doesn't just say\n\r    things to get elected. Even his Democrat colleagues are quick\n\r    to note that Bob Dole is a man of integrity whose word is his\n\r    bond. What he says now is consistent with what he has done in\n\r    the U.S. Senate, where he has supported $2 trillion in tax\n\r    relief for working Americans."
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../../news/news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    " "
+Start element: a
+Key: href, Value: ../agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the\n\r  Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

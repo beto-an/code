@@ -1,0 +1,179 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "Setting the Record Straight"
+End element:   TITLE
+Characters:    "\r\n\r\r\n\r"
+Start element: KPETITLE
+Start element: B
+Characters:    "For Immediate Release:"
+End element:   B
+Characters:    "\r\n\rSetting the Record Straight"
+Start element: DD
+End element:   KPETITLE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "  "
+Characters:    "\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r"
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "August 19, 1996\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "STATEMENT BY ANN LEWIS\r\n\r"
+Characters:    "DEPUTY CAMPAIGN MANAGER FOR COMMUNICATIONS \r\n\r"
+Characters:    "\r\n\r"
+Start element: blockquote
+Characters:    "\r\n\r"
+Start element: P
+Characters:    "Question: Why is August 19th a milestone for President Clinton and \r\n\rBob Dole?\r\n\r"
+Start element: P
+Characters:    "Answer: It's President Clinton's 50th birthday "
+Start element: I
+Characters:    "and"
+End element:   I
+Characters:    " \r\n\rit's the 14th anniversary of\r\n\rBob Dole's vote for the largest tax increase in history -- which he also \r\n\rauthored.\r\n\r"
+End element:   blockquote
+Characters:    "\r\n\r\r\n\r"
+Start element: P
+Characters:    "Time and time again, Bob Dole has said during his campaign that \r\n\rPresiden Clinton\r\n\rpassed the largest tax increase in history. We're here to set the record \r\n\rstraight. Either Bob\r\n\rDole has trouble with math or he has a case of convenient campaign amnesia.\r\n\r We're here simply to\r\n\rremind Dole of his record on taxes so that the American people can hear both\r\n\r sides, and make their judgements about who they trust\r\n\rmore on this issue.\r\n\r\r\n\r"
+Start element: P
+Characters:    "It was fourteen years ago today that Bob Dole voted for the Tax Equity \r\n\rand Fiscal Responsibilty\r\n\rAct of 1982, which is without doubt the largest tax increase in peacetime \r\n\rhistory.\r\n\rResponsible economists and newspapers -- from the "
+Start element: I
+Characters:    "Wall Street Journal"
+End element:   i
+Characters:    "\r\n\r to the "
+Start element: I
+Characters:    "New York Times"
+End element:   i
+Characters:    " -- \r\n\ragree that Dole's tax increase is the largest. And not only did Bob Dole \r\n\rvote for the bill, he also \r\n\rwrote it. What did he have to say about it at the time? He said that \r\n\r\"the increase was too\r\n\rsmall.\"\r\n\r\r\n\r"
+Start element: P
+Characters:    "This past weekend, Bob Dole said \"look at my record\" on taxes. \r\n\rSo we looked at his entire\r\n\r35-year Washington record on taxes and found that from 1961-1992, \r\n\rBob Dole voted to increase\r\n\rat least 450 different taxes and fees -- all of which were enacted into law.\r\n\r\r\n\r"
+Start element: P
+Characters:    "Let me walk you through the key findings: (see below)\r\n\r\r\n\r"
+Start element: P
+Characters:    "We're not here to judge these 450 tax and fee hikes as either good or bad.\r\n\rIt's just what Dole's record shows. But, Bob Dole's rhetoric about taxes -- \r\n\rafter Dole passed the largest tax hike in peacetime history, and after Dole\r\n\rvoted to increase at least 450 different taxes and fees -- \r\n\ris a deliberate attempt to mislead the American people.\r\n\r\r\n\r"
+Start element: P
+Characters:    "Even Bob Dole's own running mate knows his true tax-hiking record. \r\n\rIn 1988, Jack Kemp attacked \r\n\rDole on taxes, saying, \"Bob Dole never met a tax he didn't hike...When \r\n\rBob Dole talks about\r\n\rleadership for the future, he's the man who led the fight for\r\n\r five major tax increases in the past five years.\"\r\n\r\r\n\r"
+Start element: P
+Characters:    "Bob Dole knows that it is simply irresponsible to promise his huge \r\n\rtax give-away without saying how he's going to pay for it. After all, \r\n\rDole spent\r\n\rthe entire 1980s raising taxes and fees trying to ease the huge budget deficits\r\n\rcaused by the failure of supply side economics.\r\n\r\r\n\r"
+Start element: p
+Start element: center
+Characters:    "###\r\n\r"
+End element:   center
+Characters:    "\r\n\r\r\n\r\r\n\r \r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r \r\n\r"
+Start element: center
+Characters:    "Today Marks The 14th Anniversary of Bob Dole's "
+Characters:    "1982\r\n\r                           Tax Bill:\r\n\r          The Largest Tax Increase In History"
+End element:   center
+Characters:    "\r\n\r                                \r\n\r                                \r\n\r"
+Start element: P
+Start element: B
+Characters:    "TODAY -- AUGUST 19 -- MARKS THE 14th ANNIVERSARY OF BOB\r\n\rDOLE'S VOTE FOR THE LARGEST TAX INCREASE IN HISTORY."
+End element:   B
+Characters:    "  On\r\n\rAugust 19, 1982, Bob Dole voted for the Tax Equity and Fiscal Responsibility Act of 1982\r\n\r(TEFRA) -- the largest tax increase in history according to any reasonable analysis.  By\r\n\rnearly all accounts, Bob Dole authored and pushed for this tax increase that raised $298\r\n\rbillion over five years, in inflation-adjusted dollars.  [Source: HR 4691, 1982 Congressional\r\n\rQuarterly\r\n\rAlmanac, vote #335, p. 55-S; Wall Street Journal, October 26, 1994; and Joint Tax Committee,\r\n\rJune 23, 1993.]\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    " Joint Tax Committee, 6/23/93:"
+End element:   B
+Characters:    "  \"[T]he tax increases proposed in the\r\n\rAdministration's budget are smaller than the tax increases enacted in the Tax Equity and Fiscal\r\n\rResponsibility Act of 1982 (TEFRA).\" \r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "Wall Street Journal, 10/26/94:"
+End element:   B
+Characters:    "  \"Contrary to Republican claims, the 1993\r\n\rpackage ... is not 'the largest tax increase in history.'  The 1982 deficit reduction package of\r\n\rPresident Reagan and Sen. Robert Dole in a GOP-controlled Senate was a bigger tax bill, both in\r\n\r1993-adjusted dollars and as a percentage of the overall economy.\"  \r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "Los Angeles Times, 8/7/93:"
+End element:   B
+Characters:    "  \"Nor is the [1993] plan the biggest tax increase in\r\n\rhistory, as Republicans contended.  With inflation factored in, the largest tax increase was the\r\n\rone\r\n\renacted in 1982 under President Ronald Reagan and engineered in the Senate Finance\r\n\rCommittee\r\n\rby its then-Chairman, Bob Dole.\"\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "New York Times, 7/11/96:"
+End element:   B
+Characters:    " \"It is not true that the $240 billion tax increase\r\n\rapproved by Congress in 1993 at Mr. Clinton's behest is the largest in American history.  When\r\n\radjusted for inflation -- the only way to make comparisons of dollar amounts from different years\r\n\r--\r\n\ra tax increase engineered by Mr. Dole in 1982, when he was the chairman of the Senate Finance\r\n\rCommittee, was larger.\"\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "Christian Science Monitor, 8/6/93:"
+End element:   B
+Characters:    " \"Senate minority leader Robert Dole called\r\n\rMr. Clinton's plan the ``'largest tax increase in the history of the world.'  Canceling out the\r\n\rexaggerations of inflation, however, this tax hike will not surpass the one drafted largely by Mr.\r\n\rDole in 1982.\"\r\n\r\r\n\r\r\n\r"
+Start element: CENTER
+Characters:    "THE DAY BEFORE BOB DOLE VOTED FOR THE LARGEST TAX INCREASE\r\n\rIN\r\n\rHISTORY, HE SAID THAT THE 1982 TAX INCREASE WAS \"TOO SMALL\"\r\n\r"
+End element:   center
+Characters:    "\r\n\r"
+Start element: P
+Start element: B
+Characters:    "Bob Dole, August 18, 1982:"
+End element:   B
+Characters:    " \"There is no doubt in my mind it is going to be a good\r\n\rbipartisan package.  I am still hopeful the good Senator from South Carolina will come on board. \r\n\rLast year, the\r\n\rtax cut was too big, and this year the increase is too small.  Somewhere down the line they may\r\n\rget together.\" \r\n\r[Source: Congressional Record, S-21869, 1982.  Emphasis Added]\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "REPUBLICANS HAVE CALLED DOLE THE \"TAX COLLECTOR FOR\r\n\rTHE WELFARE STATE\" AND SAID DOLE \"NEVER MET A TAX HE DIDN'T\r\n\rHIKE\":\r\n\r Newt Gingrich, 11/19/84:"
+End element:   B
+Characters:    " Dole is \"the tax collector for the welfare state.\" [Source:\r\n\rWashington\r\n\rPost, 11/19/84]\r\n\r\r\n\r "
+Start element: P
+Start element: B
+Characters:    "Newt Gingrich On The 1982 Tax Increase, 8/10/82:"
+End element:   B
+Characters:    " \"I think that this\r\n\rclearly, though, would be the largest tax increase in a recession since Herbert Hoover in 1931\r\n\rand\r\n\r1932.  I think it is a terrible thing to do; I think it will make the economy sicker, and I think to\r\n\rraise taxes without first having gotten every dime of spending cuts is fundamentally not\r\n\rconservative.\"  [Source: MacNeil/Lehrer Newshour, 8/10/82]\r\n\r\r\n\r "
+Start element: P
+Start element: B
+Characters:    "Jack Kemp, 2/11/88:"
+End element:   b
+Characters:    " \"Bob Dole never met a tax he didn't hike.\"  [Source: New\r\n\rYork Times, 2/11/88]\r\n\r\r\n\r "
+Start element: P
+Start element: B
+Characters:    "Jack Kemp's Empower America On The Dole-Engineered 1982 Tax Increase,\r\n\r2/24/94:"
+End element:   B
+Characters:    " The 1982 tax bill was \"the largest tax increase in recent years.\"  [Source: Empower\r\n\rAmerica Reality Check, 2/24/94]\r\n\r"
+Start element: P
+Start element: B
+Characters:    "THE DAY BEFORE BOB DOLE VOTED FOR THE LARGEST TAX\r\n\rINCREASE IN HISTORY, HE SAID THAT THE 1982 TAX INCREASE WAS \"TOO\r\n\rSMALL\"\r\n\r\r\n\rBob Dole, August 18, 1982:\r\n\r\"Last year, the tax cut was\r\n\rtoo big, and this year the\r\n\rincrease is too small. \r\n\rSomewhere down the line\r\n\rthey may get together.\" "
+End element:   B
+Characters:    " [Source:\r\n\rCongressional Record, S-21869, 1982.  Emphasis Added]\r\n\r\r\n\r"
+Start element: P
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    " "
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee,\r\n\rInc."
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End of document

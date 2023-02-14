@@ -1,0 +1,128 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Rural Americans Unite to Support the Reelection"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    September 25, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "RURAL AMERICANS UNITE TO SUPPORT RE-ELECTION OF\n\r      PRESIDENT CLINTON AND VICE PRESIDENT GORE"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Washington, D.C. -- The Clinton/Gore campaign today\n\r    announced the formation of \"Rural Citizens for Clinton/Gore �96\n\r    Committee.\" With twelve days until the Presidential election,\n\r    this grass roots organization will mobilize the more than 61\n\r    million rural Americans to support the re-election of President\n\r    Bill Clinton and Vice President Al Gore."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Comprised of farmers, national and local officials, and\n\r    other rural citizens, this group will continue to communicate\n\r    the improvements of rural America under the Clinton\n\r    Administration In addition, members will be conducting\n\r    Clinton/Gore get-out-the-vote activities in their respective\n\r    states."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "E. (Kika) de la Garza, honorary national co-chair of the\n\r    \"Rural Citizens for Clinton/Gore �96 Committee\" and a U.S.\n\r    Congressman from Texas stated, \"Thanks to the President�s\n\r    policies, problems in rural America are being addressed. Net\n\r    farm income is up, small town manufacturing jobs are up, and\n\r    people are migrating back to rural places rather than leaving.\n\r    It is no surprise that rural America is coming together to\n\r    support the President�s re-election.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Honorary national co-chair Dan Glickman added, \"Rural\n\r    Americans are rallying behind President Clinton because they\n\r    know that the President has the vision and a plan that will\n\r    lead rural America to a more prosperous and secure 21st\n\r    Century.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The formation of the \"Rural Citizens for Clinton/Gore\n\r    �96 Committee\" follows upon the recent personal endorsement by\n\r    eighteen state Commissioners and Secretaries of Agriculture of\n\r    the re-election of President Clinton and Vice President\n\r    Gore."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "In addition to E. (Kika) de la Garza and Dan Glickman,\n\r    the honorary co-chairs of the \"Rural Citizens for Clinton/Gore\n\r    �96 Committee\" are Dale Bumpers, who is a U.S. Senator from\n\r    Arkansas; Patrick Leahy, who is a U.S. Senator from Vermont;\n\r    Bob Odum, who is the Louisiana Commissioner of Agriculture; and\n\r    Bob Bergland and Orville Freeman, who are two former U.S.\n\r    Secretaries of Agriculture."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "# # #"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

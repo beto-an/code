@@ -1,0 +1,99 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "Dole's Plan Requires Deep Cuts in Education..."
+End element:   TITLE
+Characters:    "\r\n\r\r\n\r"
+Start element: KPETITLE
+Start element: B
+Characters:    "For Immediate Release:"
+End element:   B
+Characters:    "\r\n\rDole's Plan Requires Deep Cuts in Education.."
+Start element: DD
+End element:   KPETITLE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "  "
+Characters:    "\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r"
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "August 20, 1996\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "STATEMENT BY JOE LOCKHART\r\n\r"
+Characters:    "NATIONAL PRESS SECRETARY\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "Today Bob Dole added more ornaments on his Christmas in August Campaign -- listing more programs that he\r\n\r will "
+Start element: I
+Characters:    "not"
+End element:   I
+Characters:    "  cut to fund his massive, election-year, $550 billion tax cut scheme.  The hard truth is that Dole is now\r\n\rcampaigning on an economic plan that would inevitably lead to cuts in education, environmental enforcement and \r\n\rlaw enforcement even more drastic than the 1995 Dole/Gingrich budget -- which the American people rejected as \r\n\rextreme and mean-spirited.  In a desperate, cynical, election-year campaign ploy, Dole has promised a massive, \r\n\r$550 billion tax cut -- without saying how he would pay for it.  \r\n\r\r\n\r"
+Start element: P
+Characters:    "The Concord Coalition, "
+Start element: I
+Characters:    "Business Week "
+End element:   I
+Characters:    " and "
+Start element: I
+Characters:    "U.S. News & World Report "
+End element:   i
+Characters:    " analyzed Dole�s\r\n\r economic \"plan\" \r\n\rand found that offering a tax cut of this size would require cuts of around 40 percent in all such domestic spending \r\n\rprograms if Dole is truly being honest about leaving entitlements, including Medicare, untouched.  \r\n\r\r\n\r"
+Start element: P
+Characters:    "And today, Dole took spending on health care for veterans \"off the table\" -- meaning that other key areas will \r\n\rhave to be cut even more deeply.  In fact, Bob Dole would have to make cuts of over 40 percent in all other\r\n\r discretionary spending -- such as education, environmental enforcement, law enforcement and immigration.  \r\n\r\r\n\r"
+Start element: P
+Characters:    "The American people rejected the extreme Dole/Gingrich budget in 1995.  And as they learn the details of the \r\n\r"
+Start element: I
+Characters:    "even more extreme "
+End element:   I
+Characters:    "Dole/Gingrich plan in 1996  -- the American people will again say no to Dole.  \r\n\r\r\n\r"
+Start element: P
+Characters:    "President Clinton has a better way, $110 billion in tax cuts that are fully paid for and targeted to help \r\n\rworking families raise and educate their children -- and build on an economic record which has created over \r\n\r10 million new jobs. \r\n\r\r\n\r"
+Start element: p
+Characters:    "\r\n\r"
+Start element: center
+Characters:    "###"
+End element:   center
+Characters:    "\r\n\r\r\n\r\r\n\r \r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    " "
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee,\r\n\rInc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End of document

@@ -1,0 +1,573 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "For Immediate Release"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #BE0023
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: center
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: bill930.html
+Characters:    "9/30/96 - New\n\r        Budget Bill: Fair, Forward-Looking, Tough"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: web930.html
+Characters:    "9/30/96 - New\n\r        Innovations to the Campaign Web Site"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: fox929.html
+Characters:    "9/29/96 -\n\r        President's Remarks on the Fox Network"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: debates.html
+Characters:    "9/28/96 - Final\n\r        Debate Agreement"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 928dole.html
+Characters:    "9/28/96 - Dole\n\r        and the Economy"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: ad927.html
+Characters:    "9/27/96 - Campaign\n\r        Releases New Advertisement: \"Economic Plan\""
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: medi926.html
+Characters:    "9/26/96 - Dole\n\r        Equals Medicare Cuts"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: econ926.html
+Characters:    "9/26/96 - It's\n\r        Still the Economy..."
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: bank926.html
+Characters:    "9/26/96 -\n\r        Campaign Deposits Funds in Minority-Owned\n\r        Banks"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: record51.html
+Characters:    "9/26/96 -\n\r        Compare the Records..."
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: dole925.html
+Characters:    "9/25/96 - Dole's\n\r        Tax Increase, The Biggest Ever"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: remark.html
+Characters:    "9/24/96 -\n\r        President Clinton's Remarks on the Fox\n\r        Network"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: dole924.html
+Characters:    "9/24/96 - Bob\n\r        Dole's Negative Record"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: hrc924.html
+Characters:    "9/24/96 - First\n\r        Lady to Visit Ohio"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: fmla924.html
+Characters:    "9/24/96 - The\n\r        Family and Medical Leave Act Record"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: fmla923.html
+Characters:    "9/23/96 -\n\r        Campaign Announces Family and Medical Leave Act\n\r        Day"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 923lock.html
+Characters:    "9/23/96 -\n\r        Campaign Releases New Advertisement"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 923helth.html
+Characters:    "9/23/96 - Dole\n\r        and Health Care"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: dole921.html
+Characters:    "9/21/96 - Dole's\n\r        Health Care Gridlock"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: hrc920.html
+Characters:    "9/20/96 - Hillary\n\r        Rodham Clinton in Connecticut"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: ad920.html
+Characters:    "9/20/96 - Campaign\n\r        Releases New Advertisement"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: news918.html
+Characters:    "9/18/96 -\n\r        Nationwide Campaign News Events Information"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: ad917.html
+Characters:    "9/17/96 - New\n\r        Campaign Advertisement Released Today"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: crime916.html
+Characters:    "9/16/96 - Dole's\n\r        Crime Program...Sound Familiar?"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: chairs.html
+Characters:    "9/14/96 - New\n\r        Honorary Campaign Chairs Appointed"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 913crime.html
+Characters:    "9/14/96 - Bob\n\r        Dole and Crime"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: bus2.html
+Characters:    "9/13/96 - Second Bus\n\r        Tour Announced"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 913neg.html
+Characters:    "9/13/96 - Bob Dole\n\r        and Negative Ads"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: debat912.html
+Characters:    "9/12/96 - Debate\n\r        Negotiating Team for Clinton/Gore"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: repub911.html
+Characters:    "9/11/96 -\n\r        Republican Confusion"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: dole911.html
+Characters:    "9/11/96 - The\n\r        Dole/Gingrich/Kemp \"Revolution\""
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: ad911.html
+Characters:    "9/11/96 - Campaign\n\r        Releases New Advertisement"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: fam910.html
+Characters:    "9/10/96 - Dole\n\r        Continues to Oppose Family Medical Leave"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: ad910.html
+Characters:    "9/10/96 - Campaign\n\r        Releases New Advertisement"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: fam909.html
+Characters:    "9/9/96 - Dole's\n\r        Opposition to Family Medical Leave"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: dole909.html
+Characters:    "9/9/96 - Bob\n\r        Dole's Education Cuts"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: fml907.html
+Characters:    "9/7/96 - Bob Dole\n\r        on Family Medical Leave"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: radio907.html
+Characters:    "9/7/96 -\n\r        Response to Bob Dole's Radio Address"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: ad906.html
+Characters:    "9/6/96 -- Campaign\n\r        Releases New Advertisement \"Running\""
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: mickey.html
+Characters:    "9/5/96 -- Mickey\n\r        Kantor to Lead Debate Negotiating Team"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: visit9.html
+Characters:    "9/4/96 --\n\r        President Clinton's State Visits, 9/10-12"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: econ904.html
+Characters:    "9/4/96 -- The\n\r        Economy Continues to Offer Good News"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: laborday.html
+Characters:    "9/2/96 --\n\r        Working for America's Families"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: dole2902.html
+Characters:    "9/2/96 --\n\r        Senator Dole's Medicare Record"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: dole902.html
+Characters:    "9/2/96 -- Bob\n\r        Dole's Economic Fantasy"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: dole901.html
+Characters:    "9/1/96 --\n\r        Dole-Gingrich Congress Cuts Clinton's Drug Enforcement\n\r        Budget"
+End element:   a
+End element:   font
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+End element:   p
+Characters:    "\n\r        "
+Start element: center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee,\n\r          Inc."
+End element:   p
+Characters:    "\n\r        "
+End element:   center
+Characters:    "\n\r      "
+End element:   center
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/bank926.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/dole901.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/dole2902.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/ad927.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/dole902.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/ad906.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/dole924.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/web930.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/mickey.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/hrc924.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/record51.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/radio907.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/913neg.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/dole925.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/923helth.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/923lock.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/dole909.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/dole911.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/econ904.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/crime916.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/dole921.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/ad910.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/debat912.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/fam909.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/fox929.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/hrc920.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/repub911.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/fmla923.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/laborday.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/ad917.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/remark.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/ad911.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/bus2.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/928dole.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/fml907.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/fmla924.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/visit9.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/fam910.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/bill930.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/913crime.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/medi926.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/econ926.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/debates.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/news918.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/ad920.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/chairs.html

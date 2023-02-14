@@ -1,0 +1,139 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Our Strengthened Economy"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    November 1, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "STATEMENT BY JOE LOCKHART"
+Characters:    "\n\r      NATIONAL PRESS SECRETARY"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Today, Bob Dole made clear he�d like to take us back to\n\r    the Dole/Bush economy while President Clinton�s economic\n\r    leadership continues to set us on the right track for the 21st\n\r    century."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "There is more good economic news today. Americans are\n\r    enjoying the lowest unemployment rate in 7 years, an additional\n\r    250,000 new private sector jobs have been created, and America\n\r    now has a better annual rate of job growth than under any\n\r    Republican Administration since the 1920s."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Here are the facts:"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "For 26 consecutive months, the unemployment rate has\n\r      been below 6%. Unemployment is the lowest in 7 years -- a\n\r      lower average rate than during any Administration in 20\n\r      years."
+End element:   tt
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "America now has the highest home ownership rate in 15\n\r      years and the lowest average mortgage rates than under any\n\r      President in 25 years."
+End element:   tt
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "America�s economy is once again #1 in the world -- the\n\r      deficit is the lowest as a share of the GDP in 22 years, the\n\r      United States is the most competitive nation for the third\n\r      consecutive year and America is the world�s #1 auto producer\n\r      for the first time since 1979."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton�s strong economic leadership has\n\r    helped to continue an economic expansion and create an economy\n\r    that is the envy of the world."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "# # #"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

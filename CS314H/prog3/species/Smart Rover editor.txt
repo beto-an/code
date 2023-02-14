@@ -1,0 +1,20 @@
+ifenemy 0 12
+ifenemy 45 8
+ifenemy 315 6
+ifempty 0 10
+ifrandom 8
+left
+go 1
+right
+go 1
+hop
+go 1
+ifhungry 15
+infect
+go 1
+eat
+go 1
+
+
+This critter hops in a straight line until it is blocked, infecting any
+enemies that it sees.  When it can't move forward it turns.

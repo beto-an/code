@@ -1,0 +1,186 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "The First Lady Kicks Off Domestic Violence Awareness\n\r  Day"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "Press Release"
+Characters:    "\n\r    October 12, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "FIRST LADY HILLARY RODHAM CLINTON KICKS OFF"
+Characters:    "\n\r      DOMESTIC VIOLENCE AWARENESS DAY"
+End element:   tt
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "41 STATES HOLD ACTIVITIES TO HIGHLIGHT IMPACT"
+Characters:    "\n\r      OF PRESIDENT CLINTON�S ANTI-DOMESTIC VIOLENCE LAWS"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "First Lady Hillary Rodham Clinton today kicked off the\n\r    Clinton/Gore campaign�s Domestic Violence Awareness Day on\n\r    October 12 by participating in a news conference call in\n\r    Minnesota that also featured Paul Wellstone, who is a Senator\n\r    from Minnesota, and his wife Sheila Wellstone."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The conference call was designed to bring attention to\n\r    the serious issue of domestic violence in America and to\n\r    highlight the remarkable accomplishments the Clinton\n\r    Administration has made in domestic violence prevention. Press\n\r    activities are being held in 41 states for Domestic Violence\n\r    Awareness Day. These activities will bring together advocates,\n\r    24-hour hotline beneficiaries, grant recipients under the\n\r    Violence Against Women Act and COPS program, business leaders,\n\r    union leaders, and political leaders from around the\n\r    nation."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "In speaking about the importance of Domestic Violence\n\r    Awareness Day, First Lady Hillary Rodham Clinton said, \"One of\n\r    the reasons people should be focused on this election is\n\r    because we need a government that is responsive to the needs of\n\r    the people. Domestic violence was never taken seriously before.\n\r    Now, many of the people who are leading safer and healthier\n\r    lives, many of the victims who have been helped, many of the\n\r    perpetrators who are no longer able to abuse and violate women\n\r    and children and may have even learned the error of their ways,\n\r    are doing so now because we have made a concerted national\n\r    effort against domestic violence.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The President has officially proclaimed October National\n\r    Domestic Violence Awareness Month. Across the nation, local\n\r    organizations are holding conferences, vigils, and other events\n\r    to increase awareness and build unity around this disturbing\n\r    issue. Millions of women and children throughout our nation are\n\r    plagued by the terror of family violence each year, and\n\r    approximately 20 percent of all hospital emergency room visits\n\r    by women result from such violence. As many as three million\n\r    children witness violence in their homes each year. It is only\n\r    by stopping violence at home that we will ultimately end\n\r    violence in the streets."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"By holding press activities nationwide on October 12,\n\r    the campaign hopes to underscore the Administration�s\n\r    commitment to -- and turn a national spotlight on -- efforts to\n\r    end domestic violence,\" said Clinton/Gore Campaign Manager\n\r    Peter S. Knight."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The President has an unprecedented record on combating\n\r    domestic violence:"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: ul
+Key: type, Value: circle
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "President Clinton signed the Violence Against Women\n\r      Act (VAWA) into law, which is providing $156 million to\n\r      strengthen the criminal justice system�s response to crimes\n\r      of violence against women."
+End element:   tt
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "President Clinton created a 24-hour Domestic Violence\n\r      Hotline, 1-800-799-SAFE, which has already provided immediate\n\r      crisis intervention, counseling and referrals for over 42,000\n\r      women."
+End element:   tt
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "The Administration allocated $46 million under the\n\r      Community Oriented Policing program (COPS) to help law\n\r      enforcement counter domestic violence."
+End element:   tt
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "The President created the Violence Against Women\n\r      Office in the Department of Justice to lead a national effort\n\r      to combine tough new federal laws with help for states and\n\r      localities."
+End element:   tt
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "The President fought for and signed legislation that\n\r      would expand the Brady law to prohibit those convicted of any\n\r      offense involving domestic violence -- misdemeanor or felony\n\r      -- from owning or possessing a firearm."
+End element:   tt
+End element:   li
+Characters:    "\n\r    "
+End element:   ul
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Senator Dole has not displayed this same commitment\n\r    during his 35 year congressional career. He voted against\n\r    President Clinton�s 1994 Crime Bill which contained the\n\r    Violence Against Women Act and funding for more local police to\n\r    fight domestic violence. He also voted against the Brady Bill\n\r    which makes it harder for domestic abusers to buy\n\r    handguns."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "In 1980, Bob Dole voted against the Domestic Violence\n\r    Prevention and Services Act -- which established a $65 million\n\r    grant program for state, local and private efforts to prevent\n\r    domestic violence and provide emergency shelter to battered\n\r    women. At the time, Dole said, \"the federal government has no\n\r    business getting into the treatment of domestic ills of this\n\r    nature...\" (Congressional Record 8/26/80)."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Events will be held throughout the month, with most\n\r    occurring October 11-14. Some of the events and participants\n\r    include a round table at a women�s shelter in Nevada with\n\r    Christopher Dodd, who is a Senator from Connecticut and\n\r    chairman of the Democratic National Committee; an American\n\r    College of Emergency Physicians conference in California; and a\n\r    round table discussion on domestic violence with Gloria Steinem\n\r    and other domestic violence prevention activists in\n\r    Massachusetts."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Start element: tt
+Characters:    "\n\r    "
+End element:   tt
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

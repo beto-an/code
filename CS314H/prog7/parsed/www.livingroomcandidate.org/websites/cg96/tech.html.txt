@@ -1,0 +1,743 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | The Briefing Room | Bill Clinton & Al Gore on the\n\r  Issues"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    " "
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index89.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +2
+Start element: font
+Key: color, Value: #001058
+Start element: nobr
+Start element: i
+Characters:    "Investing in\n\r    Science and Technology"
+End element:   i
+End element:   nobr
+End element:   font
+End element:   font
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: i
+Characters:    "nvestment in technology\n\r      drives economic growth, generates new knowledge, creates new\n\r      jobs, builds new industries, ensures sustained economic and\n\r      national security, and improves our quality of life ... My\n\r      balanced budget plan maintains vital investments in science\n\r      and technology ... That is the common ground on which\n\r      American economic progress and quality of life depend.”"
+End element:   i
+Characters:    "\n\r      "
+Start element: p
+Start element: b
+Characters:    "—President Bill Clinton"
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Ensuring that America\n\r    remains the world leader in science and technology"
+End element:   b
+End element:   font
+Characters:    "\n\r    is a cornerstone of President Clinton and Vice President Gore's\n\r    economic and national security strategy. The Administration is\n\r    working to strengthen America's scientific and technological\n\r    lead by promoting U.S. competitiveness, by creating high-wage\n\r    jobs, by maintaining America's military superiority, by\n\r    improving education and health care, and by protecting the\n\r    environment.\n\r    "
+Start element: p
+Characters:    "President Clinton is creating a pro-growth business and\n\r    economic climate that promotes private sector investment and\n\r    innovation by:"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Enacting his 1993 Economic Plan which has cut the\n\r            deficit by more than half and brought the combined rate\n\r            of unemployment, inflation, and mortgage rates to its\n\r            lowest level since 1968. Our growing economy has\n\r            unleashed investments by private industry in research\n\r            innovation and new technologies. The President's plan\n\r            will balance the budget by 2002, while maintaining\n\r            critical investment in research, technology, and\n\r            education.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Signing the Telecommunications Act of 1996, which\n\r            eliminated outdated laws and regulations and freed\n\r            American industry to lead the world in providing new\n\r            information technologies to consumers, in building the\n\r            Information Superhighway, and in creating millions of\n\r            new jobs. Common sense regulatory reforms at the\n\r            Environmental Protection Agency and the Food and Drug\n\r            Administration are promoting the use of sound\n\r            scientific and innovative technologies to restore and\n\r            protect the environment at lower cost -- making it\n\r            easier to develop and market new drugs and medical\n\r            technologies.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Fighting to open world trade markets and working to\n\r            eliminate trade barriers and strengthen intellectual\n\r            property protection overseas for U.S. high-technology\n\r            industries. President Clinton has developed a\n\r            comprehensive National Export Strategy that is\n\r            targeting high-technology exports and is eliminating\n\r            outdated restrictions to free up billions of dollars of\n\r            computer and telecommunications exports for U.S.\n\r            companies.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Increasing funding for research, technology, and\n\r            education investments critical to America's future,\n\r            including funding for:\n\r            "
+Start element: p
+End element:   p
+Characters:    "\n\r            "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 500
+Key: align, Value: left
+Key: cellpading, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r              "
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    World-class basic research through the National\n\r                    Science Foundation and other agencies to\n\r                    sustain America's leadership across the\n\r                    frontiers of science.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Technologies essential to our military\n\r                    superiority and critical to our nation's long-\n\r                    term economic growth and success in the global\n\r                    information-age economy.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Medical research at the National Institutes of\n\r                    Health to seek new cures, new medical\n\r                    technologies, and new ways to prevent disease\n\r                    and improve treatment.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Technologies with the potential to protect the\n\r                    environment at a lower cost while generating\n\r                    jobs and economic growth.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    University-based research to yield vital new\n\r                    knowledge and to train the next generation of\n\r                    scientists and engineers. The President has\n\r                    expanded opportunities for college education\n\r                    for all Americans, and he has launched a\n\r                    national initiative in partnership with\n\r                    American industry and communities to transform\n\r                    American schools with new computer\n\r                    technologies.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r            "
+End element:   table
+Characters:    "\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Reorganizing and revitalizing America's government\n\r            research laboratories and agencies for the next\n\r            century:\n\r            "
+Start element: p
+End element:   p
+Characters:    "\n\r            "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 500
+Key: align, Value: left
+Key: cellpading, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r              "
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Government laboratories supported by NASA, the\n\r                    Departments of Energy and Defense, and other\n\r                    agencies are being organized to focus more\n\r                    effectively on our most critical economic,\n\r                    environmental, health, and national security\n\r                    challenges.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    NASA, America's space agency, has been\n\r                    revitalized to ensure U.S. leadership in space\n\r                    for the next century. Costs are down,\n\r                    bureaucracy reduced, and performance improved.\n\r                    The international Space Station has been\n\r                    designed to cut costs, increase international\n\r                    participation, and expand its capabilities as a\n\r                    world class orbiting laboratory. NASA has\n\r                    launched a new era of scientific exploration\n\r                    using a new generation of spacecraft and has\n\r                    begun to develop a less expensive, safer, and\n\r                    more reliable replacement for the aging space\n\r                    shuttle.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r            "
+End element:   table
+Characters:    "\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Working to make America the best prepared country for\n\r            the challenges of the next century:\n\r            "
+Start element: p
+End element:   p
+Characters:    "\n\r            "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 500
+Key: align, Value: left
+Key: cellpading, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r              "
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Our scientists and engineers lead in key areas\n\r                    of basic research and technology ranging from\n\r                    biotechnology to aerospace.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Sound economic policies and a streamlined\n\r                    regulatory system are promoting investment in\n\r                    innovation throughout American businesses, and\n\r                    U.S. high technology industries are poised to\n\r                    succeed in global markets.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Our national security has been strengthened,\n\r                    and the investment in training and education\n\r                    our nation is making now is paving the way for\n\r                    Americans to succeed in the new industries of\n\r                    the future.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r            "
+End element:   table
+Characters:    "\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Building on Our\n\r    Progress"
+End element:   b
+End element:   font
+Characters:    "\n\r    "
+Start element: p
+Characters:    "As we move into the next century, President Clinton and Vice\n\r    President Gore will continue to fight to maintain U.S.\n\r    scientific and technological leadership by:"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: align, Value: center
+Key: cellpading, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Working to provide our children with the tools and\n\r            skills needed to succeed in the global\n\r            information-based economy -- better-trained teachers,\n\r            new computer technologies, and the Information\n\r            Superhighway.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Strengthening our unmatched system of research\n\r            universities and colleges, producing new knowledge and\n\r            the finest scientists and engineers.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Fostering cooperation between American industry and\n\r            government to sustain the high levels of technological\n\r            innovation needed for U.S. companies to compete against\n\r            expanding international competition and to provide good\n\r            jobs for American workers.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Supporting new technologies that will provide our Armed\n\r            Forces with the military edge needed to preserve\n\r            national security and global stability.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Developing renewable energy sources and\n\r            energy-efficient homes, transportation, and industry\n\r            that will decrease pollution and increase our energy\n\r            security.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Meeting Our Challenges\n\r    "
+Characters:    " Protecting Our Values"
+End element:   b
+End element:   font
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

@@ -1,0 +1,114 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Bob Dole's Negative Record"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    September 24, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "STATEMENT BY JOE LOCKHART"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "NATIONAL PRESS SECRETARY"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Instead of offering any new ideas today, Bob Dole did\n\r    what he does best. He went negative -- attacking what he\n\r    himself called \"the best economy in 30 years\" during the\n\r    Republican primaries. In a sign of desperation, Dole chose fear\n\r    over facts. But the facts speak clearly: the deficit has been\n\r    cut by 60 percent, there are 10 1/2 million new jobs;\n\r    unemployment is at a seven year low; and taxes were cut for 15\n\r    million working families."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Furthermore, President Clinton's economic plan helped\n\r    create the best home ownership rate in 15 years; more women\n\r    owned businesses than ever before; and for the first time in\n\r    nearly two decades, America, once again, leads the world in\n\r    auto production. Growth in the private sector under President\n\r    Clinton (3.2%) is stronger than either President Reagan (3.0%)\n\r    or Bush (1.3%). And despite Dole�s unfounded attacks the fact\n\r    is that the federal workforce is smaller under President\n\r    Clinton than it has been since the beginning of Bob Dole�s\n\r    congressional career -- which began under President\n\r    Kennedy."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole said one thing today that is true. He said, \"in\n\r    politics...you can�t run from your record.\" So let�s take a\n\r    look at Bob Dole�s record. In the 1960s, Dole voted against\n\r    creating Medicare, against creating student loans, against\n\r    creating the Clean Water Act, against creating Head Start, and\n\r    against creating the Peace Corps. In the 1970s, Dole voted\n\r    against creating the Department of Education and against a\n\r    higher minimum wage. In the 1980s, Dole voted against creating\n\r    a drug czar but voted for the largest peacetime tax increase in\n\r    history. In the 1990s, Dole voted against Family & Medical\n\r    Leave, against the Brady Bill and in 1995, Dole and Gingrich\n\r    tried to cut Medicare by $270 billion."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "And while Bob Dole was trying again today to revive his\n\r    discredited economic plan, 546 prominent economists --\n\r    including seven Nobel Laureates -- charged that Dole�s plan was\n\r    \"not credible\" and \"would be a lowering of future living\n\r    standards.\" The truth is, despite Dole�s negative attacks, the\n\r    economy is on the right track. Bob Dole�s plan would send it\n\r    off the track, blow a hole in the deficit and lead to deeper\n\r    cuts in Medicare, Medicaid, education and the environment --\n\r    even deeper than last year�s Dole/Gingrich budget."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

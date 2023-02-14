@@ -1,0 +1,313 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "America’s Home Page"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #BE0023
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: width, Value: 360
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +6
+Start element: b
+Characters:    "First Lady Fans"
+End element:   b
+End element:   font
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+End element:   p
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +2
+Characters:    "Ruth and Gene Love"
+Characters:    "\n\r            Silver Spring, MD"
+End element:   font
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: b
+Characters:    "http://www.voyager.net/hillaryfans/"
+End element:   b
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "Gene and Ruth Love started the first-ever Hillary\n\r          Rodham Clinton Fan Club after learning about Mrs. Clinton\n\r          in the press. “Seven weeks before the election in 1992\n\r          the media had so much about Mrs. Clinton. There was a lot\n\r          written about her in the newspapers and we liked what we\n\r          read. We thought she was a special person. Wouldn't it be\n\r          great to let this lady know that there are people out\n\r          there who support and admire her?”"
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "She and her husband, Gene, called the Little Rock\n\r          campaign office and local Democratic party offices for\n\r          permission to start a fan club. Now, four years later,\n\r          the Loves preside over an organization with 22,000\n\r          all-volunteer members and 165 chapters, eight of which\n\r          are abroad."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“It's become international. Our chapter in India\n\r          started out with 100 members almost immediately,”\n\r          remarked Ruth."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "The couple showed off pictures of the doll and other\n\r          photos of the conference from their “Hillary Room” in\n\r          their apartment. “When we came up with this little tiny\n\r          idea of a fan club. We had no idea it would turn into\n\r          this.”"
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "Now the Loves' phone rings constantly with potential\n\r          members seeking information."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“This is really more than a full time job for us. I\n\r          think after this we're going to retire for the second\n\r          time,” she and Gene joked."
+End element:   p
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 360
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +4
+Start element: b
+Characters:    "Four Year View"
+End element:   b
+End element:   font
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: size, Value: +2
+Characters:    "by Elizabeth Carey"
+Characters:    "\n\r            Cincinnati, OH"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“This election year, I've spent a lot of time asking\n\r          myself a famous question. \"Are you better off now than\n\r          you were four years ago?\"Am I? Are my husband and myself\n\r          happier now during the Clinton presidency than we were\n\r          during the Reagan/Bush years? The answer has to be an\n\r          over-whelming yes."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“In 1991, both my husband and myself were working in\n\r          low-paying blue collar jobs; I worked at a copy shop and\n\r          he worked as a security guard. Together we made just a\n\r          little over $21,000 a year. We had no health insurance,\n\r          we had no life insurance, we had two cars that we feared\n\r          would fall apart every time we got into them, we lived in\n\r          an apartment in one of the worst sections of Cincinnati,\n\r          we fell behind in our payments to everyone and found\n\r          ourselves thousands of dollars in debt. Everyday we\n\r          worried about \"what happens if I lose my job?\""
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“This year, due to an increased combined income of\n\r          nearly $40,000, my husband and I moved into a two\n\r          bedroom, two bathroom house with decks overlooking the\n\r          city, fireplaces and a jacuzzi. President Clinton's\n\r          investment in the internet has provided me with a\n\r          creative technical outlet for my skills. Because of\n\r          President Clinton's investment in education, my husband\n\r          has just completed his third year of college, working\n\r          toward his Bachelor's Degree in Horticulture. President\n\r          Clinton's tax incentive for college students, will allow\n\r          me to return to school in the winter to get my Master's\n\r          in English, with my goal being returning to the teaching\n\r          career I couldn't afford to follow. We both have health\n\r          insurance, we have a savings account that actually has\n\r          money in it, we have a computer, two newer cars and best\n\r          of all, job security."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“President Clinton's policies have made all the\n\r          difference in our lives. I can't wait to see what the\n\r          next four years under a Clinton/Gore Administration will\n\r          bring.”"
+End element:   p
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 3
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 3
+Characters:    "\n\r          "
+Start element: a
+Key: name, Value: ms
+Key: id, Value: ms
+End element:   a
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +6
+Start element: b
+Characters:    "Spotlight: Kelvin Davis and His\n\r            Youth Campaign"
+End element:   b
+End element:   font
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            "
+Characters:    "\n\r            "
+Start element: p
+Characters:    "Kelvin Derrell Davis is proof that age definitely\n\r            does not make a difference when it comes to working for\n\r            the President's re-election. An eleven-year-old sixth\n\r            grader at Pearman Elementary Schoool in Cleveland,\n\r            Mississippi, Kelvin is a young Democrat and has no\n\r            doubt that President Bill Clinton has earned a second\n\r            term in the White House. Since early this spring Kelvin\n\r            has worked to support his beliefs by encouraging\n\r            eligible voters to make sure they are registered by\n\r            deadline. Thus far, Kelvin has been instrumental in\n\r            registering six voters, two of which are his older\n\r            brothers."
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Characters:    "Kelvin is targeting college Freshmen and has staked\n\r            out a local community corner for his registration\n\r            efforts. During a recent visit to Washington, D.C.,\n\r            Kelvin had the opportunity to visit the Clinton/Gore\n\r            national campaign headquarters. While there he obtained\n\r            bumper stickers and other literature concerning the\n\r            1996 campaign to help him with his goal."
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Characters:    "Kelvin is a firm supporter of the Clinton/Gore\n\r            ticket because for as long as he can remember Democrats\n\r            have always cared about the common citizen. He feels\n\r            that the Clinton Administration supports issues that\n\r            are important to him, like making sure that young\n\r            children can't purchase tobacco, supporting education,\n\r            improving the economy and fighting crime."
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Characters:    "Kelvin is a Principal's and Superintendent's list\n\r            scholar. He has one sister and four brothers, and is\n\r            the second youngest son in the Davis family."
+End element:   p
+Characters:    "\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 3
+Key: height, Value: 25
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 3
+Characters:    "\n\r          "
+Characters:    " "
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: a
+Key: border, Value: 0
+Key: href, Value: index8-2.html
+Key: name, Value: America's Home Page
+End element:   a
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 3
+Key: height, Value: 25
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: b
+Start element: i
+Characters:    "Past Editions"
+End element:   i
+End element:   b
+Characters:    "\n\r      "
+Start element: p
+Start element: a
+Key: href, Value: index1.html
+Start element: i
+Characters:    "First Edition"
+End element:   i
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index210.html
+Start element: i
+Characters:    "Second Edition"
+End element:   i
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index310.html
+Start element: i
+Characters:    "Campus Edition"
+End element:   i
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

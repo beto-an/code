@@ -1,0 +1,601 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Democratic National Convention Address"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index91.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #001058
+Characters:    "ADDRESS BY THE PRESIDENT"
+Characters:    "\n\r      TO THE DEMOCRATIC NATIONAL CONVENTION"
+End element:   font
+Characters:    "\n\r      "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #001058
+Start element: font
+Key: color, Value: #000000
+Characters:    "United Center"
+Characters:    "\n\r      Chicago, Illinois"
+End element:   font
+End element:   font
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #001058
+Start element: font
+Key: color, Value: #000000
+Characters:    "August 29, 1996"
+End element:   font
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE PRESIDENT: Mr. Chairman, Mr. Vice President, my fellow\n\r    Democrats, and my fellow Americans: Thank you for your\n\r    nomination. I don't know if I can find a fancy way to say this,\n\r    but I accept. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "So many -- so many have contributed to the record we have\n\r    made for the American people, but one above all -- my partner,\n\r    my friend, and the best Vice President in our history, Al Gore.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Tonight, I thank the city of Chicago, its great Mayor and\n\r    its wonderful people for this magnificent convention.\n\r    (Applause.) I love Chicago for many reasons -- for your\n\r    powerful spirit, your sports teams, your lively politics, but\n\r    most of all, for the love and light of my life, Chicago's\n\r    daughter, Hillary. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Four years ago, you and I set forth on a journey to bring\n\r    our vision to our country, to keep the American Dream alive for\n\r    all who were willing to work for it, to make our American\n\r    community stronger, to keep America the world's strongest force\n\r    for peace and freedom and prosperity."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Four years ago, with high unemployment, stagnant wages,\n\r    crime, welfare and the deficit on the rise, with a host of\n\r    unmet challenges and a rising tide of cynicism, I told you\n\r    about a place I was born -- and I told you that I still\n\r    believed in a place called Hope. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Well, for four years now, to realize our vision we have\n\r    pursued a simple but profound strategy -- opportunity for all,\n\r    responsibility from all, a strong united American\n\r    community."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Four days ago, as you were making your way here, I began a\n\r    train ride to make my way to Chicago through America's\n\r    heartland. I wanted to see the faces, I wanted to hear the\n\r    voices of the people for whom I have worked and fought these\n\r    last four years. And did I ever see them."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I met an ingenious businesswoman who was once on welfare in\n\r    West Virginia; a brave police officer, shot and paralyzed, now\n\r    a civic leader in Kentucky; an autoworker in Ohio once\n\r    unemployed now proud to be working in the oldest auto plant in\n\r    America to help make America number one in auto production\n\r    again for the first time in 20 years. (Applause.) I met a\n\r    grandmother fighting for her grandson's environment in\n\r    Michigan. And I stood with two wonderful little children\n\r    proudly reading from their favorite book, \"The Little Engine\n\r    that Could.\" (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "At every stop, large and exuberant crowds greeted me and,\n\r    maybe more important, when we just rolled through little towns\n\r    there were always schoolchildren there waving their American\n\r    flags, all of them believing in America and its future. I would\n\r    not have missed that trip for all the world, for that trip\n\r    showed me that hope is back in America. We are on the right\n\r    track to the 21st century. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Look at the facts, just look at the facts: 4.4 million\n\r    Americans now living in a home of their own for the first time;\n\r    hundreds of thousands of women have started their own new\n\r    businesses. More minorities own businesses than ever before.\n\r    Record numbers of new small businesses and exports."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Look at what's happened. We have the lowest combined rates\n\r    of unemployment, inflation and home mortgages in 28 years.\n\r    (Applause.) Look at what happened -- 10 million new jobs, over\n\r    half of them high-wage jobs; 10 million workers getting the\n\r    raise they deserve with the minimum wage law; 25 million people\n\r    now having protection in their health insurance because the\n\r    Kennedy-Kassebaum bill says you can't lose your insurance\n\r    anymore when you change jobs, even if somebody in your family\n\r    has been sick; 40 million Americans with more pension security;\n\r    a tax cut for 15 million of our hardest working -- hardest\n\r    pressed Americans, and all small businesses; 12 million\n\r    Americans -- 12 million of them -- taking advantage of the\n\r    Family and Medical Leave law so they can be good parents and\n\r    good workers. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Ten million students have saved money on their college\n\r    loans. We are making our democracy work. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We have also passed political reform, the line-item veto,\n\r    the motor voter bill, tougher registration laws for lobbyists,\n\r    making Congress live under the laws they impose on the private\n\r    sector, stopping unfunded mandates to state and local\n\r    government. We've come a long way; we've got one more thing to\n\r    do. Will you help me get campaign finance reform in the next\n\r    four years? (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We have increased our investments in research and\n\r    technology. We have increased investments in breast cancer\n\r    research dramatically. We are developing a supercomputer -- a\n\r    supercomputer that will do more calculating in a second than a\n\r    person with a hand-held calculator can do in 30,000 years. More\n\r    rapid development of drugs to deal with HIV and AIDS and moving\n\r    them to the market quicker have almost doubled life expectancy\n\r    in only four years. And we are looking at no limit in sight to\n\r    that. We'll keep going until normal life is returned to people\n\r    who deal with this. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Our country is still the strongest force for peace and\n\r    freedom on Earth. On issues that once before tore us apart, we\n\r    have changed the old politics of Washington. For too long,\n\r    leaders in Washington asked, who's to blame. But we asked, what\n\r    are we going to do. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "On crime -- we're putting 100,000 police on the streets. We\n\r    made three strikes and you're out the law of the land. We\n\r    stopped 60,000 felons, fugitives and stalkers from getting\n\r    handguns under the Brady Bill. (Applause.) We banned assault\n\r    rifles. We supported tougher punishment and prevention programs\n\r    to keep our children from drugs and gangs and violence."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Four years now -- for four years now the crime rate in\n\r    America has gone down. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "On welfare, we worked with states to launch a quiet\n\r    revolution. Today there are 1.8 million fewer people on welfare\n\r    than there were the day I took the oath of office. (Applause.)\n\r    We are moving people from welfare to work."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We have increased child support collections by 40 percent.\n\r    The federal work force is the smallest it has been since John\n\r    Kennedy. And the deficit has come down for four years in a row\n\r    for the first time since before the Civil War, down 60 percent\n\r    on the way to zero. We will do it. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We are on the right track to the 21st century. We are on the\n\r    right track. But our work is not finished. What should we do?\n\r    First, let us consider how to proceed. Again I say the question\n\r    is no longer who's to blame, but what to do."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I believe that Bob Dole and Jack Kemp and Ross Perot love\n\r    our country, and they have worked hard to serve it. It is\n\r    legitimate, even necessary, to compare our record with theirs,\n\r    our proposals for the future with theirs. And I expect them to\n\r    make a vigorous effort to do the same."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But I will not attack. I will not attack them personally or\n\r    permit others to do it in this party if I can prevent it.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "My fellow Americans, this must be -- this must be a campaign\n\r    of ideas, not a campaign of insults. The American people\n\r    deserve it. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, here's the main idea: I love and revere the rich and\n\r    proud history of America. And I am determined to take our best\n\r    traditions into the future. But with all respect, we do not\n\r    need to build a bridge to the past. We need to build a bridge\n\r    to the future. And that is what I commit to you to do.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "So tonight -- tonight let us resolve to build that bridge to\n\r    the 21st century, to meet our challenges and protect our\n\r    values. Let us build a bridge to help our parents raise their\n\r    children, to help young people and adults to get the education\n\r    and training they need, to make our streets safer, to help\n\r    Americans succeed at home and at work, to break the cycle of\n\r    poverty and dependence, to protect our environment for\n\r    generations to come, and to maintain our world leadership for\n\r    peace and freedom. Let us resolve to build that bridge.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Tonight, my fellow Americans, I ask all of our fellow\n\r    citizens to join me and to join you in building that bridge to\n\r    the 21st century. Four years from now, just four years from now\n\r    -- think of it -- we begin a new century, full of enormous\n\r    possibilities. We have to give the American people the tools\n\r    they need to make the most of their God-given potential. We\n\r    must make the basic bargain of opportunity and responsibility\n\r    available to all Americans, not just a few. That is the promise\n\r    of the Democratic Party. That is the promise of America.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want to build a bridge to the 21st century in which we\n\r    expand opportunity through education, where computers are as\n\r    much a part of the classroom as blackboards, where\n\r    highly-trained teachers demand peak performance from our\n\r    students, where every eight-year-old can point to a book and\n\r    say, I can read it myself. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "By the year 2000, the single most critical thing we can do\n\r    is to give every single American who wants it the chance to go\n\r    to college. (Applause.) We must make two years of college just\n\r    as universal in four years as a high school education is today.\n\r    And we can do it. (Applause.) We can do it, and we should cut\n\r    taxes to do it."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I propose a $1,500 a year tuition tax credit for Americans,\n\r    a Hope Scholarship for the first two years of college to make\n\r    the typical community college education available to every\n\r    American. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I believe every working family ought also to be able to\n\r    deduct up to $10,000 in college tuition costs per year for\n\r    education after that. (Applause.) I believe the families of\n\r    this country ought to be able to save money for college in a\n\r    tax-free IRA; save it year in and year out, withdraw it for\n\r    college education without penalty. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We should not tax middle-income Americans for the money they\n\r    spend on college. We'll get the money back down the road many\n\r    times over. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want to say here, before I go further, that these tax cuts\n\r    and every other one I mention tonight, are all fully paid for\n\r    in my balanced budget plan, line by line, dime by dime. And\n\r    they focus on education. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, one thing so many of our fellow Americans are learning\n\r    is that education no longer stops on graduation day. I have\n\r    proposed a new G.I. Bill for American Workers -- a $2,600 grant\n\r    for unemployed and underemployed Americans so that they can get\n\r    the training and the skills they need to go back to work at\n\r    better paying jobs -- good high-skilled jobs for a good future.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But we must demand excellence at every level of education.\n\r    We must insist that our students learn the old basics we\n\r    learned and the new basics they have to know for the next\n\r    century. Tonight let us set a clear national goal: All children\n\r    should be able to read on their own by the 3rd grade.\n\r    (Applause.) When 40 percent of our eight-year-olds cannot read\n\r    as well as they should, we have to do something. I want to send\n\r    30,000 reading specialists and national service corps members\n\r    to mobilize a voluntary army of one million reading tutors for\n\r    3rd-graders all across America. (Applause.) They will teach our\n\r    young children to read."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Let me say to our parents, you have to lead the way. Every\n\r    tired night you spend reading a book to your child will be\n\r    worth it many times over. I know that HIllary and I still talk\n\r    about the books we read to Chelsea when we were so tired we\n\r    could hardly stay awake. We still remember them, and more\n\r    important, so does she. But we're going to help the parents of\n\r    this country make every child able to read for himself or\n\r    herself by the age of 8, by the 3rd grade. Do you believe we\n\r    can do that? (Applause.) Will you help us do that?\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We must give parents, all parents, the right to choose which\n\r    public school their children will attend, and to let teachers\n\r    form new charter schools, with a charter they can keep only if\n\r    they do a good job. We must keep our schools open late so that\n\r    young people have someplace to go and something to say yes to\n\r    and stay off the street. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We must require that our students pass tough tests to keep\n\r    moving up in school. A diploma has to mean something when they\n\r    get out. (Applause.) We should reward teachers that are doing a\n\r    good job, remove those who don't measure up. But in every case,\n\r    never forget that none of us would be here tonight if it\n\r    weren't for our teachers. I know I wouldn't. We ought to lift\n\r    them up, not tear them down. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We need schools that will take our children into the next\n\r    century. We need schools that are rebuilt and modernized with\n\r    an unprecedented commitment from the national government to\n\r    increase school construction; and with every single library and\n\r    classroom in America connected to the Information Superhighway\n\r    by the year 2000. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, folks, if we do these things, every 8-year-old will be\n\r    able to read; every 12-year-old will be able to log in on the\n\r    Internet; every 18-year-old will be able to go to college. And\n\r    all Americans will have the knowledge they need to cross that\n\r    bridge to the 21st century. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want to build a bridge to the 21st century in which we\n\r    create a strong and growing economy, to preserve the legacy of\n\r    opportunity for the next generation by balancing our budget in\n\r    a way that protects our values, and ensuring that every family\n\r    will be able to own and protect the value of their most\n\r    important asset, their home."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Tonight let us proclaim to the American people we will\n\r    balance the budget. And let us also proclaim, we will do it in\n\r    a way that preserves Medicare, Medicaid, education, the\n\r    environment, the integrity of our pensions, the strength of our\n\r    people. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, last year, when the Republican Congress sent me a\n\r    budget that violated those values and principles, I vetoed it.\n\r    And I would do it again tomorrow. (Applause.) I could never\n\r    allow cuts that devastate education for our children, that\n\r    pollute our environment, that end the guarantee of health care\n\r    for those who are served under Medicaid, that end our duty, or\n\r    violate our duty to our parents through Medicare. I just\n\r    couldn't do that. As long as I'm President, I'll never let it\n\r    happen. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And it doesn't matter if they try again, as they did before,\n\r    to use the blackmail threat of a shutdown of the federal\n\r    government to force these things on the American people. We\n\r    didn't let it happen before. We won't let it happen again.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Of course, there is a better answer to this dilemma. We\n\r    could have the right kind of balanced budget with a new\n\r    Congress -- a Democratic Congress. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want to balance the budget with real cuts in government,\n\r    in waste. I want a plan that invests in education, as mine\n\r    does, in technology, and, yes, in research, as Christopher\n\r    Reeve so powerfully reminded us we must do. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And my plan gives Americans tax cuts that will help our\n\r    economy to grow. I want to expand IRAs so that young people can\n\r    save tax-free to buy a first home. Tonight I propose a new tax\n\r    cut for homeownership that says to every middle-income working\n\r    family in this country, if you sell your home you will not have\n\r    to pay a capital gains tax on it ever -- not ever. (Applause.)\n\r    I want every American to be able to hear those beautiful words,\n\r    \"welcome home.\" (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Let me say again, every tax cut I call for tonight is\n\r    targeted; it's responsible; and it is paid for within my\n\r    balanced budget plan. My tax cuts will not undermine our\n\r    economy. They will speed economic growth."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We should cut taxes for the family, sending a child to\n\r    college, for the worker returning to college, for the family\n\r    saving to buy a home or for long-term health care, and a\n\r    $500-per-child credit for middle-income families raising their\n\r    children who need help with child care and what the children\n\r    will do after school. That is the right way to cut taxes --\n\r    pro-family, pro-education, pro-economic growth. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, our opponents have put forward a very different plan, a\n\r    risky $550 billion tax scheme that will force them to ask for\n\r    even bigger cuts in Medicare, Medicaid, education and the\n\r    environment than they passed and I vetoed last year. But even\n\r    then, they will not cover the costs of their scheme, so that,\n\r    even then, this plan will explode the deficit, which will\n\r    increase interest rates by two percent, according to their own\n\r    estimates last year. It will require huge cuts in the very\n\r    investments we need to grow and to grow together, and at the\n\r    same time slow down the economy."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "You know what higher interest rates mean. To you it means a\n\r    higher mortgage payment, a higher car payment, a higher credit\n\r    card payment. To our economy it means business people will not\n\r    borrow as much money, invest as much money, create as many new\n\r    jobs, create as much wealth, raise as many wages. Do we really\n\r    want to make that same mistake all over again?"
+End element:   p
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: p
+Characters:    "AUDIENCE: Nooo!"
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Characters:    "THE PRESIDENT: Do we really want to stop economic growth\n\r      again?"
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Characters:    "AUDIENCE: Nooo!"
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Characters:    "THE PRESIDENT: Do we really want to start piling up\n\r      another mountain of debt?"
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Characters:    "AUDIENCE: Nooo!"
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Characters:    "THE PRESIDENT: Do we want to bring back the recession of\n\r      1991 and '92?"
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Characters:    "AUDIENCE: Nooo!"
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Characters:    "THE PRESIDENT: Do we want to weaken our bridge to the 21st\n\r      century?"
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Characters:    "AUDIENCE: Nooo!"
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Characters:    "THE PRESIDENT: Of course, we don't."
+End element:   p
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We have an obligation, you and I, to leave our children a\n\r    legacy of opportunity, not a legacy of debt. Our budget would\n\r    be balanced today, we would have a surplus today, if we didn't\n\r    have to make the interest payments on the debt run up in the 12\n\r    years before the Clinton-Gore administration took office.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "AUDIENCE: Four more years! Four more years!"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE PRESIDENT: So let me say this is one of those areas in\n\r    which I respectfully disagree with my opponent. I don't believe\n\r    we should bet the farm, and I certainly don't believe we should\n\r    bet the country. We should stay on the right track to the 21st\n\r    century. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Opportunity alone is not enough. I want to build an America\n\r    in the 21st century in which all Americans take personal\n\r    responsibility for themselves, their families, their\n\r    communities, and their country. I want our nation to take\n\r    responsibility to make sure that every single child can look\n\r    out the window in the morning and see a whole community getting\n\r    up and going to work."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We want these young people to know the thrill of the first\n\r    paycheck, the challenge of starting that first business, the\n\r    pride in following in a parent's footsteps. The welfare reform\n\r    law I signed last week gives America a chance, but not a\n\r    guarantee, to have that kind of new beginning; to have a new\n\r    social bargain with the poor guaranteeing health care, child\n\r    care, and nutrition for the children, but requiring able-bodied\n\r    parents to work for the income."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now I say to all of you, whether you supported the law or\n\r    opposed it, but especially to those who supported it, we have a\n\r    responsibility, we have a moral obligation to make sure the\n\r    people who are being required to work have the opportunity to\n\r    work. We must make sure the jobs are there. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "There should be one million new jobs for welfare recipients\n\r    by the year 2000. States under this law can now take the money\n\r    that was spent on the welfare check and use it to help\n\r    businesses provide paychecks. I challenge every state to do it\n\r    soon."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I propose also to give businesses a tax credit for every\n\r    person hired off welfare and kept employed. I propose to offer\n\r    private job placement firms a bonus for every welfare recipient\n\r    they place in a job who stays in it. (Applause.) And more\n\r    important, I want to help communities put welfare recipients to\n\r    work right now, without delay, repairing schools, making their\n\r    neighborhoods clean and safe, making them shine again. There's\n\r    lots of work to be done out there. Our cities can find ways to\n\r    put people to work and bring dignity and strength back to these\n\r    families. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "My fellow Americans, I have spent an enormous amount of time\n\r    with our dear friend the late Ron Brown, and with Secretary\n\r    Kantor and others opening markets for America around the world.\n\r    And I'm proud of every one we opened. But let us never forget,\n\r    the greatest untapped market for American enterprise is right\n\r    here in America -- in the inner cities, in the rural areas, who\n\r    have not felt this recovery. With investment and business and\n\r    jobs, they can become our partners in the future. And it's a\n\r    great opportunity we ought not to pass up. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I propose more empowerment zones like the one we have right\n\r    here in Chicago to draw business into poor neighborhoods. I\n\r    propose more community development banks, like the South Shore\n\r    Bank right here in Chicago, to help people in those\n\r    neighborhoods start their own small businesses. More jobs; more\n\r    incomes; new markets for America right here at home making\n\r    welfare reform a reality. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, folks, you cheered -- and I thank you -- but the\n\r    government can only do so much. The private sector has to\n\r    provide most of these jobs. So I want to say again, tonight I\n\r    challenge every business person in America who has ever\n\r    complained about the failure of the welfare system to try to\n\r    hire somebody off welfare, and try hard. (Applause.) Thank\n\r    you."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "After all, the welfare system you used to complain about is\n\r    not here anymore. There is no more \"who's to blame\" on welfare.\n\r    Now the only question is what to do. And we all have a\n\r    responsibility, especially those who have criticized what was\n\r    passed and who have asked for a change, and who have the\n\r    ability to give poor people a chance to grow and support their\n\r    families. I want to build a bridge to the 21st century that\n\r    ends the permanent under class, that lifts up the poor and ends\n\r    their isolation, their exile, and they're not forgotten\n\r    anymore. (Applause.) Thank you."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE AUDIENCE: Four more years! Four more years!"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE PRESIDENT: I want to build a bridge to the 21st century\n\r    where our children are not killing other children anymore;\n\r    where children's lives are not shattered by violence at home or\n\r    in the school yard; where a generation of young people are not\n\r    left to raise themselves on the streets."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "With more police and punishment and prevention, the crime\n\r    rate has dropped for four years in a row now. But we cannot\n\r    rest, because we know it's still too high. We cannot rest until\n\r    crime is a shocking exception to our daily lives, not news as\n\r    usual. Will you stay with me until we reach that good day?\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "My fellow Americans, we all owe a great debt to Sarah and\n\r    Jim Brady -- and I'm glad they took their wrong turn and wound\n\r    up in Chicago. I was glad to see that. (Applause.) It is to\n\r    them we owe the good news that 60,000 felons, fugitives, and\n\r    stalkers couldn't get handguns because of the Brady Bill. But\n\r    not a single hunter in Arkansas or New Hampshire or Illinois or\n\r    anyplace else missed a hunting season."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But now I say we should extend the Brady Bill, because\n\r    anyone who has committed an act of domestic violence against a\n\r    spouse or a child should not buy a gun. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And we must ban those cop-killer bullets. They are designed\n\r    for one reason only, to kill police officers. We ask the police\n\r    to keep us safe. We owe it to them to help keep them safe while\n\r    they do their job for us. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We should pass a victim's rights constitutional amendment\n\r    because victims deserved to be heard, they need to know when an\n\r    assailant is released. They need to know these things, and the\n\r    only way to guarantee them is through a constitutional\n\r    amendment."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We have made a great deal of progress. Even the crime rate\n\r    among young people is finally coming down. So it is very, very\n\r    painful to me that drug use among young people is up. Drugs\n\r    nearly killed my brother when he was a young man. And I hate\n\r    them. He fought back. He's here tonight with his wife, his\n\r    little boy is here, and I'm really proud of him.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But I learned something -- I learned something in going\n\r    through that long nightmare with our family. And I can tell\n\r    you, something has happened to some of our young people -- they\n\r    simply don't think these drugs are dangerous anymore, or they\n\r    think the risk is acceptable. So beginning with our parents,\n\r    and without regard to our party, we have to renew our energy to\n\r    teach this generation of young people the hard, cold truth --\n\r    drugs are deadly, drugs are wrong, drugs can cost you your\n\r    life. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "General Barry McCaffrey, the four star General who led our\n\r    fight against drugs in Latin America, now leads our crusade\n\r    against drugs at home -- stopping more drugs at our borders,\n\r    cracking down on those who sell them and, most important of\n\r    all, pursuing a national antidrug strategy whose primary aim is\n\r    to turn our children away from drugs. I call on Congress to\n\r    give him every cent of funding we have requested for this\n\r    strategy, and to do it now. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "There is more we will do. We should say to parolees, we will\n\r    test you for drugs; if you go back on them we will send you\n\r    back to jail. We will say to gangs, we will break you with the\n\r    same anti-racketeering law we used to mob bosses in jail;\n\r    you're not going to kill our kids anymore or turn them into\n\r    murderers before they're teenagers. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "My fellow Americans, if we're going to build that bridge to\n\r    the 21st century we have to make our children free -- free of\n\r    the vice grip of guns and gangs and drugs; free to build lives\n\r    of hope."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want to build a bridge to the 21st century with a strong\n\r    American community, beginning with strong families; an America\n\r    where all children are cherished and protected from destructive\n\r    forces, where parents can succeed at home and at work."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Everywhere I've gone in America, people come up and talk to\n\r    me about their struggle with the demands of work and their\n\r    desire to do a better job with their children. The very first\n\r    person I ever saw fight that battle was here with me four years\n\r    ago, and tonight I miss her very, very much. My irrepressible,\n\r    hard-working, always optimistic mother did the best she could\n\r    for her (my) brother and me, often against very stiff odds. I\n\r    learned from her just how much love and determination can\n\r    overcome."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But from her and from our life, I also learned that no\n\r    parent can do it alone. And no parent should have to. She had\n\r    the kind of help every parent deserves -- from our neighbors,\n\r    our friends, our teachers, our pastors, our doctors, and so\n\r    many more."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "You know, when I started out in public life with a lot of my\n\r    friends from the Arkansas delegation down here -- (applause) --\n\r    there used to be a saying from time to time that every man who\n\r    runs for public office will claim that he was born in a log\n\r    cabin he built with his own hands. (Laughter.) Well, my mother\n\r    knew better. And she made sure I did, too. Long before she even\n\r    met Hillary, my mother knew it takes a village, and she was\n\r    grateful for the support she got. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "As Tipper Gore and Hillary said on Tuesday, we have, all of\n\r    us in our administration, worked hard to support families in\n\r    raising their children and succeeding at work. But we must do\n\r    more. We should extend the Family and Medical Leave law to give\n\r    parents some time off to take their children to regular\n\r    doctor's appointments or attend those parent-teacher\n\r    conferences at school. That is a key determination of their\n\r    success. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We should pass a flex-time law that allows employees to take\n\r    their overtime pay in money or in time off, depending on what's\n\r    better for their family. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The FDA has adopted new measures to reduce advertising and\n\r    sales of cigarettes to children. (Applause.) The Vice President\n\r    spoke so movingly of it last night. But let me remind you, my\n\r    fellow Americans, that is very much an issue in this election,\n\r    because that battle is far from over, and the two candidates\n\r    have different views. I pledge to America's parents that I will\n\r    see this effort all the way through. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Working with the entertainment industry, we're giving\n\r    parents the V-chip. TV shows are being rated for content so\n\r    parents will be able to make a judgment about whether their\n\r    small children should see them. And three hours of quality\n\r    children's programming every week, on every network, are on the\n\r    way. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The Kennedy-Kassebaum law says every American can keep his\n\r    or her health insurance if they have to change jobs, even if\n\r    someone in their family has been sick. That is a very important\n\r    thing. But tonight we should spell out the next steps. The\n\r    first thing we ought to do is to extend the benefits of health\n\r    care to people who are unemployed. I propose in my balanced\n\r    budget plan paid for to help unemployed families keep their\n\r    health insurance for up to six months. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "A parent may be without a job, but no child should be\n\r    without a doctor. And let me say again, as the First Lady did\n\r    on Tuesday, we should protect mothers and newborn babies from\n\r    being forced out of the hospital in less than 48 hours.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We respect the individual conscience of every American on\n\r    the painful issue of abortion, but believe as a matter of law\n\r    that this decision should be left to a woman, her conscience,\n\r    her doctor and her God. (Applause.) But abortion should not\n\r    only be -- abortion should not only be safe and legal, it\n\r    should be rare. That's why I helped to establish and support a\n\r    national effort to reduce out-of-wedlock teen pregnancy. And\n\r    that is why we must promote adoption. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Last week the minimum wage bill I signed contained a $5,000\n\r    credit to families who adopt children; even more if the\n\r    children have disabilities. It put an end to racial\n\r    discrimination in the adoption process. It was a good thing for\n\r    America. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "My fellow Americans, already there are tens of thousands of\n\r    children out there who need a good home with loving parents. I\n\r    hope more of them will find it now. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want to build a bridge to the 21st century with a clean\n\r    and safe environment. We are making our food safer from\n\r    pesticides. We're protecting our drinking water and our air\n\r    from poisons. We saved Yellowstone from mining. (Applause.) We\n\r    established the largest national park south of Alaska in the\n\r    Mojave Desert in California. We are working to save the\n\r    precious Florida Everglades. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And when the leaders of this Congress invited the polluters\n\r    into the back room to roll back 25 years of environmental\n\r    protections that both parties had always supported, I said no.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But we must do more. Today 10 million children live within\n\r    just four miles of a toxic waste dump. We have cleaned up 197\n\r    of those dumps in the last three years, more than in the\n\r    previous 12 years combined. In the next four years, we propose\n\r    to clean up 500 more -- two-thirds of all that are left, and\n\r    the most dangerous ones. (Applause.) Our children should grow\n\r    up next to parks, not poison. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We should make it a crime even to attempt to pollute. We\n\r    should freeze the serious polluter's property until they clean\n\r    up the problems they create. (Applause.) We should make it\n\r    easier for families to find out about toxic chemicals in their\n\r    neighborhoods so they can do more to protect their own\n\r    children. These are the things that we must do to build that\n\r    bridge to the 21st century. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "My fellow Americans, I want to build a bridge to the 21st\n\r    century that makes sure we are still the nation with the\n\r    world's strongest defense; that our foreign policy still\n\r    advances the values of our American community in the community\n\r    of nations. Our bridge to the future must include bridges to\n\r    other nations, because we remain the world's indispensable\n\r    nation to advance prosperity, peace and freedom, and to keep\n\r    our own children safe from the dangers of terror and weapons of\n\r    mass destruction."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We have helped to bring democracy to Haiti and peace to\n\r    Bosnia. (Applause.) Now the peace sign on the White House lawn\n\r    between the Israelis and the Palestinians must embrace more of\n\r    Israel's neighbors. The deep desire for peace that Hillary and\n\r    I felt when we walked the streets of Belfast and Derry must\n\r    become real for all the people of Northern Ireland. (Applause.)\n\r    And Cuba must finally join the community of democracies.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Nothing in our lifetimes has been more heartening than when\n\r    people of the former Soviet Union and Central Europe broke the\n\r    grip of communism. We have aided their progress and I am proud\n\r    of it. And I will continue our strong partnership with a\n\r    democratic Russia. (Applause.) And we will bring some of\n\r    Central Europe's new democracies into NATO, so that they will\n\r    never question their own freedom in the future. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Our American exports are at record levels. In the next four\n\r    years, we have to break down even more barriers to them,\n\r    reaching out to Latin America, to Africa, to other countries in\n\r    Asia, making sure that our workers and our products -- the\n\r    world's finest -- have the benefit of free and fair trade.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "In the last four years, we have frozen North Korea's nuclear\n\r    weapons program. And I am proud to say that tonight there is\n\r    not a single Russian nuclear missile pointed at an American\n\r    child. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now we must enforce and ratify without delay measures that\n\r    further reduce nuclear arsenals, banish poison gas, and ban\n\r    nuclear tests once and for all. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We have made investments, new investments, in our most\n\r    important defense asset -- our magnificent men and women in\n\r    uniform. (Applause.) By the year 2000 we also will have\n\r    increased funding to modernize our weapons systems by 40\n\r    percent. These commitments will make sure that our military\n\r    remains the best-trained, best-equipped fighting force in the\n\r    entire world. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We are developing a sensible national missile defense, but\n\r    we must not -- not now, not by the year 2000 -- squander $60\n\r    billion on an unproved, ineffective Star Wars program that\n\r    could be obsolete tomorrow. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We are fighting terrorism on all fronts with a three-pronged\n\r    strategy. First, we are working to rally a world coalition with\n\r    zero tolerance for terrorism. Just this month I signed a law\n\r    imposing harsh sanctions on foreign companies that invest in\n\r    key sectors of the Iranian and Libyan economies. As long as\n\r    Iran trains, supports and protects terrorists, as long as Libya\n\r    refuses to give up the people who blew up Pan Am 103, they will\n\r    pay a price from the United States. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Second, we must give law enforcement the tools they need to\n\r    take the fight to terrorists. We need new laws to crack down on\n\r    money laundering and to prosecute and punish those who commit\n\r    violent acts against American citizens abroad; to add chemical\n\r    markers or taggents to gunpowder used in bombs so we can crack\n\r    the bomb makers; to extend the same power police now have\n\r    against organized crime to save lives by tapping all the phones\n\r    that terrorists use. Terrorists are as big a threat to our\n\r    future, perhaps bigger, than organized crime. Why should we\n\r    have two different standards for a common threat to the safety\n\r    of America and our children? (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We need, in short, the laws that Congress refused to pass.\n\r    And I ask them again, please, as an American, not a partisan\n\r    matter, pass these laws now. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Third, we will improve airport and air travel security. I\n\r    have asked the Vice President to establish a commission and\n\r    report back to me on ways to do this. But now we will install\n\r    the most sophisticated bomb-detection equipment in all our\n\r    major airports. We will search every airplane flying to or from\n\r    America from another nation -- every flight, every cargo hold,\n\r    every cabin, every time. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "My fellow Democrats and my fellow Americans, I know that in\n\r    most election seasons foreign policy is not a matter of great\n\r    interest in the debates in the barbershops and the cafes of\n\r    America, on the plat floors and at the bowling alleys. But\n\r    there are times -- there are times when only America can make\n\r    the difference between war and peace, between freedom and\n\r    repression, between life and death. We cannot save all the\n\r    world's children, but we can save many of them. We cannot\n\r    become the world's policeman, but where our values and our\n\r    interests are at stake, and where we can make a difference, we\n\r    must act and we must lead. That is our job, and we are better,\n\r    stronger, and safer because we are doing it. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "My fellow Americans, let me say one last time, we can only\n\r    build our bridge to the 21st century if we build it together,\n\r    and if we're willing to walk arm and arm across that bridge\n\r    together. I have spent so much of your time that you gave me\n\r    these last four years to be your President worrying about the\n\r    problems of Bosnia, the Middle East, Northern Ireland, Rwanda,\n\r    Burundi. What do these places have in common? People are\n\r    killing each other and butchering children because they are\n\r    different from one another. They share the same piece of land,\n\r    but they are different from one another -- they hate their\n\r    race, their tribe, their ethnic group, their religion."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We have seen the terrible, terrible price that people pay\n\r    when they insist on fighting and killing their neighbors over\n\r    their differences. In our own country we have seen America pay\n\r    a terrible price for any form of discrimination. And we have\n\r    seen us grow stronger as we have steadily let more and more of\n\r    our hatreds and our fears go; as we have given more and more of\n\r    our people the chance to live their dreams."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "That is why the flame of our Statue of Liberty, like the\n\r    Olympic flame carried all across America by thousands of\n\r    citizen heroes, will always, always, burn brighter than the\n\r    fires that burn our churches, our synagogues, our mosques.\n\r    Always. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Look around this hall tonight, and to our fellow Americans\n\r    watching on television, you look around this hall tonight --\n\r    there is every conceivable difference here among the people who\n\r    are gathered. (Applause.) If we want to build that bridge to\n\r    the 21st century we have to be willing to say loud and clear,\n\r    if you believe in the values of the Constitution, the Bill of\n\r    Rights, the Declaration of Independence, if you're willing to\n\r    work hard and play by the rules, you are part of our family and\n\r    we're proud to be with you. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "You cheer now, because you know this is true. You know this\n\r    is true. When you walk out of this hall, think about it. Live\n\r    by it."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We still have too many Americans who give in to their fears\n\r    of those who are different from then. Not so long ago,\n\r    swastikas were painted on the doors of some African American\n\r    members of our Special Forces at Fort Bragg. Folks, for those\n\r    of you who don't know what they do, the Special Forces are just\n\r    what the name says -- they are special forces. If I walk off\n\r    this stage tonight and call them on the telephone and tell them\n\r    to go halfway around the world and risk their lives for you and\n\r    be there by tomorrow at noon, they will do it. They do not\n\r    deserve to have swastikas on their doors. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "So look around here, look around here -- old or young,\n\r    healthy as a horse or a person with a disability that hasn't\n\r    kept you down, man or woman, Native American, native born,\n\r    immigrant, straight or gay -- (applause) -- whatever; the test\n\r    ought to be I believe in the Constitution, the Bill of Rights\n\r    and the Declaration of Independence. I believe in religious\n\r    liberty. I believe in freedom of speech. I believe in working\n\r    hard and playing by the rules. I'm showing up for work\n\r    tomorrow. I'm building that bridge to the 21st century. That\n\r    ought to be the test. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "My fellow Americans, 68 nights from tonight the American\n\r    people will face once again a critical moment of decision.\n\r    We're going to choose the last President of the 20th century\n\r    and the first President of the 21st century. (Applause.) But\n\r    the real choice is not that. The real choice is whether we will\n\r    build a bridge to the future or a bridge to the past; about\n\r    whether we believe our best days are still out there or our\n\r    best days are behind us; about whether we want a country of\n\r    people all working together or one where you're on your\n\r    own."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Let us commit ourselves this night to rise up and build the\n\r    bridge we know we ought to build all the way to the 21st\n\r    century. (Applause.) Let us have faith -- and let us have faith\n\r    -- faith -- American faith that we are not leaving our\n\r    greatness behind. We're going to carry it right on with us into\n\r    that new century -- a century of new challenge and unlimited\n\r    promise."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Let us, in short, do the work that is before us, so that\n\r    when our time here is over, we will all watch the sun go down\n\r    -- as we all must -- and say truly, we have prepared our\n\r    children for the dawn."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "My fellow Americans, after these four good, hard years, I\n\r    still believe in a place called Hope, a place called\n\r    America."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Thank you, God bless you, and good night. (Applause.)"
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

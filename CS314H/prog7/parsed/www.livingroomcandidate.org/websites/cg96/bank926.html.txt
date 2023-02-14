@@ -1,0 +1,124 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Campaign Deposits Funds in Minority-Owned Banks"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    September 26, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "CLINTON/GORE CAMPAIGN COMMITTEES DEPOSIT FUNDS IN\n\r    MINORITY-OWNED, COMMUNITY-BASED BANKS"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "WASHINGTON, D.C. -- The Clinton/Gore Campaign Committees\n\r    will deposit five million dollars of its campaign funds into\n\r    four of the nation�s leading minority-owned, community-focused\n\r    banks on September 30, announced Clinton/Gore Campaign Manager\n\r    Peter S. Knight today."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Each bank will receive deposits totalling $1.25 million,\n\r    making it the largest sum ever deposited into minority-owned\n\r    banks by a Democratic presidential general election committee.\n\r    The four banks are United Bank of Philadelphia; International\n\r    Bank of Commerce in Laredo, Texas; Banco Popular in New York\n\r    City; and Citizens Trust Bank in Atlanta, Georgia."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "In announcing the transfers, Knight said, \"Today�s\n\r    action reflects the President�s deep commitment to urban\n\r    redevelopment and minority-owned businesses. It also represents\n\r    the President�s long-held view that expanding opportunity and\n\r    investing in communities are key elements in keeping America on\n\r    track as we head into the 21st century.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton has a strong record of supporting\n\r    community economic empowerment. Among other initiatives he has\n\r    championed, such as raising the minimum wage and expanding the\n\r    Earned Income Tax Credit for working families, the President\n\r    established the Community Development Banks and Financial\n\r    Institutions Fund to leverage private investments; expanded the\n\r    Community Reinvestment Act that will help unleash billions in\n\r    new credits for economic development in distressed communities;\n\r    created a network of community development banks in low-and\n\r    moderate-income communities; and established one-stop capital\n\r    shops that are distributing millions in loans and investment\n\r    for small and minority-owned businesses."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Deputy Campaign Manager and Chief Operating Officer,\n\r    Theodore Carter explained that the banks were chosen on the\n\r    strength of their community involvement as well as their solid\n\r    financial position. \"The President consistently stresses that\n\r    it is good business to support companies that invest in their\n\r    communities,\" said Carter."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "International Bank of Commerce, incorporated in 1966, is\n\r    the largest Hispanic-owned commercial bank in the U.S. Citizens\n\r    Trust Bank was incorporated in 1921 and has eight branches in\n\r    Atlanta. United Bank of Philadelphia, founded in 1992, is the\n\r    first African American controlled, full-service bank\n\r    established in the city since 1923. Banco Popular in New York\n\r    City is a branch of Banco Popular de Puerto Rico, the largest\n\r    banking operation on the island."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

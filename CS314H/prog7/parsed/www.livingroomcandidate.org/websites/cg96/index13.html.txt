@@ -1,0 +1,364 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | State by State Information"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #BE0023
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index-3.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index23.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: map
+Key: name, Value: states
+Key: id, Value: states
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r    "
+End element:   map
+Characters:    " "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index36.html
+Characters:    "Alabama"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index25.html
+Characters:    "Alaska"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index63.html
+Characters:    "Arizona"
+End element:   a
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index44.html
+Characters:    "Arkansas"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index62.html
+Characters:    "California"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index53.html
+Characters:    "Colorado"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index69.html
+Characters:    "Connecticut"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index72.html
+Characters:    "Delaware"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index35.html
+Characters:    "Florida"
+End element:   a
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index34.html
+Characters:    "Georgia"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index24.html
+Characters:    "Hawaii"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index57.html
+Characters:    "Idaho"
+End element:   a
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index45.html
+Characters:    "Illinois"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index42.html
+Characters:    "Indiana"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index48.html
+Characters:    "Iowa"
+End element:   a
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index50.html
+Characters:    "Kansas"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index38.html
+Characters:    "Kentucky"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index43.html
+Characters:    "Louisiana"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index28.html
+Characters:    "Maine"
+End element:   a
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index71.html
+Characters:    "Maryland"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index67.html
+Characters:    "Massachusetts"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index40.html
+Characters:    "Michigan"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index49.html
+Characters:    "Minnesota"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index41.html
+Characters:    "Mississippi"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index46.html
+Characters:    "Missouri"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index56.html
+Characters:    "Montana"
+End element:   a
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index51.html
+Characters:    "Nebraska"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index61.html
+Characters:    "Nevada"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index26.html
+Characters:    "New\n\r    Hampshire"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index70.html
+Characters:    "New Jersey"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index66.html
+Characters:    "New Mexico"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index29.html
+Characters:    "New\n\r    York"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index32.html
+Characters:    "North Carolina"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index54.html
+Characters:    "North Dakota"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index39.html
+Characters:    "Ohio"
+End element:   a
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index64.html
+Characters:    "Oklahoma"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index59.html
+Characters:    "Oregon"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index30.html
+Characters:    "Pennsylvania"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index68.html
+Characters:    "Rhode\n\r    Island"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index33.html
+Characters:    "South Carolina"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index52.html
+Characters:    "South Dakota"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index37.html
+Characters:    "Tennessee"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index65.html
+Characters:    "Texas"
+End element:   a
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index60.html
+Characters:    "Utah"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index27.html
+Characters:    "Vermont"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index31.html
+Characters:    "Virginia"
+End element:   a
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index58.html
+Characters:    "Washington"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index73.html
+Characters:    "West Virginia"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index47.html
+Characters:    "Wisconsin"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index55.html
+Characters:    "Wyoming"
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

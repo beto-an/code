@@ -1,0 +1,691 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | The Briefing Room | Bill Clinton & Al Gore on the\n\r  Issues"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    " "
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index89.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +2
+Start element: font
+Key: color, Value: #001058
+Start element: nobr
+Start element: i
+Characters:    "Making\n\r    Government Work Better and Cost Less"
+End element:   i
+End element:   nobr
+End element:   font
+End element:   font
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: i
+Characters:    "ur Administration is\n\r      working hard to give the American people a government that\n\r      works better and costs less ... [We] are eliminating 16,000\n\r      pages of unnecessary rules and regulations, shifting more\n\r      decision-making out of Washington, back to states and local\n\r      communities.”"
+End element:   i
+Characters:    "\n\r      "
+Start element: p
+Start element: b
+Characters:    "—President Bill Clinton"
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Americans expect and deserve\n\r    common-sense government—"
+End element:   b
+End element:   font
+Characters:    "a government that performs\n\r    well for them, uses their tax dollars wisely, views them as\n\r    valued customers, does not impose excessive burdens, and makes\n\r    a positive impact on their lives.\n\r    "
+Start element: p
+Characters:    "Under the leadership of President Clinton and Vice President\n\r    Gore, this Administration is creating a smaller government that\n\r    works better and costs less by:"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: align, Value: center
+Key: cellpading, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Reducing the federal workforce by more than 230,000\n\r            positions—the smallest federal civilian workforce since\n\r            John F. Kennedy was President.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Saving taxpayers $118 billion by cutting wasteful\n\r            government practices and spending through Vice\n\r            President Gore’s National Performance Review.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Eliminating 16,000 pages of unnecessary government\n\r            regulations. We are:"
+Characters:    "\n\r            "
+Characters:    "\n\r            "
+Characters:    "\n\r            "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 500
+Key: align, Value: left
+Key: cellpading, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r              "
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Reducing regulatory and administrative burdens\n\r                    on the public by $28 billion.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Cutting Environmental Protection Agency\n\r                    paperwork requirements by 25%, saving industry\n\r                    some 20 million hours of labor per year.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Eliminating over 45% of the Department of\n\r                    Education’s regulations.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Cutting 65% of the Department of Housing and\n\r                    Urban Development’s regulations.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Eliminating 50% of the Small Business\n\r                    Administration’s regulations by the end of the\n\r                    year.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r            "
+End element:   table
+Characters:    "\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Signing into law the Federal Acquisition Streamlining\n\r            Act of 1994 to dramatically improve how the federal\n\r            government purchases items, saving taxpayers $12.3\n\r            billion over the next 5 years.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Published customer service standards at more than 200\n\r            departments and agencies so the federal government's\n\r            customers, the American taxpayers, know what to expect\n\r            and how to give feedback on the service they have\n\r            received. Savings over five years (1995-99) from the\n\r            common sense government initiative will total $108\n\r            billion, with another $70 billion in savings over the\n\r            period of 1996-2000.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Eliminating, consolidating, and privatizing government.\n\r            We have eliminated agencies, such as the Interstate\n\r            Commerce Commission, the Bureau of Mines, the Office of\n\r            Territorial Affairs, and the Administrative Conference\n\r            of the United States. We also are consolidating\n\r            hundreds of job training, public health, and\n\r            environmental programs to allow states and localities\n\r            to serve their residents better. In addition the\n\r            Administration is privatizing a number of government\n\r            functions, including the Naval Petroleum Reserve, the\n\r            Alaska Power Administration, and certain water\n\r            facilities owned by the Bureau of Reclamation.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Forming partnerships with America’s businesses and with\n\r            state and local governments to change the way\n\r            government works. For example, we have cut the Small\n\r            Business Administration loan form from a one-inch thick\n\r            manual to a one-page document.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Signing legislation restricting Congress from passing\n\r            on new mandates to state and local governments without\n\r            paying for them.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Signing the Line-Item Veto, in April 1996, to enhance\n\r            significantly presidential authority to eliminate\n\r            wasteful spending; allows the President to cancel\n\r            wasteful special interest projects and targeted tax\n\r            breaks that benefit special interests.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Building on Our\n\r    Progress"
+End element:   b
+End element:   font
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Vice President Gore, under President Clinton’s leadership,\n\r    has taken significant steps toward creating a government that\n\r    not only is smaller, but is also more effective in meeting the\n\r    needs of the American people. The Clinton Administration is\n\r    bringing the federal government into the Information Age,\n\r    cutting red tape and providing quicker and easier access for\n\r    our citizens. The President’s commitment to balancing the\n\r    budget requires that we expand the reinvention successes."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "These initiatives will provide significant benefits to\n\r    Americans in either improved service or reduced costs by:"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: align, Value: center
+Key: cellpading, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Continuing to reduce the size of the federal workforce\n\r            by cutting overhead and unnecessary bureaucracy.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Creating performance-based organizations with\n\r            executives hired to get results; tossing out\n\r            restrictive government rules and making the executives\n\r            personally accountable for delivering results.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Improving customer service to give Americans the best\n\r            service ever from the government.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Increasing the use of regulatory partnerships with the\n\r            private sector, abandoning the old way of doing\n\r            business, and forming alliances with management and\n\r            labor that focus on results.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Forging new relationships with communities by creating\n\r            performance partnerships in which we set goals\n\r            together, but each community decides how best to meet\n\r            them.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Establishing single points of contact for large\n\r            communities to help solve their problems with the\n\r            federal government more quickly.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Meeting Our Challenges\n\r    "
+Characters:    " Protecting Our Values"
+End element:   b
+End element:   font
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

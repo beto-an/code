@@ -1,0 +1,111 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Another Bob Dole Anniversary"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 24, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "STATEMENT BY JOE LOCKHART"
+Characters:    "\n\r      NATIONAL PRESS SECRETARY"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Another Bob Dole anniversary. Another Bob Dole vote\n\r    against the issues that matter most to Americans. In 1965, Bob\n\r    Dole voted against creating the Medicare program -- a program\n\r    which preserves health care benefits for 37 million elderly and\n\r    disabled Medicare beneficiaries. A year ago today, Bob Dole\n\r    bragged about that 1965 vote against Medicare saying, \"I was\n\r    there, fighting the fight, voting against Medicare -- one of\n\r    twelve -- because we knew it wouldn�t work in 1965.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Thirty years later, Bob Dole is still \"fighting the\n\r    fight\" against Medicare. The 1995 Dole/Gingrich budget cut\n\r    Medicare by $270 billion -- the largest cut in history. And now\n\r    he has a risky $550 billion tax scheme that threatens even\n\r    deeper cuts in Medicare. Even his own campaign co-chair Al\n\r    D�Amato said that Dole would have \"to look at Medicare\" to pay\n\r    for his risky, budget scheme."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton has fought to protect Medicare -- to\n\r    bring security and dignity to the lives of our nation�s\n\r    seniors. Meanwhile, Bob Dole has spent the last thirty years\n\r    opposing and undermining Medicare -- delivering through his\n\r    words and actions the frightening message that under his risky\n\r    scheme no program is safe, not even Medicare."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "# # #"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

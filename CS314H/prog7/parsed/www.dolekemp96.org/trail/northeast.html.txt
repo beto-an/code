@@ -1,0 +1,450 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "On the Campaign Trail"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: vlink, Value: #FF0000
+Key: alink, Value: #FF0000
+Key: background, Value: ../background.jpg
+Key: link, Value: #FF0000
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: div
+Key: align, Value: center
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Key: align, Value: center
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 5
+Characters:    "On\n\r      the Campaign Trail"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+End element:   p
+Characters:    "\n\r      "
+Start element: center
+Characters:    "\n\r        "
+Start element: b
+Characters:    "CONNECTICUT"
+End element:   b
+Characters:    "\n\r        Greenwich, Hartford, Milford, Windsor Locks\n\r        "
+Start element: p
+Start element: b
+Characters:    "DELAWARE"
+End element:   b
+Characters:    "\n\r        Dewey Beach, Wilmington"
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: b
+Characters:    "DISTRICT OF COLUMBIA"
+End element:   b
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: b
+Characters:    "ILLINOIS"
+End element:   b
+Characters:    "\n\r        Anton, Bloomington, Champaign, Chicago, Glen Ellen, Lisle,\n\r        Palos Park, River Grove, Springfield, Wheaton"
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: b
+Characters:    "INDIANA"
+End element:   b
+Characters:    "\n\r        Indianapolis"
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: b
+Characters:    "IOWA"
+End element:   b
+Characters:    "\n\r        Ames, Anamosa, Atlantic, Bettendorf, Burlington, Carroll,\n\r        Cedar Rapids, Clinton, Council Bluffs, Davenport, Des\n\r        Moines, Dubuque, Fort Dodge, Indianola, Iowa City, Iowa\n\r        Falls, Johnston, Le Mars, Marion, Marshalltown, Mason City,\n\r        Muscatine, Newton, Oskaloosa, Ottumwa, Sioux Center, Sioux\n\r        City, Spencer, Storm Lake, Waterloo, West Des Moines,\n\r        Williams"
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: b
+Characters:    "KENTUCKY"
+End element:   b
+Characters:    "\n\r        Louisville, Lexington"
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: b
+Characters:    "MAINE"
+End element:   b
+Characters:    "\n\r        Bangor, Kennebunkport, Portland, Westbrook"
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: b
+Characters:    "MARYLAND"
+End element:   b
+Characters:    "\n\r        Bethesda, Centreville, Gaithersburg, Towson"
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: b
+Characters:    "MASSACHUSETTS"
+End element:   b
+Characters:    "\n\r        Boston, Collins, Hyannis Port, Waltham"
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: b
+Characters:    "MICHIGAN"
+End element:   b
+Characters:    "\n\r        Auburn Hills, Battle Creek, Dearborn, Detroit, Freeland,\n\r        Grand Rapids, Mackinac Island, Saginaw, Warren"
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: b
+Characters:    "MINNESOTA"
+End element:   b
+Characters:    "\n\r        Minneapolis, St. Paul"
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: b
+Characters:    "MISSOURI"
+End element:   b
+Characters:    "\n\r        Branson, St. Louis"
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: b
+Characters:    "NEW HAMPSHIRE"
+End element:   b
+Characters:    "\n\r        Amherst, Bedford, Claremont, Concord, Derry, Dover,\n\r        Dunbarton, Exeter, Gilford, Goffstown, Gorham, Hampton,\n\r        Hampton Falls, Hanover, Hollis, Hopkinton, Hudson, Keene,\n\r        Laconia, Lebanon, Littleton, Londonderry, Louden,\n\r        Manchester, Merrimack, Milford, Nashua, Newington, North\n\r        Conway, Pittsfield, Portsmouth, Rochester"
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: b
+Characters:    "NEW JERSEY"
+End element:   b
+Characters:    "\n\r        Atlantic City, Clifton, Edison, Fort Lee, Holmdel, Jackson,\n\r        Kenilworth, Long Branch, Newark, Rutherford, Teaneck"
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: b
+Characters:    "NEW YORK"
+End element:   b
+Characters:    "\n\r        Albany, Buffalo, Farmingdale, Franklin Square, Hempstead,\n\r        New York City, Orchard Park, Ronkonkoma, Southampton"
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: b
+Characters:    "OHIO"
+End element:   b
+Characters:    "\n\r        Bratenahl, Cincinnati, Cleveland, Columbus, Dayton,East\n\r        Liberty, Gahanna, Montpelier, New Albany, Toledo,\n\r        Wauseon"
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: b
+Characters:    "PENNSYLVANIA"
+End element:   b
+Characters:    "\n\r        Harrisburg, Havertown, Hershey, King of Prussia, Lebanon,\n\r        Philadelphia, Pittsburgh, Scranton, Upper Providence,\n\r        Valley Forge, Villanova"
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: b
+Characters:    "RHODE ISLAND"
+End element:   b
+Characters:    "\n\r        Providence, Warwick"
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: b
+Characters:    "VERMONT"
+End element:   b
+Characters:    "\n\r        Burlington, South Burlington"
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: b
+Characters:    "VIRGINIA"
+End element:   b
+Characters:    "\n\r        Arlington, Chester, Falls Church, McLean, Richmond,\n\r        Sandston"
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: b
+Characters:    "WISCONSIN"
+End element:   b
+Characters:    "\n\r        Brookfield, De Pere, Fond du Lac, Green Bay, Madison,\n\r        Milwaukee"
+End element:   p
+Characters:    "\n\r      "
+End element:   center
+Characters:    "\n\r      "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 2
+Characters:    "Northeast | "
+Start element: a
+Key: href, Value: southeast.html
+Characters:    "Southeast"
+End element:   a
+Characters:    " |\n\r      "
+Start element: u
+Start element: a
+Key: href, Value: northwest.html
+Start element: font
+Key: color, Value: #FF0000
+Characters:    "Northwest"
+End element:   font
+End element:   a
+End element:   u
+Characters:    " |"
+End element:   font
+Characters:    " "
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 2
+Start element: a
+Key: href, Value: northwest.html
+Characters:    "Southwest"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   div
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../news/news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    "\n\r  | "
+Start element: u
+Start element: a
+Key: href, Value: ../agenda/agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    "\n\r  "
+Start element: a
+Key: href, Value: ../agenda/agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: trail.html
+Characters:    "On\n\r  the Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

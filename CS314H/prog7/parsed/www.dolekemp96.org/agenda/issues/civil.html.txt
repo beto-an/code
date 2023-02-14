@@ -1,0 +1,306 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Where Bob Dole Stands on Civil Rights"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 5
+Start element: b
+Characters:    "Where\n\r  Bob Dole Stands on Civil Rights"
+End element:   b
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Start element: b
+Characters:    "Bob Dole Has a\n\r  Distinguished Record of Leadership in Civil\n\r  Rights"
+End element:   b
+End element:   font
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 3
+Characters:    "\n\r  As President, Bob Dole will continue his strong commitment to\n\r  protecting the civil rights of all Americans. During his career,\n\r  he:"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: ul
+Characters:    "\n\r    "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 3
+Characters:    "Supported the Civil\n\r    Rights Act of 1964 and the Voting Rights Act of\n\r    1965."
+End element:   font
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 3
+Characters:    "Voted for the Age\n\r    Discrimination in Employment Act (ADEA) of 1967. The act\n\r    protects older employees and job applicants from age\n\r    discrimination in employment. In 1990, Senator Dole supported\n\r    the expansion and clarification of the ADEA to protect older\n\r    workers from the loss of their employee benefit plans due to\n\r    age discrimination."
+End element:   font
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 3
+Characters:    "Played an\n\r    instrumental role in extending the Voting Rights Act in\n\r    1982."
+End element:   font
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 3
+Characters:    "Led the battle to\n\r    pass the Americans with Disabilities Act, which is the first\n\r    comprehensive federal law which protects individuals with\n\r    disabilities from discrimination in employment, public\n\r    services, transportation and telecommunications."
+End element:   font
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Characters:    "\n\r      "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r      "
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 3
+Characters:    "Introduced the Equal\n\r      Opportunity Act, which prohibits the use of racial and gender\n\r      preferences in federal contracting, federal employment, and\n\r      programs wholly administered by the federal\n\r      government."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+End element:   li
+Characters:    "\n\r  "
+End element:   ul
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 3
+Characters:    "Bob Dole believes that we\n\r  have made great strides to end discrimination in this country,\n\r  but that we still have much work to do."
+Characters:    "\n\r  "
+End element:   font
+Characters:    " "
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Start element: b
+Characters:    "Americans\n\r  Should be Judged as Individuals"
+End element:   b
+End element:   font
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 3
+Characters:    "\n\r  Bob Dole believes that Americans should be judged as individuals,\n\r  on the basis of their own unique talents and abilities, rather\n\r  than on the basis of the color of their skin, ethnic background\n\r  or gender. He supports conscientious enforcement of our\n\r  anti-discrimination laws and efforts to remedy past\n\r  discrimination against specific individuals."
+Characters:    "\n\r  "
+Characters:    "\n\r  Bob Dole also supports efforts to recruit qualified women and\n\r  minorities, so long as these efforts do not resort to\n\r  preferences. However, he opposes quotas, set-asides and other\n\r  government preferences that favor individuals simply because they\n\r  belong to a particular group. \"The key,\" he says, \"is to\n\r  guarantee the opportunity to compete, not rig the results of the\n\r  competition with quotas, set-asides and other preferences.\""
+Characters:    "\n\r  "
+End element:   font
+Characters:    " "
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Start element: b
+Characters:    "A Better\n\r  America"
+End element:   b
+End element:   font
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 3
+Characters:    "\n\r  As President, Bob Dole will ensure that individuals are not\n\r  treated differently because of skin color or gender. He will lead\n\r  America in the pursuit of a new civil rights agenda that will\n\r  ensure equal opportunity -- not equal results -- for all\n\r  Americans."
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../../news/news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    " "
+Start element: a
+Key: href, Value: ../agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the\n\r  Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

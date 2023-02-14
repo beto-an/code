@@ -1,0 +1,85 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Downloadables | Video Clips"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #BE0023
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index11-2.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: i
+Characters:    "hese video\n\r      clips are in the QuickTime format. If you need QuickTime\n\r      software, you can download it from "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "quicktime.apple.com."
+End element:   a
+Characters:    " If you have\n\r      a slow Internet connection, be aware that download times can\n\r      be lengthy."
+End element:   i
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: video2.cgi.html
+Characters:    "\n\r    "
+Characters:    "\n\r    President Clinton works to strengthen the values of family and\n\r    work. (QuickTime, 2.0Mb)"
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: video3.cgi.html
+Characters:    "\n\r    "
+Characters:    "\n\r    President Clinton working to move America ahead. (QuickTime,\n\r    1.9Mb)"
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/video3.cgi.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/video2.cgi.html

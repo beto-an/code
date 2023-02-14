@@ -1,0 +1,219 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "August 5, 1996 Mailing"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Key: link, Value: #FF0000
+Key: vlink, Value: #FF0000
+Key: alink, Value: #FF0000
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Start element: b
+Start element: font
+Key: size, Value: +1
+Characters:    "August 5, 1996"
+End element:   font
+Characters:    "\n\r  "
+Start element: font
+Key: size, Value: +2
+Characters:    "DOLE FOR PRESIDENT UNVEILS NEW WEB\n\r  SITE"
+End element:   font
+End element:   b
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: pre
+Characters:    "Digital Dole For President \n\rVolume 3, Number 1\n\rAugust 5, 1996 \n\r\n\rTo the many new members of our mailing list, welcome!\n\r\n\rOn August 1, Dole for President unveiled the first individually \n\rcustomizable political web site. If you haven't been to the new site, \n\rhere's a rundown:\n\r\n\rWhen you first visit the site, you are given the option of setting up a \n\rcustom Dole web page. (Requires a Netscape 2.0 compatible \n\rbrowser) Each custom page contains a personal tool bar with your \n\rown \"In Box\" that contains any new materials added to the site since \n\ryour last visit. The toolbar also highlights the issues you told us \n\rwere important to you and offers a home-state icon for information \n\rspecific about the Clinton record and the Dole agenda in your state.\n\r\n\rWe've redesigned the main topics as well:\n\rAbout Bob Dole - with an updated story about Bob Dole and a new \n\rElizabeth Dole story.\n\r\n\rDole Interactive - all new! Make your own buttons and posters. \n\rCheck out our new crossword puzzle and trivia quiz. Download a \n\rbackground for your computer and send a custom postcard to your \n\rfriends.\n\r\n\rThe Dole Agenda - Submit your opinion on each of Dole's stands \n\rand learn more about the Clinton record and the Dole agenda in your \n\rstate.\n\r\n\rGet Involved - With our new \"Link to DFP Online\" program, \n\rsimply copy a line of text to your web site and we do the rest. The \n\rappropriate graphic and link pops up on your web page.\n\r\n\rOn The Campaign Trail - Use our interactive map to see where \n\rwe've been in your state.\n\r\n\rNewsroom - Keep track of the campaign's Press Releases, \n\rSpeeches, Updates, and Hot Topics\n\r\n\rFind it all at:\n\r\n\rhttp://www.dolekemp96.org\n\r\n\rWe'll keep in touch with your during the campaign, we hope you'll \n\rvisit back and keep up with us.\n\r\n\r-----------\n\r\n\rBob Dole. The Better Man. For a Better America.\n\r\n\r-----------\n\r\n\rAuthorized and Paid for by Dole for President\n\r\n\rTo subscribe or unsubscribe from the Dole for President Mailing \n\rlist, go to:\n\rhttp://www.dolekemp96.org\n\r"
+End element:   pre
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    "\n\r  "
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get\n\r  Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

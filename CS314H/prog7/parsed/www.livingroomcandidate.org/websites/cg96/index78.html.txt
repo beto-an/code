@@ -1,0 +1,357 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | Meeting America's Challenges |\n\r  Environment"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 460
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 450
+Key: cellspacing, Value: 5
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Made the air we breathe cleaner by\n\r              issuing new standards to cut toxic pollution from\n\r              chemical plants by 90% and dangerous incinerator\n\r              emissions by 98%."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Fought attempts in Congress to roll\n\r              back the progress made in ensuring safe food and\n\r              water for our families."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Issued new policy to protect\n\r              consumers from "
+Start element: i
+Characters:    "E. Coli"
+End element:   i
+Characters:    " bacteria contamination\n\r              in meat."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Expanded the public’s right-to-know\n\r              about toxic releases and required polluters to\n\r              disclose information to the public."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Ensured compliance with\n\r              environmental safeguards by toughening EPA’s\n\r              enforcement programs."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Fought Republican Congressional\n\r              attempts to gut the Superfund law that makes\n\r              polluters—rather than taxpayers—pay to clean up toxic\n\r              dumps. Vetoed a Republican Congressional bill that\n\r              cut Superfund clean ups by 25%."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Canceled 75 hazardous pesticides\n\r              while moving safer substitutes into the market more\n\r              quickly."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r          "
+End element:   table
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 450
+Key: cellspacing, Value: 5
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Fought attempts to close national\n\r              parks and lift the ban on offshore oil drilling."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Committed $1.5 billion over seven\n\r              years to help restore the unique Florida\n\r              Everglades."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Broke through decades of conflict\n\r              and negotiated a consensus plan to protect and\n\r              allocate California Bay-Delta water."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r          "
+End element:   table
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 450
+Key: cellspacing, Value: 5
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Changed EPA rules and procedures to\n\r              reduce paperwork requirements for businesses by 10\n\r              million hours."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Reformed wetlands and endangered\n\r              species programs to better protect the environment\n\r              while lessening any adverse impact on\n\r              homeowners."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Launched a Brownfields Initiative to\n\r              return land to productive use by providing tax\n\r              incentives to clean up old industrial waste\n\r              sites."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r          "
+End element:   table
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

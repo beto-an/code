@@ -1,0 +1,255 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | 21st Century Express | Columbus, OH"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index8.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: b
+Characters:    "Remarks by the President to the People of the Columbus\n\r    Area"
+End element:   b
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Columbus Police Academy"
+Characters:    "\n\r    Columbus, Ohio"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "[RealAudio\n\r    "
+Start element: a
+Key: href, Value: colum144.ram
+Characters:    "14.4"
+End element:   a
+Characters:    " | "
+Start element: a
+Key: href, Value: colum288.ram
+Characters:    "28.8"
+End element:   a
+Characters:    "]"
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE PRESIDENT: Thank you. Thank you so much. I'm glad to see\n\r    all of you. I thank you for that wonderful introduction. I am\n\r    delighted to be here. Thank you, Chief Jackson, for being here\n\r    and for the work you do every day. Thank you, Sheriff Karnes,\n\r    for being here, for what you do as well. And I'm very grateful\n\r    to you."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Thank you, Senator Glenn — (audience interruption.) Wait,\n\r    wait, wait. No, wait a minute. Okay, wait, wait, wait. I\n\r    believe in the First Amendment; now you've had your say, may I\n\r    have mine? (Applause.) Thank you, thank you very much. We'll\n\r    talk about the record now. (Audience interruption.) You've got\n\r    to feel sorry for these people. They don't want you to know my\n\r    record; that's why they have to shout. They'd be in a world of\n\r    hurt if the American people — (applause.) You know, if the\n\r    American people find out the truth, they don't have a chance\n\r    and they have to try to shout it down. I don't blame them. You\n\r    got to feel good — (applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, let me say I am delighted to be joined here with\n\r    Senator John Glenn. He talked about how we'd reduced the\n\r    government. He didn't tell you that he deserves a lot of the\n\r    credit for it. (Applause.) Our friends on the other side talked\n\r    a lot — like today, you see, they're good at that — they talked\n\r    a lot about the government and how it was too big and how\n\r    terrible it was, you know. But it just got bigger. They didn't\n\r    do anything about it."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We reduced the size of it. You have the smallest federal\n\r    government since John Kennedy was President. You have the\n\r    smallest federal government as a percentage of our work force\n\r    since Franklin Roosevelt took the oath of office in 1933,\n\r    before the New Deal. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But the reason you haven't heard about it is we didn't throw\n\r    those people in the street. Of the 250,000 people smaller the\n\r    federal government is, fewer than 1,800 were involuntarily\n\r    separated. I'm proud of that. We treated those people with\n\r    dignity and helped them to go on to other lives, and said thank\n\r    you for what they did for your country. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And you haven't heard about it because we continue to do the\n\r    good work of America, because we have a strong and effective\n\r    government. We don't have a weak government, it's just leaner\n\r    and more effective. And that's a big part — in big part the\n\r    result of the efforts and the leadership of John Glenn, who\n\r    saved hundreds of millions of dollars in defense procurement\n\r    and did so many other things for this country that he will\n\r    never get adequate credit for. But the people of Ohio should\n\r    know what he has done. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I also want to thank a daughter of Ohio, your State\n\r    Treasurer who's now my National Treasurer, Mary Ellen Withrow,\n\r    who's here with me today. I thank her. I thank my friend Gene\n\r    Branstool. I think he's back here with us today. I went to his\n\r    farm, as John Glenn said, and Gene came and served with us in\n\r    the Department of Agriculture until he decided, like any sane\n\r    person, that he'd rather live in Ohio than Washington, D.C.\n\r    (Laughter and applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I've got my Ohio Buckeye that I got in Chillicothe last\n\r    night. (Applause.) When I was on the train yesterday, I noticed\n\r    the corn crop, and it looks really pretty. But I told Gene, I\n\r    said, it's not as high as it was in 1992. He said, I know, but\n\r    the prices are a lot higher and that's even better.\n\r    (Laughter.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "So I am delighted to be here with you. I thank Senator Jeff\n\r    Johnson — State Senator Jeff Johnson — and Franklin Country\n\r    Democratic Chair Dennis White for being here and all of you for\n\r    coming out today. I want to say a special thanks to the\n\r    students of the Police Academy and the men and women who\n\r    graduated from and the law enforcement officials who are here\n\r    today. They are here today so that we can express our gratitude\n\r    to them. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "One of the proudest moments of my presidency was to stand\n\r    with America's police officers and sign, after seven years of\n\r    long, hard struggle, the Brady Bill. (Applause.) I never\n\r    thought of public safety as a political issue before. I never\n\r    thought of it as a Republican issue. When they said they were\n\r    tough on crime, because I'd been working on it for 20 years it\n\r    never occurred to me that — when a person gets mugged, they\n\r    don't ask if you're a Democrat or a Republican. I thought it\n\r    was an American issue. And then when we were fighting to pass\n\r    the Brady Bill I never thought of it as a political issue, even\n\r    though the NRA had more influence over the other party. There's\n\r    lots of NRA members in my home state and half the folks have a\n\r    hunting or a fishing license or both."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But tonight I'm proud to say that the Brady Bill, which was\n\r    named after Ronald Reagan's press secretary, Jim Brady, and was\n\r    pushed by his wife, Sarah Brady — I'm proud to say that at the\n\r    Democratic Convention in Chicago tonight Sarah Brady will be\n\r    one of the speakers. It's an American issue to stand up for\n\r    public safety. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "You know, we are living in an age of enormous possibility.\n\r    You read about it all the time — the technological changes are\n\r    staggering. The children in this audience, a lot of them, a lot\n\r    of the young people 10 years from now will be doing jobs that\n\r    have not even been invented yet, jobs that have not even been\n\r    imagined yet. The pace of change is staggering. And I've been\n\r    doing everything I could to make sure that we are ready for the\n\r    21st century — it starts in just four years. I'm taking a train\n\r    through the heartland of America because I want to see people\n\r    like you that I've been fighting for and because I want people\n\r    like you to know that that train is on the right track to the\n\r    21st century. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We spend a lot of time talking about opportunity, and last\n\r    week was a good week for opportunity. We raised the minimum\n\r    wage for 10 million people, 440,000 in Ohio. (Applause.) We\n\r    made it easier for small business people and their employees to\n\r    take out and keep their pension plans, even when they change\n\r    jobs, and that's very important. (Applause.) We made it easier\n\r    for families to adopt children, even across racial lines, and\n\r    gave them a tax credit to do it and that's very important.\n\r    (Applause.) We passed the welfare reform law, but we kept\n\r    guaranteed health care and child care for working women and\n\r    children, so that when we give people a job they can also take\n\r    care of their kids. That's what we want for middle class\n\r    families -- it's what we should want for poor families, as\n\r    well. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We signed the Kennedy-Kassebaum reform bill to protect 25\n\r    million people, to give them a chance to keep their health\n\r    insurance when they changed jobs and to say you can't be denied\n\r    health insurance just because somebody in your family gets sick\n\r    — that's what insurance is for, people are going to get sick.\n\r    (Applause.) It was a great thing."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Senator Glenn talked about the deficit. Actually, Senator,\n\r    the last time a President had the deficit go down in all four\n\r    years of his presidency was before the Civil War in the 1840s\n\r    under John Tyler. It's been a long time since we did that.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "That's the good news. The bad news is John Tyler was not\n\r    reelected. (Laughter.) But what you ought to know while you're\n\r    having that laugh is -- this is the important thing, not how\n\r    long ago it was -- what you really ought to know is, when you\n\r    consider the major issues in this election, is that your budget\n\r    would not only be balanced, there would be a healthy surplus in\n\r    the federal budget today if it weren't for the interest we have\n\r    to pay on the debt that was run up in just the 12 years before\n\r    I took office. (Applause.) And you all remember what that debt\n\r    meant and what that interest meant."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "It meant high interest costs, low investment, slow job\n\r    growth, nobody getting a raise, homeownership declining because\n\r    mortgage rates were so high. We cannot afford to blow a hole in\n\r    this deficit again. We can have a tax cut that's targeted to\n\r    child rearing, to education, to training of adults, to helping\n\r    us grow the economy and helping give some income relief to\n\r    middle class people. But we dare not take one we can't afford,\n\r    and we don't need to go to the bank and borrow the money. We\n\r    need to go on and balance this budget, keep the interest rates\n\r    down, keep homeownership going up, keep business investment\n\r    going up, keep new jobs going up, keep wages rising. That's\n\r    what we've got to do. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But this whole agenda — when you talk about the opportunity\n\r    agenda in America you can get a lot of applause lines, because\n\r    we've created a lot of opportunity. But America doesn't work\n\r    without the other half of the bargain — responsibility. Without\n\r    responsibility, opportunity will not flourish. And unless we\n\r    are committed to that basic bargain, and to the proposition\n\r    that we have to go forward together across racial lines, across\n\r    religious lines, across all the lines that divide us — we need\n\r    to say, as long as we all believe in the Declaration of\n\r    Independence, the Constitution, the Bill of Rights, we show up\n\r    for work every day, we're going arm and arm into the future.\n\r    We're going to be one community in America and going arm in arm\n\r    into the future. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Four years ago I really believed after talking to Americans\n\r    all over this country that the biggest threat to that and the\n\r    biggest affront to our sense of responsibility was the rising\n\r    rate of crime and violence all over America. We put into place\n\r    a tough strategy based on what was working already at the\n\r    grass-roots level to try to reduce the crime rate, focusing on\n\r    police, on punishment, on prevention — 100,000 more police on\n\r    the street, three strikes and you're out, the assault weapons\n\r    ban, the Brady Bill, recreational programs for children after\n\r    school, keeping the schools open more, helping communities to\n\r    do that, putting those DARE officers in, having a\n\r    zero-tolerance policy for guns, doing things that would work to\n\r    help our kids have something to say yes to, not just to say no\n\r    to. All these things are making a difference. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "For two years I've been telling America we were having a\n\r    terrible dilemma — the crime rate was going down, but the\n\r    juvenile crime rate was going up; the drug use rate was going\n\r    down, but the juvenile drug use rate was going up. Now we know\n\r    for two years the juvenile murder rate has droped dramatically\n\r    and, last year for the first time in a long time, the juvenile\n\r    crime rate started to go down. I can only hope that means that\n\r    we can get the juvenile drug use rate down, too. We have to\n\r    keep working on that. But the last thing we want to do is to\n\r    take those DARE officers out of the school. We ought to do more\n\r    to provide safe and drug-free schools, not less.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "What I'd like to talk about today is where we're going from\n\r    here. I spent a lot of time trying to help schools all over\n\r    America do things that would save more kids — to do things like\n\r    have the option to adopt school uniform policies. I've seen it\n\r    all over California, where it's become the rage, where you've\n\r    got lower dropout rates, less violence, higher performance, all\n\r    the kids feel better — not just the poor kids, the middles\n\r    class kids, but the wealthy kids, too. People like being judged\n\r    by what's on the inside, not what on the outside. It's helping\n\r    to promote discipline and values in our schools. (Applause.)\n\r    Tougher truancy laws are doing the same thing; curfew laws are\n\r    doing the same thing. We ought to be doing moro that.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We also, as the Sheriff and the Chief said, did take on the\n\r    gun issue, and a lot of people thought we had lost our minds.\n\r    And I'll tell you, we did lose a lot of good congressmen over\n\r    it. Back in 1994, I remember the other side going around\n\r    telling everybody in places like Ohio and Arkansas that the\n\r    Democrats and the President had voted to take your guns away. I\n\r    didn't know a single deer hunter with an Uzi, not a one.\n\r    (Laughter and applause.) I've been duck hunting since I was a\n\r    very young fellow, and it wouldn't have bothered me a lick to\n\r    wait a few days on the Brady Bill to have my record checked.\n\r    (Applause.) I just didn't understand it."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But they scared a lot of people. You may know a lot of\n\r    people they scared. And a lot of people, a lot of good people,\n\r    a lot of good people gave up their seats in Congress so these\n\r    people could be safer when they go out to defend you and so you\n\r    could be safer. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "So I hope over the next 70 days or so, you'd talk to your\n\r    friends and neighbors who felt that way and remind them next\n\r    time hunting season goes out, unless they decided not to,\n\r    they're still carrying the same weapon they had in 1994. But\n\r    there are 60,000 felons, fugitives and stalkers who don't have\n\r    handguns because of the Brady Bill, and we're better off\n\r    because of it. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, I want to say briefly today where I think we ought to\n\r    go from here as Americans. And again, I hope they won't be\n\r    partisan issues. The Brady Bill has plainly worked. It has not\n\r    imposed undue inconvenience on anybody. It has made our law\n\r    enforcement officials safer. And it has made our citizens\n\r    safer. It covers today anyone convicted of a felony. The\n\r    problem is there is one class of misdemeanors that tend to be\n\r    particularly violent, where we know there's a potential for\n\r    future violence, where often there's a plea bargain which goes\n\r    from a felony to a misdemeanor. And that is the painful area of\n\r    domestic violence. I believe that the Brady Bill should cover\n\r    anybody with a domestic violence conviction. I don't believe\n\r    they should be able to buy a handgun. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Under the current law, thousands of people who are wife\n\r    beaters or child abusers -- even those who have wielded weapons\n\r    in their assault, but were convicted of misdemeanors can still\n\r    buy handguns with potentially deadly consequences."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I believe strongly in the right of Americans to own guns. I\n\r    have used them as a hunter with great joy. But make no mistake,\n\r    those who threaten the safety of others do not deserve our\n\r    trust. If you're convicted of a felony, you shouldn't have one.\n\r    If you're a fugitive from the law, you shouldn't have a gun. If\n\r    you're stalking or harassing women or children, you shouldn't\n\r    have a gun. And if you commit an act of violence against your\n\r    spouse or your child, you shouldn't have a gun. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Let me also say, domestic violence is a big threat to law\n\r    enforcement officers. We're working hard with our new Violence\n\r    Against Women section and other efforts in the Justice\n\r    Department to help police officers and prosecutors and judges\n\r    to understand domestic violence, to recognize it when they see\n\r    it, to know how to deal with it."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "This past February, we launched a 24-hour, seven- day,\n\r    toll-free hotline so women in trouble can find out about\n\r    emergency help, get shelter, report abuse to the authorities. I\n\r    never miss a chance to give out the number. It's\n\r    1-800-799-SAFE. And about 7,000 people a month call on that\n\r    hotline. (Applause.) Extending the Brady Bill to victims of\n\r    domestic violence, to protect them, will save more lives. It\n\r    will also save more law enforcement lives."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "There are other steps we should take to protect our police\n\r    officers and our citizens from gun violence. Last summer I sent\n\r    Congress legislation to ban cop-killer bullets. These bullets\n\r    are designed to kill police. That's what they do. They're\n\r    designed to pierce bullet-proof vests. If a bullet can slice\n\r    through a bullet-proof vest like a hot knife through butter, it\n\r    should be against the law. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Every major law enforcement official organization supports\n\r    this bill, and it's time for Congress to support it, too. I\n\r    want a bill to give prosecutors the power to impose tougher\n\r    sentences on drug traffickers and gang members who also use a\n\r    gun when they commit their crimes. We used to have a bill which\n\r    did that and the courts said, unless they were using the gun —\n\r    even if they were carrying the gun in full view — they couldn't\n\r    get extra penalties. That's wrong. That's wrong. We need to\n\r    provide protection against people who are peddling drugs, or\n\r    doing other things with a gun designed to terrify people. We\n\r    need to say, if you do that, we're going to punish you more\n\r    harshly. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Again, I want Congress to pass the bill I sent them nearly a\n\r    year ago to ban guns anywhere near our schools. (Applause.)\n\r    That is wrong. We used to have a bill on that, too, and the\n\r    courts overturned it. So I sent them a bill to fix it and it\n\r    still hasn't passed. We don't need people wandering around a\n\r    block from a schoolyard with a gun. We know there are too many\n\r    kids who've been killed on play yards with guns in this\n\r    country, and we do not need it. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, again, there are people who are against banning\n\r    cop-killer bullets. They say it's just a slippery slope eroding\n\r    their right to keep and bear arms. I have never seen a deer in\n\r    a Kevlar vest. Never. (Laughter and applause.) If somebody can\n\r    show me a picture of one out there hiding from our hunters,\n\r    I'll be glad to reassess my position. (Laughter.) But until\n\r    they do I believe I'll stay with these folks here, I think\n\r    they're entitled to be safe. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And let me just make one final comment. Usually when people\n\r    like me give speeches like this we try, and sometimes we're\n\r    fortunate to succeed, to have folks like this behind us, people\n\r    in uniform — because we honor them, we're proud of them, we\n\r    identify with them and we're glad they're doing something we\n\r    don't do and taking a risk for us. (Applause.) But I think we\n\r    should never forget that the ultimate beneficiaries of all\n\r    these efforts to make our streets safer and our schools safer\n\r    and our homes safer are you. And I want to introduce you to the\n\r    two people on the stage that I haven't introduced yet. And I\n\r    want to tell you a story — it's one of the most moving stories\n\r    of my over 20 years in public life."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "This man and his son — this is Dimitrios Theofanis and his\n\r    son, Nick. I'd like to ask them to stand up. (Applause.) I want\n\r    to tell you how I met Dimitrios. In early 1992, about four and\n\r    a half years ago, just before the New Hampshire primary, I had\n\r    a fundraiser scheduled in a big hotel in New York. And,\n\r    frankly, I was having a tough time. I was dropping in the polls\n\r    and all the press had said I was dead and over, history,\n\r    finished. I was feeling pretty sorry for myself. All I was\n\r    thinking about was my politics. I'm ashamed to say it, but\n\r    that's all I was thinking about."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And I was walking through this kitchen thinking there wasn't\n\r    even going to be anybody at the fundraiser because everybody\n\r    said I didn't have a chance anymore. And I'm kind of looking\n\r    down and just feeling sorry for myself. It was pitiful.\n\r    (Laughter.) And Dimitrios was working in that hotel, in his\n\r    uniform."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And I was walking through the kitchen and he came up to me\n\r    and stopped me in the kitchen and he said, Governor, he said, I\n\r    want to talk to you a minute. My 10-year-old boy — his son was\n\r    10 then — he says, my 10-year-old boy, he studies this election\n\r    in school and he says I should vote for you. He said, but if I\n\r    vote for you, I want you to do something for me. I said, what.\n\r    He said, I want you to make my son free."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I said, what do you mean? He said, well, in the country\n\r    where I came from we were poor, but we were free. I'm an\n\r    immigrant. Here I'm doing well. I'm working hard, I have more\n\r    money, but we're not free. He said, just across the street from\n\r    my apartment there is a park, but my son can't play in it\n\r    unless I'm there with him. He has a school only two blocks from\n\r    our home, but my son can't walk there unless I go with him. So\n\r    if I do what my son wants me to do, I want you to make my boy\n\r    free."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "They made an impression on me that will last for the rest of\n\r    my life, and they were speaking for all of you. (Applause.) And\n\r    I wanted you to see them today. They're riding the train with\n\r    me to Chicago. (Applause.) Thank you and God bless you."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I hope you will support extending the Brady Bill. I hope you\n\r    will support banning cop-killer bullets. I hope you will\n\r    support tougher penalties for people who deal drugs with guns.\n\r    And I hope you will support a good, clean law saying nobody has\n\r    got any business with a gun anywhere near a school. Help us to\n\r    keep making America free."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Thank you and God bless you. (Applause.)"
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

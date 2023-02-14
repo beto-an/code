@@ -1,0 +1,88 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "Campaign Releases New Advertisement"
+End element:   TITLE
+Characters:    "\r\n\r\r\n\r"
+Start element: KPETITLE
+Start element: B
+Characters:    "For Immediate Release:"
+End element:   B
+Characters:    "\r\n\rCampaign Releases New Advertisement"
+Start element: DD
+End element:   KPETITLE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "  "
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "  "
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r"
+Start element: TT
+Characters:    "\r\n\r"
+Start element: P
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "August 5, 1996\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "CLINTON/GORE '96 RELEASES NEW ADVERTISEMENT\r\n\r\r\n\r\r\n\r\t"
+Start element: P
+Characters:    "Today, August 5, 1996, the Clinton/Gore �96 campaign begins running an advertisement entitled \"Gamble\".  The text of the ad follows:\r\n\r\r\n\r\r\n\r"
+Start element: P
+Start element: I
+Start element: B
+Characters:    "Gamble"
+End element:   B
+Characters:    "\r\n\r\r\n\r"
+Start element: P
+Characters:    "America�s economy coming back.  Ten million new jobs.  We make more autos than Japan.  Higher minimum wage.\r\n\r\r\n\r"
+Start element: P
+Characters:    "Now Bob Dole endangers it all with a risky last minute scheme that would balloon the deficit.  Higher interest rates.  Hurt Families.\r\n\r\r\n\r"
+Start element: P
+Characters:    "President Clinton�s plan: Tax cuts for families.  College tuition tax credits.  Health insurance you don�t lose changing jobs.  Welfare reform.  Growth.\r\n\r\r\n\r"
+Start element: P
+Characters:    "President Clinton meeting our challenges.  Bob Dole gambling with our future.  \r\n\r"
+Characters:    "\r\n\r\r\n\r\r\n\r"
+Start element: P
+Start element: CENTER
+Characters:    "###\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    " "
+Characters:    " "
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee, Inc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End of document

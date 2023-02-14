@@ -1,0 +1,300 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "America’s Home Page"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #FFFFFF
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: width, Value: 230
+Key: valign, Value: top
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: font
+Key: size, Value: +6
+Start element: b
+Characters:    "Clinton, Yes!"
+End element:   b
+End element:   font
+Characters:    "\n\r          "
+Start element: p
+Start element: font
+Key: size, Value: +2
+Start element: b
+Characters:    "by Tarja Black"
+End element:   b
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Characters:    "http://www.av.qnet.com/~yes"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "My web site lists many of President Clinton’s\n\r          accomplishments while refuting Republican economic\n\r          predictions and the Dole election bid in general. I\n\r          launched the site in order to counter negative remarks\n\r          about the President found on the Internet."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "I live in Los Angeles, and I'm 60 years old. I changed\n\r          my on-line name to Tarja (from Ethel) so that younger web\n\r          users would be attracted to the site as well. Here's a\n\r          quote from the What We’re About section of my site: “[The\n\r          President] undoubtably knows he’d get more political\n\r          payoff by helping bankers instead of students or by\n\r          lowering the taxes of late-night comics instead of the\n\r          taxes of low-income workers. But as a man of character,\n\r          he does the right thing anyway.”"
+End element:   p
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: center
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 230
+Characters:    "\n\r          "
+Start element: font
+Key: size, Value: +6
+Start element: b
+Characters:    "In the Presence of Power"
+End element:   b
+End element:   font
+Characters:    "\n\r          "
+Start element: p
+Start element: font
+Key: size, Value: +2
+Start element: b
+Characters:    "by Marty Gallanter"
+End element:   b
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Characters:    "http://jwp.bc.ca/martyg/"
+Characters:    "\n\r          mg3power.htm"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "My name is Marty Gallanter. I'm an ex-New Yorker\n\r          living in rural Minnesota. One day, I went to hear the\n\r          President and Vice President speak at the National Rural\n\r          Conference at the Univeristy of Iowa. Once there, I found\n\r          that the two men I had only experienced through TV\n\r          screens and newspaper articles became real, living people\n\r          that cared deeply about rural America. I wrote up an\n\r          editorial which is posted on my web site, and also want\n\r          to share his story with Clinton/Gore supporters."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "Here's an excerpt: “I expected the President to open\n\r          the conference and leave. He didn't. He chaired it\n\r          personally for over five hours and when his voice began\n\r          to fade, the Vice-President took over. The huge briefing\n\r          books set down by the aides for the President and\n\r          Vice-President were never opened. Both men carried on\n\r          extensive and complex discussions supported entirely by\n\r          the knowledge they carried in their heads.”"
+End element:   p
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: center
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: width, Value: 230
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: font
+Key: size, Value: +6
+Start element: b
+Characters:    "Major Speeches of the\n\r          President"
+End element:   b
+End element:   font
+Characters:    "\n\r          "
+Start element: p
+Start element: font
+Key: size, Value: +2
+Start element: b
+Characters:    "by Jane Prettyman"
+End element:   b
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Characters:    "http://www.rain.org/~openmind/"
+Characters:    "\n\r          together.htm"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "I've created a web site with five major speeches of\n\r          the President including photographs and quotes. I chose\n\r          the speeches because they embody American values the\n\r          President stands for: tolerance, free speech, religious\n\r          freedom, civil rights and national community. President\n\r          Clinton will be remembered for his values and I'm helping\n\r          keep his words in the public domain through my site."
+End element:   p
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Start element: font
+Key: size, Value: +3
+Characters:    "“These speeches are powerful and clear\n\r          and educationally important for the re-election\n\r          effort”"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "Here's a quote from one of my favorite speeches: “If\n\r          you want to preserve your own freedom, you must stand up\n\r          for the freedom of others with whom you disagree. You\n\r          cannot have one without the other.”"
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "—President Clinton, Michigan State University speech\n\r          after Oklahoma bombing, March 1995"
+End element:   p
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +6
+Start element: b
+Characters:    "Email from Duvall,\n\r            Washington"
+End element:   b
+End element:   font
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Characters:    " A couple in Washington state\n\r          sent us email about meeting a local police officer hired\n\r          due to the President's Crime Bill. They were having a\n\r          yard sale when the new officer stopped by. Rick Riopelle\n\r          wrote us, “My wife and I are pleased that this program is\n\r          in effect and gratified that it touched our community in\n\r          a positive and meaningful way.”"
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Key: height, Value: 25
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Characters:    "\n\r          "
+Characters:    " "
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: a
+Key: border, Value: 0
+Key: href, Value: index8-2.html
+Key: name, Value: America's Home Page
+End element:   a
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Key: height, Value: 25
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

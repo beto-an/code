@@ -1,0 +1,199 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "Dole's Plan Requires Deep Cuts in Education..."
+End element:   TITLE
+Characters:    "\r\n\r\r\n\r"
+Start element: KPETITLE
+Start element: B
+Characters:    "For Immediate Release:"
+End element:   B
+Characters:    "\r\n\rDole's Plan Requires Deep Cuts in Education.."
+Start element: DD
+End element:   KPETITLE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "  "
+Characters:    "\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r"
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "August 20, 1996\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "RESPONSE TO FALSE CLAIMS IN THE NEW DOLE AD, August  20, 1996\r\n\r"
+Characters:    "\r\n\r"
+Start element: P
+Characters:    "CLAIM:\t\t"
+Start element: I
+Characters:    "Today, taxes are the highest in American history."
+End element:   I
+Characters:    "\r\n\r\r\n\r"
+Start element: P
+Characters:    "THE FACTS:\tTHIS IS MISLEADING.  THE AVERAGE FEDERAL TAX RATE FOR THE TYPICAL FAMILY IS LOWER NOW THAN WHEN PRESIDENT CLINTON TOOK OFFICE.  According to Treasury Department data, the federal tax rate on typical family is lower now than when President Clinton took office.  These are the same Treasury numbers collected by both Democratic and Republican Administrations alike.  And these are the same numbers cited recently by Republican Senator Pete Domenici in his Budget Bulletin on May 20, 1996:  \r\n\r"
+Start element: P
+Characters:    "The average federal income tax rate for the typical four-person family is lower today than when President Clinton took office, and is lower than in 7 of the 8 years when Ronald Reagan was President.  The average federal personal income tax rate for the typical four-person family will be lower in 1995 than in 1992 and lower than in 7 of the 8 years under Ronald Reagan.  [Treasury Department, Office of Tax Policy, 4/18/95]\r\n\r\r\n\r "
+Start element: P
+Characters:    "President Clinton's Economic Plan cut taxes benefitting 40 million Americans.  Because of the President's 1993 economic plan, 40 million Americans (15 million workers and their families) benefit from the expansion of the Working Families Tax Credit, the EITC.  [Treasury Department, Office of Tax Policy, 4/1/96]\r\n\r\r\n\r"
+Start element: P
+Characters:    "This month's "
+Start element: I
+Characters:    "Money"
+End element:   I
+Characters:    " Magazine confirms that the effective federal tax rate is down for middle-income Americans.  In an analysis for "
+Start element: I
+Characters:    "Money"
+End element:   I
+Characters:    " Magazine, Price Waterhouse finds that the effective federal tax rate for those earning less than $100,000 dropped between 1992 and 1994, while those earning six-figures saw their effective tax rate increase.\r\n\r\r\n\r\t"
+Start element: P
+Characters:    " Price Waterhouse Finds That The Effective Federal Income Tax Rate For A Family Earning Between $50,000 And $75,000 Fell 1.7 Percent.  The effective federal income tax rate for someone earning between $50,000 and $75,000 was 12.8 percent in 1994 -- down from 13.0 percent in 1992.  [Source: Money Magazine, August 1996]\r\n\r\r\n\r\t "
+Start element: P
+Characters:    "Effective Federal Tax Is Also Down For Every Other Income Group Below $100,000.  The effective tax rate has also fallen for those with incomes between $20,000 and $25,000 (down 6.1 percent); $25,000 and $50,000 (down 1.4 percent); and $75,000 and $100,000 (down 0.5 percent).  \r\n\r\r\n\r \t"
+Start element: P
+Characters:    "It is deceptive and misleading to suggest that taxes under President Clinton are the highest for the following three reasons: (1) They use the tax rate for the average family, instead of the typical family; this takes the taxes of the top 1% -- which did go up under President Clinton -- and averages it with the average American to give the false impression that average taxes are higher than they actually are; (2) it is an average of federal, state, and local taxes, and a majority of the states -- 32 -- have Republican governors; and (3) the data from the Commerce Department iinclude Medicare premiums as taxes.  Only when they use these three deceptive things together, are taxes at their highest level ever.  \r\n\r\r\n\r"
+Start element: P
+Characters:    " Jodie Allen, "
+Start element: i
+Characters:    "Slate Magazine"
+End element:   i
+Characters:    ", 8/15/96: \"Campaign assertions about how much the average family's taxes have increase under Clinton should be regarded with suspicion.  (a) Averages obscure the fact that most of Clinton's tax increase did fall on the affluent.  The typical middle-class family paid only the new gas tax.  (b) Most of the increased tax revenue from individuals reflects higher income, not higher tax rates.  (c) As a share of GDP, government now takes 40 cents on the dollar.  Rep. Susan Molinari used this figure in her Republican Convention keynote address to illustrate the burden of Clinton's tax increase.  But the increase in this figure is due entirely to the rise in state and local taxes.  As a share of GDP, federal taxes have been roughly stable under Clinon.\"\r\n\r"
+Characters:    "\r\n\r"
+Start element: P
+Characters:    "CLAIM:\t\t"
+Start element: I
+Characters:    "Bill Clinton says we have the healthiest economy in three decades.  \r\n\rBelieve that?"
+End element:   i
+Characters:    "\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "THE FACTS:\tHERE IS WHAT BOB DOLE SAID ABOUT THE ECONOMY IN FEBRUARY 1996:  \r\n\r\"It is also true, as some have said, that our economy is the strongest it's been in 30 years.\" \r\n\r[Source: Bob Dole, Remarks To The New Hampshire State Legislature, released by the Dole for \r\n\rPresident campaign on 2/20/96]\r\n\r\r\n\r\t\t\t"
+Start element: P
+Characters:    "HERE'S WHAT INDEPENDENT EXPERTS SAY:\r\n\r\t\r\n\r"
+Start element: P
+Start element: i
+Characters:    " Barron's"
+End element:   i
+Characters:    ", 3/18/96: \"Clinton also rightfully boasted that,  our economy is the healthiest that it has been in thirty years.  We have the lowest combined rate of unemployment and inflation in 27 years.  We have created eight million jobs, over a million of them in basic \r\n\rindustries like construction and automobiles.  America is selling more cars than Japan for the first time since the 1970s, and for three years in a row we've had a record number of new businesses started in our country.�\"\r\n\r\r\n\r "
+Start element: P
+Start element: i
+Characters:    "Barron's"
+End element:   i
+Characters:    ":  President Clinton's economic record is stronger than any Republican\r\n\r Administration -- including Ronald Reagan's terms in office -- in the post-World War II \r\n\rera. And, according to Barron's, President Clinton's record is stronger than any Administration\r\n\r in over 30 years -- since President Kennedy.  [Source: Barron's, 8/12/96]\r\n\r\r\n\r"
+Start element: P
+Characters:    " "
+Start element: i
+Characters:    "Business Week"
+End element:   i
+Characters:    ", 6/10/96: \"[I]nflation is low, growth is good, and the dollar\r\n\ris strengthening. America is in its best economic shape in 20 years.\"\r\n\r\r\n\r\t"
+Start element: P
+Characters:    " DRI/McGraw-Hill, March 1996, June 1996: \"[T]he normal economic indicators \r\n\rsuggest [the economy] is in its best shape in decades.\" [3/96] \"If you look at the economy\r\n\r during the Clinton Administration, you have to say it's been a success.  We have low\r\n\r inflation, full employment, and steady growth.  This is really just about the best of \r\n\rall macroeconomic worlds.\" [6/10/96]\r\n\r\t\t\r\n\r\r\n\r"
+Start element: P
+Characters:    "CLAIM:\t\t"
+Start element: i
+Characters:    "America can do better."
+End element:   i
+Characters:    "\r\n\r\r\n\r"
+Start element: P
+Characters:    "THE FACTS:\tPRESIDENT CLINTON AGREES.\r\n\r\r\n\r"
+Start element: P
+Characters:    "President Bill Clinton, 6/4/96: \"We are doing well, but we must do better if we are going to\r\n\r make the promise of this new age real to all Americans. That means we have to grow faster. \r\n\r How fast can we grow?  No one knows the exact answer to that.  But if we look at the long-term,\r\n\r if we believe in our people and invest in them and their opportunities, and our people take \r\n\rresponsibility, the sky is the limit.  \r\n\r\t\r\n\r"
+Start element: P
+Characters:    "We must look with the greatest skepticism toward those who promise easy and quick\r\n\r solutions.  We know that the course that leads to long-term growth is in the minds and \r\n\rspirits and ideas and discipline and effort of people like those of you who graduate here\r\n\r today.  We are on the right course; we must accelerate it, not veer from it.\"  \r\n\r[Source: President Bill Clinton, Commencement Address at Princeton University, June 4, 1996]  \r\n\r\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "CLAIM:\t\t"
+Start element: I
+Characters:    "[Bob Dole's Plan is to] Balance The Budget."
+End element:   I
+Characters:    "\r\n\r\r\n\r"
+Start element: P
+Characters:    "THE FACTS:\tHERE IS WHAT ECONOMISTS AD MEDIA ANALYSTS SAY ABOUT BOB DOLE'S PLAN AND ITS\r\n\r IMPACT ON THE DEFICIT:\r\n\r\r\n\r"
+Start element: P
+Characters:    " Martha Phillips, Concord Coalition:  \"This will not work. It will blow a gigantic hole in \r\n\rthe budget and it will set us back rather than lead us forward.\" [ABC News, 8/4/96]\r\n\r\r\n\r "
+Start element: P
+Characters:    "Robert Reischauer, former Director of Congressional Budget Office: \"[It's] a tax cut \r\n\rthat will blow an increasingly larger hole in our budget as the years go by.\"  [CNN, 8/5/96]\r\n\r\r\n\r "
+Start element: P
+Characters:    "Stephen Roach, Chief Economist at Morgan Stanley: \"This is not a realistic plan, in that\r\n\r it fails to explain how we will pay for these tax cuts.... [Dole] has done nothing to address \r\n\rthe effects this could have on deficits in coming years.\" [Bloomberg, 8/5/96]\r\n\r\t\t\r\n\r "
+Start element: P
+Start element: i
+Characters:    "Business Week"
+End element:   i
+Characters:    ":  \"The bulk of economic studies suggest that a tax cut such as the one\r\n\r being discussed could send the deficit soaring...\" [Business Week, 8/12/96]\r\n\r\r\n\r "
+Start element: P
+Start element: i
+Characters:    "Time"
+End element:   i
+Characters:    ":  \"His proposed tax cuts are so enormous as to leave him wide \r\n\ropen to charges that they will cause the federal deficit to balloon....It is not \r\n\runreasonable, however, to foresee a dismal scenario:  spending cuts come nowhere\r\n\r near matching tax reductions; the deficit mushrooms; a panicked bond market raises \r\n\rinterest rates; the higher rates cause economic growth to slow, reducing tax collections \r\n\reven more, and so on and on.\"  [Time, 8/19/96]\r\n\r\r\n\r "
+Start element: P
+Start element: i
+Characters:    "USA Today"
+End element:   i
+Characters:    ": \"... many economists warn that his economic plan would do far more\r\n\r harm than good. They're worried the plan Dole unveils today could lead to larger budget \r\n\rdeficits and higher interest rates, which would drag down the economy.\" [USA Today, 8/5/96]\r\n\r\r\n\r\r\n\r\t\t\r\n\r"
+Start element: P
+Characters:    "CLAIM: \t"
+Start element: I
+Characters:    "\t[Bob Dole's Plan is to] Raise take home pay."
+End element:   I
+Characters:    "\r\n\r\r\n\r"
+Start element: P
+Characters:    "THE FACTS:\tIF BOB DOLE WANTS A PLAN TO RAISE TAKE-HOME PAY, HE SHOULD LOOK\r\n\r AT PRESIDENT CLINTON'S:\r\n\r"
+Start element: P
+Characters:    " Since President Clinton took office, after federal tax income for the median \r\n\rhousehold -- has increased more in real terms in 2 years than during the 12 years \r\n\rRepublicans controlled the White House:  According to the Bureau of the Census, real \r\n\rafter federal tax median household income -- a proxy of take-home pay -- has increased \r\n\r$456 since President Clinton took office, rising from $26,677 in 1992 to $27,133 in \r\n\r1994 -- the most recent year data are available.  [Source: Bureau of the Census, Current\r\n\r Population Survey, Table H-13, Median Household Income, by Definition of Income.  Federal \r\n\rtaxes includes federal income taxes, Social Security payroll taxes, and including Earned \r\n\rIncome Tax Credit.]  \r\n\r\r\n\r"
+Start element: P
+Characters:    "During the 12 years that the Republicans controlled the White House, real after \r\n\rfederal tax median household income increased only $444, rising from $26,233 in 1980 to\r\n\r $26,677 in 1992.  [Source: Bureau of the Census, Current Population Survey, Table H-13, \r\n\rMedian Household Income, by Definition of Income.  Federal taxes includes federal income \r\n\rtaxes, Social Security payroll taxes, and including Earned Income Tax Credit.]\r\n\r\r\n\r "
+Start element: P
+Start element: I
+Characters:    "Business Week"
+End element:   I
+Characters:    ", 6/12/96: \"And why shouldn't households feel upbeat?  With \r\n\rpayrolls expanding at a healthy pace, joblessness is exceptionally low.... And for the \r\n\rfirst time in more than a decade, real wages are showing sustained increases, giving many\r\n\r workers more purchasing power as inflation remains low.\"\r\n\r\r\n\r"
+Start element: P
+Start element: I
+Characters:    " Washington Post"
+End element:   I
+Characters:    ", 4/26/96: \"Americans' average incomes grew 2.6 percent \r\n\rfaster than inflation last year, the biggest rise in nearly a decade...\"\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: center
+Characters:    "###"
+End element:   center
+Characters:    "\r\n\r\r\n\r\r\n\r \r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    " "
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee,\r\n\rInc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End of document

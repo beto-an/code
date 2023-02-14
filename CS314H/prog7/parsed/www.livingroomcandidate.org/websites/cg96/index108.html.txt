@@ -1,0 +1,301 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | 21st Century Express | Kalamazoo, MI"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index8.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: b
+Characters:    "REMARKS BY THE PRESIDENT TO THE PEOPLE OF KALAMAZOO"
+End element:   b
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Merrill Park"
+Characters:    "\n\r    Kalamazoo, Michigan"
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    THE PRESIDENT: Thank you. Thank you so much.\n\r    "
+Start element: p
+Characters:    "AUDIENCE: Four more years, four more years —"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE PRESIDENT: Thank you, thank you, thank you all for being\n\r    here and for your wonderful reception. Thank you all way over\n\r    here in the corner for being here in big numbers. And back\n\r    here. I think we should begin by thanking the Western\n\r    University Band. They've been wonderful to us today, and we\n\r    thank you. Thank you very much. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want to thank Mayor Barbara Larson and the city and county\n\r    officials that welcomed us here. I brought a lot of\n\r    distinguished Michiganers with me — Congressman Bart Stupak and\n\r    his wife, Lorie, from the Upper Peninsula. (Applause.) Former\n\r    Governor Blanchard; also former ambassador to Canada.\n\r    (Applause.) Frank Garrison, the President of the AFL-CIO in\n\r    Michigan. Your Attorney General, Frank Kelly. And many others.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I know that before I came here there was another program. I\n\r    thank Beverly Moore for M.C.-ing it. I thank Linda Comer\n\r    (phonetic) for what she said and for being a teacher. I thank\n\r    Tim Eder of the National Wildlife Federation, Michigan Chapter.\n\r    That's a very important group and a very important part of our\n\r    commitment to the environment in the future."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Your congressional candidate, Clarence Annen (phonetic.) I'd\n\r    also like to recognize a Paralympian who is here from your\n\r    community, a medal winner in the national goal ball team,\n\r    Sherry Gordon. Congratulations, Sherrie. Where are you?\n\r    (Applause.) There she is. Bless you. Congratulations.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I know that I'm in Comstock Township, right? (Applause.) So\n\r    I'd like to thank the supervisor, Joe VanBruder (phonetic) for\n\r    helping us here. (Applause.) And I'd like to thank Christie\n\r    Kurambula (phonetic), our County Democratic Chair who helped to\n\r    get a lot of you here. I thank her."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I'd like to thank the community members who are here behind\n\r    me. First, I want to recognize Representative Ed LaForge. Thank\n\r    you, Ed, for being here with us. I see you've got some signs\n\r    here. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want to thank these young people who are here with me\n\r    today — the Comstock Boy Scout and Cub Scout Troop and Pack\n\r    221; Brownie Troop 624; the Comstock YWCA; community citizen\n\r    leaders; prime-time program representatives; the Kalamazoo\n\r    Recycle Rangers — I like that. That sounds good. (Applause.)\n\r    Kalamazoo Area Math and Science Center; Vicksburg High School\n\r    Adventure Club and FFA; and the Kazoo School. Thank you all for\n\r    being here. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want to thank my good friend, Senator Carl Levin, for\n\r    being here today and supporting the environment in general, and\n\r    for being America's number one fighter for the Great Lakes and\n\r    uniform quality standards for the Great Lakes water.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "By the way, I'm sure you all know we've still got some work\n\r    to do on that, so we can use six more years of Carl Levin to\n\r    finish our work on the Great Lakes. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want to thank Katie McGinty, the Chair of our\n\r    Environmental Council in the White House. She's done a\n\r    wonderful job on this and many others things. And most of all,\n\r    I want to thank Mary Brown and her grandson Stan Cook.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, to give you some idea in what happens to you when\n\r    you're young as opposed to when you're old — I asked Stan Cook\n\r    how old he was and he said, \"I'm 10.\" And I looked at him and I\n\r    said, \"Now, Dan, are you 10?\" He said, \"Well, I'm almost 10.\"\n\r    (Laughter.) We'll I'm almost 49, too — (laughter) — in the\n\r    reverse direction."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "There aren't many young people his age who could have spoken\n\r    so well and so forcefully. Didn't he do a good job? (Applause.)\n\r    Thank you very, very much, Dan. And thank you, Mary Brown, for\n\r    your lifetime of commitment to the quality of the environment\n\r    in your state and your area."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Folks, you know, I've been on this train the last couple of\n\r    days going through the heartland of America from West Virginia\n\r    to Kentucky to Ohio to Michigan. Leaving you, I'm going on now\n\r    to Michigan City, Indiana, and then I will fly to Chicago. I've\n\r    been on this train for two reasons. First, I wanted to see\n\r    people like you in the heartland of America — the people that\n\r    really make this country go, the people I've been working for\n\r    and fighting for for four years. (Applause.) But I also wanted\n\r    to make the point that our train and our country are both on\n\r    the right track to the 21st century. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "For four years, I have pursued a very straightforward\n\r    strategy based on a vision of what our country ought to be\n\r    like. When all these children who are in this audience spend\n\r    most of their life in a new century, the world will be so\n\r    different from the world people my age grew up in — different\n\r    in how we work and live and relate to each other, very\n\r    different in how we relate to the rest of the world; vastly,\n\r    vastly increased opportunities, and significant new challenges.\n\r    And I want us to go into that next century with every child in\n\r    this country having the opportunity to live up to his or her\n\r    God-given potential and live out their dreams. And I believe\n\r    you want that, too. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "In order to do that, our country has to create more\n\r    opportunity and receive more responsibility from all of our\n\r    citizens. That's the basic bargain of America. Our country has\n\r    to remain the world's strongest force for peace and freedom and\n\r    prosperity. And I appreciate what Mary said about our role in\n\r    the world. It's important for America to lead the world. It's\n\r    important for Americans that we do. And most of all, our\n\r    country has to come together as one community."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "All over the world — this morning as I do every morning, I\n\r    started my work day with a review of the situation in the rest\n\r    of the world. And I thought to myself, how much time have I\n\r    spent as President dealing with problems created because other\n\r    people could not get along and because they insisted on looking\n\r    down on people that lived on the same piece of land they did\n\r    because they had a different race, a different ethnic group,\n\r    they were of a different tribe."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "It happens in Africa and Rwanda and Burundi. It has consumed\n\r    the Middle East for decades. It has consumed Northern Ireland\n\r    for longer than that. It has rooted and caused butchery and\n\r    slaughter in Bosnia we have worked so hard to end."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Why do people do this? What is special about America? We\n\r    say, this is not a country about race. This is not a country\n\r    about religion. This is a country where, if you believe in the\n\r    Constitution, the Bill of Rights, the Declaration of\n\r    Independence, it doesn't matter whatever else is special or\n\r    unique or different about you, we're stronger for your\n\r    difference, we're going forward together. And we have to have\n\r    that commitment. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, we manifest that commitment in many different ways. I\n\r    was so moved at our convention in Chicago when Christopher\n\r    Reeve talked about his tragic accident and his determination to\n\r    overcome it. And he reminded us that we not only have to\n\r    continue to invest in research to try to find answers to the\n\r    problems that beset us, we also need to deal humanely and\n\r    decently with people who have difficulties."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Christopher Reeve came to see me in the White House and he\n\r    said, Mr. President, I am so glad you fought to stop Congress\n\r    from destroying the Medicaid program and ending its guarantee\n\r    to the elderly in nursing homes, to poor children, and to\n\r    people who have disabilities — (applause) — because not\n\r    everybody who gets a disability is a wealthy person. And even\n\r    wealthy people can be driven into poverty. And if it weren't\n\r    for Medicaid, middle class families wouldn't be able to\n\r    maintain their lifestyles. That's a part of our community.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I have to tell you, when Tipper Gore was talking last night,\n\r    I was proud of the fact that my friend and the Vice President's\n\r    wife has spoken up for 20 years to try to protect our children\n\r    for unhealthful, indeed, affirmatively harmful cultural\n\r    influences that will make it more difficult for them to be\n\r    successful people. That's a part of our community, trying to\n\r    make it more possible for parents to transmit their own values,\n\r    not somebody else's commercially driven values, to the children\n\r    of our country. (Applause.) I was proud of that."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And I was proud when my wife spoke last night at the\n\r    convention — (applause) — and pointed out that we have been\n\r    very fortunate in our lives. We've always had jobs where we\n\r    could take time off when Chelsea needed us, but other working\n\r    families need that same time off."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We've always had the best sort of health insurance. And I\n\r    was there when Chelsea was born in the delivery room and when\n\r    we took her room, but Hillary had the need to stay in the\n\r    hospital a little extra time. And it's wrong for women and\n\r    their newborn babies to be thrown out of the hospital after a\n\r    day if they're not ready to go home. (Applause.) They ought to\n\r    be able to stay longer. That's a part of our community.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We've had a good week in Washington right before we left for\n\r    this convention. A lot of things were done that will create\n\r    more opportunity, give us a chance to have more responsibility,\n\r    and bring us together in a community. The minimum wage went up\n\r    for 10 million people. (Applause.) Ninety percent of the small\n\r    businesses in this country got a tax cut. We made it possible\n\r    for people in small businesses to save for their retirement and\n\r    for employees in small businesses to keep their retirement when\n\r    they move from job to job. That's all important."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We gave people a tax credit of $5,000 and more if there is a\n\r    disability involved if they will adopt children. There are\n\r    hundreds of thousands of children out there in this country\n\r    that need good homes. (Applause.) We did that. That was\n\r    good."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We made 25 million Americans safer in their health care\n\r    because we said you can't be denied health insurance anymore\n\r    just because somebody in your family has been sick or because\n\r    you changed jobs. That was a good thing for America.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We also passed the Safe Drinking Water Act and the Pesticide\n\r    Protection Act to help improve the public health and the\n\r    environment. And that was a great thing for America.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "That's what I came here to talk to you about today. We\n\r    cannot go forward together as a country, a country where it\n\r    works for all of us, unless we have a shared commitment to\n\r    protect the environment. And unless we want to protect\n\r    everybody's environment, in the end, no matter how wealthy and\n\r    powerful we are, the quality of our lives will be\n\r    undermined."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Do you need a doctor over there? Are you okay? Over here?\n\r    Where's my medical team? We got to have somebody."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, you think about that. It doesn't matter — I don't care\n\r    if you have got a billion dollars, if you live in America, in\n\r    the end, the quality of your life will be undermined unless we\n\r    save the environment for everybody. (Applause.) We all have an\n\r    interest in clean air and safe water and safe food and in\n\r    preserving our national treasures."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I can tell you this, compared to four years ago, there are\n\r    tens of millions of people in America breathing cleaner air.\n\r    We've cleaned up more toxic waste sites in three years than the\n\r    previous administrations did in 12. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We have revamped the chicken and poultry inspection\n\r    standards of this country for the first time in literally\n\r    decades. We are moving in the right direction. We saved our\n\r    national parks from an ill-advised congressional attempt to\n\r    sell off some of them and under-fund them. And that was a good\n\r    thing. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We saved Yellowstone, our nation's first and great national\n\r    treasure as a park, from the ravages of mining. And we are\n\r    determined to do the same thing and save the Everglades in\n\r    Florida. That's important to all of us. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We have kicked dozens and dozens of dangerous chemicals out\n\r    of the marketplace and quickly replace them with safer\n\r    substitutes. We have increased community's right to know about\n\r    what is in their community and what kinds of chemicals they are\n\r    exposed to."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "All these things are important and they matter. And we're\n\r    better off because of them. We've also changed the way we do a\n\r    lot of our environmental work. We've streamlined rules and\n\r    regulations, challenged businesses and communities to come\n\r    together and stop fighting. We've emphasized results, not\n\r    punishments and regulations. We are proving that you don't have\n\r    to choose between a healthy environment and a health\n\r    economy."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "In Michigan, we have worked very closely with the auto\n\r    workers in the big three to develop a clean car that will get\n\r    three times the mileage of the average car today for the 21st\n\r    century in a way that will put money in the pockets of American\n\r    consumers, increase the quality of our environment and maintain\n\r    the dominance of our auto industry in the world for decades to\n\r    come. If we can succeed in the clean car, it will be a major\n\r    step forward to the cleanness of our environment and for the\n\r    security of the work right here in Michigan. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But we have more to do. You all know we have more to do. You\n\r    heard Mary's story of the work that is represented by this\n\r    beautiful water behind us. And you know that a lot of these\n\r    battles are won block by block, day by day. Carl Levin has been\n\r    working on the Great Lakes for a very long time block by block,\n\r    day by day, not just lake by lake, section by section. This is\n\r    hard work. And we have more to do."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want an America in the year 2000 where no child should\n\r    have to live near a toxic waste dump — (applause) — where no\n\r    parent should have to worry about the safety of a child's glass\n\r    of water, and no neighborhood should be put in harm's way by\n\r    pollution from a nearby factory. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Today, I am calling for a new national commitment to help\n\r    protect all communities from toxics by the year 2000. First, I\n\r    am determined that finally we clean up the toxic waste sites\n\r    that scar our landscape and threaten our neighborhoods."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "When I came into office, I vowed to strengthen and improve\n\r    the Superfund's cleanups. In the last three years — in the last\n\r    three years, not counting this year — we have cleaned up 197\n\r    toxic waste sites — more than in the previous 12 years. We're\n\r    doing three times more a year than were done before.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And we have done it while reducing the costs of these\n\r    cleanups. The Kalamazoo River here is going to be cleaned up by\n\r    polluters under your state's Superfund law. And some of the\n\r    cleanup has not begun. But we have to keep working on this. We\n\r    cannot slow down. We need to speed up the pace. These Superfund\n\r    sites have been out there too long. And the longer they're\n\r    there, the more danger there is that damage will be done. We\n\r    must speed up the pace. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I am here in Michigan because 10 million American children\n\r    under the age of 12 live within four miles of a toxic waste\n\r    dump. And an exceptional percentage of the children who live\n\r    there are children from the state of Michigan. Michigan has\n\r    more at stake in this initiative than any other state, but\n\r    every state's children are affected by our success. We must\n\r    press ahead. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Today we must commit our nation's willpower and resources to\n\r    meet a clear goal. In the next four years we will clean up\n\r    another 500 toxic waste sites, nearly double the pace of the\n\r    Superfund cleanups. And by the year 2000 we will clean up\n\r    two-thirds, the two-thirds worst toxic waste dumps in the\n\r    country. We will get them out of the neighborhoods where the\n\r    children live. (Applause.) We will do it."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We need another medical team over here. We need some water\n\r    and my medical team over here, wherever they are. Here we\n\r    go."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Let me also say that our cities are full of what we call\n\r    Brownfields — urban toxic waste sites. We have proved that they\n\r    can be cleaned up and turned into homes for safe businesses\n\r    that create jobs in areas that thought that they would never\n\r    get any new jobs again. The most important thing that I am\n\r    working on with the mayors of America today is cleaning up\n\r    these Brownfields so we can create jobs in the city. Again I\n\r    tell you, good environmental policy is good for the economy. It\n\r    creates jobs. It creates a future for America, and we have to\n\r    be prepared to do it. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We must bring the full force of law to bear on polluters who\n\r    are willfully jeopardizing the safety of our people. I am going\n\r    to send to Congress an environmental crimes bill to make it a\n\r    crime to attempt to pollute, that will give us the power to\n\r    catch polluters before they poison the land. (Applause.) The\n\r    bill will increase penalties for those who intentionally pump\n\r    toxics into our neighborhoods where our children will be\n\r    exposed. And it will enable us to hit polluters where it hurts.\n\r    It will give prosecutors the power to freeze polluters' assets\n\r    and require them to clean public their messes. That is perhaps\n\r    the most important thing of all. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We're also going to expand our community right-to-know law\n\r    to make more information, practical information available to\n\r    families easier and faster. Right-to-know will protect you here\n\r    in communities like Kalamazoo because you can find out what's\n\r    dangerous to your families. Once there is a right-to-know law,\n\r    companies think twice about what they do."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "In the decades since we've passed the first one, businesses\n\r    have reported reducing toxic emission by 43 percent.\n\r    Right-to-know works. Don't be fooled about it. It makes a big\n\r    difference. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I have ordered the Environmental Protection Agency to give\n\r    local environmental information to communities, including\n\r    putting it on-line where it will be handy to computers, in one\n\r    place by the year 2000. So that a parent could go to the local\n\r    library or go to a school or just turn on a computer and\n\r    immediately find out the chemicals in your community to which\n\r    your children are exposed. That is a powerful early warning\n\r    system. And it will help grass-roots environmental activism\n\r    clean the environment even more. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Finally, let me say, we have to take further steps to stop\n\r    toxics from getting into our drinking water. I signed an\n\r    executive order that directs every federal agency that's\n\r    appropriate to join in our effort to crack down on those who\n\r    would poison the waters and make them pay to clean it up. I\n\r    want to see to it that Congress fully funds the Safe Drinking\n\r    Water Act we just signed into law last month. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And in particular, I've made a commitment in my balanced\n\r    budget plan to work with Carl Levin and others to continue to\n\r    improve the quality of the Great Lakes. (Applause.) We've\n\r    worked hard to carry out the Great Lakes water quality\n\r    initiative, which Senator Levin did so much to bring about and\n\r    we'll keep right on doing it."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We are blessed with magnificent natural resources. Every\n\r    time our family goes on vacation in a national park, I thank\n\r    God again for the good fortune of being an American and for all\n\r    the blessings we've been given just by the grace of God. But\n\r    I'll tell you, we've been given it; it's up to us to do the\n\r    right things with it."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We have learned some fundamental things. Not only do you not\n\r    have to hurt the economy to protect the environment — what\n\r    difference does it make if you have money if you don't have\n\r    clean water, clean air, a good natural environment, safe food\n\r    and a good public health system? (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And finally, we now know that this is not a negative thing.\n\r    We now know that one of the most effective ways to create good,\n\r    high-wage jobs in the 21st century is to invest in research, in\n\r    technology and in protecting the environment. That is the\n\r    direction we're going to take and that will keep us right on\n\r    track for the 21st century."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Thank you and God bless you. Thank you. (Applause.)"
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

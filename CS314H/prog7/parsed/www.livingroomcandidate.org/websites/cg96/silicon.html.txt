@@ -1,0 +1,91 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "Campaign Announces New Senior Advisor"
+End element:   TITLE
+Characters:    "\r\n\r\r\n\r"
+Start element: KPETITLE
+Start element: B
+Characters:    "For Immediate Release:"
+End element:   B
+Characters:    "\r\n\rCampaign Announces New Senior Advisor"
+Start element: DD
+End element:   KPETITLE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "  "
+Characters:    "\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r"
+Characters:    "Media Advisory\r\n\r"
+Characters:    "August 20, 1996\r\n\r\r\n\r\r\n\r"
+Start element: P
+Start element: Center
+Characters:    "SILICON VALLEY BUSINESS LEADERS TO ENDORSE CLINTON/GORE"
+End element:   center
+Characters:    "\r\n\r\r\n\r"
+Start element: P
+Start element: Center
+Characters:    "***LIVE AUDIO AVAILABLE***"
+End element:   center
+Characters:    "\r\n\r\r\n\r"
+Start element: P
+Characters:    "San Jose, CA -- On Tuesday, August 20 at noon PDT, President Clinton and Vice President Gore will receive an \r\n\rendorsement from prominent executives from high technology companies in the Silicon Valley and throughout California. \r\n\r The executives will gather at Adobe Systems in San Jose, while President Clinton and Vice President Gore will join them via \r\n\rtelephone from the White House for their announcement.  The call from the White House will be pooled press for\r\n\rstill photographers only.  However, the Adobe Systems location in San Jose will be open to press coverage. \r\n\r Live listen-in-only audio of the call is available by dialing: 1-800-283-1693.  This line will allow reporters unable to attend the\r\n\revent to listen to the announcement.\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "WHAT:\t\tSilicon Valley Executives endorse Clinton/Gore\r\n\r\r\n\r"
+Start element: P
+Characters:    "WHEN:\t\tTuesday, August 20, Noon, PDT\r\n\r\r\n\r"
+Start element: P
+Characters:    "WHERE:\t\tAdobe Systems, 345 Park (between Almaden and Guadalupe Parkway)\r\n\r\r\n\r"
+Start element: P
+Characters:    "COVERAGE:\t\tOPEN PRESS\r\n\r\r\n\r"
+Start element: P
+Characters:    "NOTE:\t\tInterested media must arrive no later than 11:45am PDT and bring proper \r\n\rpress and photo identification.  No prior notification is necessary.  General press parking \r\n\ris available in the garage on Park (near Guadalupe).\r\n\r\r\n\r"
+Start element: p
+Start element: center
+Characters:    "###\r\n\r"
+End element:   center
+Characters:    "\r\n\r\r\n\r\r\n\r \r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    " "
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee,\r\n\rInc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End of document

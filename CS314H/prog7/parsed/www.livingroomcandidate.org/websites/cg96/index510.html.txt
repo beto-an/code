@@ -1,0 +1,354 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "America’s Home Page"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #BE0023
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: width, Value: 230
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +4
+Start element: b
+Characters:    "The Big Switch"
+End element:   b
+End element:   font
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    " "
+Start element: font
+Key: size, Value: +1
+Characters:    "Melanie\n\r            Scribner and son Randy Jr."
+End element:   font
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Characters:    "Charlotte, North Carolina"
+End element:   font
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Characters:    "http://www.mindspring.com/"
+Characters:    "\n\r            ~melscrib/williams.htm"
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“I switched political parties between history and\n\r          algebra classes."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“I have been considering becoming a Democrat for about\n\r          8 years because during that period of time I have felt\n\r          less and less represented by the Republican party and\n\r          more and more that the issues I'm concerned with are\n\r          being addressed by the Democratic party. As a woman, I am\n\r          concerned with minority issues, and as a student, I am\n\r          definitely concerned with education in America."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“I think President Clinton's program to guarantee two\n\r          years of community college is a good idea. If such a plan\n\r          were implemented, it would put education in the hands\n\r          (and minds) of people who otherwise couldn't afford it.\n\r          Community colleges are more than just technical schools\n\r          these days. They teach life skills. Not only can a person\n\r          learn a trade or complete the first two years of a\n\r          four-year degree at a community college, these\n\r          institutions teach basic literacy, and English as a\n\r          second language. They retrain corporate America."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“President Clinton visited my college in July. I was\n\r          one of the volunteers from the college who helped the\n\r          presidential staff. The essay on my home page constitutes\n\r          my observations about Clinton's visit and many people\n\r          have found them powerful when combined with the\n\r          photographs that inspired them.”"
+End element:   p
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 230
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +4
+Start element: b
+Characters:    "A Brighter Future"
+End element:   b
+End element:   font
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +2
+Characters:    "by Mark Abrams"
+Characters:    "\n\r            Warwick, Rhode Island"
+End element:   font
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“Six years ago, I decided to move to New England in\n\r          1990 to accept a position as a Design Engineer, but\n\r          quickly found myself out of a job as the company had to\n\r          layoff to remain financially solvent. I remained\n\r          unemployed for most of 1991 until finding another\n\r          entry-level position. I worked and trained for this large\n\r          corporation for almost three years before being laid\n\r          off."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“Before President Clinton's economic leadership, the\n\r          overall perception of a rudderless economic course added\n\r          to the instability in the business community and I\n\r          believe had a direct affect on the working lives of many\n\r          Americans, not just myself. Unemployment and inflation\n\r          was high and business investment in infrastructure and\n\r          new hiring was at a ten year low."
+End element:   p
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: size, Value: +2
+Characters:    "“I can definitely see how the\n\r            economic changes in the past three years have impacted\n\r            my life.”"
+End element:   font
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“ Now, I've been working for a new company in Southern\n\r          New England and I feel less worried about my working\n\r          future. I now have the resources to support a family\n\r          which freed me to marry my long-time girlfriend. I and my\n\r          new wife are now in the process of building a new home in\n\r          a beautiful area of the state."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“I'm convinced that the President has kept extremists\n\r          from both sides at bay on important social and economic\n\r          issues by compromising when needed to keep us moving\n\r          forward as a country. My wife and I consider ourselves as\n\r          �moderates� and we believe the President and Vice\n\r          President share our core beliefs in family, the\n\r          environment, education, and a stable long-term plan for\n\r          the economy.”"
+End element:   p
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 230
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +4
+Start element: b
+Characters:    "Ohio Design"
+End element:   b
+End element:   font
+Characters:    "\n\r            "
+Start element: p
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: size, Value: +2
+Characters:    "by Robert Farmer"
+Characters:    "\n\r            Upper Arlington, OH"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“Dear America's Home Page —"
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“I used all of the campaign button designs from your\n\r          website and made an animated gif. I hope you don't mind.\n\r          Actually, I hope you like it! Take it if you do, and use\n\r          it as much as you can! Thank you, and you have MY vote in\n\r          '96!”"
+End element:   p
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Start element: a
+Key: name, Value: ct
+Key: id, Value: ct
+End element:   a
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +4
+Start element: b
+Characters:    "Protecting the Future"
+End element:   b
+End element:   font
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: size, Value: +2
+Characters:    "by Hank Eliot, Jr."
+Characters:    "\n\r            Hartford, CT"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“Dear America's Home Page —"
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“I just wanted you guys to know that the protection of\n\r          our environment is the most important issue to me besides\n\r          the education of my 6 year old girl Mariah. The other day\n\r          my daughter asked me if the forests and lakes and rivers\n\r          and air would still be this nice when she grows up. I\n\r          cried and promised her that they would. Please help me to\n\r          keep my promise. Thanks and good luck. Al Gore, I salute\n\r          you as the best and most knowledgable environmental\n\r          leader in the free world. Peace, Hank"
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "ps... you have my vote!!!!!”"
+End element:   p
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Key: height, Value: 25
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Characters:    "\n\r          "
+Characters:    " "
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: a
+Key: border, Value: 0
+Key: href, Value: index8-2.html
+Key: name, Value: America's Home Page
+End element:   a
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Key: height, Value: 25
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: b
+Start element: i
+Characters:    "Past Editions"
+End element:   i
+End element:   b
+Characters:    "\n\r      "
+Start element: p
+Start element: a
+Key: href, Value: index1.html
+Start element: i
+Characters:    "First Edition"
+End element:   i
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index210.html
+Start element: i
+Characters:    "Second Edition"
+End element:   i
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index310.html
+Start element: i
+Characters:    "Campus Edition"
+End element:   i
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index410.html
+Start element: i
+Characters:    "Fourth Edition"
+End element:   i
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

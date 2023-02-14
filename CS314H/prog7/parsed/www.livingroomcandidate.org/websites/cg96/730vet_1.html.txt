@@ -1,0 +1,118 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "New Assistant Director of Public Liaison for Veterans\n\r  Outreach"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    7/31/96"
+Characters:    "\n\r    PRESS RELEASE"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "CLINTON/GORE '96 APPOINTS NEW ASSISTANT DIRECTOR OF\n\r    PUBLIC LIASON FOR VETERANS OUTREACH"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The Clinton/Gore '96 campaign has appointed Thomas S.\n\r    Keefe, a former U.S. Army military policeman, as the Director\n\r    of Veterans Outreach. Mr. Keefe will act as a liaison for\n\r    Veterans; formulate and execute plans to reach the nation's 26\n\r    million veterans; coordinate Clinton/Gore '96 campaign events\n\r    for Veterans; and will be instrumental in the operation of the\n\r    national Clinton/Gore '96 Veterans steering committee to be\n\r    named in August."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Mr. Keefe served with the 199th Light Infantry Brigade\n\r    in Vietnam from May 1969 to March 1970. He comes to the\n\r    Clinton/Gore '96 campaign from the U.S. Department of Labor\n\r    where he served as a special advisor to the Assistant Secretary\n\r    of Veterans Employment and Training."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"The Clinton Administration has amassed an impressive\n\r    and far-reaching record in serving veterans and their families,\n\r    and Tom's experience with and dedication to Veterans will be a\n\r    tremendous asset to the campaign,\" said Alan Wheat, Deputy\n\r    Campaign Manager and Director of Public Liaison."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Under President Clinton's leadership, the Department of\n\r    Veterans Affairs (VA) and other governmental departments made\n\r    great strides in addressing the needs of veterans. Each of\n\r    President Clinton's annual budgets has contained significant\n\r    increases for the VA. For the 1997 fiscal year, the President\n\r    proposed a $1.3 billion increase for the VA above the amount\n\r    Congress appropriated for fiscal year 1996, more than half of\n\r    which would be directed toward veterans' health care and other\n\r    discretionary programs. In addition, the VA and other agencies\n\r    increasingly addressed the needs of the Persian Gulf War\n\r    veterans who have undiagnosed illnesses."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The Clinton Administration has also expanded services\n\r    for women and minority veterans; initiated new treatment\n\r    programs for veterans suffering from Post-Traumatic Stress\n\r    Disorder (PTSD); broadened presumptive benefits for veterans\n\r    exposed to Agent Orange and radiation; and increased assistance\n\r    to homeless veterans."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton has demonstrated his dedication to\n\r    Veterans by sending to Congress legislation that would simplify\n\r    complex and arcane eligibility rules and improve access to care\n\r    at VA hospitals. As the President said in his speech to the\n\r    Disabled American Veterans on July 28th, \"We are committed to\n\r    keeping the VA health care system strong into the 21st century,\n\r    and we know that requires us to carry out a dramatic\n\r    restructuring that will improve the quality of care and make\n\r    our hospitals more patient-centered and less bureaucratic\"� The\n\r    VA has undertaken a comprehensive reorganization of its health\n\r    care system to become more efficient and be more responsive to\n\r    the needs of its patients."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "###"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

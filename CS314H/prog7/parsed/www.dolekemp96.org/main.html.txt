@@ -1,0 +1,747 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Dole Kemp '96"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: vlink, Value: #FF0000
+Key: alink, Value: #FF0000
+Key: background, Value: background.jpg
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: div
+Key: align, Value: center
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r      "
+Start element: table
+Key: border, Value: 0
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Key: width, Value: 513
+Key: height, Value: 248
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: width, Value: 125
+Key: height, Value: 228
+Key: rowspan, Value: 3
+Key: valign, Value: top
+Key: align, Value: left
+Characters:    "\n\r            "
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "Welcome"
+Characters:    "\n\r            Students"
+End element:   font
+End element:   b
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r            &nbsp;"
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r            "
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r            "
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: a
+Key: href, Value: news/news.html
+Characters:    "Latest News and"
+End element:   a
+Characters:    "\n\r            "
+Start element: a
+Key: href, Value: news/news.html
+Characters:    "Updates"
+End element:   a
+End element:   font
+End element:   u
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r            &nbsp;"
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r            "
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r            "
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: a
+Key: href, Value: agenda/issues/education.html
+Characters:    "K-12\n\r            Education"
+End element:   a
+End element:   font
+End element:   u
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r            "
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: a
+Key: href, Value: agenda/issues/internet.html
+Characters:    "Technology\n\r            and"
+End element:   a
+End element:   font
+End element:   u
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r            "
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: a
+Key: href, Value: agenda/issues/internet.html
+Characters:    "Internet"
+End element:   a
+End element:   font
+End element:   u
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r            "
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: width, Value: 14
+Key: height, Value: 228
+Key: rowspan, Value: 3
+Key: valign, Value: top
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: width, Value: 102
+Key: height, Value: 88
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r            "
+Start element: a
+Key: href, Value: about/about.html
+End element:   a
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: a
+Key: href, Value: about/about.html
+Characters:    "About the\n\r            Team"
+End element:   a
+End element:   font
+End element:   u
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "The Story of"
+End element:   font
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "&nbsp;American Heros."
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: width, Value: 102
+Key: height, Value: 88
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r            "
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: a
+Key: href, Value: interactive/interactive.html
+Characters:    "Dole\n\r            Interactive"
+End element:   a
+End element:   font
+End element:   u
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Games, trivia, posters,"
+End element:   font
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "and"
+End element:   font
+Characters:    " "
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "postcards."
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: width, Value: 102
+Key: height, Value: 88
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r            "
+Start element: a
+Key: href, Value: agenda/agenda.html
+End element:   a
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: u
+Start element: a
+Key: href, Value: agenda/agenda.html
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Characters:    "The Dole\n\r            Agenda"
+End element:   font
+End element:   a
+End element:   u
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Policy, local issues,"
+End element:   font
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "&nbsp;and feedback."
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: width, Value: 14
+Key: height, Value: 228
+Key: rowspan, Value: 3
+Key: valign, Value: top
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: width, Value: 130
+Key: height, Value: 228
+Key: rowspan, Value: 3
+Key: valign, Value: top
+Key: align, Value: left
+Characters:    "\n\r            "
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "Today's"
+Characters:    "\n\r            Headlines"
+End element:   font
+End element:   b
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r            "
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 2
+Characters:    "November 5,\n\r            1996"
+End element:   font
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r            "
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r            "
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Characters:    "Follow along on the Victory Marathon"
+End element:   font
+End element:   u
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r            "
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Key: color, Value: #0000FF
+Start element: u
+Characters:    "Calculate your tax cut!"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r            &nbsp;"
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r            "
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r            "
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: a
+Key: href, Value: news/speeches/speeches.html
+Characters:    "Speeches"
+End element:   a
+End element:   font
+End element:   u
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: width, Value: 102
+Key: height, Value: 88
+Key: valign, Value: top
+Characters:    "\n\r            "
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Characters:    "Get Involved"
+End element:   font
+End element:   u
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "How can you help"
+End element:   font
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "elect Bob Dole."
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: width, Value: 102
+Key: height, Value: 88
+Key: valign, Value: top
+Characters:    "\n\r            "
+Start element: a
+Key: href, Value: trail/debates/debates.html
+End element:   a
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: a
+Key: href, Value: trail/trail.html
+Characters:    "On the\n\r            Campaign Trail"
+End element:   a
+End element:   font
+End element:   u
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Follow the campaign"
+End element:   font
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "around America."
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: width, Value: 102
+Key: height, Value: 88
+Key: valign, Value: top
+Key: align, Value: center
+Characters:    "\n\r            "
+Start element: a
+Key: href, Value: praug296.html
+End element:   a
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: u
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: a
+Key: href, Value: news/news.html
+Characters:    "News\n\r            Room"
+End element:   a
+End element:   font
+End element:   u
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "The Latest news"
+End element:   font
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "and information."
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: width, Value: 312
+Key: height, Value: 52
+Key: colspan, Value: 3
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r      "
+End element:   table
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   div
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: interactive/interactive.html
+Characters:    "Dole Interactive"
+End element:   a
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Start element: a
+Key: href, Value: news/news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: agenda/agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    " "
+Start element: a
+Key: href, Value: agenda/agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: trail/trail.html
+Characters:    "On the\n\r  Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/news/news.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/praug296.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/issues/education.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/issues/internet.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/trail/trail.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/interactive/interactive.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/news/speeches/speeches.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/trail/debates/debates.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/agenda.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/about/about.html

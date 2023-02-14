@@ -1,0 +1,430 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "More Than 1,100 Republicans Endorse Clinton/Gore\n\r  '96"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    November 1, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "MORE THAN 1,100 REPUBLICANS PERSONALLY ENDORSE\n\r      PRESIDENT CLINTON AND VICE PRESIDENT GORE"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Washington, D.C. -- More than 1,100 Republicans have\n\r    personally endorsed President Clinton and Vice President Gore,\n\r    announced Clinton/Gore �96 Campaign Manager Peter S. Knight\n\r    today. The endorsements reach across 25 states and the District\n\r    of Columbia and include prominent business executives, elected\n\r    officials, educators and entertainers."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "In releasing the list of Republican endorsers, Knight\n\r    said \"We are proud to have such a prestigious group of\n\r    Republicans showing their support for the President. President\n\r    Clinton�s record of accomplishment and vision for the future\n\r    resonates deeply with Americans across the nation,\" Knight\n\r    added."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton and Vice President Gore have been\n\r    endorsed by Republicans such as actor Kevin Costner; Lanie\n\r    Wheeler, who is Mayor of Palo Alto, California; Nancy Graham,\n\r    who is Mayor of Palm Beach, Florida; George Cabot Lodge, who is\n\r    a professor at Harvard School of Business and son of Henry\n\r    Cabot Lodge; Thomas Hoving, who is the former Director of the\n\r    Metropolitan Museum of Art in New York; and Chuck Newman, who\n\r    is President and CEO of TSG-The Source Group. There are large\n\r    numbers of Republican endorsers in California and New Hampshire\n\r    with additional names being added."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"It is clear why so many Republicans are\n\r    enthusiastically supporting the President and Vice President.\n\r    Before they took office, the deficit had reached a\n\r    record-breaking $290 billion, the economy was stagnant, jobs\n\r    were disappearing, and unemployment was high. Under President\n\r    Clinton�s and Vice President Gore�s strong economic leadership,\n\r    the deficit has been cut by 63 percent, more than 10.7 million\n\r    new jobs have been created, annual income is up $1,600, and\n\r    businesses -- large and small -- are thriving,\" said Kathryn\n\r    Haycock a long-time Republican who voted for former President\n\r    George Bush and is President and CEO of Call-America."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The endorsements were made by Republicans in their\n\r    individual capacities and are not the endorsements of the\n\r    businesses for which they work. Attached is the list of\n\r    Republicans who have endorsed the re-election of President\n\r    Clinton and Vice President Gore."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "REPUBLICANS ENDORSING PRESIDENT CLINTON AND VICE\n\r    PRESIDENT GORE"
+Characters:    "\n\r    November 1, 1996"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The following individuals have personally endorsed the\n\r    Clinton/Gore �96 ticket."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: u
+Start element: i
+Characters:    "ARIZONA"
+End element:   i
+End element:   u
+Characters:    "\n\r    Sally Barten, Terri Benson, Joni Bosh, Llene Celniker, Amy\n\r    Clague, DJ Crawford, Janice Dain, Gloria Ferolie, Norma Ferris,\n\r    Heather Godel, Sally Gonzales, Teddylen Guffey, Pamela Hall,\n\r    Marcia Janssen, Melinda McKinney, Pam Muller, Marion Murray,\n\r    Barbara Newby, Joan Newth, Holly O�Brien, Roselyn O�Connell,\n\r    Shirley Odegaard, Sue Owens, Linda Platt, Randi Rummage, Mary\n\r    Sadvari, Mary (Peggy) Schaefer, Todd Stansbury, Cheryl Swain,\n\r    Wilma Walsh, Laura Watson, Stephanie Williams, Mauryne Young,\n\r    Kathryn Haycock, Holly O�Brien"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: u
+Start element: i
+Characters:    "CALIFORNIA"
+End element:   i
+End element:   u
+Characters:    "\n\r    Kevin Costner, Patti DeDominick, John Doerr, Roger Johnson,\n\r    Scott Porter, Kathryn Thompson, Richard Whitmen, Deborah\n\r    Szckely,Colonel William A. Dougherty, USMC (Ret.) Craig Brians,\n\r    Monic Molina, Michael Scheider, Magda Wilson, James Chou, Mary\n\r    Ferrier, Richard Dydell, Agnes Kalb, John Oakley, Donald\n\r    Tutich, Jeff Sheir, Karl Stocker, Dorothy Morrow, Adrienne\n\r    Sarmiento, Wenceslao Sarmiento, Jana Burt, Timothy Battig,\n\r    Barbara Herrera, Bill Herrera, Dawn Hummer, Sally Keane,\n\r    Suzanne Worley, Mary D. Ippolito, Rebecca Samuels, Celeste\n\r    Pinto-Mclain, Stephen Bell, John Doerr, Yvette Del Prado, Cathy\n\r    Adams Camera, Mitchell Primrose, Ernest Khim, Izabella Vishmid,\n\r    Barbara Corry, Margaret Gould, Carolyn Durst, William Bernhoft,\n\r    Lois Stelling, Bob McGuire, Lucille Westfall, Steven Crosby,\n\r    Leopold Melnyk, Ottilia Melnyk, Theodore Schoenwetter, Raymond\n\r    Valente, Virginia Priday, Laura Abrahams, Ken Ahl, James\n\r    Carpenter, Clara Ness, Linda Horner, Ruthanna Chase, Margaret\n\r    Henke, Marilyn Surburg, Margrit Schrenk, Dana Westmore, Shelley\n\r    Westmore, Claire Westmore, Tom Tupper, Eileen Murray, R.K.\n\r    Elliott, Myrna Darling, Linda Bacchus, Ivan Bishop, Julia\n\r    Boynton, Dan Kaske, Marjorie Leonard, Jackie Ballard, Allan\n\r    Beek, Shirley Coffee, Kevin Daehuke, Eileen Ferber, Marcia\n\r    Fouladi, George Orall, Jim Goodson, Mary Eleanor Haenggi, Tom\n\r    Hanes, Harry Jeffrey, Lauren Lajole, Kim Schneider, Dan\n\r    Blumberg, Richard Whitman, Kathy Baker, Josephine Baldwin,\n\r    Linda Barbour, Jeffrey Brinton, Joan Campbell, Chris Laub,\n\r    Karen Cole, Pat Cox, Judy Curreri, Irene Ford, Morton Friedkin,\n\r    Harriet Weider, Paige Gold, Victoria Hilditch, Pat Hollander,\n\r    John Hooper, Bill Hutchens, Catherine Jacobsen, Norma Karg,\n\r    Kathy Thornton, Ida Kelley, Cheryl Koos, Steven Lief, Susan\n\r    Magorien, Joanna Massey, Nancy Skinner, Ivan Nenadic, Katherine\n\r    Newmark, Patricia Oktay, S. Beaux McCarty, Debra Milligan,\n\r    Margaret Gagliano, Patti DeDominick, Nicholas Rockerfeller,\n\r    Bill Dougherty, Jennifer Diener, Sylvia Fliss, Cathal Flynn,\n\r    Mick Trainor, Stansfield Turner, Kathryn Thompson, Liz Tice,\n\r    Kevin Tilden, Jon Ragget, Robert Reid, Judy Schmitt, Gladys\n\r    Schnabel, David Scott, Ron Shenkman, Greg Slapak, Pat Summers,\n\r    Keith Swayne, Karen Oswald, Jean Watt, Mike Rubino, Lanie\n\r    Wheeler, Steven S. Myers, Dr. Dina McMillan, Betsy Pendergast,\n\r    Sharon Vaclavek, Gus Vletas, Richard Warg, Margaret Johnson\n\r    White, Harriet Wieder, Bobbi Wiggins, Sheri Zabor-Alvi, Abe\n\r    Arzerounian, Hank Attina, Mark Glavan, John Gasperian,\n\r    BobJugan, Bruce Jugan, Michael Katz, Brian McInerney, Domini\n\r    Napoli, John Ohanesian, Michael Pattison, Mike Reza, Ara\n\r    Sevarcherian, John Galich, David Sanders, Julie Araskog, John\n\r    Brimage, Ben Walkers, Duane Aasterd, Harvey Hamber, Jr., Marie\n\r    Gurrola, Marilyn Limond, Mary Leigh Black, Arthur Patterson,\n\r    Daniel Fernandez, Jason Scott, Matthew Felsot, Pavel Cerny,\n\r    Brian Ramos, Indu Patel, Sumant Patel, Viren Sanghavi, Jack Sr.\n\r    Richardson, Neil Chietam, Kim Lombard, Bernard Sullivan,\n\r    Loretta Carnes, Winifred Bartolucci, Angelina Vinciguerra,\n\r    Karen Massey, Kathy Masera, Sumi Khim, Robin Anderson, Frank\n\r    Swann, Alan Gobel, Carrie Brumfield, Robert Tarquinio, Herbert\n\r    Neistrom, Henry Frank, Donald Lloyd, Kenneth Lloyd, Gary\n\r    Brumfield, Edward Chou, Mo Ping Chou, Mark Korvas, Gertrude\n\r    Miller, Ruth Masson, Linda Brown, Pamela Mount, Steve Mount,\n\r    Charlotte Nedelcove, Joan Milne, Betty Lou Harmon, Toni Foster,\n\r    Aldona Venckunas, Doreen Crossett, Edith Lorenz, Margaret\n\r    O'Malley, Wilma Proctor, Dorothy Wldon, Kathryn Herman, Fannie\n\r    Bogwicz, Susan Rosenthal, Michael Bennett, Sharon Bennett,\n\r    Graig Yettra, Benjamin Spain, James Linville, Micheal\n\r    Marsellos, Rob Ferber, Jeanne Flynn, Celia Diaz, George Crall,\n\r    Muriel Crall, Raymond Alvarado, Jason Clodfelter, Ken Collins,\n\r    Patricia Callahan, Michael R. Robinson, Carl Berman, Mitchell\n\r    Goldstone, Tom Peterson, Jim Albright, Christina Cole, Linda\n\r    Orr, Debbie Dakouzlian, Lori Winterrowd, Brad Luke, Raymond\n\r    Herbert, Greg Johnson, Alma Hata, Stephen Johnson, Leonard\n\r    Louis, Leslie Talt, Lee Nelson, Evelyn Mockary, Garlan Powell,\n\r    Katie Gugleburger, Pavon Phebe, Munson Jonathan, Kheraj Muizz,\n\r    Keith Howard, Teitelman Meri, Johnson Helen,\n\r    CasillasDust-Malynn, Elizabeth Usher, Svetlana Uber, Richard\n\r    Earlix, Tallien Perry, Ruth Hasson, Maria Kohne, Mark Hopkins,\n\r    Gerald Forrester, Steven McInnes, Exequiel Dios, Kevin Coffman,\n\r    Timothy Wesley, Tim Stone, Donald Ovens, Nancy Best, Dolores\n\r    Seely, Margaret Del Nostro, Laura Washington, Mark Javurek,\n\r    Erik Wilmink, Robbie Spiker, Phillip Lunn, Phebe Pavon,\n\r    Jonathan Munson, Dolores Coleman, Muizz Kheraj, Erik Steeb,\n\r    Elizabeth Peistrup, Peggy Green, Anthony Ruckstuhl, Maureen\n\r    Ruckstuhl, Michael Fetta, Paul Gonzales, Martha Gonzales,\n\r    Vernon Dysin, Maria Glacalone, Ellen Gunty, Lillian Haning,\n\r    Mike Gurrola, Marie Connor, Rosa Caruso, Kimberly Casillas,\n\r    Kristina Casillas, Virginia Casillas, Mildred Pritchard, Meri\n\r    Teitelman, George Balanis, Evelyn Elliot, Frank Cline, Bryan\n\r    Weidel, Lucy Beteta, Sharon Grafton, Michael Gonzales, Michael\n\r    Adams, Patricia Thomas, Marion Dallas, Greg Vie, Iraj Roohani,\n\r    Suzzane Nash, Rosemary Hawkins, Chin Ho, Milton Hoffman, Mary\n\r    Hollo, Harold Ingebretsen, Wendy Jodel, Polly King, Randi\n\r    Helsel, Mary Richards, Karen Alexander, Daniel Dvorsky, Shelia\n\r    De Marco, Elizabeth Carrera, Esequiel Carrera, Eduardo Besser,\n\r    Robert Besser, James Coleman, Mary Hill, Jeanne Amico, Betty\n\r    Ray, Ray Ray, Barbara Siel, David Williams, Vincent Romero,\n\r    Alex Vital, Helen Porter, Cornilia Moore, Gudelia Navarro,\n\r    Henry Schwartz, Yecheskiel Zamir, Mary Lou Dorian, Karen Bauer,\n\r    Alex Curi, Vladmir Zelman, Steve Kelley, Heidi Vaynman, Muriel\n\r    Barlow, Robert Packham, Katherine Devonshire, Woldimar Askan,\n\r    Wlodzimeriz Askan, Judy Tupper, Elizabeth Varady, Dina Karpel,\n\r    Jim Humphrey, Raisa Gutgarts, Norman Henke, Nancy Hutchens,\n\r    Robert Newmark, John Schnabel, Gloria McClellan, Orrin Accardi,\n\r    Charles Adam, Alinia Asmundson, Elena Badie, David Barcala,\n\r    David Bauer, Mark Beach, Lisa Beauchamp, John Bennett, Sallie\n\r    Bishop, Dallas Blaydes, Hollister Boss, Agnes Boyd, Mark\n\r    Bozaich, Nancy Burger, Paul Busch, Nancy Byrne, Richard Byrne,\n\r    Carolyn Capps, Jose Castaneda, Nicole Castaneda, Gon Chan,\n\r    Gregory Chatfield, Serge Chaumette, Raymond Cheung, William\n\r    Choi, Roger Chrisman, Stephen Christenser, William Cullin,\n\r    Denison Cook, Esteban Corrales, Betty Cramer, Sharon Davis,\n\r    Jefferson del Porto, Kim Dong, Douglas Barry, Ronald Kang,\n\r    Leontira Doromal, Cecil Eden, Jewell Eden, Claribel Ellis,\n\r    Louis Evant, Yolanda Fernandez, Robert Foster, Julie Tull\n\r    Fraser, Virginia Frings, Helen Ganbi, Elizabeth Garrison, Bill\n\r    Gibons, Debbie Gindt, Karen Graul, Christopher Green, Vanessa\n\r    Greenmayor, Ellen Bunty, G. Andrew Gyorke, Joyce Halbert, Peggy\n\r    Hall, Nonette Hanko, Robert Hanko, Elizabeth Hanson, John\n\r    Henry, Joe Hibbard, Day Hilborn, Kevin Hill, Mark Holt, Robert\n\r    James, Frederick Jeffery, Sandy Jones, Elizabeth Kane, Jennifer\n\r    Kemling, Laurel Knapp, Dolores Knoll, Terry Kreele, Laurie\n\r    Kurth, Erma Kang, Garrett Hollarn, Barbara Clark, Emilo Laguna,\n\r    Pat Lam, Ezequiel Lara, Suzanne Larue, Nikkie Lattie, Mary\n\r    Layson, Flora Lee, Charlotte Lemley, Tony Look, Leslie\n\r    Luttgens, Ruth Mallett, Hugo Manzano, Kathy McNichol, Gretchen\n\r    Molka, Michael Moore, Edith Norris, Gail Nevius, Douglas\n\r    Nisbet, Marcia Nordquist, Jane Okutsu, Ben Parker, Lorraine\n\r    Pilat, Scott Porter, John Ramos, Jeff Reber, Heather Reed, Ruth\n\r    Rentz, Marshall Rice, Robert Richardson, Harold Rogers, William\n\r    Rogers, Maria Ruiz, John Salengo, Kathryn Sanbongi, Robb Saye,\n\r    Staci Schacht, Rick Scherbauer, Scott Schulken, Rebecca Shaw,\n\r    Jon Silver, Dorothy Small, Pam Story, Randi Swihart, Karen\n\r    Tappin, Mark Taylor, Michael Thaker, Janet Thompson, Rasanna\n\r    Tierney, Paterno Timonera, Kirk Torres, Eleanor Traverso, Brady\n\r    Tune, Maria Tuttle, Maey Van Horn, Samuel Van Horn, Mercie\n\r    Villegas, Olga Virapaeff, Derrick Vonschiegeil, Ethel Wallace,\n\r    Matthew Watson, Vicky Watson, Martha Williams, Roy Williams,\n\r    Sue Wong, Richard Zavala, Terye Levy, Christopher Little, John\n\r    Madsen, Edith Magoffin, Andrea Manwill, Sharon Mathis, Julie\n\r    Mclear, Carmen Michaelian, Maria Mota, Dorothy Murray, Lloyd\n\r    Murray, Peter Pero, Jeffery Provost, Martha Ralph, Lana\n\r    Samporn, Victoria Sanches, Karen Rauch Scheel, Harold\n\r    Schlessler, Thomas Schoz, Lawrence Sheehan, Madeline Sheehan,\n\r    Frank Shewmaker, Belin Shewmaker, Clint Smith, Daniel Smith,\n\r    Michelle Steiner, John Stevens, Fred Stundtner, Barbara Taylor,\n\r    Phil Teschner, Lee Tho, Tracy Wills Worley, Suzie Tonne,\n\r    Vladimir Vourieff, John Williamson, Rhoda Wurthman, Marilyn\n\r    Hamilton, Jeanne Mohr, Ida Owens, Vincent Pellerito, Martin Bud\n\r    Pernoll, Dr. Lloyd Porter, Bruce Redditt, Carol Steven, Ed\n\r    Whitman, Abbas Semanani, Aleli Neal, Kenneth Donaldson, Julius\n\r    Brooks, Beva Stevens, Amy LePre, Shirley Porter, Joe Gomez,\n\r    Cleo Merriman, Melba Griffen, Thomas Collins, Paul Colbert,\n\r    Pearl Wygocki, Leonard Konopelski, Satish Chand, James Brown,\n\r    Rachel Trujillo, Reuben Yeroushalmi, Willie Shaughnessy, Camilo\n\r    Morales, Carol Newman, Jamil Chaghouri, Raymond Moon, Thad\n\r    Barrow, Mitsi Yuhas, Betty Maxey, Robert McMahill, Stephanie\n\r    McMahill, Norma Joyce, Bernice Williamson, Patricia Daub,\n\r    Margaret Jones, Darlene Chapman, Timothy Inga, Minette Carter,\n\r    Colin Cole, Geraldine Boaz, Kory O Keefe, David Willis, Leigh\n\r    Willis, Helen Chinn, Trudy Real, Jack Brooks, Gary Diaz, Diane\n\r    Sanchez, Virginia Pena, Nancy Temple, Daniel Bergen, Doris\n\r    Tranchina, Opal Cooper, Delfina Avila, Laurence Sloan, Patricia\n\r    Eagan, Dorothy Morrison, Angelita Duarte, Margaret Nadeau, Remi\n\r    Nadeau, Steven Shulem, Sherman Harrison, Robert O. Collins,\n\r    Helen Cordero, Kathleen Orduno, Ian Fitzgerald, Michael Brown,\n\r    Dylan Candelaria, Darren Gravley, Gary Higgins, Marcia Nichols,\n\r    Zelle Olson, Adria Goppelt, Wylane Hill, Susan Simon Bignasci,\n\r    James Vincent, Frances Henderson, Phillip Webber, Thomas\n\r    Hester, William Turner, Joan De Pew, Theodore De Pew, Keely\n\r    Hathaway, Karen Hathaway, Patricia Hathaway, Elizabeth Slason,\n\r    Thi Ngo Huong, Mrs. Thi Ngo Huong, Clifton Walker, Sylvia\n\r    English, Sonia Edwards, Modene Fields, William Robinson, Betty\n\r    Grylls, Gary Hopson, Jerry Gardner, Mrs. Jerry Gardner, Michael\n\r    Martin, Gloria Meyer, Solomon Patton, James Johnson, Lucille\n\r    Johnson, Ganelle Johnson, Barbara Franzone, Carlos De Medio,\n\r    Zygmunt Ordon, M. Cap Capeloto, Keith Gaynes, William Faulkner,\n\r    Judy Doman, Mary Lewis, Jocelyn Miles, Guillermo Quiroa, Helen\n\r    Shannon, Douglas McGraw, Sandra Wacker, Roberta West, Meg\n\r    Brand, Lola Richmond, Janet Salehi, Mavis Watson, Kend Wade,\n\r    Joan Nakagawa, Sonia Lewis, Damone Hilliard, Betty Melendez,\n\r    Gabe Ynes Grant, Agripina Williams, Maxey Charles, Bernice\n\r    Fitch, Rubin Langbordd, Diane Van Houten, Kristin Orsini,\n\r    Mitchell Stedman, Eva McNeely, Lorraine McNeely, Sally Aminoff,\n\r    Christina Roemer, James Briscoe, Denise Stout, Tamerin Kelly,\n\r    Susan Baker, Tracey Baker, Luanne Felesky, Diane Guajardo,\n\r    Susan Skinner Caustin, B.J. Willits, Barbara Shelton, Nancy\n\r    Sattler, Daniel Peterson, Betty Mc Donald, Jacqueline Levesque,\n\r    Eyvonne Caron, Corey Stewart, Kuo Hu, Helen Philbrick, Doris\n\r    West, Luis Amaro, Jane Schnyder, Cristi Cristich, Marvin Levy,\n\r    Margaret Del Nostro, Carol Greenberg, Gene Greenberg, Jeffrey\n\r    Morgan, Chiyeko Sakamoto, Alex Curi, Matthew Freeh, Andrea\n\r    Visaggio, Michael Moyers, Margiee Lhotka, Anselmo Cortez, Maria\n\r    Kohne, William Balkey, Nanci Walker, Susan Fleck, Patricia\n\r    Dresser, Douglas Lober, Lindy Saville, Robert Walston, John\n\r    Barone, Diana Butkevicius, Gene Perry, Mary Quillin Esq., Li\n\r    Elsner, Irmgard Thierry, Michael Cullen, Toneita Liptack, Sally\n\r    Hayden, Nathan Johnson, Bernice Moon, Inez Rice, Irene Allis,\n\r    Daphne Sterner, Verlyn Skore, Laurie King, Joni Stabile,\n\r    Brendan King, Jay Henderson, Paul Neale, Elizabeth Shepherd,\n\r    Angelina Chun Fat, Hazel Celey, Burgess Bentley, Cynthia Lundy,\n\r    Aileen Bergamo, Eleanor InnInnes, Ailene Dougher, Kathryn\n\r    Innes, Jewel Richardson, Susan Hukel, Evelyn Arnold, Henrietta\n\r    Von Dieling, William Bethard, Judity Waney, Cynthia Brauer,\n\r    Sophia Clendening, Jason Herald, Harry Peck, Aaron Douglas,\n\r    Elizabeth Limber, Carol Casebeer, Russell Miller, Linda Merkin,\n\r    Virginia Stasiunaiti, Nicholas Amodio, Gladys Schubert, Andy\n\r    Bartocci, Shannon Taylor, David Chamberlain, Kevin Friedman,\n\r    Ida Graham, Earl Petty, Adrina Morton, Margaret Niven, Karen\n\r    Scoulon, Kim Doran, Elizabeth Elsner, Rafael Tristin, Ernie\n\r    Tipac"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: u
+Start element: i
+Characters:    "COLORADO"
+End element:   i
+End element:   u
+Characters:    "\n\r    Don Specht, Jonathan Niehaus"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Start element: u
+Characters:    "CONNECTICUT"
+End element:   u
+End element:   i
+Characters:    "\n\r    Pauline M. Biggs, Jeffrey McCathron"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Start element: u
+Characters:    "DELAWARE"
+End element:   u
+End element:   i
+Characters:    "\n\r    Dr. Grace L. Chickering"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: u
+Start element: i
+Characters:    "DISTRICT OF COLUMBIA"
+End element:   i
+End element:   u
+Characters:    "\n\r    Dr. Mary Walker, Toni Ford"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: u
+Start element: i
+Characters:    "FLORIDA"
+End element:   i
+End element:   u
+Characters:    "\n\r    Nancy Graham, Beverly Dozier White, Kerry Kirshner, Donald\n\r    Miller, Ron Brown, Don Luse, Rose Lee Wander, Terry Castle,\n\r    Gail Levy, Merry Morris, Carol Daniels, Carolyn Coukos, Tanya\n\r    Melich."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "I"
+Start element: i
+Start element: u
+Characters:    "DAHO"
+End element:   u
+End element:   i
+Characters:    "\n\r    Robert Nelson"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: u
+Start element: i
+Characters:    "ILLINOIS"
+End element:   i
+End element:   u
+Characters:    "\n\r    Marcie Love,"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: u
+Start element: i
+Characters:    "INDIANA"
+End element:   i
+End element:   u
+Characters:    "\n\r    Laurence Lawson "
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Start element: u
+Characters:    "IOWA"
+End element:   u
+End element:   i
+Characters:    "\n\r    Chuck Johnson"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: u
+Start element: i
+Characters:    "KANSAS"
+End element:   i
+End element:   u
+Characters:    "\n\r    Diane Graham "
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: u
+Start element: i
+Characters:    "MARYLAND"
+End element:   i
+End element:   u
+Characters:    "\n\r    Antoinette Ford, Richard Willis, William Dockser, Mahlon Apgar\n\r    IV, Frank Coakley, Mary Jo Gordon, Ruth Ann Aron"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: u
+Start element: i
+Characters:    "MASSACHUSETTS"
+End element:   i
+End element:   u
+Characters:    "\n\r    David Donchek, Bill Eberle, Diedre Greelish, George Cabot, Joan\n\r    S. Van Dorn, Professor George Cabot Lodge"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: u
+Start element: i
+Characters:    "MICHIGAN"
+End element:   i
+End element:   u
+Characters:    "\n\r    Mary Feltner"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: u
+Start element: i
+Characters:    "NEBRASKA"
+End element:   i
+End element:   u
+Characters:    "\n\r    Randy Moody"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Start element: u
+Characters:    "NEVADA"
+End element:   u
+End element:   i
+Characters:    "\n\r    Brian Greenspun"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Start element: u
+Characters:    "NEW HAMPSHIRE"
+End element:   u
+End element:   i
+Characters:    "\n\r    Paul Agresti, Roy and Nina Banwell, Robert Barker, Newell\n\r    Brown, Mark Burns, Barbara Caleral, Thirston Carpenter, George\n\r    and Patti Chapman, Robin Chouiniere, Gail Church, Debbie\n\r    Coleman, Don Comstock, Robert and Alyee Crouter, Michale\n\r    Curtin, Helen Daigle, Robert and Patrica DeColfmaker, John and\n\r    Helen Donaldson, David Doran, richard Dumont, Don Evans, Judy\n\r    Evans, Lloyd Famham, James Farnsworth, Jim and Kathy Flis, Alan\n\r    Frank, Wreatha Jean Gendron, Louis-Remi Gendron, David\n\r    Gottesman, Cindy Gilman, Jean and Robert Graves, Janet Green,\n\r    Bob and Meg Hamm, John Hardie, Kathy Heyman, Mary Hill, Carol\n\r    Holly, Leighton Holt, Ralph Hough, Paula and Meredyth Jones,\n\r    Albert Kaplinski, June Lacovara, Bob Lamothe, Peter L�Ecuyer,\n\r    David L�Heureux, Susan Littlefield, Pauline Lipps, Michail\n\r    Lonergan, John Lyford, Marion Lord, George and Fay Major, Kevin\n\r    McGuire, Barbara McGranaghan, Julia Mellwaine, Roseanne Moore,\n\r    Judith Morrison, Sandra Lee Morrison, Edna Mower, Susan Murray,\n\r    Dave Osman, Rick and Sharon Otte, Rob Pallas, Dawn and Arthur\n\r    Pappas, Linda and Doug Pauly, George Perry, Tony Petrello, Sean\n\r    Riley, Earl Randall, William and Teresa Sammis, Lynne and James\n\r    Schmidt, Leslie Schwartz, David Schwartz, Flora Sherburne, Joel\n\r    Sherburn, Tom Souza, Erwin Smith, Judith Stahl, Richard\n\r    Stevens, Ruth Sullivan, Bert Teague, Cathy Torrance, Robert\n\r    Triolo, Karen Waintroob, Hamilton Webb, Thomas Weisensee, Major\n\r    and Rita Wheelock, Ken Williams, Kenneth Wolcott, Margaret\n\r    Wolcott, Cathy Young, Susan McLean, Bert Teaque"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: u
+Start element: i
+Characters:    "NEW JERSEY"
+End element:   i
+End element:   u
+Characters:    "\n\r    Jennifer Chandler Hauge, Ken Seda"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Start element: u
+Characters:    "NEW YORK"
+End element:   u
+End element:   i
+Characters:    "\n\r    Thomas and Nancy Hoving, Paul Beirne, Ms. Allene\n\r    Hatch,"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Start element: u
+Characters:    "OHIO"
+End element:   u
+End element:   i
+Characters:    "\n\r    Beatrice Berg, Deborah Butters, William Davis, Kelly Davis,\n\r    Charles Dawes, Eve Dawes, John Galbraith, Todd Lambert, Sharon\n\r    McClure, Robert McCoy, Eileen Middelstetter, David\n\r    Middelstetter, Pamela Millslagle, William O�Donnell, Jennifer\n\r    Rork, Don Russo, George Sharpe, Lauree Shuster, William\n\r    Snowman, Patsy Wuebold,"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: u
+Start element: i
+Characters:    "PENNSYLVANIA"
+End element:   i
+End element:   u
+Characters:    "\n\r    James Taylor, Katherine Taylor, Judith Dunn, Marsha Jones,\n\r    Ellen Medkeff, Grace Miller, Wanda Overmyer, Jane seiverling,\n\r    Earnest Gibble, Susan Savage, Shawn Scott, Ellen Shah, Ivor\n\r    Witt, Marion Damick"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Start element: u
+Characters:    "SOUTH DAKOTA"
+End element:   u
+End element:   i
+Characters:    "\n\r    Maryls Pearson"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Start element: u
+Characters:    "TEXAS"
+End element:   u
+End element:   i
+Characters:    "\n\r    Eugene Sepulveda, Adam Smith,"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: u
+Start element: i
+Characters:    "VIRGINIA"
+End element:   i
+End element:   u
+Characters:    "\n\r    Edward A. Powell, Gordon D. \"Donald\" Hutchins"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Start element: u
+Characters:    "WISCONSIN"
+End element:   u
+End element:   i
+Characters:    "\n\r    Scott Alexander"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The aforementioned are individual endorsements and do\n\r    not represent the endorsement of any affiliated\n\r    organizations."
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

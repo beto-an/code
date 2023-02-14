@@ -1,0 +1,96 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "New Ad \"Guide\""
+End element:   TITLE
+Characters:    "\r\n\r"
+Start element: kpetitle
+Characters:    "New Ad \"Guide\""
+End element:   kpetitle
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Start element: A
+Key: HREF, Value: index22.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r"
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "Novembere 2, 1996\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "CLINTON/GORE �96 RELEASES NEW ADVERTISEMENT"
+End element:   b
+Characters:    "\r\n\r\r\n\r\r\n\r"
+Start element: p
+Characters:    "Today, November 2, 1996, the Clinton/Gore �96 campaign announces the release of a new ad entitled, \"Guide\"  The text of the ad follows:\r\n\r\r\n\r"
+Start element: p
+Start element: b
+Characters:    "Guide"
+End element:   b
+Characters:    "\r\n\r\r\n\r"
+Start element: p
+Start element: i
+Characters:    "[chyron - A special message from Reverend Dr. Hugh Tobias]\r\n\r\r\n\r"
+Start element: p
+Characters:    "I�m Reverend Hugh Tobias.  I�ve been in the ministry for 22 years.\r\n\r\r\n\r"
+Start element: p
+Characters:    "Don�t be misled by last minute Voter Guides distributed outside our churches.\r\n\r\r\n\r"
+Start element: p
+Characters:    "President Clinton signed the Religious Freedom Restoration Act protecting churches from government interference.\r\n\r\r\n\r"
+Start element: p
+Characters:    "Signed a tough new law to crack down on child pornography and required teen mothers on welfare to stay in school or lose benefits.\r\n\r\r\n\r"
+Start element: p
+Characters:    "How you vote is up to you.  \r\n\r\r\n\r"
+Start element: p
+Characters:    "But don�t let the politicians fool you with untrue Voter Guides."
+Characters:    "\r\n\r\r\n\r"
+Start element: p
+Start element: center
+Characters:    "###"
+End element:   center
+Characters:    "\r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee,\r\n\rInc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End of document

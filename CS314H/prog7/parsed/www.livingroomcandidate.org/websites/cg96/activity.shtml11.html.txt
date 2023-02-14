@@ -1,0 +1,217 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | Briefing Room | Clinton/Gore in Your\n\r  State"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index13.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: table
+Key: align, Value: right
+Key: border, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Start element: b
+Characters:    "On the Horizon"
+End element:   b
+Characters:    "\n\r    "
+Start element: p
+Characters:    "As we head into the\n\r    final days"
+Characters:    "\n\r    of the campaign, we need your help"
+Characters:    "\n\r    energizing your community to"
+Characters:    "\n\r    GET OUT THE VOTE!"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Call the Clinton/Gore office number"
+Characters:    "\n\r    below to volunteer."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Georgia Highlights"
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "October 25 - The President\n\r    in Atlanta"
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "October 25 - The\n\r    President's Remarks in Macon"
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Atlanta resident Dharm"
+Characters:    "\n\r    Guruswamy tells us why he"
+Characters:    "\n\r    supports the President"
+Characters:    "\n\r    in the 3rd edition of"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Clinton-Gore '96 Headquarters"
+End element:   b
+Characters:    "\n\r    1100 Spring Street"
+Characters:    "\n\r    Suite 200"
+Characters:    "\n\r    Atlanta, GA 30309"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Phone: 404-872-2516"
+Characters:    "\n\r    Fax: 404-892-8165"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Start element: b
+Characters:    "State\n\r    Director:"
+End element:   b
+End element:   font
+Characters:    " Diane Harnell Cohen"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Start element: b
+Characters:    "Political\n\r    Director:"
+End element:   b
+End element:   font
+Characters:    " Thomas Dortch"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Start element: b
+Characters:    "Press\n\r    Secretary:"
+End element:   b
+End element:   font
+Characters:    " Caroline Adelman"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Georgia Democratic Coordinated Campaign"
+End element:   b
+Characters:    "\n\r    1100 Spring Street"
+Characters:    "\n\r    Suite 710"
+Characters:    "\n\r    Atlanta, GA 30309"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Phone: 404-874-1996"
+Characters:    "\n\r    Fax: 404-873-4396"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Start element: b
+Characters:    "Director:"
+End element:   b
+End element:   font
+Characters:    " Katrice Banks"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: i
+Characters:    "The Coordinated Campaign is a distinct entity,"
+Characters:    "\n\r    directed by the Democratic National Party and the"
+Characters:    "\n\r    State Democratic Parties, and designed"
+End element:   i
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: i
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+End element:   i
+Characters:    "\n\r    "
+Start element: p
+Start element: i
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   i
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

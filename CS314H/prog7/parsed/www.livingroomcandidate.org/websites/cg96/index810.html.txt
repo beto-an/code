@@ -1,0 +1,480 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "America’s Home Page"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #BE0023
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: width, Value: 230
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r            "
+Start element: center
+Characters:    "\n\r              "
+Start element: font
+Key: size, Value: -1
+Characters:    "Tisha Gallanter Meets President"
+Characters:    "\n\r              Clinton At Her Graduation"
+End element:   font
+Characters:    "\n\r            "
+End element:   center
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: size, Value: +2
+Characters:    "by Marty Gallanter"
+Characters:    "\n\r            Tyler, MN"
+End element:   font
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Characters:    "http://www.jwp.bc.ca/martyg/mg1.htm"
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“Cross-racial adoption was not an issue in the early\n\r          seventies when my wife and I adopted Tisha. We wanted a\n\r          child and this two-year-old was in a foster home. It was\n\r          a good foster home, with caring foster parents, but the\n\r          adoption agency said that only about one in a hundred\n\r          ever found parents once they passed their first\n\r          birthday."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“None of that mattered. We fell in love with this\n\r          child and we wanted her as part of our family. That was\n\r          it! Yes, we knew that raising a child of another race\n\r          might present some difficulties (and it has) but they\n\r          were nothing compared to not having this child, or this\n\r          child not having parents."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“Maybe she would have become a doctor without our\n\r          help... maybe not. That's not important. What was\n\r          important was that a child found a family and a family\n\r          found a child. Because of our own experience, Tisha, her\n\r          mother and I support President Clinton's plan to protect\n\r          cross-racial adoptions, to provide tax credits for those\n\r          who do adopt and help those of limited means to make a\n\r          wonderful, important life choice.”"
+End element:   p
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: width, Value: 250
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +6
+Start element: b
+Characters:    "Poems by Children"
+End element:   b
+End element:   font
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +1
+Characters:    "Armand Bayou Elementary"
+Characters:    "\n\r            Houston, TX"
+End element:   font
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Characters:    "If I Were President"
+Characters:    "\n\r            by Craig"
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "What would be the first event"
+Characters:    "\n\r          If I were really President?"
+Characters:    "\n\r          I would try to legislate"
+Characters:    "\n\r          Laws that people wouldn't hate."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "I would be good, just, and fair,"
+Characters:    "\n\r          I would want the people to know I care. I'd abolish\n\r          smoking and using drugs,"
+Characters:    "\n\r          There would be no war, just lots of hugs."
+End element:   p
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: b
+Characters:    "If I Were President"
+Characters:    "\n\r            by Brooke"
+End element:   b
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "If I were President of the United States, Chief\n\r          Executive I would be. I'd make sure laws are obeyed And\n\r          law breakers would pay a fee."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "If I were President of the United States, Head of\n\r          State would be one of my hats, Representing the United\n\r          States And then traveling back."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "If I were President of the United States, National\n\r          Leader I would be, Protecting the interests of the United\n\r          States In our pursuit of life and liberty."
+End element:   p
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: b
+Characters:    "If I Were President"
+Characters:    "\n\r            by Devin"
+End element:   b
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "If I were in charge of the U.S.A., I'd make America\n\r          better day by day. Legislative, judicial, and executive\n\r          all three, The branches of government would make us\n\r          free."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "The only war would be one on drugs, I'd do away with\n\r          gangs and rehabilitate thugs. My main platform would be\n\r          education, if I were President of this great and mighty\n\r          Nation."
+End element:   p
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 230
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: b
+Start element: font
+Key: size, Value: +3
+Characters:    "Pip the Pundit"
+End element:   font
+End element:   b
+Characters:    "\n\r            "
+Start element: a
+Key: href, Value: ../../../external.html
+Start element: font
+Key: size, Value: -1
+Characters:    "Shockwave Animation"
+End element:   font
+End element:   a
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: p
+Characters:    " "
+Start element: noembed
+End element:   noembed
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: size, Value: +2
+Characters:    "by Bryan Lewellen"
+Characters:    "\n\r            Nashville, TN"
+End element:   font
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Start element: b
+Characters:    "http://www.nashville.net/~bryrock/"
+End element:   b
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“I'm a Multimedia Developer living and working in\n\r          Nashville. I'm married with no children - just Pip! Pip\n\r          almost visited the White House when she was 3 weeks old.\n\r          We had stopped in Washington on our way home from\n\r          Pennsylvania, where we had bought Pip from the farm near\n\r          where our car had broken down on the way to a wedding\n\r          (see, there's a reason for everything). As we walked by\n\r          the White House we were invited by the Park Police to\n\r          come in for the tour. We figured they must have seen that\n\r          my wife was holding a small puppy and that it must have\n\r          been okay. We went through the gate security - no\n\r          questions asked - only to be stopped by the Secret\n\r          Service just steps away from the White House entrance.\n\r          They were concerned about possible conflicts with K9\n\r          units and Socks, the cat. We were kindly escorted\n\r          out."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“As to why I'm plugging for President Clinton on my\n\r          web site, all I can say is that if I could put an\n\r          interactive bumper sticker on my car, I would, but I\n\r          figured it might work better on a web site.”"
+End element:   p
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Key: height, Value: 25
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: b
+Start element: font
+Key: size, Value: +1
+Characters:    "Art\n\r            Online:"
+End element:   font
+End element:   b
+Start element: font
+Key: size, Value: +1
+Characters:    "Carolyn M. Gravlin\n\r            created a "
+Start element: a
+Key: href, Value: poster.html
+Characters:    "poster"
+End element:   a
+Characters:    " that shows\n\r            her support for the Clinton/Gore '96\n\r            ticket."
+End element:   font
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Key: height, Value: 25
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Characters:    "\n\r          "
+Start element: a
+Key: name, Value: mi
+Key: id, Value: mi
+End element:   a
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +3
+Start element: b
+Characters:    "Spotlight: Curt Haufe, New\n\r            Democrat"
+End element:   b
+End element:   font
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            "
+Characters:    " "
+Start element: a
+Key: name, Value: mi
+Key: id, Value: mi
+End element:   a
+Characters:    "\n\r            "
+Start element: center
+Characters:    "\n\r              "
+Start element: font
+Key: size, Value: +2
+Start element: b
+Characters:    "by Curt J. Haufe, Fremont,\n\r              MI"
+End element:   b
+End element:   font
+Characters:    "\n\r            "
+End element:   center
+Characters:    "\n\r            "
+Start element: p
+Characters:    "“I just turned 45 on October 15th. I live in\n\r            Fremont, Michigan with a foster son, two dogs and two\n\r            cats. I'm a high school dropout who went on to get a\n\r            high school equivalency certificate and became a police\n\r            officer in my home town of Streamwood, Illinois in\n\r            1973. After some health problems came up, I left the\n\r            police force in 1975. Since then, I have worked in the\n\r            automobile business. I moved to Michigan in 1990 and\n\r            worked for an automotive group until the end of May of\n\r            this year, when I was forced to leave my occupation\n\r            because of a back injury I sustained in 1992. I am now\n\r            listed as totally disabled by the Social Security\n\r            Administration as I can no longer stand (due to the\n\r            injury) for any length of time, nor can I sit in one\n\r            place and just manage as I used to do. I had cut my\n\r            hours down to working only part time, but the employer\n\r            had little use for me and I was replaced by a healthy,\n\r            full-time manager."
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Characters:    "“I have voted straight Republican all of my adult\n\r            life, voting for Richard Nixon back in the 70's and\n\r            staying a loyal Republican until Newt and Bob Dole\n\r            decided to start playing games with the government and\n\r            the American public. I did not vote for President\n\r            Clinton in 1992. I voted strictly Republican then as\n\r            well. I regret that fact now. I think that President\n\r            Clinton has done an outstanding job for the American\n\r            people. I was slow to admit it, but now realize that he\n\r            was the man we needed in 1992 and is still the man we\n\r            need in that job in 1996 to lead us into the 21st\n\r            century. He cares about people. I think it�s about time\n\r            we had a Democrat for President for a long time.”"
+End element:   p
+Characters:    "\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Key: height, Value: 25
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Characters:    "\n\r          "
+Characters:    " "
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: a
+Key: border, Value: 0
+Key: href, Value: index8-2.html
+Key: name, Value: America's Home Page
+End element:   a
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Key: height, Value: 25
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: b
+Start element: i
+Characters:    "Past Editions"
+End element:   i
+End element:   b
+Characters:    "\n\r      "
+Start element: p
+Start element: a
+Key: href, Value: index1.html
+Start element: i
+Characters:    "First Edition"
+End element:   i
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index210.html
+Start element: i
+Characters:    "Second Edition"
+End element:   i
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index310.html
+Start element: i
+Characters:    "Campus Edition"
+End element:   i
+End element:   a
+Characters:    "\n\r      "
+Start element: a
+Key: href, Value: index410.html
+Start element: i
+Characters:    "Fourth Edition"
+End element:   i
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index510.html
+Start element: i
+Characters:    "Fifth Edition"
+End element:   i
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index610.html
+Start element: i
+Characters:    "Campus Edition II"
+End element:   i
+End element:   a
+Characters:    "\n\r      "
+Start element: a
+Key: href, Value: index710.html
+Start element: i
+Characters:    "Seventh Edition"
+End element:   i
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

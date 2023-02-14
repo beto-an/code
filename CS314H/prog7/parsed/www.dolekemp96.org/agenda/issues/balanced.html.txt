@@ -1,0 +1,457 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Where Bob Dole Stands on Balanced Budget"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Key: align, Value: center
+Start element: font
+Key: size, Value: 5
+Key: face, Value: Times New Roman
+Start element: b
+Characters:    "Where Bob\n\r  Dole Stands on Balanced Budget"
+End element:   b
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Start element: font
+Key: size, Value: 4
+Start element: b
+Characters:    "Our Growing\n\r  National Debt is a National Crisis"
+End element:   b
+End element:   font
+Characters:    "&nbsp;"
+Characters:    "\n\r  "
+Characters:    "\n\r  America now has a national debt of more than $5 trillion dollars.\n\r  That's enough money to buy a new car for every man, woman, and\n\r  child in the country. In other words, every baby born in America\n\r  today starts off nearly $20,000 in debt.&nbsp;"
+Characters:    "\n\r  "
+Characters:    "\n\r  Balancing the federal budget is essential, absolutely essential,\n\r  to real and lasting economic growth. In 1995, the federal\n\r  government paid over $230 billion in interest on the national\n\r  debt. Today, nearly 40 cents of every dollar the federal\n\r  government collects in personal income taxes goes to pay interest\n\r  on the national debt. We now pay nearly as much in interest as we\n\r  do for all law enforcement, education, environment, energy,\n\r  transportation, agriculture, and technology programs combined.\n\r  And every dollar spent on interest is a dollar that cannot be\n\r  spent on making our streets safer, our environment cleaner, or\n\r  our schools stronger.&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "During the Clinton Administration\n\r  alone:"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: ul
+Characters:    "\n\r    "
+Start element: li
+Characters:    "\n\r      "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r      "
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Federal spending increased by\n\r      $163 billion between fiscal year 1993 and\n\r      1996.&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Characters:    "\n\r      "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r      "
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Domestic spending has surged 23\n\r      percent since fiscal year 1992.&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Characters:    "\n\r      "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r      "
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "The national debt has increased\n\r      $840 billion -- and is expected to reach $5.48 trillion in\n\r      fiscal year 1997."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+End element:   li
+Characters:    "\n\r  "
+End element:   ul
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "We cannot continue to let this\n\r  growing burden of debt crush the hopes and the dreams of our\n\r  children and our grandchildren. That's why one of the defining\n\r  objectives of Bob Dole's career in the Senate was a balanced\n\r  budget.&nbsp;"
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: font
+Key: size, Value: 4
+Start element: b
+Characters:    "Bill Clinton Opposes a Balanced Budget\n\r  Amendment"
+End element:   b
+End element:   font
+Characters:    "&nbsp;"
+Characters:    "\n\r  As a candidate, Bill Clinton promised a national television\n\r  audience that if he was elected, he would balance the budget in\n\r  five years. No ifs, ands, or buts.&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Clinton broke that promise almost as\n\r  soon as his hand came off the Bible. As President, Bill Clinton\n\r  has fought a balanced budget every step of the\n\r  way:&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: ul
+Characters:    "\n\r    "
+Start element: li
+Characters:    "\n\r      "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r      "
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "In 1995, he vetoed the first\n\r      balanced budget in a generation."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Characters:    "\n\r      "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r      "
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "In 1994, 1995 and 1996, he led\n\r      an all-out war to defeat the Balanced Budget\n\r      Amendment.&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Characters:    "\n\r      "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r      "
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "From 1993 to 1996, he did not\n\r      propose a single plan that would realistically balance the\n\r      budget.&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Characters:    "\n\r      "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r      "
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "From 1993 to 1996, the debt has\n\r      grown by $840 billion."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+End element:   li
+Characters:    "\n\r  "
+End element:   ul
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Start element: font
+Key: size, Value: 4
+Start element: b
+Characters:    "The Dole-Kemp\n\r  Economic Plan Will Balance the Budget by\n\r  2002&nbsp;"
+End element:   b
+End element:   font
+Characters:    "\n\r  Bob Dole has led the Senate for decades in fighting for fiscal\n\r  responsibility and a balanced budget. In 1971, Bob Dole sponsored\n\r  his first Balanced Budget Amendment. And last year, Dole sent the\n\r  first balanced budget in a generation to President Clinton --\n\r  only to watch as Clinton vetoed it.&nbsp;"
+Characters:    "\n\r  "
+Characters:    "\n\r  In the early days of a Dole-Kemp Administration, the Balanced\n\r  Budget Amendment will come once again before Congress. This time\n\r  it will pass. From there it will go before every state\n\r  legislature in America with the full support of the President. It\n\r  swiftly will become the law of the land. A Dole-Kemp\n\r  Administration will stop reckless deficit spending once and for\n\r  all -- for the good of this generation and all generations that\n\r  follow.&nbsp;"
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: font
+Key: size, Value: 4
+Start element: b
+Characters:    "A Deficit-Free America: Lower Interest\n\r  Rates&nbsp;"
+End element:   b
+End element:   font
+Characters:    "\n\r  And the advantages for the present generation are dramatic\n\r  enough. The effects of eliminating the federal deficit will be\n\r  profound and immediate, felt in every household in America. Just\n\r  consider interest rates. Today, interest rates are a heavy drag\n\r  on our economy; they are the \"stealth tax\" everyone pays on top\n\r  of our income tax bills. Our balanced budget plan will end that\n\r  stealth tax. Interest rates will fall. According to the\n\r  Congressional Joint Economic Committee, this alone\n\r  will:&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: ul
+Characters:    "\n\r    "
+Start element: li
+Characters:    "\n\r      "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r      "
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Save the typical family $36,000\n\r      on an average home mortgage."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Characters:    "\n\r      "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r      "
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Save the typical family $1,400\n\r      on ordinary student loans.&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Characters:    "\n\r      "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r      "
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Reduce the cost of a typical car\n\r      loan by $700."
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+End element:   li
+Characters:    "\n\r  "
+End element:   ul
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "\n\r  "
+Start element: font
+Key: size, Value: 4
+Start element: b
+Characters:    "A Better America"
+End element:   b
+End element:   font
+Characters:    "&nbsp;"
+Characters:    "\n\r  With Bob Dole as President, the government will be forced to do\n\r  what every American family does -- balance its books. A Balanced\n\r  Budget Amendment will force the government to live within its\n\r  means. And taxpayers will save billions of dollars through lower\n\r  interest rates.&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../../news/news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    " "
+Start element: a
+Key: href, Value: ../agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the\n\r  Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

@@ -1,0 +1,248 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | 21st Century Express | Chillicothe, OH"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index8.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: b
+Characters:    "Remarks by the President to the People of the Chillicothe\n\r      Area"
+End element:   b
+Characters:    "\n\r      "
+Start element: p
+Characters:    "At U.S. Route 23"
+Characters:    "\n\r      Chillicothe, Ohio"
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE PRESIDENT: Thank you. Thank you very, very much.\n\r    (Applause.) Thank you."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "AUDIENCE: Four more years, four more years"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE PRESIDENT: Thank you. Thank you so much. Thank you, Mr.\n\r    Mayor. It's great to be back in Chillicothe. The last time I\n\r    was here it was three degrees, and we still went running in the\n\r    park. And I'm amazed I can move. But I survived it and I'm glad\n\r    to be back. It's a wonderful place. Thank you. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Thank you, Senator John Glenn, for your heroic career, your\n\r    magnificent service to Ohio and to the United States. Thank you\n\r    for your leadership in defense and foreign policy, and in\n\r    helping Al Gore and me to give this country the smallest\n\r    federal government in 30 years and the most efficient since\n\r    John Kennedy was President of the United States.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And thank you, Ted Strickland. (Applause.) I want to thank\n\r    you for a couple of things. I want to thank you for coming to\n\r    me personally and riding with me on Air Force One and pleading\n\r    with me to help you keep open the gaseous diffusion plant in\n\r    Portsmouth. (Applause.) I want to thank you for helping work\n\r    with me on the enterprise community designation for Portsmouth.\n\r    I want to thank you for having the courage — and I think it\n\r    cost you your seat in '94 — to vote for that economic plan when\n\r    our friends in the opposition said it was tax-and-spend. And,\n\r    of course, it wasn't. We cut taxes for 15 million of the\n\r    hardest working Americans. We made 90 percent of the small\n\r    business in this country eligible for a tax cut."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But we did cut the deficit. And our friends in the\n\r    opposition said, give us the Congress; Bill Clinton's plan will\n\r    bankrupt the country, increase the deficit, cost us jobs. Well,\n\r    the verdict is in, friends. Four years later, we have 10\n\r    million more jobs, the deficit has gone down four years in a\n\r    row under the same administration for the first time since\n\r    before the Civil War. Ted Strickland was right, and his\n\r    opponent was wrong. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want to thank you for voting for the Family and Medical\n\r    Leave law. Twelve million working Americans have been able to\n\r    take some time off in the last three and a half years when\n\r    there was a baby born or a parent sick without losing their\n\r    jobs. And we just got a bipartisan study that said 90 percent\n\r    of the businesses said it was no problem."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We have grown jobs faster in this economy in the last four\n\r    years than, as Senator Glenn said, any Republican\n\r    administration since the 1920s. And we still passed the Family\n\r    and Medical Leave law so people could succeed at home and at\n\r    work. Thank you, Ted Strickland. You were right, and they were\n\r    wrong. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And let me say one other thing — after Ted left the\n\r    Congress, they had a chance to implement their Contract With\n\r    America. Don't forget that either, folks. (Applause.) I'll have\n\r    more to say about that in a minute. This man was a good\n\r    Congressman. He did you proud. He's a good human being. He's a\n\r    good person. And he ought to be given a chance to represent\n\r    this place again. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Let me also say, I brought some people with me &amp;=151\n\r    your State Treasurer and our National Treasurer, Mary Ellen\n\r    Withrow. Thank you for coming. (Applause.) My good friend and a\n\r    former official in the U.S. Department of Agriculture, whose\n\r    farm I visited in Ohio in 1992, Gene Branstool. (Applause.) Our\n\r    nominee for the Senate last year, Joel Hyatt."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And we have several members of the Ohio Legislature and\n\r    officials of the party, State Representatives Mike Shoemaker\n\r    and Bill Ogg. I know we have County Auditor Steve Neal —\n\r    (applause) : State Senator January Michael Long.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Somebody told me that in this crowd the lady who gave me a\n\r    handcrafted quilt last time was here, Leona Long. Are you here?\n\r    Thank you very much if you're here. There you are. God bless\n\r    you. Thank you. (Applause.) And I told you I'd save those\n\r    quilts, and I've still got yours. (Laughter.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And a young woman who introduced me at the last town\n\r    meeting, Melissa Hagen. I think she's here, too, somewhere.\n\r    Thank you, Melissa, if you're here. There you are back there.\n\r    Thank you. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I'd like to thank all the bands that were here. I'd like to\n\r    say that my daughter, Chelsea, and I are delighted to be here.\n\r    Hillary started this train trip with us but, you know, she's\n\r    from Chicago so she had to fly home to make sure everything was\n\r    all right when we got there. The Vice President said to tell\n\r    you hello, and he's in Chicago, as well."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And I know that this is not the most direct route to\n\r    Chicago, but I've been in Huntington, West Virginia, and\n\r    Ashland, Kentucky, today, and now I'm in Chillicothe, and I've\n\r    been in all kind of places along the way saying hello to people\n\r    because I wanted to go to the convention to accept the\n\r    nomination of my party for another term as President by seeing\n\r    the people that I ran for President to represent.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And I wanted you to see me on this train because I wanted\n\r    you to remember we're not only on the right track to Chicago,\n\r    we're on the right track to the 21st century and we need to\n\r    stay on the right track. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "In 1992, when I came here the country had high unemployment,\n\r    slow job growth, stagnant wages, rising crime, we weren't\n\r    facing up to our challenges, we were drifting apart. But I said\n\r    then and I'll say again tonight, I think our best days are\n\r    ahead. I think this new world we are moving into offers people\n\r    more chances to live their dreams than any period in human\n\r    history."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The children in this audience tonight within a decade will\n\r    be doing jobs that have not been invented yet. All we have to\n\r    do is to meet our challenges and protect our values. All we\n\r    have to do is to say opportunity for all, responsibility from\n\r    all, and we're going forward together. We're not going to be\n\r    divided anymore. We're going forward together as an American\n\r    community. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And you know what? It is working. Look what we did just last\n\r    week. We raised the minimum wage for 10 million Americans.\n\r    (Applause.) In the same bill, in the very same bill we made 90\n\r    percent of the small businesses in this country eligible for\n\r    another tax cut if they invest more in their business. We made\n\r    it easier for people in small businesses to take out pensions\n\r    and to keep those pensions when they changed jobs. That's\n\r    terribly important. We made it easier for parents to adopt and\n\r    gave them a $5,000 tax credit if they would adopt a child that\n\r    needs a home, and removed the barriers to cross-racial adoption\n\r    because we want a pro-family country that takes care of every\n\r    child and finds a home for every child. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I signed a bill to end welfare as we know it, but not to\n\r    take from poor children their medical care, their nutrition,\n\r    their help if they're disabled, but to say we are going to\n\r    change this system from one that fosters dependence to one that\n\r    fosters independence. We want people who are poor to have the\n\r    same chance everybody else does to succeed at home and at work.\n\r    And that is my goal, and I want to say more about that. It's\n\r    terribly important. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And maybe most important of all — you know, another thing\n\r    Ted Strickland did was try to help us get some work done on\n\r    health care reform. And they spent a lot of money, the people\n\r    who didn't want any changes, telling everybody how terrible our\n\r    plans were and what a big government plan it was, and never\n\r    mind that all the experts said it was actually a modest,\n\r    moderate, progressive plan to provide coverage and keep the\n\r    private sector in our health system."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But we didn't succeed in '94, and a lot of the Democrats\n\r    paid the price. But because of the work we did, last week I\n\r    signed a bill that does about 30 percent of what we tried to\n\r    do, and a big first step — the Kennedy-Kassebaum bill. It says\n\r    you cannot lose your health insurance just because somebody in\n\r    your family has been sick or if you change jobs. You cannot do\n\r    it anymore. You have a right to health insurance.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Twenty-five million Americans — think of it — 25 million\n\r    Americans will have a chance now to get or keep their health\n\r    insurance. That's a lot of children sleeping better at night.\n\r    That's a lot of parents feeling more secure."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And so, Ted Strickland, I'm sorry you weren't there to vote\n\r    for it, but your vote counted because you were there first, and\n\r    we appreciate you, sir, for sticking up for it. It was the\n\r    right thing to do. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And so I say to you, my friends, we're on the right track.\n\r    Unemployment is down. There is more opportunity. We've got not\n\r    only 10 million new jobs, 4.5 million new homeowners, 10\n\r    million homeowners that have refinanced their homes at lower\n\r    interest rates. The unemployment rate in Ohio is down to 4.9\n\r    percent."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, what do we got to do now? We have to keep this economic\n\r    recovery going until everyone can participate. That means\n\r    balance the budget, don't gut Medicare and Medicaid, education\n\r    and the environment to do it. We can do it without doing that.\n\r    We can invest in our future and still do it. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "What else does it mean? It means that we have to increase\n\r    the educational level of the people of this country. You heard\n\r    Cindy talking about her education. I want to make by the year\n\r    2000 two years of college after high school as universal as a\n\r    high school education is today. I want it to be there for\n\r    everybody. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And so I have proposed to give working families in America a\n\r    $10,000 tax deduction for the cost of college tuition for any\n\r    kind of tuition after high school, and a $1,500 refundable tax\n\r    credit for the cost of the first two years of community college\n\r    in every state in the country. That is what we ought to do.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want us to have more responsibility in this country. You\n\r    know, there are 1.3 million fewer people on the welfare rolls\n\r    than there were when I became President. Child support\n\r    collections are 40 percent higher and the crime rate has gone\n\r    down for four years in a row. In 1994, our friends in the\n\r    opposition said, oh, look what the President did, they're going\n\r    to take your gun away from you. Guess what? Everybody in Ohio\n\r    is still hunting with the same gun they had when they said\n\r    that. It wasn't true then. (Applause.) And if you believed them\n\r    when they misled you, you need to pay them back this time and\n\r    tell them you don't appreciate being misled. You've still got\n\r    your gun, but the country is safer. (Applause.) I'll tell you\n\r    who doesn't have guns — 60, 000 felons, fugitives and stalkers\n\r    don't have guns because of the Brady Bill. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But we've got more to do if we want real responsibility.\n\r    We've got to finish the work of putting 100,000 police officers\n\r    on our street. We've got hundreds here in Ohio, they're\n\r    bringing the crime rate down. We also have to recognize in this\n\r    welfare reform bill I signed, folks, that's the beginning, not\n\r    the end. It's all very well to say to people after a certain\n\r    time, we're going to cut you off welfare and make you go to\n\r    work — there has to be work to find. And I am going to the\n\r    convention to tell the American people what I propose to do to\n\r    help find jobs to move people from welfare to work and help\n\r    jobs for other people who are not yet there. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We must not let this welfare reform be some cruel budget\n\r    cutting hoax that throws poor children in the street. They're\n\r    our children, too. What we want is for their parents to go to\n\r    work, to be able to go to work, to live like the rest of\n\r    America, to come and be part of our big family and go forward\n\r    together. That's what we all want. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Finally, let me just say this. I want us to go forward\n\r    together — together with people around the world who agree with\n\r    us; together with people here at home and maybe of a different\n\r    religion or a different color, but who share our convictions\n\r    and our values."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "That means we've got to do more to work together to build\n\r    strong families — that's what the Family Leave law was about.\n\r    We've got to do more to work together to build a clean\n\r    environment — 50 million Americans are breathing cleaner air\n\r    now than they were four years ago. We've got safer meat\n\r    standards, safer standards against dangerous pesticides, all\n\r    supported by the agricultural community. We've cleaned up more\n\r    toxic dumps in three years than they did in 12. We're moving in\n\r    the right direction. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And, finally, I want Americans who need it to have a tax\n\r    cut, but I want it to be a tax cut we can afford, that will do\n\r    some good for individuals, for families and for our country. I\n\r    proposed a targeted tax cut. I already told you about the\n\r    education cuts — a $500-credit for children under 13, an\n\r    expanded IRA for people with incomes phasing up to $100,000\n\r    that you can put into and then save and withdraw from for\n\r    education, to buy that first home, for health care costs. Those\n\r    are the kind of tax cuts that will help ordinary American\n\r    families. We can afford those. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, as you heard from our friends in San Diego — my\n\r    respectable opponents — they offer you one that's five times as\n\r    big. So why shouldn't you go for them? Well, let me ask you\n\r    this: Would you wake up tomorrow morning — well, you wouldn't\n\r    tomorrow morning, I guess, but — yes, you would, it's Monday —\n\r    would you wake up tomorrow morning, go to the bank and borrow\n\r    money to give yourself a tax cut? Well, then why would you hire\n\r    somebody to do it? (Laughter and applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Think about that. You think about it."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Our friends in the Republican Party last year said — not me,\n\r    they said — they said, and they were right, that if we're on a\n\r    balanced budget plan, interest rates will be two percent lower\n\r    than if we're not. You just figure it out. If your home\n\r    mortgage, your car payment, your credit card payments go up two\n\r    percent, all your tax cut will go out the window paying higher\n\r    interest rates. And we'll have slower job growth. And we won't\n\r    be putting more people to work. And the economy won't be\n\r    growing."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But if we have a targeted, disciplined tax cut that creates\n\r    more people like this fine lady who introduced me, if we have\n\r    more people like her who feel like they can write the President\n\r    six times until he shows up — (laughter) — who are proud to be\n\r    working to improve their education while they're raising\n\r    children, then they'll be a lot more Cindy Bakers in this\n\r    country."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I can give you a tax cut that we can afford that will\n\r    balance the budget, keep the economy growing, educate our\n\r    children, educate their parents, allow us to save for health\n\r    care and home-buying and we can balance the budget. That's the\n\r    tax cut we need going forward on that track into the future,\n\r    not backward. We tried it the other way, and it did not work.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "So I want you to help me give that message. We're better off\n\r    than we were four years ago. (Applause.) We've got health care\n\r    reform, minimum wage reform, 10 million more jobs, a stronger\n\r    economy, a crime bill that's working to bring down the crime\n\r    rate. We're in the middle of welfare reform and we're doing the\n\r    right things. We're bringing the American people together, not\n\r    dividing them."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But we're only halfway home. We've got a lot me to do. We\n\r    have gotten the country going in the right track. In the next\n\r    four years, we need to make sure that every single American\n\r    whose responsible enough to work for it has a chance to benefit\n\r    and be rewarded and built a strong career, a strong life, a\n\r    strong family, a strong community and a strong nation. That is\n\r    my commitment to you. That's what the next four years are\n\r    about. That's why I need your help."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Will you help? Will you help? Will you help me? Every day,\n\r    every way, stay with me on to Chicago, on to November. We have\n\r    to have Ohio. I'm glad to be back. Bring me home again."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "God bless you and thank you."
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

@@ -1,0 +1,140 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "\"21st Century Express\" Clinton/Gore Schedule"
+End element:   TITLE
+Characters:    "\r\n\r\r\n\r"
+Start element: KPETITLE
+Start element: B
+Characters:    "For Immediate Release:"
+End element:   B
+Characters:    "\r\n\r\"21st Century Express\" Clinton/Gore Schedule"
+Start element: DD
+End element:   KPETITLE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "  "
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "  "
+Characters:    "\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r"
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "August 21, 1996\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "CLINTON/GORE ANNOUNCES PRELIMINARY TRAVEL SCHEDULE\r\n\r FOR PRESIDENT CLINTON�S\r\n\r\"21ST CENTURY EXPRESS\" TRAIN TOUR\r\n\r\r\n\r"
+Start element: P
+Characters:    "The Clinton/Gore campaign today announced the preliminary travel schedule for President Clinton�s \"21st Century Express\" train tour.  The tour will begin August 25 in Huntington, West Virginia and will end in Michigan City, Indiana on Wednesday, August 28.  \r\n\r\r\n\r"
+Start element: P
+Characters:    "As the President travels through America�s heartland, he will highlight the core principles underlying his and Vice President Gore�s leadership agenda:  opportunity, responsibility and community.  The President will be joined along the route by American heroes whose lives embody these principles.   \r\n\r\r\n\r"
+Start element: P
+Characters:    "The schedule is attached.  Additional details and media logistics for covering \"21st Century Express\" events will be released at later dates.  For more information, contact the Clinton/Gore press office at 202/496-1037. \r\n\r"
+Start element: P
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: center
+Characters:    "###"
+End element:   center
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r\r\n\r\r\n\rPresident Clinton�s \"21st Century Express\" Train Tour\r\n\r"
+Characters:    "West Virginia, Kentucky, Ohio, Michigan & Indiana \r\n\r"
+Characters:    "Sunday, August 25 - Wednesday, August 28\r\n\r"
+Start element: p
+Characters:    "Schedule*\r\n\r\r\n\r\r\n\r\t\t\t\t\t"
+Start element: P
+Start element: center
+Characters:    "Sunday, August 25"
+End element:   center
+Characters:    "\r\n\r\r\n\r\t"
+Characters:    "10:55 a.m. (EDT)\t\tDepart Andrews Air Force Base\r\n\r\r\n\r\t"
+Characters:    "Mid-day\t\t\tArrive Huntington, West Virginia\r\n\r\t\t\t\t\t"
+Characters:    "Kick-off for �21st Century Express� \r\n\r\t\t\t\t\t"
+Characters:    "Old C & O Train Station, Huntington\r\n\r\t\t\t\t\t"
+Characters:    "OPEN PRESS\r\n\r\r\n\r\t"
+Characters:    "Mid-afternoon\t\tRiverfront Park\r\n\r\t\t\t\t\t"
+Characters:    "Ashland, Kentucky\r\n\r\t\t\t\t\t"
+Characters:    "OPEN PRESS\r\n\r\r\n\r\t"
+Characters:    "Evening\t\t\tChillicothe, Ohio\r\n\r\r\n\r\t"
+Characters:    "Late evening \t\t\tColumbus, Ohio\r\n\r\r\n\r\r\n\r\t\t\t\t\t"
+Start element: center
+Start element: P
+Characters:    "Monday, August 26"
+Characters:    "\r\n\r\r\n\r\t"
+Characters:    "Mid-morning\t\t\tEvent TBA\r\n\r\t\t\t\t\t"
+Characters:    "Columbus, Ohio\r\n\r\t\t\t\t\t"
+Characters:    "OPEN PRESS\r\n\r\r\n\r\t"
+Characters:    "Mid-afternoon\t\tArlington, Ohio\r\n\r\r\n\r\t"
+Characters:    "Evening\t\t\tBowling Green, Ohio\r\n\r\r\n\r\t"
+Characters:    "Late evening \t\t\tToledo, Ohio\r\n\r\r\n\r\r\n\r\t\t\t\t\t"
+Start element: center
+Start element: P
+Characters:    "Tuesday, August 27"
+Characters:    "\r\n\r\r\n\r\r\n\r\t"
+Characters:    "Morning\t\t\tEvent TBA\r\n\r\t\t\t\t\t"
+Characters:    "Toledo, Ohio\r\n\r\t\r\n\r\t"
+Characters:    "Mid-day\t\t\tEvent TBA\r\n\r\t\t\t\t\t"
+Characters:    "Wyandotte area, Michigan\r\n\r\r\n\r\t"
+Characters:    "Afternoon\t\t\tEvent TBA\r\n\r\t\t\t\t\t"
+Characters:    "Royal Oak area, Michigan\r\n\r\r\n\r\t"
+Characters:    "Late afternoon\t\tPontiac, Michigan\r\n\r\r\n\r\t"
+Characters:    "Evening \t\t\tEvent TBA\r\n\r\t\t\t\t\t"
+Characters:    "East Lansing, Michigan\r\n\r\r\n\r\r\n\r"
+Start element: center
+Characters:    "\t\t\t\t\t"
+Start element: P
+Characters:    "Wednesday, August 28"
+Characters:    "\r\n\r\r\n\r\t"
+Characters:    "Mid-morning\t\t\tEvent TBA\r\n\r\t\t\t\t\t"
+Characters:    "Battle Creek, Michigan\r\n\r\r\n\r\t"
+Characters:    "Mid-day\t\t\tEvent TBA\r\n\r\t\t\t\t\t"
+Characters:    "Kalamazoo, Michigan\r\n\r\t\t\t\t\t"
+Characters:    "OPEN PRESS\r\n\r\r\n\r\t"
+Characters:    "Late afternoon (CDT)\tEvent TBA\r\n\r\t\t\t\t\t"
+Characters:    "Michigan City, Indiana\r\n\r\r\n\r\t\r\n\r\r\n\r"
+Start element: P
+Start element: I
+Characters:    "*Additional details will be made available at later dates."
+End element:   i
+Characters:    "\t\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r\r\n\r \r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    " "
+Characters:    " "
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee, Inc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End of document

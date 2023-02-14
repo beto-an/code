@@ -1,0 +1,104 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Dole and Crime"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "FOR IMMEDIATE RELEASE"
+Characters:    "\n\r    September 14, 1996"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "STATEMENT OF JOE LOCKHART"
+Characters:    "\n\r    NATIONAL PRESS SECRETARY"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "We are encouraged that Bob Dole is finally endorsing\n\r    some of President Clinton's tough anti-crime program. Dole's\n\r    call for longer prison sentences, tougher punishment for\n\r    juvenile offenders and increased punishment for criminals who\n\r    use guns all endorse previous action taken by the Clinton\n\r    administration. It would have been more helpful if Bob Dole had\n\r    decided to get tough on crime when he was in the Senate and in\n\r    a position to do something about it."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "When he was in the Senate, Bob Dole opposed putting\n\r    100,000 more cops on the street, filibustered the Brady Bill\n\r    and fought the ban on the assault weapons. Bob Dole tried to\n\r    slash funding for the war on drugs including the Safe and Drug\n\r    Free School Program. Bob Dole even voted against the\n\r    reauthorization of the Drug Czar's office in 1994."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "With Bob Dole's record on crime it is no surprise that\n\r    not a single national police or law enforcement organization\n\r    has endorsed his candidacy for President. After 35 years of\n\r    catering to the interests of the Washington gun lobby, it is\n\r    not suprising that the endorsement he has won is from the\n\r    National Rifle Association."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

@@ -1,0 +1,956 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "For Immediate Release"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #BE0023
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: center
+Characters:    "\n\r        "
+Start element: font
+Key: size, Value: +1
+Characters:    "\n\r        "
+Start element: a
+Key: href, Value: morn1103.html
+Characters:    "11/03/96 - Morning in\n\r        America"
+End element:   a
+End element:   font
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: econ1102.html
+Characters:    "11/02/96 - Clear\n\r        Differences"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: ad1102.html
+Characters:    "11/02/96 -\n\r        Campaign Releases New Advertisement \"Guide\""
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: air1101.html
+Characters:    "11/01/96 -\n\r        President Clinton's Free Air Time Remarks"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: ed1101.html
+Characters:    "11/01/96 -\n\r        Campaign Releases New Advertisement (in Spanish):\n\r        \"Education\""
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: ad1101.html
+Characters:    "11/01/96 -\n\r        Campaign Releases New Advertisement:\n\r        \"Spirit\""
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: end1101.html
+Characters:    "11/01/96 - Over\n\r        1,100 Republicans Endorse Clinton/Gore '96"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: econ1101.html
+Characters:    "11/01/96 - Our\n\r        Strengthened Economy"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: elie1101.html
+Characters:    "10/31/96 - Elie\n\r        Wiesel Endorses Clinton/Gore '96"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: med1031.html
+Characters:    "10/31/96 -\n\r        President Clinton's Medicare Plan, Dole's Tax\n\r        Scheme"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: end1031.html
+Characters:    "10/31/96 - Former\n\r        NYPD Commissioner William Bratton Endorses Clinton/Gore\n\r        '96"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: hisp1030.html
+Characters:    "10/30/96 - \"Just\n\r        Vote! '96\" Tour Takes Latino Leaders and Celebrities to\n\r        Campaign Rallies Nationwide"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: air1030.html
+Characters:    "10/30/96 -\n\r        President Clinton's Free Air Time Remarks"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: econ1030.html
+Characters:    "10/30/96 - The\n\r        President's Leadership and our Economic\n\r        Strength"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: deficit.html
+Characters:    "10/28/96 -\n\r        Smallest Deficit in Fifteen Years"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: air1028.html
+Characters:    "10/28/96 -\n\r        Transcript of the President's Free Air Time\n\r        Remarks"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: ad1028.html
+Characters:    "10/28/96 -\n\r        Campaign Releases New Advertisement (in Spanish):\n\r        \"Jobs\""
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: wmngotv.html
+Characters:    "10/26/96 - Get\n\r        Out the Women's Vote Weekend: Events in 15\n\r        States"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 1026med.html
+Characters:    "10/26/96 -\n\r        Medicare Again..."
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 1026rdio.html
+Characters:    "10/26/96 -\n\r        Response to Bob Dole's Radio Address"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: end1025.html
+Characters:    "10/25/96 - Youth\n\r        Committees for Clinton/Gore '96 Formed"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: net1025.html
+Characters:    "10/25/96 - NetDay\n\r        Email From President Clinton"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: dole1025.html
+Characters:    "10/25/96 -\n\r        Dole's Tax Scheme"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: you1024.html
+Characters:    "10/25/96 -\n\r        President Kicks Off Youth Voter Effort"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: wom1024.html
+Characters:    "10/25/96 -\n\r        President and First Lady Kick Off \"Get Out the Women's Vote\n\r        Weekend\""
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: air1024.html
+Characters:    "10/24/96 -\n\r        Transcript of the President's Free Air Time\n\r        Remarks"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: rur1024.html
+Characters:    "10/24/96 - Rural\n\r        Americans Unite to Support Reelection"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: no1024.html
+Characters:    "10/24/96 - Perot\n\r        Says \"No\" to Dole"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: eco1024.html
+Characters:    "10/24/96 - Over\n\r        100 Environmental Leaders Endorse Clinton/Gore\n\r        '96"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: edu-2.html
+Characters:    "10/24/96 - Vice\n\r        President and First Lady Attend \"National Education Day\"\n\r        Events"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: ad21024.html
+Characters:    "10/24/96 -\n\r        Campaign Releases New Advertisement:\n\r        \"Counting\""
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: dole1024.html
+Characters:    "10/24/96 -\n\r        Another Bob Dole Anniversary"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: ad1024.html
+Characters:    "10/24/96 -\n\r        Campaign Releases New Advertisement: \"Safe\""
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: air1022.html
+Characters:    "10/22/96 - The\n\r        President's Free Air Time Remarks"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: q1022.html
+Characters:    "10/22/96 -\n\r        Questions for Dole's Campaign Finance Record"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: college2.html
+Characters:    "10/22/96 -\n\r        College Day Kick Off"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: ad2-1021.html
+Characters:    "10/21/96 -\n\r        Campaign Releases New Advertisement:\n\r        \"Desperate\""
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: econ1021.html
+Characters:    "10/21/96 - \"The\n\r        Economy Has Never Been Better\""
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: college.html
+Characters:    "10/21/96 -\n\r        President, Vice President and First Lady To Kick Off\n\r        College Day"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: ad1021.html
+Characters:    "10/21/96 -\n\r        Campaign Releases New Advertisement: \"Front\""
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: dole1021.html
+Characters:    "10/21/96 -\n\r        Dole's Record on Campaign Finance Reform"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: dole1020.html
+Characters:    "10/20//96 - Dole\n\r        and Campaign Finance Reform"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: unedu.html
+Characters:    "10/20/96 - Dole's\n\r        Uneducation Record"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: surprise.html
+Characters:    "10/19/96 -\n\r        Dole's October Surprise - Raiding Pensions"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 1019lock.html
+Characters:    "10/19/96 - Dole\n\r        and Campaign Contributions"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: air1018.html
+Characters:    "10/18/96 -\n\r        President Clinton's Free Air Time Remarks"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: laundry.html
+Characters:    "10/18/96 - Three\n\r        Investigations into Dole Fundraising"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: dole1018.html
+Characters:    "10/18/96 - Bob\n\r        Dole's Lessons from Watergate"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: ad1017.html
+Characters:    "10/17/96 -\n\r        Campaign Releases New Advertisement:\n\r        \"Seconds\""
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: neg1015.html
+Characters:    "10/15/96 - Losing\n\r        Options..."
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: neg1014.html
+Characters:    "10/14/96 - Dole's\n\r        Negative Campaign"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: kemp1013.html
+Characters:    "10/13/96 - Kemp\n\r        To Check Tax Scheme with CBO"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: domviol.html
+Characters:    "10/12/96 - The\n\r        First Lady Kicks Off Domestic Violence Awareness\n\r        Day"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 1012fox.html
+Characters:    "10/12/96 -\n\r        President Clinton's Free Air Time Remarks on the Fox\n\r        Network"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: prog1012.html
+Characters:    "10/12/96 -\n\r        Progress Over Negativity"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: womn1011.html
+Characters:    "10/11/96 - 41\n\r        States Hold \"Domestic Violence Awareness Day\"\n\r        Activities"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: ag1011.html
+Characters:    "10/11/96 - State\n\r        Attorneys General Endorse Clinton/Gore '96"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: ad1011.html
+Characters:    "10/11/96 -\n\r        Campaign Releases New Advertisement:\n\r        \"Missing\""
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: military.html
+Characters:    "10/10/96 - More\n\r        Than 100 National Security Experts Endorse the President's\n\r        Reelection"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: pre109.html
+Characters:    "10/9/96 -\n\r        Prebuttal: VP Debates"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: dole109.html
+Characters:    "10/9/96 - Dole's\n\r        \"Gender Gap Blues\" Revisited"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: cgads109.html
+Characters:    "10/9/96 -\n\r        Clinton/Gore '96 and Advertisements"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: fox108.html
+Characters:    "10/8/96 -\n\r        President Clinton's Remarks on the Fox\n\r        Network"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: ad108.html
+Characters:    "10/8/96 - Campaign\n\r        Releases New Advertisement: \"Preserve\""
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: flash107.html
+Characters:    "10/7/96 -\n\r        Campaign Flashback: Dole and Medicare"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: endorse.html
+Characters:    "10/7/96 - More\n\r        Than 2,500 CEO's and Business Leaders Endorse President\n\r        Clinton"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 107ad.html
+Characters:    "10/7/96 - Campaign\n\r        Releases New Advertisement \"Responsibility\""
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: fox105.html
+Characters:    "10/5/96 -\n\r        President Clinton's Remarks on the Fox\n\r        Network"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 105radio.html
+Characters:    "10/5/96 -\n\r        Response to Bob Dole's Radio Address"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: activity.html
+Characters:    "10/5/96 -\n\r        Environmental Groups Endorse Clinton/Gore"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 104ad.html
+Characters:    "10/4/96 - Campaign\n\r        Releases New Advertisement \"Next Century\""
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: chair103.html
+Characters:    "10/3/96 -\n\r        Campaign Adds Honorary Chair"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 103ad.html
+Characters:    "10/3/96- Campaign\n\r        Releases New Advertisement \"Imagine\""
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 102dolpa.html
+Characters:    "10/2/96 - Bob\n\r        Dole in Elizabethtown, PA"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: brady102.html
+Characters:    "10/02/96 - Bob\n\r        Dole: Against the Brady Bill"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: prep102.html
+Characters:    "10/02/96 - Dole's\n\r        Big Prep"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: fox102.html
+Characters:    "10/02/96 -\n\r        President's Remarks on the Fox Network"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: promise.html
+Characters:    "10/01/96 - A\n\r        Questionable Campaign Promise"
+End element:   a
+Characters:    " \n\r        "
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: font
+Key: size, Value: -1
+Start element: a
+Key: href, Value: sept.html
+Characters:    "September Releases"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: august.html
+Characters:    "August Releases"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: july.html
+Characters:    "July\n\r        Releases"
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: june.html
+Characters:    "June\n\r        Releases"
+End element:   a
+End element:   font
+Characters:    "\n\r        "
+End element:   font
+Characters:    "\n\r        "
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+End element:   p
+Characters:    "\n\r        "
+Start element: center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee,\n\r          Inc."
+End element:   p
+Characters:    "\n\r        "
+End element:   center
+Characters:    "\n\r      "
+End element:   center
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/end1031.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/net1025.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/deficit.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/ad1101.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/you1024.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/107ad.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/womn1011.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/105radio.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/promise.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/edu-2.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/ad1024.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/wom1024.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/end1101.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/1026rdio.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/air1024.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/ad1028.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/laundry.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/air1101.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/august.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/flash107.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/ed1101.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/1012fox.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/brady102.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/rur1024.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/ad2-1021.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/econ1021.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/unedu.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/dole109.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/morn1103.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/econ1101.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/dole1024.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/prog1012.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/elie1101.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/ad1011.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/june.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/ad108.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/104ad.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/surprise.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/no1024.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/prep102.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/air1022.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/cgads109.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/college2.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/air1030.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/1026med.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/sept.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/dole1020.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/air1028.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/ad1021.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/pre109.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/dole1025.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/college.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/neg1015.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/ad1017.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/q1022.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/fox102.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/ag1011.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/102dolpa.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/chair103.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/dole1021.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/hisp1030.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/domviol.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/1019lock.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/activity.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/neg1014.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/ad1102.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/eco1024.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/kemp1013.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/military.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/fox108.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/fox105.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/july.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/med1031.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/ad21024.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/air1018.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/endorse.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/econ1102.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/103ad.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/wmngotv.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/econ1030.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/end1025.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/dole1018.html

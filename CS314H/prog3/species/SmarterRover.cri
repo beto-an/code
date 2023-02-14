@@ -1,0 +1,19 @@
+SmarterRover
+ifenemy 0 12
+ifenemy 45 8
+ifenemy 90 10
+ifenemy 315 10
+ifenemy 270 8
+ifempty 0 12
+ifrandom 10
+left
+go 1
+right
+go 1
+hop
+go 1
+ifhungry 17
+infect
+go 1
+eat
+go 1

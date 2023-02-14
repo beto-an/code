@@ -1,0 +1,149 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Three Investigations into Dole Fundraising"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 18, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "STATEMENT BY JOE LOCKHART"
+Characters:    "\n\r      NATIONAL PRESS SECRETARY"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "If Bob Dole wants to talk about campaign money\n\r    laundering, he should check in with his own campaign\n\r    fundraisers. Currently, there are three ongoing federal\n\r    investigations of fund raising practices within the Dole for\n\r    President campaign."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Simon Fireman, a Dole for President Finance Vice-Chair,\n\r    has already agreed to pay a $6 million fine for illegal\n\r    \"laundering\" of funds through a Hong Kong bank into the Dole\n\r    campaign. Mr. Fireman faces a sentencing hearing next week to\n\r    determine the length of his prison term. Similar cases are\n\r    being investigated involving the Dole campaign in Pennsylvania\n\r    and Nevada."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole raised important campaign finance issues today.\n\r    But when it comes to illegal campaign contributions, the Dole\n\r    for President campaign, using Bob Dole�s own words, is a full\n\r    service laundromat."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "The Dole Campaign�s Money Laundering"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: u
+Characters:    "July 1996:"
+Characters:    "\n\r    Dole Finance Vice-Chair Fireman Plead Guilty To U.S. Attorney\n\r    For Illegal Campaign Contributions."
+End element:   u
+Characters:    " Earlier this year, Dole\n\r    Finance Vice Chairman Simon Fireman was caught illegally\n\r    reimbursing his Aqua-Leisure employees for $69,000 in\n\r    contributions -- run through a bank in Hong Kong -- to Dole�s\n\r    1996 Presidential campaign. Fireman has agreed to plead guilty\n\r    to this crime and has agreed to a Government-recommended\n\r    sentence of six months in prison, a $1 million fine for himself\n\r    and a $5 million fine for his company as part of a plea bargain\n\r    with the U.S. Attorney. [New York Times, 7/11/96; K.C. Star,\n\r    7/11/96; 7/23/96; 9/29/96; Boston Globe, 7/22/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: u
+Characters:    "April 1996:"
+Characters:    "\n\r    Federal Law Enforcement Agents Are Currently Investigating\n\r    Empire Landfill�s Questionable $50,000 Contribution Scheme."
+End element:   u
+Characters:    "\n\r    Federal agents are currently examining nearly $50,000 in\n\r    contributions to Dole�s 1996 Presidential campaign by employees\n\r    of Pennsylvania-based waste disposal company -- Empire\n\r    Landfill. The contributions are suspicious because many came\n\r    from lower-level employees who donated large amounts of money\n\r    on the same day. [Wall Street Journal, 5/8/96; Washington Post,\n\r    4/25/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: u
+Characters:    "September 1996:"
+Characters:    "\n\r    Illegal Scheme By Nevada Liquor Company To Funnel Money To Dole\n\r    Is Uncovered."
+End element:   u
+Characters:    " Just over two weeks ago, it was reported that\n\r    DeLuca Liquor & Wine of Nevada gave thousands of dollars to its\n\r    managers and then asked them to make individual contributions\n\r    to Dole�s Presidential campaign. The company admitted the\n\r    scheme and a DeLuca VP said, \"It's not illegal, I hope.\" On a\n\r    single day in 1995, Dole�s campaign collected at least $10,000\n\r    from DeLuca executives and their wives. GOP Representative John\n\r    Ensign of Nevada has said that the Federal Election Commission\n\r    should investigate this situation. [K.C. Star, 9/29/96;\n\r    10/4/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

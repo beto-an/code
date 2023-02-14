@@ -1,0 +1,82 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    " CG '96 | Bill Clinton and Al Gore | Hillary Rodham Clinton "
+End element:   TITLE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #001058
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: #001058
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index22.html
+Characters:    "\r\n\r"
+End element:   A
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+Characters:    "\r\n\r"
+Start element: TABLE
+Key: WIDTH, Value: 70%
+Key: ALIGN, Value: CENTER
+Key: HEIGHT, Value: 90%
+Key: VALIGN, Value: TOP
+Start element: TR
+Start element: TD
+Characters:    "\r\n\r\r\n\r\r\n\r"
+Characters:    " "
+Characters:    "\r\n\r"
+Characters:    " \r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Characters:    " "
+Characters:    "\r\n\r\r\n\r"
+Start element: PR
+Start element: BLOCKQUOTE
+Characters:    "\r\n\rHillary Rodham Clinton became our nation&#146;s First Lady when Bill Clinton was inaugurated as the 42nd President on January 20, 1993. Like her predecessors, Mrs. Clinton brings to the role of First Lady her own talents, experience, and interests. In Mrs. Clinton&#146;s case, that includes 25 years as a tireless advocate for children and families.\r\n\r\r\n\r"
+Start element: P
+Characters:    "She is the author of a best-selling book, "
+Start element: I
+Characters:    "It Takes a Village and Other Lessons Children Teach Us"
+End element:   I
+Characters:    ", in which she shares her thoughts on how children develop and what they need to succeed.\r\n\r\r\n\r"
+Start element: P
+Characters:    "In January 1993, President Clinton asked the First Lady to chair the Administration&#146;s Health Care Task Force. Dr. C. Everett Koop, former Surgeon General for President Reagan, has said that&#160;&#147;We all owe Mrs. Clinton our gratitude and admiration for placing the issues and ethical imperative for health care reform so clearly before us.&#148; Mrs. Clinton has maintained her commitment to health care issues by spearheading the President&#146;s Medicare Mammography Campaign to teach women about the importance of having regular mammograms. She also helped form the Presidential Commission on Gulf War Illness to ensure that the health concerns of veterans and their families are fully addressed. \r\n\r\r\n\r"
+Start element: P
+Characters:    "As our nation&#146;s First Lady, Mrs. Clinton has continued to demonstrate a balance between love for family and commitment to public service , and her efforts have been recognized by organizations as diverse as the Elie Wiesel Foundation, the American Association for World Health, the National Parent-Teachers Association, and the National Mother&#146;s Day Committee. \r\n\r\r\n\r"
+Start element: P
+Characters:    "Hillary Rodham Clinton was born in Chicago, Illinois, on October 26, 1947. She grew up in a close-knit family with two younger brothers in Park Ridge, Illinois. Graduating from Wellesley College with high honors in 1969, Hillary Rodham enrolled in Yale Law School.  There she met Bill Clinton, a fellow student. In 1974, she&#160;&#147;followed her heart to Arkansas,&#148;and married Bill Clinton the following year. Their daughter, Chelsea, was born in 1980.\r\n\r\r\n\r"
+Start element: P
+Characters:    "Mrs. Clinton has served as a staff attorney for the Children&#146;s Defense Fund, worked as a partner in a law firm, chaired an education committee that set public school standards in Arkansas, and founded the Arkansas Advocates for Children and Families.\r\n\r\r\n\r"
+End element:   TR
+End element:   TABLE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee, Inc."
+Start element: P
+Characters:    "\r\n\r"
+Start element: FONT
+Key: SIZE, Value: -2
+Characters:    "Photograph &#169; Ira Wyman/SYGMA"
+End element:   FONT
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r"
+End of document

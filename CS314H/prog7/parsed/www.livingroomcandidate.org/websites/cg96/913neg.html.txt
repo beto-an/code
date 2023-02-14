@@ -1,0 +1,168 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Bob Dole and Negative Advertising"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "For Immediate Release"
+Characters:    "\n\r    September 13, 1996"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "STATEMENT OF JOE LOCKHART"
+Characters:    "\n\r    NATIONAL PRESS SECRETARY"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole is complaining that Clinton/Gore �96 is running\n\r    a negative campaign. Clinton/Gore ads are based on issue\n\r    comparisons of Senator Dole�s voting record. Bob Dole is\n\r    equating informing the public with running a negative campaign.\n\r    Is Bob Dole admitting that his vote to cut Medicare by $270\n\r    billion and his consistent votes against the Family and Medical\n\r    Leave Act were mistakes? Clearly, this newly discovered concern\n\r    about negative campaigning is a thinly-veiled attempt to\n\r    justify the multi-million dollar, negative smear campaign Bob\n\r    Dole is planning to conduct."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Following is a fact sheet on Clinton/Gore vs. Bob Dole\n\r    advertising."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole: Laying The Groundwork For A Negative Smear\n\r    Campaign"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Clinton/Gore Ads Are 63% Positive, 37% Issue\n\r    Comparison -- And 0% Personal Attack."
+End element:   b
+Characters:    " The facts simply do\n\r    not support Bob Dole�s contention that President Clinton has\n\r    been waging a negative campaign. Sixty-three percent (63%) of\n\r    the time in ads run by Clinton-Gore have provided positive\n\r    information about the President�s record. Thirty-seven percent\n\r    (37%) of the time in the ads has compared the President and Bob\n\r    Dole on issues. Most importantly, zero percent (0%) of the time\n\r    in Clinton/Gore ads has been negative, personal attacks on Bob\n\r    Dole. [Squier/Knapp/Ochs Communications, 9/13/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Presidential Scholar Backs Up Positive Nature Of\n\r    Clinton/Gore Ads."
+End element:   b
+Characters:    " Kathleen Hall Jamieson, Dean of the\n\r    Annenberg School of Communications at the University of\n\r    Pennsylvania, analyzed the 1996 presidential ad campaign. She\n\r    concluded that this year -- so far -- the campaign ads have\n\r    been more positive than in the past. On the Clinton/Gore ads,\n\r    Ms. Jamieson said: \"...what you�re seeing in many of these\n\r    instances is Dole puts up an ad and Clinton comes...up on that\n\r    subject immediately with an ad that addresses it. The Clinton\n\r    ads are doing so in a comparative fashion, not simply\n\r    attacking. And that�s positive.... When you get ads that\n\r    compare, the electorate has more chance to learn, because\n\r    you�re hearing something from both sides.\" [CNN,\n\r    9/9/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "The Clinton/Gore Ads Aren�t Negative. Bob Dole�s\n\r    Record Is Negative."
+End element:   b
+Characters:    " If Bob Dole thinks it is negative to\n\r    say he tried to cut Medicare by $270 billion -- then he\n\r    shouldn�t have voted with Newt Gingrich to cut Medicare by $270\n\r    billion."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "If Bob Dole thinks it is negative to say that he opposed\n\r    putting 100,000 new police on the street -- then he shouldn�t\n\r    have voted with Newt Gingrich against the President�s 1994\n\r    Anti-Crime Bill."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "If Bob Dole thinks it is negative to say that he opposes\n\r    allowing families unpaid time off at work to care for a sick\n\r    parent or child -- then he shouldn�t have VOTED against the\n\r    Family and Medical Leave Act. And he should stop campaigning\n\r    against it."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Infamous For Dark Campaigns, Dole�s First Primary Ad\n\r    Attacked The President."
+End element:   b
+Characters:    " Remember Bob Dole�s history of\n\r    dark, negative campaigning? Bob Dole: snapped at George Bush on\n\r    national television in 1988, saying \"Stop lying about my\n\r    record!\"; called World War I, World War II, the Korean War and\n\r    Vietnam \"Democrat wars...\" during the 1976 vice presidential\n\r    debate; and asked high school children, during his close 1974\n\r    re-election campaign, to go home and \"ask your mother if she\n\r    knows how many abortions\" his opponent and OBGYN, Dr. Bill Roy,\n\r    had performed. [NBC Nightly News, 2/17/88; 1976 CQ Almanac, (p.\n\r    17); UPI, transcript of 10/15/76 debate; New York Times,\n\r    11/8/87]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "And 1996 has been no different. The very first\n\r    television ad Bob Dole ran during the 1995 primary campaign was\n\r    a negative attack on the President -- not a vision for where he\n\r    wanted to lead the country."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "With No One Buying Dole�s Economic Scheme, Bob Dole\n\r    Is Going Negative."
+End element:   b
+Characters:    " The bottom line? The facts do not\n\r    support the Dole campaign�s contention that Clinton/Gore `96 is\n\r    running a negative campaign. So why is Bob Dole saying this\n\r    now? Simple, Dole is lagging in the polls. No one is buying his\n\r    last-minute, risky economic scheme. And Dole has no new ideas\n\r    about improving the future for working American families. The\n\r    loud complaining is a thinly veiled attempt to justify the 11th\n\r    hour, multi-million dollar, negative smear campaign Bob Dole is\n\r    planning to conduct."
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

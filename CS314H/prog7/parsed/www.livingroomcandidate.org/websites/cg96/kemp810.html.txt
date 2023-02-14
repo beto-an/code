@@ -1,0 +1,75 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "On the Dole/Kemp ticket..."
+End element:   TITLE
+Characters:    "\r\n\r\r\n\r"
+Start element: KPETITLE
+Start element: B
+Characters:    "For Immediate Release:"
+End element:   B
+Characters:    "\r\n\r"
+Start element: DD
+Characters:    "On the Dole/Kemp Ticket..."
+End element:   KPETITLE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "  "
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "  "
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r"
+Start element: TT
+Characters:    "\r\n\r"
+Start element: P
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "August 10, 1996\r\n\r\r\n\r\r\n\r\t"
+Start element: P
+Characters:    "STATEMENT BY JOE LOCKHART\r\n\r"
+Characters:    "NATIONAL PRESS SECRETARY\r\n\r\r\n\r\r\n\r\t"
+Start element: P
+Characters:    "Bob Dole�s Vice Presidential selection demonstrates what the Dole/Gingrich Republican party is all about.  Bob Dole has now completed his transformation from deficit hawk to economic gambler willing to bet our economic future on a reckless supply side theory.  Bob Dole confirmed that women should not have the right to choose and anyone with an opposing view is not welcome in San Diego.  Finally, today�s selection proves who�s running the Republican party.  Jack Kemp survived the Robertson/Buchanan vetting process while other Republicans like Pete Wilson and Bill Weld are being silenced or sent home early.\r\n\r\r\n\r\r\n\r"
+Start element: P
+Start element: CENTER
+Characters:    "###\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    " "
+Characters:    " "
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee, Inc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End of document

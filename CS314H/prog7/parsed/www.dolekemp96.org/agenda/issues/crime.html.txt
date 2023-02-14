@@ -1,0 +1,366 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Where Bob Dole Stands on Crime"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: h2
+Key: align, Value: center
+Key: style, Value: text-align:center
+Characters:    "Where Bob Dole\n\r  Stands on Crime"
+End element:   h2
+Characters:    "\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Crime is a\n\r  Growing Epidemic in this Country"
+End element:   span
+End element:   b
+Characters:    "\n\r  One of the greatest threats facing our country is the epidemic of\n\r  violence that has already destroyed so many of our communities\n\r  and now threatens every segment of our society. In 1994, the\n\r  American people were victimized by more than 42 million crimes,\n\r  including nearly 11 million violent crimes. According to the FBI,\n\r  a crime is committed every 2 seconds -- and a violent crime every\n\r  17 seconds. But only 1 in 100 violent crimes ends in a jail\n\r  sentence. And once in jail, that criminal will serve only a\n\r  fraction of his or her sentence. The total cost of this mayhem is\n\r  more than $400 billion every year. And youth violence is on the\n\r  rise: many experts predict that juvenile arrests will\n\r  "
+Start element: u
+Characters:    "double"
+End element:   u
+Characters:    " by the year 2010."
+Characters:    "\n\r  "
+Characters:    "\n\r  Since Bill Clinton took office, trends in violent crime haven't\n\r  improved. There were 500,000 more crime victims in 1994 than\n\r  there were when Clinton took office. In all there were nearly 10\n\r  million violent crime victimizations in our country in 1995\n\r  alone."
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Bob Dole's Action Plan to\n\r  Combat Violent Crime"
+End element:   span
+End element:   b
+Characters:    "\n\r  Bob Dole and Jack Kemp understand that crime is a national\n\r  problem that cannot be solved by the federal government alone.\n\r  The federal government must work in partnership with state and\n\r  local governments. Bob Dole's five-point Action Plan will serve\n\r  as a blueprint for a new era of federal-state-local cooperation\n\r  in ridding the American social landscape of crime. As President,\n\r  he will:"
+End element:   p
+Characters:    "\n\r  "
+Start element: ol
+Key: start, Value: 1
+Key: type, Value: 1
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l23 level1 lfo6;tab-stops:list .5in
+Characters:    "\n\r    "
+Start element: b
+Characters:    "Renew our commitment to a drug-free America"
+End element:   b
+Characters:    ". Bob Dole\n\r    will use the Bully Pulpit of the Oval Office to teach America's\n\r    youth that drug use is dangerous and wrong."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l23 level1 lfo6;tab-stops:list .5in
+Characters:    "\n\r    "
+Start element: b
+Characters:    "End revolving door justice"
+End element:   b
+Characters:    ". Bob Dole will double the\n\r    current level of actual federal funding for state prison\n\r    construction to help ensure that violent criminals stay locked\n\r    up for their full sentences."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l23 level1 lfo6;tab-stops:list .5in
+Characters:    "\n\r    "
+Start element: b
+Characters:    "Hold violent juveniles accountable for their actions"
+End element:   b
+Characters:    ".\n\r    Juveniles charged with serious violent federal crimes will be\n\r    prosecuted as adults. Sentencing courts will be able to\n\r    consider prior juvenile offenses."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l23 level1 lfo6;tab-stops:list .5in
+Characters:    "\n\r    "
+Start element: b
+Characters:    "Make prisoners work"
+End element:   b
+Characters:    ". Bob Dole will issue an Executive\n\r    Order requiring able-bodied federal prisoners to work no less\n\r    than 40 hours each week to help pay compensation to the victims\n\r    of their crimes."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l23 level1 lfo6;tab-stops:list .5in
+Characters:    "\n\r    "
+Start element: b
+Characters:    "Keep guns out of the hands of criminals"
+End element:   b
+Characters:    ". Bob Dole will\n\r    establish a National Instant Check system to keep criminals and\n\r    others from purchasing firearms, and will instruct his Attorney\n\r    General to prosecute and punish vigorously those who use guns\n\r    in criminal activity."
+End element:   li
+Characters:    "\n\r  "
+End element:   ol
+Characters:    "\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "As President, Bob Dole will\n\r  also:"
+End element:   span
+End element:   b
+Characters:    "\n\r  "
+Start element: b
+Characters:    "Address the social conditions that contribute to a breakdown\n\r  of moral values by:"
+End element:   b
+End element:   p
+Characters:    "\n\r  "
+Start element: ul
+Key: type, Value: disc
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l21 level1 lfo7;tab-stops:list .5in
+Characters:    "\n\r    Continuing his efforts to reform a welfare system that has\n\r    severely weakened the two-parent family."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l21 level1 lfo7;tab-stops:list .5in
+Characters:    "\n\r    Providing Opportunity Scholarships for children trapped in\n\r    violent and dysfunctional schools."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l21 level1 lfo7;tab-stops:list .5in
+Characters:    "\n\r    Challenging the popular media to stop glamorizing drugs,\n\r    violence, and irresponsible behavior."
+End element:   li
+Characters:    "\n\r  "
+End element:   ul
+Characters:    "\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Characters:    "Protect the rights of crime victims by:"
+End element:   b
+End element:   p
+Characters:    "\n\r  "
+Start element: ul
+Key: type, Value: disc
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l30 level1 lfo8;tab-stops:list .5in
+Characters:    "\n\r    Appointing judges who will strictly interpret the Constitution,\n\r    not amend it to expand the rights of criminals."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l30 level1 lfo8;tab-stops:list .5in
+Characters:    "\n\r    Ensuring that his federal prosecutors make defending the\n\r    public's safety their number one priority."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l30 level1 lfo8;tab-stops:list .5in
+Characters:    "\n\r    Supporting a Constitutional Amendment guaranteeing the victims\n\r    of crime certain basic rights, including the right to be heard\n\r    at sentencing, the right to object to plea agreements, and the\n\r    right to a speedy trial."
+End element:   li
+Characters:    "\n\r  "
+End element:   ul
+Characters:    "\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "A Better America"
+End element:   span
+End element:   b
+Characters:    "\n\r  With Bob Dole as President, the government will once again\n\r  protect its citizens from crime. With a Dole-Kemp Administration,\n\r  women won't be afraid to walk alone at night, children will be\n\r  safe playing ball in the neighborhood park, and Americans won't\n\r  have to buy a second lock for the front door."
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../../news/news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    " "
+Start element: a
+Key: href, Value: ../agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the\n\r  Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

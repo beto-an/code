@@ -1,0 +1,273 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "As Senator Dole said...This is the best economy in 30\n\r  years"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    8/1/96"
+Characters:    "\n\r    PRESS RELEASE"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "AS SENATOR DOLE SAID...THIS IS THE BEST ECONOMY IN 30\n\r    YEARS"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "During the 1996 Republican primary in New Hampshire, Bob\n\r    Dole had a rare moment of positive candor. Speaking to the New\n\r    Hampshire State Legislature, Dole said: \"It is also true as\n\r    some have said, that our economy is the strongest it's been in\n\r    30 years...\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "That is true. And the second quarter economic growth\n\r    numbers released by the Commerce Department today -- showing\n\r    the economy growing at 4.2 percent -- demonstrate that the\n\r    economy continues to improve under President Clinton's\n\r    leadership."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The President is working hard to build on this record,\n\r    to ensure that the economy continues to grow and that all\n\r    working American families feel the positive benefits. No thanks\n\r    to Bob Dole and Newt Gingrich. Given today's strong economic\n\r    numbers, Bob Dole and Newt Gingrich have no credibility on\n\r    economics -- even as they publicly flounder in their search for\n\r    a Republican economic plan."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Dole and Gingrich predicted that the sky would fall if\n\r    the President�s plan passed."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Here's what Senator Dole had to say:"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "\"The Clinton plan does not solve the deficit problems. It\n\r      will not keep the economy moving, and it will not create\n\r      jobs\" (April 5, 1993)"
+End element:   tt
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "But despite their negative \"Chicken Little\" predictions,\n\r    the President's positive economic record speaks for\n\r    itself."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "The deficit has been cut in half."
+End element:   tt
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "The economy is growing -- at 4.2 percent."
+End element:   tt
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "10 million new jobs have been created."
+End element:   tt
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "Wages are growing for the first time in over a\n\r      decade."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The Prediction: Bob Dole On The President's Economic\n\r    Strategy In 1993"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "\"The Clinton plan does not solve the deficit problems. It\n\r      will not keep the economy moving, and it will not create\n\r      jobs.\""
+Characters:    "\n\r      -- Congressional Record, 4/5/93 (p. 4541)"
+End element:   tt
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The Facts: President Clinton�s Economic Record"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Strong Economic Growth:"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "The Commerce Department reported today that the\n\r      nation's economy grew at a 4.2% annual rate in the second\n\r      quarter of this year."
+Characters:    "\n\r      [Commerce Department, 8/1/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Ten Million New Jobs:"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "Under President Clinton's leadership, the economy has\n\r      created 10 million jobs in 41 months."
+Characters:    "\n\r      [Labor Department]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Deficit Cut More Than In Half :"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "President Clinton has cut the deficit in half from\n\r      $290 billion in 1992 to $117 billion this year. President\n\r      Clinton is the first President to cut the deficit for four\n\r      years in a row since the 1840s."
+Characters:    "\n\r      [CBO; OMB]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Unemployment Is At Its Lowest Level In Six\n\r    Years:"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "The unemployment rate is now 5.3% -- its lowest level\n\r      in six years and 22nd consecutive month below 6%. The\n\r      unemployment rate averaged 7.5% in 1992."
+Characters:    "\n\r      [Labor Department]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Wages Are Up:"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "After dropping 79 cents in the previous two\n\r      Administrations, average hourly earnings have increased\n\r      slightly under President Clinton. In 1996, more than 50% of\n\r      all new jobs are in high-wage industries. Since President\n\r      Clinton has taken office, nearly four million jobs have been\n\r      created in high-wage industries."
+Characters:    "\n\r      [Bureau of Labor Statistics; Treasury Department; Census\n\r      Bureau; Business Week, 3/11/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The Truth: Bob Dole On The President�s Economic Record\n\r    In 1996"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "\"It is also true, as some have said, that our economy is\n\r      the strongest it's been in 30 years.\""
+Characters:    "\n\r      -- Bob Dole speaking to the New Hampshire State Legislature,\n\r      2/13/96"
+End element:   tt
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "###"
+Characters:    "\n\r    "
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Start element: tt
+Characters:    "\n\r    "
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

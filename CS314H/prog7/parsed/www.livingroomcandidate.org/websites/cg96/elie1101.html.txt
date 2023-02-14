@@ -1,0 +1,126 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Elie Wiesel Endorses Clinton/Gore '96"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 31, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "ELIE WIESEL: WHY I AM PERSONALLY ENDORSING PRESIDENT\n\r      CLINTON AND VICE PRESIDENT GORE"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Usually in Presidential elections I try to remain a\n\r    committed and passionate observer. But as we come close to the\n\r    21st century, we need leaders with imagination, we need leaders\n\r    concerned with social justice. There are too many victims of\n\r    society, too many prisoners of despair."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "We need compassion and sensitivity for those who are\n\r    ill, hungry, without work or shelter, the forgotten, the\n\r    abandoned, those for whom life is a burden and every new day a\n\r    source of fear. We need leaders willing to take on the\n\r    challenges of dealing with the regular outbursts of hatred\n\r    between religious groups and ethnic communities, with the\n\r    violence at home and abroad -- in such places as Bosnia,\n\r    Ireland, Afghanistan, Rwanda and Zaire."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "As a Jew, I am particularly concerned about achieving\n\r    peace in the Middle East. The nightmare that continues to haunt\n\r    Israel and its neighbors must end. I know that President\n\r    Clinton shares this concern and that he has been a steadfast\n\r    ally and friend of Israel during some of its toughest times\n\r    since it became a state."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "For all these reasons, this year we must take sides and\n\r    say whether we consider President Clinton and Vice President\n\r    Gore worthy of our trust. I believe they are."
+Characters:    "\n\r    "
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Elie Wiesel"
+End element:   b
+Characters:    " is a world renowned human rights\n\r    advocate. He is the 1986 recipient of the Nobel Peace Prize,\n\r    and has taught at Boston University as the Andrew W. Mellon\n\r    Professor in the Humanities since 1976. His personal experience\n\r    of the Holocaust has led him to use his talents as an author,\n\r    teacher and storyteller to defend human rights and peace\n\r    throughout the earth for much of his life."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "# # #"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

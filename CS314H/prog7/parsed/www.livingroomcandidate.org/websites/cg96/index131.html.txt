@@ -1,0 +1,136 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Downloadables | Wallpaper"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: white
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index11-2.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: blockquote
+Characters:    "\n\r        "
+Start element: i
+Characters:    "ere is some\n\r        wallpaper for you to download. Choose SMALL or LARGE under\n\r        any of the thumbnail images to bring up either a 640x480\n\r        pixel or 800x600 pixel image. Windows users can then\n\r        right-click on the image to save it as wallpaper. On a\n\r        Macintosh, click and hold on the image to save it to your\n\r        hard drive. Please let us know of any Clinton/Gore’96\n\r        artwork you've created yourself in our "
+Start element: a
+Key: href, Value: index8-2.html
+Characters:    "America’s Home Page"
+End element:   a
+Characters:    " section."
+End element:   i
+Characters:    "\n\r        "
+Start element: p
+End element:   p
+Characters:    "\n\r      "
+End element:   blockquote
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: table
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Key: align, Value: center
+Characters:    "\n\r            "
+Characters:    "\n\r            "
+Start element: a
+Key: href, Value: challengea.html
+Characters:    "SMALL (22K)"
+End element:   a
+Characters:    "\n\r            "
+Start element: a
+Key: href, Value: challengeb.html
+Characters:    "LARGE (31K)"
+End element:   a
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r          "
+Start element: td
+Key: align, Value: center
+Characters:    "\n\r            "
+Characters:    "\n\r            "
+Start element: a
+Key: href, Value: kida.html
+Characters:    "SMALL (81K)"
+End element:   a
+Characters:    "\n\r            "
+Start element: a
+Key: href, Value: kidb.html
+Characters:    "LARGE (112K)"
+End element:   a
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r      "
+End element:   table
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: a
+Key: href, Value: tracka.html
+Characters:    "SMALL (59K)"
+End element:   a
+Characters:    "\n\r      "
+Start element: a
+Key: href, Value: trackb.html
+Characters:    "LARGE (81K)"
+End element:   a
+Characters:    "\n\r      "
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: p
+Characters:    "\n\r    "
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      Paid for by Clinton/Gore ’96 General Committee, Inc.\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/challengea.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/tracka.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/challengeb.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/kida.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/kidb.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/trackb.html

@@ -1,0 +1,298 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "More Than 100 National Security Experts Endorse the\n\r  President's Reelection"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 10, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "MORE THAN 100 FORMER NATIONAL SECURITY EXPERTS\n\r    PERSONALLY ENDORSE PRESIDENT CLINTON�S FOREIGN POLICY AND HIS\n\r    RE-ELECTION"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "WASHINGTON, D.C. -- Expressing support for President\n\r    Clinton�s foreign and defense policies, more than 100 former\n\r    national security officials -- including retired Ambassadors,\n\r    military flag officers, and senior State Department, Pentagon,\n\r    and Presidential advisers -- today personally endorsed\n\r    President Clinton and Vice President Gore."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The list includes officials who served under Republican\n\r    and Democratic administrations; flag officers from the Army,\n\r    Air Force, Marine Corps, and Navy; and diplomats with service\n\r    in virtually all parts of the world."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Explaining why they are supporting President Clinton\n\r    over Bob Dole they wrote, \"We salute President Clinton for\n\r    resisting voices that encourage the United States to turn\n\r    toward isolationism, to raise protectionist barriers, or to\n\r    abdicate our global responsibilities. We praise the President�s\n\r    willingness to use U.S. military power effectively, as he has\n\r    done in Iraq, Bosnia, Haiti, the Taiwan Strait and elsewhere.\n\r    We applaud his opposition to irresponsible reductions in\n\r    American military readiness, diplomatic effectiveness, and\n\r    intelligence capabilities. We commend his diligent efforts to\n\r    lead America and the world to a more peaceful and secure 21st\n\r    century.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The national security professionals, representing\n\r    decades of experience on every aspect of international affairs,\n\r    said in the written statement, \"We support President Bill\n\r    Clinton and Vice President Al Gore as the candidates in 1996\n\r    best able to provide that leadership and vision.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Clinton/Gore �96 Campaign Manager Peter S. Knight\n\r    remarked, \"President Clinton is working hard to build a more\n\r    peaceful, prosperous and secure future for all Americans, and\n\r    this letter from these distinguished national security\n\r    officials shows that we are on the right track.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Among those signing the statement were former arms\n\r    control negotiator Ambassador-at-large Paul Nitze, former Chief\n\r    of Naval Operations Admiral Elmo Zumwalt, former Secretary of\n\r    State Cyrus Vance, former Secretary of Defense Harold Brown,\n\r    former Attorney General and Undersecretary of State Nicholas\n\r    Katzenbach, former UN Ambassador Donald McHenry, former\n\r    Director of Central Intelligence Admiral Stansfield Turner,\n\r    Special Counsel to President Kennedy Theodore Sorensen, former\n\r    Director of the Arms Control and Disarmament Agency Paul\n\r    Warnke, former U.S. Information Agency Director Leonard Marks,\n\r    former U.S. Information Agency Director John E. Reinhardt,\n\r    former Ambassador to China Leonard Woodcock, and former\n\r    Ambassador to the Soviet Union Jack Matlock."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Start element: tt
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Statement of National Security and Defense Experts\n\r      Personally Endorsing President Clinton and Vice President\n\r      Gore"
+Characters:    "\n\r      October 10, 1996"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "The Imperative of U.S. Leadership"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The post-Cold War era presents the United States with\n\r    national security opportunities, challenges, and dangers that\n\r    demand strong leadership and clear vision for a much changed\n\r    world. As national security professionals, representing decades\n\r    of experience on every aspect of international affairs, we\n\r    support President Bill Clinton and Vice President Al Gore as\n\r    the candidates in 1996 best able to provide that leadership and\n\r    vision."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The Clinton Administration has produced impressive\n\r    national security accomplishments: breakthroughs for peace in\n\r    the Mideast, Bosnia, Haiti, Northern Ireland, and South Africa;\n\r    a sound defense program that has preserved the readiness of our\n\r    forces while reshaping our military for the 21st century;\n\r    ratification of the START II nuclear arms control treaty and\n\r    the end to Russian nuclear missiles being pointed at American\n\r    targets; securing agreements to remove all nuclear weapons from\n\r    the former Soviet states of Ukraine, Kazakhstan, and Belarus;\n\r    the freezing of the North Korean nuclear weapons program and\n\r    other steps to enhance security in East Asia; attaining\n\r    overwhelming adoption of the Comprehensive Nuclear Test Ban\n\r    Treaty and indefinite extension of the Nuclear Nonproliferation\n\r    Treaty; convictions of the World Trade Center bombers and\n\r    sanctions against states that support terrorism; enactment of\n\r    landmark accords to lower foreign trade barriers, boost\n\r    American exports, and create jobs; bold steps to prevent a\n\r    destabilizing crisis in Mexico; important efforts to protect\n\r    the global environment; and initiatives to relieve suffering,\n\r    encourage democracy, and advance human rights abroad."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "We believe strong American leadership abroad remains\n\r    essential after the Cold War. We salute President Clinton for\n\r    resisting voices that encourage the United States to turn\n\r    toward isolationism, to raise protectionist barriers, or to\n\r    abdicate our global responsibilities. We praise the President�s\n\r    willingness to use U.S. military power effectively, as he has\n\r    done in Iraq, Bosnia, Haiti, the Taiwan Strait and elsewhere.\n\r    We applaud his opposition to irresponsible reductions in\n\r    American military readiness, diplomatic effectiveness, and\n\r    intelligence capabilities. We commend his diligent efforts to\n\r    lead America and the world to a more peaceful and secure 21st\n\r    century."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "National security remains the most important aspect of a\n\r    president�s job. That is why we are supporting President Bill\n\r    Clinton to remain our Commander-in-Chief."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "National Security and Defense Experts Personally\n\r      Endorsing President Clinton and Vice President Gore"
+End element:   b
+Characters:    "\n\r      October 10, 1996"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The following are individual endorsements and do not\n\r    represent the endorsement of any affiliated organization.\n\r    Signatories to The Imperative of U.S. Leadership"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Brig. Gen. Hugh S. Aitken, USMC (Ret.)"
+Characters:    "\n\r    Clifford L. Alexander, Jr., former Secretary of the Army"
+Characters:    "\n\r    Donald M. Anderson, former Consul General, Hong Kong and\n\r    Shanghai"
+Characters:    "\n\r    Amb. Robert L. Barry"
+Characters:    "\n\r    Amb. Maurice M. Bernbaum"
+Characters:    "\n\r    Amb. Gordon R. Beyer"
+Characters:    "\n\r    Amb. Jack R. Binns"
+Characters:    "\n\r    David E. Birenbaum, former U.S. Representative to the United\n\r    Nations"
+Characters:    "\n\r    Amb. James J. Blanchard"
+Characters:    "\n\r    Amb. William Bodde, Jr."
+Characters:    "\n\r    Amb. William McC. Blair, Jr."
+Characters:    "\n\r    Amb. Paul H. Boeker"
+Characters:    "\n\r    Robert R. Bowie, former Assistant Secretary of State"
+Characters:    "\n\r    Amb. Peter S. Bridges"
+Characters:    "\n\r    Harold Brown, former Secretary of Defense"
+Characters:    "\n\r    Amb. William I. Cargo"
+Characters:    "\n\r    Barry E. Carter, former Deputy Undersecretary of Commerce"
+Characters:    "\n\r    Amb. Anne Cox Chambers"
+Characters:    "\n\r    Christian A. Chapman, former Minister to France"
+Characters:    "\n\r    Maj. Gen. Arthur W. Clark, USAF (Ret.)"
+Characters:    "\n\r    Amb. Herman J. Cohen, former Assistant Secretary of State"
+Characters:    "\n\r    Amb. Edwin G. Corr"
+Characters:    "\n\r    Amb. John Hugh Crimmins"
+Characters:    "\n\r    Amb. Horace G. Dawson, Jr."
+Characters:    "\n\r    Amb. Olcott H. Deming"
+Characters:    "\n\r    Amb. Frank J. Devine"
+Characters:    "\n\r    Amb. C. Edward Dillery"
+Characters:    "\n\r    Amb. Donald B. Easum, former Assistant Secretary of State"
+Characters:    "\n\r    Amb. William B. Edmondson"
+Characters:    "\n\r    Brig. Gen. Evelyn (Pat) Foote, USA (Ret.)"
+Characters:    "\n\r    Amb. Raymond L. Garthoff"
+Characters:    "\n\r    Amb. Robert F. Goheen"
+Characters:    "\n\r    Amb. Lincoln Gordon, former Assistant Secretary of State"
+Characters:    "\n\r    Amb. Lloyd N. Hand, former U.S. Chief of Protocol"
+Characters:    "\n\r    Amb. Samuel F. Hart"
+Characters:    "\n\r    Amb. Arthur A. Hartman"
+Characters:    "\n\r    Amb. H. Kenneth Hill"
+Characters:    "\n\r    Amb. Lewis Hoffacker"
+Characters:    "\n\r    Amb. Richard C. Holbrooke, former Assistant Secretary of\n\r    State"
+Characters:    "\n\r    Thomas L. Hughes, former Director of Intelligence and Research,\n\r    Department of State"
+Characters:    "\n\r    Amb. Frederick Irving, former Assistant Secretary of State"
+Characters:    "\n\r    Bruce W. Jentleson, former State Department Policy Planning\n\r    Staff"
+Characters:    "\n\r    Amb. Geri M. Joseph"
+Characters:    "\n\r    Nicholas deB. Katzenbach, former Undersecretary of State,\n\r    former Attorney General"
+Characters:    "\n\r    Amb. Henry L. Kimelman"
+Characters:    "\n\r    Amb. E. Gregory Kryza"
+Characters:    "\n\r    Amb. Philip M. Kaiser"
+Characters:    "\n\r    Amb. Arthur W. Lewis"
+Characters:    "\n\r    Amb. Samuel W. Lewis, former Assistant Secretary of State"
+Characters:    "\n\r    Amb. James G. Lowenstein"
+Characters:    "\n\r    Amb. Ray Mabus"
+Characters:    "\n\r    Amb. David E. Mark"
+Characters:    "\n\r    Leonard H. Marks, former Director, United States Information\n\r    Agency"
+Characters:    "\n\r    Amb. Richard C. Matheron"
+Characters:    "\n\r    Amb. Jack F. Matlock"
+Characters:    "\n\r    Charles William Maynes, former Assistant Secretary of State"
+Characters:    "\n\r    Amb. Robert J. McCloskey, former Assistant Secretary of\n\r    State"
+Characters:    "\n\r    David E. McGiffert, former Assistant Secretary of Defense"
+Characters:    "\n\r    Amb. Donald F. McHenry, former U.S. Ambassador to the United\n\r    Nations"
+Characters:    "\n\r    Harry McPherson, former Assistant Secretary of State"
+Characters:    "\n\r    Amb. Edward W. Mulcahy"
+Characters:    "\n\r    Robert J. Murray, former Under Secretary of the Navy"
+Characters:    "\n\r    Amb. Paul H. Nitze"
+Characters:    "\n\r    Amb. Donald R. Norland"
+Characters:    "\n\r    Amb. Herbert S. Okun"
+Characters:    "\n\r    Amb. Henry Owen"
+Characters:    "\n\r    Amb. Mary S. Olmsted"
+Characters:    "\n\r    Amb. Ronald D. Palmer"
+Characters:    "\n\r    Amb. Victor H. Palmieri"
+Characters:    "\n\r    Amb. Joseph R. Paolino, Jr."
+Characters:    "\n\r    Amb. Jack R. Perry"
+Characters:    "\n\r    Amb. David H. Popper, former Assistant Secretary of State"
+Characters:    "\n\r    Amb. John E. Reinhardt, former Director, United States\n\r    Information Agency"
+Characters:    "\n\r    Amb. Robert G. Rich, Jr."
+Characters:    "\n\r    Rear Admiral Horace B. Robertson, Jr., USN (Ret.)"
+Characters:    "\n\r    William D. Rogers, former Undersecretary of State"
+Characters:    "\n\r    Amb. Peter R. Rosenblatt"
+Characters:    "\n\r    Jeremy D. Rosner, former National Security Council\n\r    Counselor"
+Characters:    "\n\r    Amb. Robert M. Sayre"
+Characters:    "\n\r    Amb. John D. Scanlan"
+Characters:    "\n\r    Amb. William E. Schaufele, Jr., former Assistant Secretary of\n\r    State"
+Characters:    "\n\r    Jerrold L. Schecter, former National Security Council\n\r    Spokesman"
+Characters:    "\n\r    Theodore C. Sorensen, former Special Counsel to President John\n\r    F. Kennedy"
+Characters:    "\n\r    Amb. Ronald I. Spiers"
+Characters:    "\n\r    Amb. Andrew L. Steigman, former Undersecretary of State"
+Characters:    "\n\r    Amb. Ben S. Stephansky"
+Characters:    "\n\r    Amb. Michael E. Sterner"
+Characters:    "\n\r    Amb. Phillips Talbot, former Assistant Secretary of State"
+Characters:    "\n\r    Maj. Gen. James Taylor, Jr., USAF (Ret.)"
+Characters:    "\n\r    John Jay Taylor, former Chief of Mission, Cuba"
+Characters:    "\n\r    Admiral Stansfield Turner, USN (Ret.), former Director of\n\r    Central Intelligence"
+Characters:    "\n\r    Cyrus R. Vance, former Secretary of State"
+Characters:    "\n\r    Amb. William J. vanden Heuvel"
+Characters:    "\n\r    Amb. Christopher Van Hollen"
+Characters:    "\n\r    Amb. Julius W. Walker, Jr."
+Characters:    "\n\r    Amb. Paul C. Warnke, former Director, Arms Control and\n\r    Disarmament Agency"
+Characters:    "\n\r    Lt. Gen. Vern Weber, USA (Ret.)"
+Characters:    "\n\r    Amb. Robert E. White"
+Characters:    "\n\r    Amb. Milton A. Wolf"
+Characters:    "\n\r    Amb. Arthur H. Woodruff"
+Characters:    "\n\r    Amb. Leonard F. Woodcock"
+Characters:    "\n\r    Admiral Elmo R. Zumwalt, Jr., USN (Ret.)"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

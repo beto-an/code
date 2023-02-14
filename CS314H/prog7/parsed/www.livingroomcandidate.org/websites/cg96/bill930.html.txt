@@ -1,0 +1,114 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "New Budget Bill: Fair, Forward-Looking, Tough"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    September 30, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "STATEMENT BY JOE LOCKHART"
+Characters:    "\n\r    NATIONAL PRESS SECRETARY"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The FY 1997 Omnibus Budget bill passed by the House of\n\r    Representatives and expected to be passed by the Senate today\n\r    is further proof that Democrats and Republicans are embracing\n\r    the priorities set by President Clinton. This budget reflects\n\r    the President�s goals to expand opportunity, demand\n\r    responsibility, and build strong communities. It is a\n\r    validation of his commitment to balance the budget without\n\r    undermining our values."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "This bill is a victory for the American people."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "It is fair: There are no cuts in Medicare and\n\r    Medicaid."
+Characters:    "\n\r    It is forward-looking: Education for our youth is protected and\n\r    enhanced with additional support for schools, Head Start, the\n\r    Safe and Drug Free Schools initiative, student loans for\n\r    college and Goals 2000 education reforms."
+Characters:    "\n\r    It is tough: Increases the commitment for fighting terrorism,\n\r    extends the Brady Bill to ban people guilty of domestic\n\r    violence misdemeanors from purchasing guns."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "What a difference a year makes. Last year, Republicans\n\r    shut down the government in an attempt to force the extreme\n\r    ideology of the Dole/Gingrich \"revolution\" on the American\n\r    people. This year, with Bob Dole out of the Congress, Congress\n\r    has taken the measured approach advocated by President Clinton\n\r    and supported by the American people."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

@@ -1,0 +1,301 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Speech made on April 10, 1995"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: b
+Start element: font
+Key: face, Value: Times New Roman
+Start element: font
+Key: size, Value: +1
+Characters:    "April 10,\n\r    1995"
+End element:   font
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: -1
+Characters:    "Remarks by Senator Bob Dole"
+End element:   font
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: -1
+Characters:    "Official Announcement"
+End element:   font
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: -1
+Characters:    "Topeka, Kansas"
+End element:   font
+End element:   font
+End element:   b
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: font
+Key: face, Value: Times New Roman
+Characters:    "Thank you, Governor Graves,\n\r    Senator Kassebaum. Good morning friends -- Elizabeth, Robin,\n\r    and I thank you for that tremendous welcome. It's great to be\n\r    in Kansas. Of course, I'm not the first Kansan to say, \"there's\n\r    no place like home.\" But for me, the words have special\n\r    meaning. Wherever I have traveled in this life, I have never\n\r    forgotten where I came from -- or where I go home to."
+Characters:    "\n\r    "
+Characters:    "\n\r    Whatever lessons I have applied in public life were first\n\r    learned here as a member of the Kansas House of\n\r    Representatives. These days I spend much of my time in another\n\r    capitol. You see many things from atop the hill in Washington\n\r    where I work -- but you can see America from here."
+Characters:    "\n\r    "
+Characters:    "\n\r    Common sense and uncommon sensitivity: that's the Kansas way.\n\r    It's what made Dwight Eisenhower a great general and a great\n\r    President. And it's what prompted Alf Landon with his unique\n\r    wisdom to say, \"there are some intelligent people in\n\r    Washington, but there are more of 'em in Kansas.\" I hasten to\n\r    add the same applies to forty nine other states."
+Characters:    "\n\r    "
+Characters:    "\n\r    But then, Kansans have never had to look to Washington, DC for\n\r    a sense of compassion or community. As a young man in a small\n\r    town my parents taught me to put my trust in God, not\n\r    government, and never confuse the two. Something else I\n\r    learned, learned the hard way -- that while self reliance is an\n\r    essential part of the American character, so is the spirit of\n\r    community that reaches out to those wounded in body or\n\r    soul."
+Characters:    "\n\r    "
+Characters:    "\n\r    When I went off to war it was to defend a community of values\n\r    unique in all the world. I came back sustained by the love and\n\r    generosity of friends and neighbors who renewed my sense of\n\r    life's possibilities. Over the years they have given me\n\r    opportunities for service which I can never hope to repay."
+Characters:    "\n\r    "
+Characters:    "\n\r    Because they restored my spirit in a time of trial I have\n\r    dedicated myself to restoring the spirit of America. And so\n\r    today, tempered by adversity, seasoned by experience, mindful\n\r    of the world as it is -- yet confident it can be made better --\n\r    I have come home to Kansas with a grateful heart to declare\n\r    that I am a candidate for the Presidency of the United\n\r    States."
+Characters:    "\n\r    "
+Characters:    "\n\r    The view many Americans see this morning is a sobering one. We\n\r    are troubled about the direction our country is taking. Our\n\r    values are under constant assault from our public and cultural\n\r    institutions. We feel threatened by the random incidents of\n\r    violent crime. Too many of our schools, which were once\n\r    passports to opportunity, have become demoralizing places.\n\r    Welfare has become a misery subsidy fostering illegitimacy and\n\r    generations of dependency. And yet the deficit keeps growing,\n\r    taxes keep increasing, and the government keeps demanding more\n\r    and more authority over our lives."
+Characters:    "\n\r    "
+Characters:    "\n\r    None of this should come as a surprise. For much of this\n\r    century power and wealth alike have flowed from grassroots\n\r    Americans to a federal government which exploded to meet the\n\r    twin crises of economic depression and global war. Yet, the\n\r    lifejacket of one generation can become the straightjacket of\n\r    the next. In giving to Washington our responsibility to address\n\r    problems close to their source, Americans have unwittingly\n\r    encouraged the Federal government to become too large, too\n\r    remote, too unresponsive, and too undemocratic to be\n\r    representative."
+Characters:    "\n\r    "
+Characters:    "\n\r    However, another America is waiting -- an America strong again\n\r    in heart and sure of mind. I would like to lead us there."
+Characters:    "\n\r    "
+Characters:    "\n\r    Our problems are not too difficult to handle. It's just that\n\r    our leaders have grown too isolated from places like Topeka --\n\r    embarrassed by the values here. They seem to have lost the idea\n\r    that we are -- and must remain -- one nation under God. We are\n\r    bound by our heritage to a set of common values: hard work,\n\r    integrity, responsibility -- these values have always been the\n\r    source of our strength and the glue that holds us together."
+Characters:    "\n\r    "
+Characters:    "\n\r    Our country must again have leaders who believe in our people\n\r    and are proud of our values. We need leaders who will summon\n\r    from each of us the best of our character, who will call us as\n\r    a nation to our full potential. I want to be president so I can\n\r    do this for America."
+Characters:    "\n\r    "
+Characters:    "\n\r    My mandate as President would be to rein in the Federal\n\r    government in order to set free the spirit of the American\n\r    people; to reconnect our government in Washington with the\n\r    common sense values of our citizens; and to reassert American\n\r    interests wherever and whenever they are challenged around the\n\r    world."
+Characters:    "\n\r    "
+Characters:    "\n\r    My guide in this would be the final piece of the Bill of Rights\n\r    -- the Tenth Amendment. It reads, \"The powers not delegated to\n\r    the United States by the Constitution, nor prohibited by it to\n\r    the states, are reserved to the states ... or to the\n\r    people.\""
+Characters:    "\n\r    "
+Characters:    "\n\r    When those words were written by our Founding Fathers more than\n\r    200 years ago, they were an affirmation of a radical new theory\n\r    of politics -- a theory based on the need to limit the powers\n\r    of the central government in order to unleash the unlimited\n\r    potential of the people. The Federal government should do only\n\r    those things specifically called for in the Constitution. All\n\r    others should remain with the states or the people. It is a\n\r    philosophy of freedom conceived in liberty, tested by history,\n\r    yet too often ignored in Washington. I intend to restore\n\r    it."
+Characters:    "\n\r    "
+Characters:    "\n\r    In the last election, the American people sent an unmistakable\n\r    message to Washington. With rare clarity, they reaffirmed their\n\r    faith in themselves and a healthy amount of skepticism about\n\r    government."
+Characters:    "\n\r    "
+Characters:    "\n\r    If we are truly to rein in government, we must have a President\n\r    who is more than a clever apologist for the status quo. In\n\r    1992, Bill Clinton ran for president as the candidate of\n\r    change. In 1996, he will seek reelection as a candidate pledged\n\r    to prevent change at all cost."
+Characters:    "\n\r    "
+Characters:    "\n\r    We need a President who will do more than say \"no\" to every\n\r    spending cut, \"no\" to every attempt to return power and money\n\r    to the states. We need a President who shares our values,\n\r    embraces our agenda and who will lead the fight for the\n\r    fundamental change America chose last November. We need a\n\r    President who will say \"yes\" to the American people, and that\n\r    is the kind of President I intend to be."
+Characters:    "\n\r    "
+Characters:    "\n\r    And while on the subject of creating a government that will say\n\r    \"yes\" to the American people, let me make one fundamental\n\r    belief crystal clear: we can cut taxes and balance the budget.\n\r    Middle class families are forced to send too much of their\n\r    hard-earned money to Washington. We should provide a tax credit\n\r    for children and remove the marriage penalty to strengthen our\n\r    families. And we should cut the capital gains tax to stimulate\n\r    economic growth, create new jobs, and expand opportunity for\n\r    all our people."
+Characters:    "\n\r    "
+Characters:    "\n\r    That is just the first step, not the last. We need a president\n\r    committed to making our tax system lower, fairer, flatter,\n\r    simpler -- so that ordinary people like you and me could fill\n\r    out our tax form without a lawyer or an accountant or both."
+Characters:    "\n\r    "
+Characters:    "\n\r    Balancing the budget will also be a top priority; we cannot\n\r    continue mortgaging our children's future. We will give the\n\r    President the line item veto and we will give the American\n\r    people a Balanced Budget Amendment."
+Characters:    "\n\r    "
+Characters:    "\n\r    But that is only the beginning. Reining in the government means\n\r    streamlining the entire Federal bureaucracy, getting its nose\n\r    out of places the government just shouldn't be. We should work\n\r    our way through the alphabet soup of government, asking this\n\r    question: Is this program a basic function of limited\n\r    government, or is it an example of how government has lost\n\r    faith in the judgment of our people?"
+Characters:    "\n\r    "
+Characters:    "\n\r    The best place to begin is with four of the most ineffective,\n\r    burdensome and meddlesome departments: Education, Housing and\n\r    Urban Development, Energy, and Commerce. Together they spend\n\r    more than $74 billion per year and employ more than 74,000\n\r    workers."
+Characters:    "\n\r    "
+Characters:    "\n\r    Let's close down the Education Department and spend the money\n\r    on our children, not bureaucracies and red tape; and let's\n\r    implement school choice to return power to parents. HUD has\n\r    become a cash cow for big city mayors and the well-connected.\n\r    We should give housing vouchers to those who need them and get\n\r    the government out of the landlord business altogether. Energy\n\r    would function better as an agency within the Department of\n\r    Defense. And more than half of what the Department of Commerce\n\r    does has nothing to do with commerce or trade -- duplicated by\n\r    71 other governmental departments, agencies, and offices."
+Characters:    "\n\r    "
+Characters:    "\n\r    And there are other questions we should ask. We spend hundreds\n\r    of millions of dollars on the Endowments for the Arts and\n\r    Humanities. Why is the Federal government in the culture\n\r    business? In this explosion of the information age, why do we\n\r    have a Corporation for Public Broadcasting?"
+Characters:    "\n\r    "
+Characters:    "\n\r    There are a host of other areas that cry out for reform. I will\n\r    be talking about them at greater length in the year ahead.\n\r    Welfare is one. The Federal system has failed. Why are liberals\n\r    in Washington so afraid to turn welfare decision-making over to\n\r    our governors and state legislatures? There is already\n\r    considerable evidence that they can do much better."
+Characters:    "\n\r    "
+Characters:    "\n\r    Affirmative action is another Federal policy out of control.\n\r    Discrimination is wrong, immoral. This is America. We should\n\r    have a color blind society. But fighting discrimination should\n\r    never be used to divide Americans by race, ethnic background,\n\r    or gender."
+Characters:    "\n\r    "
+Characters:    "\n\r    There is one area where the Federal government must work in\n\r    partnership with our state and local governments -- and that\n\r    area is crime. Today, a criminal committing a serious crime has\n\r    less than a ten percent chance of going to jail. And once in\n\r    jail that criminal will serve only a fraction of his\n\r    sentence."
+Characters:    "\n\r    "
+Characters:    "\n\r    We should put an end to parole for violent offenders. Put\n\r    limits on the endless and often frivolous appeals clogging our\n\r    courts. Remove teenagers who commit serious, violent crimes\n\r    from juvenile courts and try them as adults. We should be more\n\r    concerned with the rights of victims than the privileges of\n\r    criminals. And we must rededicate ourselves to the war on\n\r    drugs."
+Characters:    "\n\r    "
+Characters:    "\n\r    Finally, let me touch for a moment on America's place in the\n\r    world. There is one responsibility only the Federal government\n\r    has, and that is to protect our freedom. We must never be\n\r    reluctant about our greatness or ashamed of our national\n\r    strength."
+Characters:    "\n\r    "
+Characters:    "\n\r    We must stop placing the agenda of the United Nations before\n\r    the interests of the United States. When we take our revolution\n\r    to the White House in 1996, we will vow that American policies\n\r    will be determined by us, not by the United Nations. Let us\n\r    remember that America has been the greatest force for good the\n\r    world has ever known."
+Characters:    "\n\r    "
+Characters:    "\n\r    I was reminded of that on the 50th anniversary of D-Day last\n\r    summer, when the eyes of the world were focused on the beaches\n\r    of France. I was there and witnessed the emotion as memories\n\r    came flooding back -- memories of the heroism, the sacrifices\n\r    and pain men and women suffered."
+Characters:    "\n\r    "
+Characters:    "\n\r    Before visiting France, I traveled to Northern Italy where I\n\r    served in the 10th Mountain Division. While revisiting the\n\r    battle sites, I thought about why we had been sent there, about\n\r    the America of our youth, the America we were risking our lives\n\r    to protect, and about our hopes for the generations who would\n\r    follow us. And then I thought about the America we live in now\n\r    -- an America still great and still the beacon of freedom\n\r    around the world, but an America that is headed in the wrong\n\r    direction."
+Characters:    "\n\r    "
+Characters:    "\n\r    Standing there gazing across those peaceful fields I thought of\n\r    why it is critical to have a president who knows what made\n\r    America great, who knows what has been sacrificed to keep us\n\r    free, and who would do all in his power to lead America back to\n\r    her place in the sun."
+Characters:    "\n\r    "
+Characters:    "\n\r    My friends, I have the experience. I've been tested, tested in\n\r    many ways. I am not afraid to lead, and I know the way. Let us\n\r    rein in our government to set the spirit of the American people\n\r    free. Let us renew our moral convictions and strengthen our\n\r    families by returning to fundamental values. Together, let us\n\r    reassert our rightful place as a great nation."
+Characters:    "\n\r    "
+Characters:    "\n\r    We should do it for ourselves -- we owe it to our children. We\n\r    must act to be worthy of the gift our ancestors sacrificed so\n\r    much for: to ensure the next century will dawn on a new\n\r    beginning of American greatness ... prosperity ... and freedom.\n\r    Let us do it together. Let us begin today."
+Characters:    "\n\r    "
+Characters:    "\n\r    Thank you."
+End element:   font
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    "\n\r  "
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get\n\r  Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

@@ -1,0 +1,97 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "New Debate Negotiating Team for Clinton/Gore"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    September 12, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "CLINTON/GORE �96 CAMPAIGN ANNOUNCES MEMBERS OF"
+Characters:    "\n\r    THE DEBATE NEGOTIATING TEAM"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The Clinton/Gore �96 campaign today announced the\n\r    members of the President�s debate negotiating team. Led by\n\r    chief negotiator Mickey Kantor, the members are Vernon E.\n\r    Jordan, Jr., Ron Klain, Bev Lindsey, Bob Squier, Harry\n\r    Thomason, and Lyn Utrecht."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Vernon Jordan is a senior partner in the law firm of\n\r    Akin, Gump, Strauss, Hauer & Feld, L.L.P. and was Chairman of\n\r    the Clinton Presidential Transition Board in 1992. Ron Klain\n\r    serves as Assistant to the President and Chief of Staff to Vice\n\r    President Gore. Bev Lindsey was a debate coordinator for the\n\r    Clinton/Gore campaign in 1992. Bob Squier is Senior Partner at\n\r    Squier Knapp Ochs Communications and Harry Thomason is\n\r    President of Mozark Productions. Lyn Utrecht is Clinton/Gore\n\r    �96 General Counsel and a partner in the law firm of Oldaker,\n\r    Ryan, Phillips & Utrecht."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

@@ -1,0 +1,109 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "The Bob Dole Tobacco Question"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    August 23, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "STATEMENT BY JOE LOCKHART"
+Characters:    "\n\r    NATIONAL PRESS SECRETARY"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole faces a big decision today -- Protect children\n\r    or protect the tobacco lobby. Will Bob Dole stand with the\n\r    President today in limiting tobacco sales to America's children\n\r    or will he stand with his friends in the tobacco lobby who have\n\r    done so much for his campaigns over the years?"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "If history is a guide, the prospects of standing up for\n\r    children are dim. Bob Dole has said that cigarette smoking is\n\r    not necessarily addictive. Dole even went as far as to compare\n\r    the dangers of cigarette smoking to those of drinking a glass\n\r    of milk."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Irresponsible rhetoric aside, Bob Dole has consistently\n\r    blocked President Clinton's efforts to give parents and\n\r    communities the tools to protect children. Bob Dole voted\n\r    against the expansion of the Safe and Drug Free School program\n\r    in 1994 and tried to cut funding in half in 1995. Dole voted\n\r    against zero tolerance for students who bring guns into schools\n\r    and opposed President's plan to put 100,000 additional cops on\n\r    the street. Bob Dole even voted against the creation of the\n\r    Drug Office in 1982."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole has an opportunity today to stand up for\n\r    children and support the President's efforts to restrict\n\r    tobacco sales to children. Unfortunately, Bob Dole's 35 year\n\r    record in Washington indicates that he will again be with the\n\r    tobacco lobby."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

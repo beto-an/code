@@ -1,0 +1,365 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | Briefing Room | Clinton/Gore in Your\n\r  State"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index13.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: align, Value: right
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Start element: b
+Characters:    "On the Horizon"
+End element:   b
+Characters:    "\n\r    "
+Start element: p
+Characters:    "As we head into the\n\r    final days"
+Characters:    "\n\r    of the campaign, we need your help"
+Characters:    "\n\r    energizing your community to"
+Characters:    "\n\r    GET OUT THE VOTE!"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Call the Clinton/Gore office number"
+Characters:    "\n\r    below to volunteer."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Ohio Highlights"
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "November 4 - The President\n\r    in Cleveland"
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "October 29 - The President\n\r    in Columbus"
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "October 21 - The President\n\r    in Parma"
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "October 10 - The President\n\r    in Dayton"
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "September 16 -\n\r    Cincinnati"
+End element:   a
+Characters:    "\n\r    President Clinton Receives"
+Characters:    "\n\r    the Endorsement of the"
+Characters:    "\n\r    Fraternal Order of Police"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "August 25-26 - "
+Start element: i
+Characters:    "21st Century Express"
+End element:   i
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: rowspan, Value: 5
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Chillicothe"
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Columbus"
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Arlington"
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Bowling Green"
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Toledo"
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Cincinnati resident Elizabeth Carey"
+Characters:    "\n\r    tells us why she supports the President"
+Characters:    "\n\r    in the 4th edition of "
+Start element: a
+Key: href, Value: ../../../external.html
+Start element: i
+Characters:    "America's Home Page"
+End element:   i
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Upper Arlington resident Robert Farmer"
+Characters:    "\n\r    in the 5th edition of "
+Start element: a
+Key: href, Value: ../../../external.html
+Start element: i
+Characters:    "America's Home Page"
+End element:   i
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Ohio volunteer Chuck\n\r    Ardo"
+Characters:    "\n\r    is profiled as a Volunteer of the Week"
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Clinton-Gore '96 Headquarters"
+End element:   b
+Characters:    "\n\r    555 South Front Street"
+Characters:    "\n\r    Columbus, OH 43215"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Phone: 614-280-1996"
+Characters:    "\n\r    Fax: 614-228-3938"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Start element: b
+Characters:    "State\n\r    Director:"
+End element:   b
+End element:   font
+Characters:    " Maurice Daniel"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Start element: b
+Characters:    "Political\n\r    Director:"
+End element:   b
+End element:   font
+Characters:    " Antoinette Wilson"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Start element: b
+Characters:    "Press\n\r    Secretary:"
+End element:   b
+End element:   font
+Characters:    " Jay Byrne"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Ohio Democratic Coordinated Campaign"
+End element:   b
+Characters:    "\n\r    37 West Broad Street"
+Characters:    "\n\r    Suite 430"
+Characters:    "\n\r    Columbus, OH 43215"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Phone: 614-221-6563"
+Characters:    "\n\r    Fax: 614-228-3938"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Start element: b
+Characters:    "Director:"
+End element:   b
+Characters:    " Jim DeMay"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: color, Value: #001058
+Start element: i
+Characters:    "The Coordinated Campaign is a\n\r    distinct entity, directed by the Democratic National Party and\n\r    the State Democratic Parties, and designed to elect Democrats\n\r    to all levels of office."
+End element:   i
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: font
+Key: color, Value: #001058
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+End element:   font
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: color, Value: #001058
+Characters:    "Paid for by Clinton/Gore ’96 General\n\r    Election Committee, Inc."
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

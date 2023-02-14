@@ -1,0 +1,312 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Where Bob Dole Stands on Missile Defense"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: h2
+Key: align, Value: center
+Key: style, Value: text-align:center
+Characters:    "Where Bob Dole\n\r  Stands on Missile Defense"
+End element:   h2
+Characters:    "\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Key: style, Value: margin-bottom:12.0pt
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "The United States Cannot Protect Itself From\n\r  Missile Attacks"
+End element:   span
+End element:   b
+Characters:    "\n\r  If a terrorist group or rogue state launched a missile with a\n\r  nuclear, chemical or biological warhead at the United States,\n\r  most Americans think that our military could destroy it. That is\n\r  not true."
+Characters:    "\n\r  "
+Characters:    "\n\r  We currently do not have the ability to shoot down even a single\n\r  ballistic missile before it reaches the United States."
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Bob Dole Will Build a National\n\r  Missile Defense Shield"
+End element:   span
+End element:   b
+Characters:    "\n\r  That is why Bob Dole introduced the Defend America Act in\n\r  Congress this year. The Act would require a national missile\n\r  defense system by the year 2003 to protect Americans from foreign\n\r  missiles. The technology to create the system is available and\n\r  affordable."
+Characters:    "\n\r  "
+Characters:    "\n\r  As President, Bob Dole will deploy an effective national missile\n\r  defense system which will keep Americans free from nuclear\n\r  intimidation and reduce the incentive of rogue regimes to acquire\n\r  weapons of mass destruction."
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Bill Clinton Stands in the Way\n\r  Defending America"
+End element:   span
+End element:   b
+Characters:    "\n\r  Unfortunately, President Clinton has thwarted all efforts to use\n\r  our technological ability to shoot down incoming missiles:"
+End element:   p
+Characters:    "\n\r  "
+Start element: ul
+Key: type, Value: disc
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l24 level1 lfo25;tab-stops:list .5in
+Characters:    "\n\r    He vetoed the 1996 Defense Authorization Bill, which made it\n\r    U.S. policy to create a national missile defense system."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;margin-bottom:12.0pt; mso-list:l24 level1 lfo25;tab-stops:list .5in
+Characters:    "\n\r    His Administration signaled that it will veto a measure to\n\r    create an effective national missile defense system by\n\r    2003."
+Characters:    "\n\r    "
+Characters:    "\n\r    He claims that no rogue nation can develop a ballistic missile\n\r    within the next ten to fifteen years that could reach the\n\r    continental United States. The threat to Alaska and Hawaii are\n\r    ignored."
+Characters:    "\n\r    "
+Characters:    "\n\r    Bill Clinton's own former CIA director, James Woolsey, has\n\r    harshly criticized the Clinton Administration's opposition to\n\r    missile defense: \"Ballistic missiles can, and in the future\n\r    they increasingly will, be used by hostile states for\n\r    blackmail, terror and to drive wedges between us and our\n\r    friends and allies. It is my judgment that the Administration\n\r    is not currently giving this vital problem the proper weight it\n\r    deserves.\" "
+Start element: span
+Key: style, Value: font-size:10.0pt
+Characters:    "(Testimony to House\n\r    Committee on National Security, March 14, 1996)"
+End element:   span
+Characters:    "\n\r    "
+Characters:    "\n\r    At least 20 countries already have or are building nuclear,\n\r    chemical or biological weapons. Many of these nations are\n\r    hostile to the United States:"
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l24 level1 lfo25;tab-stops:list .5in
+Characters:    "\n\r    North Korea, Libya and Iran have biological weapons\n\r    programs."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l24 level1 lfo25;tab-stops:list .5in
+Characters:    "\n\r    North Korea has sold and is negotiating to sell its missiles to\n\r    countries hostile to the U.S."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l24 level1 lfo25;tab-stops:list .5in
+Characters:    "\n\r    When China felt threatened over U.S. support for Taiwan, it\n\r    threatened Los Angeles with nuclear attack."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l24 level1 lfo25;tab-stops:list .5in
+Characters:    "\n\r    China is developing three new intercontinental range\n\r    missiles."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l24 level1 lfo25;tab-stops:list .5in
+Characters:    "\n\r    Libya is building a huge underground chemical factory."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l24 level1 lfo25;tab-stops:list .5in
+Characters:    "\n\r    North Korea is developing two long-range missile systems, one\n\r    of which could be able to strike Alaska or Hawaii in three to\n\r    five years."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l24 level1 lfo25;tab-stops:list .5in
+Characters:    "\n\r    Iran is aggressively building nuclear weapons that may be ready\n\r    in just a few years."
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "A Better\n\r    America"
+End element:   span
+End element:   b
+Characters:    "\n\r    As President, Bob Dole's ballistic missile shield will keep\n\r    America safe from missile attacks."
+End element:   li
+Characters:    "\n\r  "
+End element:   ul
+Characters:    "\n\r  "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../../news/news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    " "
+Start element: a
+Key: href, Value: ../agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the\n\r  Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

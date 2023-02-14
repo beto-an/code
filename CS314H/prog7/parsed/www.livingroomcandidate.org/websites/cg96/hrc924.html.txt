@@ -1,0 +1,108 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Dole's Healthcare Gridlock"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    September 24, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "FIRST LADY HILLARY RODHAM CLINTON TO HIGHLIGHT PRESIDENT\n\r    CLINTON�S COMMITMENT TO FAMILIES IN OHIO ON SEPTEMBER 25,\n\r    1996"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Washington, D.C. -- First Lady Hillary Rodham Clinton\n\r    will visit Ohio on Wednesday, September 25, to highlight\n\r    President Clinton�s commitment to families and to discuss the\n\r    Administration�s legislative efforts to assist America�s\n\r    families."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "During her visit, Mrs. Clinton and Dennis Kucinich, a\n\r    state senator and former mayor of Cleveland who is running for\n\r    Congress in Ohio�s 10th district, will tour the birthing center\n\r    at Lakewood Hospital. They will also take part in a panel\n\r    discussion with families and hospital personnel."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Mrs. Clinton will stress the President�s support of the\n\r    48 hour hospital stay legislation now moving through Congress.\n\r    This legislation will guarantee that insurance companies pay\n\r    for 48 hour stays for new mothers and their babies. If the\n\r    mother has had a cesarean section, she would be able to stay\n\r    for 96 hours."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "In the afternoon, Mrs. Clinton will travel to the\n\r    Dayton, where she will visit the Children�s Medical Center and\n\r    discuss the President�s commitment to expanding the Family and\n\r    Medical Leave law. At the hospital, the First Lady will tour\n\r    the Almost Home Center, a facility where parents assist in the\n\r    care of their sick children."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

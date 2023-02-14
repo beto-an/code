@@ -1,0 +1,102 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "B I L L C L I N T O N & A L G O R E"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #FFFFFF
+Key: alink, Value: #FF0000
+Key: vlink, Value: #FFFFFF
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    " "
+Characters:    "\n\r     "
+Start element: map
+Key: name, Value: exec
+Key: id, Value: exec
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r    "
+End element:   map
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: blockquote
+Characters:    "\n\r        "
+Start element: i
+Characters:    "he following biographical profiles detail America’s\n\r        First Families’ long and exemplary commitment to public\n\r        service. The vision of the Clinton and Gore families\n\r        reflects an active and compassionate understanding of the\n\r        challenges that concern America."
+End element:   i
+Characters:    "\n\r      "
+End element:   blockquote
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r    "
+Characters:    "\n\r     "
+Start element: a
+Key: href, Value: index81.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index82.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index83.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index84.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index83.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index82.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index81.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index84.html

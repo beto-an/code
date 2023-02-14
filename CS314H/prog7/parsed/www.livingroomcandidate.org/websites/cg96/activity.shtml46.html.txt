@@ -1,0 +1,254 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | Briefing Room | Clinton/Gore in Your\n\r  State"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index13.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: align, Value: right
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "\n\r          "
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "\n\r          "
+End element:   a
+End element:   p
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Start element: b
+Characters:    "On the Horizon"
+End element:   b
+Characters:    "\n\r    "
+Start element: p
+Characters:    "As we head into the\n\r    final days"
+Characters:    "\n\r    of the campaign, we need your help"
+Characters:    "\n\r    energizing your community to"
+Characters:    "\n\r    GET OUT THE VOTE!"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Call the Clinton/Gore office number"
+Characters:    "\n\r    below to volunteer."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Connecticut Highlights"
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "September 24 - Hillary\n\r    Rodham Clinton"
+Characters:    "\n\r    in New London"
+End element:   a
+Characters:    " to celebrate"
+Characters:    "\n\r    the Family and Medical Leave Act"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "October 7 - President\n\r    Clinton in Stamford"
+End element:   a
+Characters:    "\n\r    to receive the endorsement of"
+Characters:    "\n\r    2,500 CEO's and business leaders"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Hartford volunteer Angelo Conti"
+Characters:    "\n\r    is profiled as a "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Volunteer of\n\r    the Week"
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Hartford resident Hank Eliot, Jr. writes in to"
+Characters:    "\n\r    the 5th edition of "
+Start element: a
+Key: href, Value: ../../../external.html
+Start element: i
+Characters:    "America's Home Page"
+End element:   i
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Beacon Falls resident James Parker is profiled"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Clinton-Gore '96 Headquarters"
+End element:   b
+Characters:    "\n\r    243 Farmington Avenue"
+Characters:    "\n\r    Hartford, CT 06105"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Phone: 860-525-1996"
+Characters:    "\n\r    Fax: 860-525-9975"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Start element: b
+Characters:    "State\n\r    Director:"
+End element:   b
+End element:   font
+Characters:    " Toni Harp"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Start element: b
+Characters:    "Political\n\r    Director:"
+End element:   b
+End element:   font
+Characters:    " Mark Silverman"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Start element: b
+Characters:    "Press\n\r    Secretary:"
+End element:   b
+End element:   font
+Characters:    " Patty McQueen"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Connecticut Democrats '96"
+End element:   b
+Characters:    "\n\r    243 Farmington Avenue"
+Characters:    "\n\r    Hartford, CT 06105"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Phone: 860-278-5454"
+Characters:    "\n\r    Fax: 860-278-3921"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Start element: b
+Characters:    "Director:"
+End element:   b
+End element:   font
+Characters:    " Donnie Fowler"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: i
+Characters:    "The Coordinated Campaign is a distinct entity,"
+Characters:    "\n\r    directed by the Democratic National Party and the"
+Characters:    "\n\r    State Democratic Parties, and designed"
+Characters:    "\n\r    to elect Democrats to all levels of office."
+End element:   i
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

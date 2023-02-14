@@ -1,0 +1,202 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r\r\n\r"
+Start element: TITLE
+Characters:    "Over 75 executives Announce Support for Clinton/Gore '96"
+End element:   TITLE
+Characters:    "\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: KPETITLE
+Start element: B
+Characters:    "For Immediate Release:"
+End element:   B
+Characters:    "\r\n\rOver 75 executives Announce Support for Clinton/Gore '96"
+Start element: DD
+End element:   KPETITLE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #001058
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: #BE0023
+Characters:    "\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: CENTER
+Start element: A
+Key: HREF, Value: index22.html
+Characters:    "\r\n\r\r\n\r\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "\r\n\r\r\n\r\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    " \r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r"
+Characters:    "PRESS RELEASE\r\n\r\r\n\r"
+Characters:    "August 20, 1996\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "[RealAudio "
+Start element: A
+Key: HREF, Value: scon144.ra
+Key: TARGET, Value: xxyyzz
+Characters:    "14.4"
+End element:   A
+Characters:    " | "
+Start element: A
+Key: HREF, Value: scon288.ra
+Key: TARGET, Value: xxyyzz
+Characters:    "28.8"
+End element:   A
+Characters:    "] \r\n\r"
+Start element: P
+Characters:    "CLINTON/GORE RECEIVES KEY ENDORSEMENT \r\n\r\r\n\rFROM SILICON VALLEY BUSINESS LEADERS\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "Over 75 Executives Announce Support for President and Vice President\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "San Jose, CA-Over 75 business leaders from the largest and fastest-growing high technology companies, as well as several of the most influential venture capitalists in the Silicon Valley and throughout California, today announced their endorsement of President Clinton and Vice President Gore.\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "The President and Vice President telephoned the group, hosted at Adobe Systems Inc. by the company�s President, Chuck Geschke, and CEO John Warnock.  San Jose Mayor Susan Hammer, Apple Computer�s founder Stephen Jobs and 17 high technology leaders were on hand at Adobe for the telephone call.\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "President Clinton has expanded his support in Silicon Valley since taking office, the executives said, because his policies look toward the future with an understanding of what it takes to succeed in the new high-tech global economy.\r\n\r\r\n\r\t\r\n\r\r\n\r"
+Start element: P
+Characters:    "�When it comes to creating jobs, deficit reduction, and investments in technology and education, Clinton and Gore have shown remarkable leadership� said John Doerr of Kleiner, Perkins & Byers, one of the nation�s leading venture funds.\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "�The President appreciates that today�s business is conducted in an international forum and he is helping us compete internationally,� Adobe�s Warnock said.\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "For the Silicon Valley/ San Jose area, investments in research, technology and education, making development of the �Information Superhighway� and opening world markets point to extraordinary job growth and a better prepared 21st century workforce.\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "�President Clinton understands the importance of Silicon Valley to the nation�s economic vitality,� said San Jose Mayor Susan Hammer.  �Nearly 41,000 jobs have been created here in the last two years.  Because of President Clinton, Silicon Valley businesses are more competitive than ever before in the global marketplace.�\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "Dr. Yvette Prado, Vice President of Silicon Graphics said Clinton �helped transform our schools with information-age technology.  I believe that the Clinton/Gore team will continue to invest in America�s future and prepare our children for the 21st century.�\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "About one third of the endorsers are executives working in the new and emerging high technology sectors growing around the Internet and World Wide Web -- industries created since the election of Clinton and Gore in 1992\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "A complete list of endorsers is attached.\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: center
+Characters:    "###"
+End element:   center
+Characters:    "\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "TECH ENDORSEMENTS"
+End element:   B
+Characters:    "\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "\tFIRST\t\t\tLAST\t\t\tTITLE\t\t\tCOMPANY\t\t\tCITY\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "1.\tEric\t\t\tAlderman\t\tCo-CEO\t\t\tHyperMedia Group\t\tEmeryville\r\n\r\r\n\r"
+Characters:    "2.\tGreg\t\t\tAvis\t\t\tInvestment Manager\t\tSummit Partners\t\tPalo Alto\r\n\r\r\n\r"
+Characters:    "3.\tPrakash\t\tBhalerao\t\tPresident\t\t\tSilicon Architechs\t\tMountain View\r\n\r\r\n\r"
+Characters:    "4.\tPat \t\t\tBurt\t\t\tPresident\t\t\tActeron\t\t\tRedwood City\r\n\r\r\n\r"
+Characters:    "5.\tTom\t\t\tDell\t\t\tPresident\t\t\tTR Dell\t\t\tSan Francisco\r\n\r\r\n\r"
+Characters:    "6.\tJim\t\t\tEdlin\t\t\tCo-CEO\t\t\tHyper Media Group\t\tEmeryville\r\n\r\r\n\r"
+Characters:    "7.\tSeth \t\t\tFearey\t\t\tProduct & Marketing Mgr.\tHewlett-Packard\t\tCupertino\r\n\r\r\n\r"
+Characters:    "8.\tSamuel\t\tGibbs\t\t\tPresident\t\t\tAvcom Systems\t\tSunnyvale\r\n\r\r\n\r"
+Characters:    "9.\tChris\t\t\tGreene\t\tPresident\t\t\tGreene Engineers\t\tCampbell\r\n\r\r\n\r"
+Characters:    "10.\tDan \t\t\tGreening\t\tCEO\t\t\t\tChaco Communications\tCupertino\r\n\r\r\n\r"
+Characters:    "11.\tJay\t\t\tGuenon\t\tChief Technology Officer\tWired\t\t\t\tSan Francisco\r\n\r\r\n\r"
+Characters:    "12.\tDavid\t\t\tHayden\t\tCEO and President\t\tThe McKinley Group\t\tSausalito\r\n\r\r\n\r"
+Characters:    "13.\tGary \t\t\tKremen\t\tCEO\t\t\t\tNetAngels\t\t\t\r\n\r\r\n\r"
+Characters:    "14.\tMatt\t\t\tKursh\t\t\tFounder\t\t\tEshop\t\t\t\tSan Mateo\r\n\r\r\n\r"
+Characters:    "15.\tWendie\t\tBernstein Lash\tPresident\t\t\tWebchat Communications\tMountain View\r\n\r\r\n\r"
+Characters:    "16.\tPaul\t\t\tLippe\t\t\tVice President\t\tSynopsys\t\t\tMountain View\r\n\r\r\n\r"
+Characters:    "17.\tIsabell\t\t\tMaxwell\t\tExecutive VP\t\t\tThe McKinley Group\t\tSausalito\r\n\r\r\n\r"
+Characters:    "18.\tHenry \t\t\tPoole\t\t\tPresident\t\t\tVivid Studios\t\t\tSan Francisco\r\n\r\r\n\r"
+Characters:    "19.\tJanina\t\t\tPowlowski\t\tCEO\t\t\t\tE*loan\t\t\tPalo Alto\r\n\r\r\n\r"
+Characters:    "20.\tJeff\t\t\tRalston\t\tVice President of Engineering Four 11\t\t\tMenlo Park\r\n\r\r\n\r"
+Characters:    "21.\tMichael\t\tSantulo\t\tPresident\t\t\tFour 11\t\t\tMenlo Park\r\n\r\r\n\r"
+Characters:    "22.\tMichael\t\tSly\t\t\tPublishing Associate\t\tRed Herring\t\t\tSan Francisco\r\n\r\r\n\r"
+Characters:    "23.\tSteve\t\t\tWeinstein\t\tCEO and Chairman \t\tLogistix Software\t\tFremont\r\n\r\r\n\r"
+Characters:    "24.\tMarta\t\t\tWeinstein\t\tExecutive Vice President\tLogistix Software\t\tFremont\r\n\r\r\n\r"
+Characters:    "25.\tSteve\t\t\tWestley\t\tVice President\t\tWhowhere\t\t\tMountain View\r\n\r\r\n\r"
+Characters:    "26.\tThad \t\t\tWhalen\t\tPartner\t\t\tAspen Ventures\t\tLos Altos \r\n\r\r\n\r"
+Characters:    "27.\tCraig\t\t\tWingate\t\tCEO\t\t\t\tVivid Travel Network\tSan Francisco\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "HIGH TECH ENDORSEMENTS"
+End element:   B
+Characters:    "\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "\tFIRST\t\t\tLAST\t\t\tTITLE\t\t\tCOMPANY\t\t\tCITY\r\n\r\r\n\r\r\n\r\r\n\r"
+Characters:    "1.\tPaul\t\t\tAllaire\t\tCEO\t\t\t\tXerox\t\t\t\tStamford, CT\r\n\r\r\n\r"
+Characters:    "2.\tCarol\t\t\tBartz\t\t\tCEO and President\t\tAutodesk\t\t\tSan Rafael\r\n\r\r\n\r"
+Characters:    "3.\tGerry\t\t\tBeemiller\t\tCEO and President\t\tInfant Advantage\t\tFremont\r\n\r\r\n\r"
+Characters:    "4.\tJohn Seeley\t\tBrown\t\t\tCEO\t\t\t\tXerox PARC\t\t\tPalo Alto\r\n\r\r\n\r"
+Characters:    "5.\tBrook \t\t\tByers\t\t\tPartner\t\t\tKleiner, Perkins, Caufield\tMenlo Park\r\n\r\r\n\r\t\t\t\t\t\t\t\t\t\t\t  and Byers\r\n\r\r\n\r"
+Characters:    "6.\tDoug\t\t\tCarlston\t\tCEO\t\t\t\tBroaderbund Software\tNovato\r\n\r\r\n\r"
+Characters:    "7.\tDebi\t\t\tColeman\t\tCEO\t\t\t\tMerix\t\t\t\tForest Grove, OR\r\n\r\r\n\r"
+Characters:    "8.\tKen\t\t\tColeman\t\tSenior Vice President\t\tSilicon Graphics\t\tMountain View\r\n\r\r\n\r"
+Characters:    "9.\tBud\t\t\tColligan\t\tCEO\t\t\t\tMacromedia\t\t\tSan Francisco\r\n\r\r\n\r"
+Characters:    "10.\tChuck\t\t\tComiso\t\tCEO\t\t\t\tWyse Technology, Inc.\tSan Jose\r\n\r\r\n\r"
+Characters:    "11.\tJohn\t\t\tDean\t\t\tCEO and President\t\tSilicon Valley Banchares\tPalo Alto\r\n\r\r\n\r"
+Characters:    "12.\tYvette\t\t\tdel Prado\t\tVP\t\t\t\tSilicon Graphics\t\tMountain View\r\n\r\r\n\r"
+Characters:    "13.\tJohn\t\t\tDoerr\t\t\tPartner\t\t\tKleiner, Perkins, Caufield\tMenlo Park\r\n\r\r\n\r\t\t\t\t\t\t\t\t\t\t\t  and Byers\r\n\r\r\n\r"
+Characters:    "14.\tDonna\t\t\tDubinsky\t\tCEO\t\t\t\tPalm Computing\t\tLos Altos\r\n\r\r\n\r"
+Characters:    "15.\tDebra\t\t\tEngel\t\t\tVP\t\t\t\t3COM\t\t\tSanta Clara\r\n\r\r\n\r"
+Characters:    "16.\tJohn\t\t\tFreidenrich\t\tPrincipal\t\t\tBay Partners\t\t\tCupertino\r\n\r\r\n\r"
+Characters:    "17.\tJohn\t\t\tGage\t\t\tChief Science Officer\t\tSun Microsystems\t\tBerkeley\r\n\r\r\n\r"
+Characters:    "18.\tGreg\t\t\tGallo\t\t\tPartner\t\t\tGray, Cary, Ware &\t\tPalo Alto\r\n\r\r\n\r\t\t\t\t\t\t\t\t\t\t\t  Freidenrich\r\n\r\r\n\r"
+Characters:    "19.\tChuck\t\t\tGeschke\t\tPresident\t\t\tAdobe Systems\t\tMountain View \r\n\r\r\n\r"
+Characters:    "20.\tBill \t\t\tHambrecht\t\tCEO and Chairman\t\tHambrecht and Quist\t\tSan Francisco\r\n\r\r\n\r"
+Characters:    "21.\tIrwin\t\t\tJacobs\t\t\tChairman and CEO\t\tQualcomm Corp.\t\tSan Diego\r\n\r\r\n\r"
+Characters:    "22.\tSteve\t\t\tJobs\t\t\tCEO and President\t\tPixar\t\t\t\tRichmond\r\n\r\r\n\r"
+Characters:    "23.\tBill\t\t\tJoy\t\t\tFounder and VP\t\tSun Microsystems\t\tMountain View\r\n\r\r\n\r"
+Characters:    "24.\tDavid\t\t\tKatz, M.D.\t\tCEO and President\t\tLydik Pharmaceuticals\tSan Diego\r\n\r\r\n\r"
+Characters:    "25.\tMitchell\t\tKertzman\t\tCEO\t\t\t\tSybase\t\t\tEmeryville\r\n\r\r\n\r\r\n\r\r\n\r"
+Characters:    "26.\tKevin \t\t\tKinsella\t\tCEO and President\t\tSequana Therapeutics\tSan Diego\r\n\r\r\n\r"
+Characters:    "27.\tTim\t\t\tKoogle\t\tCEO\t\t\t\tYahoo!\t\t\tSunnyvale\r\n\r\r\n\r"
+Characters:    "28.\tEd\t\t\tMcCracken\t\tCEO and Chairman\t\tSilicon Graphics\t\tMountain View\r\n\r\r\n\r"
+Characters:    "29.\tRegis\t\t\tMcKenna\t\tPresident\t\t\tGemini McKenna\t\tPalo Alto\r\n\r\r\n\r"
+Characters:    "30.\tRoger\t\t\tMcNamee\t\tGeneral Partner\t\tIntegral Venture Partner\tMenlo Park\r\n\r\r\n\r"
+Characters:    "31.\tMark\t\t\tMichael\t\tVP & General Counsel\t3COM\t\t\tSanta Clara\r\n\r\r\n\r"
+Characters:    "32.\tBill\t\t\tMiller\t\t\tChairman\t\t\tBorland International\t\tScotts Valley\r\n\r\r\n\r"
+Characters:    "33.\tMike \t\t\tMorris\t\t\tVP & General Counsel\tSun Microsystems\t\tMountain View\r\n\r\r\n\r"
+Characters:    "34.\tTina Berger\t\tNova\t\t\tCOO and President\t\tNanogen Diagnostics\r\n\r\r\n\r"
+Characters:    "35.\tGloria Rose\t\tOtt\t\t\tCEO\t\t\t\tRapid Tech\t\t\tSan Jose\r\n\r\r\n\r"
+Characters:    "36.\tMark\t\t\tPorat\t\t\tCEO\t\t\t\tGeneral Magic\t\tSunnyvale\r\n\r\r\n\r"
+Characters:    "37.\tRon\t\t\tPosner\t\t\tChairman\t\t\tGraphixZone\t\t\tSan Francisco\r\n\r\r\n\r"
+Characters:    "38.\tHelen\t\t\tRanney\t\tMember, Board of Directors\tAlliance Pharmaceutical\tSan Diego\r\n\r\r\n\r"
+Characters:    "39.\tBill\t\t\tRastetter\t\tCEO\t\t\t\tIDEC Pharmaceuticals\tSan Diego\r\n\r\r\n\r"
+Characters:    "40.\tSandy\t\t\tRobertson\t\tChairman\t\t\tRobertson Stephens & CEO\tSan Francisco\r\n\r\r\n\r"
+Characters:    "41.\tTed\t\t\tRoth\t\t\tExecutive VP\t\t\tAlliance Pharmaceutical\tSan Diego\r\n\r\r\n\r"
+Characters:    "42.\tIvor\t\t\tRoyston, M.D.\tPresident\t\t\tSidney Kimmell Cancer \tSan Diego\r\n\r\r\n\r\t\t\t\t\t\t\t\t\t\t\t  Center\r\n\r\r\n\r"
+Characters:    "43.\tHarry\t\t\tSaal\t\t\tChairman\t\t\tNetwork General\t\tSanta Clara\r\n\r\r\n\r"
+Characters:    "44.\tBob\t\t\tSaldich\t\tCEO, retired\t\t\tRaychem\t\t\tPalo Alto\r\n\r\r\n\r"
+Characters:    "45.\tJohn\t\t\tShoch\t\t\tGeneral Partner\t\tAsset Management Company Palo Alto\r\n\r\r\n\r"
+Characters:    "46.\tEd\t\t\tStead\t\t\tGeneral Councel\t\tApple Computer\t\tCupertino\r\n\r\r\n\r"
+Characters:    "47.\tJim\t\t\tTreybig\t\tCEO, retired\t\t\tTandem Computers\t\tCupertino\r\n\r\r\n\r"
+Characters:    "48.\tJohn\t\t\tWalker\t\tCEO\t\t\t\tArris Pharmaceuticals\t\r\n\r\r\n\r"
+Characters:    "49.\tJohn\t\t\tWarnock\t\tCEO\t\t\t\tAdobe Systems\t\tMountain View\r\n\r\r\n\r"
+Characters:    "50.\tJohn\t\t\tYoung\t\t\tCEO, retired\t\t\tHewlett Packard\t\tPalo Alto\r\n\r\r\n\r\r\n\r\r\n\r\t"
+Characters:    "Susan\t\t\tHammer\t\tMayor\t\t\t\tCity of San Jose\t\tSan Jose\r\n\r\r\n\r\t"
+Characters:    "Larry \t\t\tStone\t\t\tAssessor\t\t\tSanta Clara County\t\tSunnyvale\t\t\t\t\t\t\t\t\t  \r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r \r\n\r\r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee,\r\n\r\r\n\rInc."
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r"
+End of document

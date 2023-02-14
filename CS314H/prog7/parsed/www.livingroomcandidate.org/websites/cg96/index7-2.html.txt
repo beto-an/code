@@ -1,0 +1,123 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HEAD
+Characters:    "\r\n\r"
+Start element: KPETITLE
+Start element: B
+Characters:    "Search Engine"
+End element:   B
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "Search Engine"
+End element:   TITLE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Characters:    "\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: CENTER
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index22.html
+Characters:    "\r\n\r"
+End element:   A
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+End element:   CENTER
+Characters:    " \r\n\r"
+Start element: BLOCKQUOTE
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r"
+Start element: CENTER
+Characters:    "\r\n\r"
+Start element: I
+Characters:    "linton/Gore&#160;&#146;96 would like this Web site to be as useful as possible. To find the information you&#146;re looking for, enter the keyword(s) in the space provided below, and begin your search."
+End element:   I
+End element:   CENTER
+Characters:    " "
+End element:   BLOCKQUOTE
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: FONT
+Key: SIZE, Value: +2
+Start element: FONT
+Key: COLOR, Value: #001058
+Characters:    "\r\n\r"
+Start element: FORM
+Key: METHOD, Value: POST
+Key: ACTION, Value: ../../../external.html
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: TABLE
+Characters:    "\r\n\r\t"
+Start element: TR
+Characters:    "\r\n\r\t\t"
+Start element: TD
+Key: align, Value: left
+Characters:    "Search For:"
+End element:   TD
+Start element: TD
+Key: ALIGN, Value: LEFT
+End element:   TD
+Characters:    "\r\n\r\t"
+End element:   TR
+Start element: TR
+Characters:    "\r\n\r\t\t"
+Start element: TD
+Key: ALIGN, Value: LEFT
+Characters:    "Include:"
+End element:   TD
+Start element: TD
+Key: ALIGN, Value: LEFT
+Start element: SELECT
+Key: NAME, Value: boolean
+Characters:    "\r\n\r\t\t\t"
+Start element: OPTION
+Key: VALUE, Value: AND
+Characters:    "ALL of these words\r\n\r\t\t\t"
+Start element: OPTION
+Key: VALUE, Value: OR
+Characters:    "ANY of these words\r\n\r\t\t"
+End element:   SELECT
+End element:   TD
+Characters:    "\r\n\r\t"
+End element:   TR
+Start element: TR
+Characters:    "\r\n\r\t\t"
+Start element: TD
+Key: ALIGN, Value: LEFT
+Characters:    " "
+End element:   TD
+Characters:    "\r\n\r\t\t"
+Start element: TD
+Key: ALIGN, Value: LEFT
+Characters:    " "
+End element:   TD
+Characters:    "\r\n\r\t"
+End element:   TR
+Characters:    "\r\n\r"
+End element:   TABLE
+End element:   FORM
+Characters:    "\r\n\r"
+End element:   FONT
+End element:   FONT
+Characters:    "\r\n\r"
+Characters:    " "
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee, Inc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+End element:   HTML
+Characters:    "\r\n\r"
+End of document

@@ -1,0 +1,182 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "President and First Lady Kick Off \"Get Out the Women's\n\r  Vote Weekend\""
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 25, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "President Clinton and Hillary Rodham Clinton Kick-off\n\r      the Clinton/Gore Campaign�s \"Get Out the Women�s Vote\n\r      Weekend,\" Activities to be Held in 35 States"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Washington, D.C. -- President Clinton and First Lady\n\r    Hillary Rodham Clinton will kick-off the Clinton/Gore\n\r    Campaign�s \"Get Out the Women�s Vote Weekend,\" which is\n\r    Saturday and Sunday, October 26-27. Women from across the\n\r    nation will participate in GOTV events this weekend that are\n\r    designed to generate enthusiasm and mobilize women to cast\n\r    their ballot for Clinton/Gore on November 5."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "On October 27, President Clinton will speak at a\n\r    Clinton/Gore Virginia Women�s GOTV rally at Lee High School\n\r    Park in Springfield. Mrs. Clinton will attend a Clinton/Gore\n\r    �96 New Jersey Women�s GOTV Kickoff at the Garden State Park\n\r    Pavilion in Cherry Hill. Both will discuss the importance of\n\r    the women�s vote on Election Day 1996."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Throughout the weekend, women nationwide will\n\r    participate in rallies, press conferences, breakfast meetings,\n\r    letter-writing drives, and other activities to raise awareness\n\r    and encourage women to vote for the Clinton/Gore ticket on\n\r    Election Day."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "Statewide event highlights include:"
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "ARKANSAS:"
+Characters:    "\n\r    Contact: Steve Harrelson 501/374-2500"
+Characters:    "\n\r    Date: Saturday, October 26"
+Characters:    "\n\r    Activity: Statewide literature drop at 51 soccer\n\r    fields"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "GEORGIA:"
+Characters:    "\n\r    Contact: Caroline Adelman Aronovitch 404/872-2516"
+Characters:    "\n\r    Date: Saturday, October 26"
+Characters:    "\n\r    Activity: 2100 women will \"Build Bridge to 21st Century\" -- 10\n\r    volunteers in each of the 210 precincts will go to local\n\r    grocery stores, Walmarts, and laundry mats and encourage women\n\r    to vote for Clinton/Gore �96."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "MARYLAND:"
+Characters:    "\n\r    Contact: Jess Sarmiento 410/662-4470"
+Characters:    "\n\r    Date: Saturday, October 26"
+Characters:    "\n\r    Activity: Women Vote! Rally with Lt. Governor Townsend and\n\r    Senator Mikulski"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "NEW MEXICO:"
+Characters:    "\n\r    Contact: Anne Uhring 505/262-9600"
+Characters:    "\n\r    Date: Saturday, October 26"
+Characters:    "\n\r    Activity: Birthday for Mrs. Clinton theme -- GOTV rallies held\n\r    in three of the state�s major population centers: Albuquerque,\n\r    Las Cruces, and Santa Fe"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "NORTH CAROLINA:"
+Characters:    "\n\r    Contact: Hal Kwalwasser 919/831-0661"
+Characters:    "\n\r    Date: Saturday, October 26"
+Characters:    "\n\r    Activity: Ten field offices sponsor breakfast rallies featuring\n\r    local women leaders"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "PENNSYLVANIA:"
+Characters:    "\n\r    Contact: Tricia Enright (Philadelphia) 215/985-4096"
+Characters:    "\n\r    Contact: Adrienne Schwartz (Pittsburgh) 412/434-7417"
+Characters:    "\n\r    Date: Saturday, October 26"
+Characters:    "\n\r    Activity: 2100 women from across the state will go to grocery\n\r    stores, shopping malls and libraries to \"Build a Bridge to the\n\r    21st Century\" by encouraging women to vote for Clinton/Gore\n\r    �96."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "VERMONT:"
+Characters:    "\n\r    Contact: Elli Kaplan 802/865-4496"
+Characters:    "\n\r    Date: Saturday, October 26"
+Characters:    "\n\r    Activity: Last day to register to vote in Vermont. Day of GOTV\n\r    events planned, including voter registration, and door-to-door\n\r    distribution of absentee ballot request forms and literature\n\r    drop in Burlington."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "# # #"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

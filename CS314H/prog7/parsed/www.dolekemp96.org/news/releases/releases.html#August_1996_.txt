@@ -1,0 +1,465 @@
+Start of document
+Characters:    ""
+Start element: html
+Characters:    ""
+Start element: head
+Characters:    ""
+Characters:    ""
+Characters:    ""
+Characters:    ""
+Characters:    ""
+Start element: title
+Characters:    "Press Releases"
+End element:   title
+Characters:    ""
+End element:   head
+Characters:    ""
+Start element: body
+Characters:    ""
+Start element: p
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Start element: b
+Start element: a
+Key: name, Value: Press_Releases
+Key: id, Value: Press_Releases
+Start element: font
+Characters:    "Press\n\rReleases"
+End element:   font
+End element:   a
+End element:   b
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Start element: font
+Start element: u
+Start element: font
+Characters:    "Nov"
+End element:   font
+End element:   u
+Characters:    ""
+Start element: u
+Start element: a
+Key: href, Value: #October_1996
+Start element: font
+Characters:    "Oct"
+End element:   font
+End element:   a
+End element:   u
+Characters:    ""
+Start element: font
+Start element: u
+Characters:    "Sept"
+End element:   u
+End element:   font
+Characters:    ""
+Start element: u
+Start element: a
+Key: href, Value: #August_1996_
+Start element: font
+Characters:    "Aug"
+End element:   font
+End element:   a
+End element:   u
+Characters:    ""
+Start element: u
+Start element: font
+Characters:    "July"
+End element:   font
+End element:   u
+Characters:    ""
+Start element: u
+Start element: font
+Characters:    "June"
+End element:   font
+End element:   u
+Characters:    ""
+Start element: u
+Start element: font
+Characters:    "May"
+End element:   font
+End element:   u
+Characters:    ""
+Start element: u
+Start element: font
+Characters:    "Apr"
+End element:   font
+End element:   u
+Characters:    ""
+Start element: u
+Start element: font
+Characters:    "Mar"
+End element:   font
+End element:   u
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Characters:    "November 1996 "
+Start element: font
+Start element: u
+Start element: a
+Key: href, Value: #Press_Releases
+Characters:    "Back to\n\rTop"
+End element:   a
+End element:   u
+End element:   font
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Start element: a
+Key: name, Value: October_1996
+Key: id, Value: October_1996
+Characters:    "October 1996"
+End element:   a
+Characters:    ""
+Start element: font
+Start element: u
+Start element: a
+Key: href, Value: #Press_Releases
+Characters:    "Back to\n\rTop"
+End element:   a
+End element:   u
+End element:   font
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: a
+Key: href, Value: proct0796a.html
+Start element: font
+Characters:    "October 7,1996"
+End element:   font
+End element:   a
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Characters:    "nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;Debate Mention Of Web Site Causes Flood Of Visitors"
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Characters:    "September 1996 "
+Start element: font
+Start element: u
+Start element: a
+Key: href, Value: #Press_Releases
+Characters:    "Back to\n\rTop"
+End element:   a
+End element:   u
+End element:   font
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Start element: a
+Key: name, Value: August_1996_
+Key: id, Value: August_1996_
+Characters:    "August 1996"
+End element:   a
+Characters:    ""
+Start element: font
+Start element: u
+Start element: a
+Key: href, Value: #Press_Releases
+Characters:    "Back to\n\rTop"
+End element:   a
+End element:   u
+End element:   font
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: a
+Key: href, Value: praug296.html
+Start element: font
+Characters:    "August 2,1996"
+End element:   font
+End element:   a
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Characters:    "nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;Dole Campaign Announces New Web Site"
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Characters:    "July 1996 "
+Start element: font
+Start element: u
+Start element: a
+Key: href, Value: #Press_Releases
+Characters:    "Back to\n\rTop"
+End element:   a
+End element:   u
+End element:   font
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Characters:    "June 1996 "
+Start element: font
+Start element: u
+Start element: a
+Key: href, Value: #Press_Releases
+Characters:    "Back to\n\rTop"
+End element:   a
+End element:   u
+End element:   font
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Characters:    "May 1996 "
+Start element: font
+Start element: u
+Start element: a
+Key: href, Value: #Press_Releases
+Characters:    "Back to\n\rTop"
+End element:   a
+End element:   u
+End element:   font
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Characters:    "April 1996 "
+Start element: font
+Start element: u
+Start element: a
+Key: href, Value: #Press_Releases
+Characters:    "Back to\n\rTop"
+End element:   a
+End element:   u
+End element:   font
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Characters:    "March 1996 "
+Start element: font
+Start element: u
+Start element: a
+Key: href, Value: #Press_Releases
+Characters:    "Back to\n\rTop"
+End element:   a
+End element:   u
+End element:   font
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    ""
+Start element: p
+Start element: font
+Characters:    "More opportunities.Smaller government.Stronger and\n\rsafer families"
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    ""
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    ""
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    ""
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    ""
+Start element: u
+Characters:    "Dole\n\rInteractive"
+End element:   u
+Characters:    ""
+Start element: u
+Start element: a
+Key: href, Value: ../news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    ""
+Start element: u
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    ""
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+End element:   a
+Characters:    ""
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the Campaign Trail"
+End element:   a
+End element:   u
+Characters:    ""
+Start element: u
+Characters:    "Get\n\rInvolved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Start element: font
+Characters:    "Originally\n\rPaid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Start element: font
+Characters:    "Original Web\n\rDesign by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\rCampaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Start element: font
+Characters:    "To Learn\n\rmore about Bob Dole,Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Start element: font
+Characters:    "This Web\n\rSite is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    ""
+End element:   body
+Characters:    ""
+End element:   html
+Characters:    ""
+End of document

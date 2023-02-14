@@ -1,0 +1,103 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "10/28 Free Air Time"
+End element:   TITLE
+Characters:    "\r\n\r"
+Start element: kpetitle
+Characters:    "10/28 Free Air Time"
+End element:   kpetitle
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Start element: A
+Key: HREF, Value: index22.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r"
+Start element: p
+Characters:    "For Immediate Release:\t\r\n\r"
+Characters:    "October 28, 1996\t\t\t\t\t\r\n\r\t\t\t\t\t\t\t\r\n\r"
+Start element: P
+Start element: b
+Characters:    "STATEMENT BY ANN LEWIS\r\n\r"
+Characters:    "DEPUTY CAMPAIGN MANAGER"
+End element:   b
+Characters:    "\r\n\r\r\n\r\r\n\r"
+Start element: p
+Characters:    "As a direct result of President Clinton�s economic stewardship, America now has the smallest deficit in 15 years.  President Clinton has stressed fiscal responsibility as the key to economic growth and has more than fulfilled his promise to cut the deficit in half in his first term. The deficit has been cut by 63 percent, leading the way for economic expansion and growing consumer confidence.  Today, with the deficit reduced to $107 billion, America is on the right track towards a balanced budget and increased economic growth.\r\n\r\r\n\r"
+Start element: p
+Characters:    "Experts and independent analysts give President Clinton credit for cutting the deficit and lowering interest rates:\r\n\r"
+Start element: blockquote
+Characters:    "\r\n\r"
+Start element: p
+Start element: b
+Characters:    "Alan Greenspan, Federal Reserve Board Chairman, 2/20/96:"
+End element:   b
+Characters:    " \"The deficit reduction (from 1993)...was an unquestioned factor in contributing to the improvement in economic activity that occurred thereafter.\"\r\n\r\r\n\r"
+Start element: p
+Start element: b
+Characters:    "Money Magazine, 8/96"
+End element:   b
+Characters:    ": \"Clinton�s biggest gift to consumers was the sharp drop in interest rates in 1993.  Following the President�s early drive to lower the deficit...bond trades drove down long-term rates, sending 30-year fixed mortgages from 8.31% in November 1992 to 6.83% in October 1993.  That�s the lowest mortgage rate since 1971.  In all, the rate rollback allowed some 10 million homeowners to save as much as $25 billion by refinancing their loans, according to David Lereah, the chief economist at the Mortgage Bankers Association.\"\r\n\r\r\n\r"
+Start element: p
+Start element: b
+Characters:    "New York Times, 10/27/96"
+End element:   b
+Characters:    ": \"Mr. Clinton�s drive toward a balanced budget has helped keep interest rates low and promote an economic expansion now in its fifth year.  Mr. Clinton stood up to the spendthrifts in his own party at the start of his term.  He curbed the Federal deficits that had piled up over years of Republican Presidents proclaiming devotion to fiscal conservatism.\"\r\n\r\r\n\r"
+Start element: p
+Start element: b
+Characters:    "US News & World Report, 6/17/96"
+End element:   b
+Characters:    ": \"Voodoo Bob would also have to explain why he wants an approach that differs from President Clinton�s budget deficit reduction program begun in 1993... The result?... the budget deficit has dropped by over 50 percent from 290 billion to an estimated 120 billion for the 1996 fiscal year.\"\r\n\r"
+End element:   blockquote
+Characters:    "\r\n\r"
+Start element: p
+Characters:    "Once again, the President has demonstrated that a clear vision of the future coupled with an ability to keep his promises to the American people will lead the way to the 21st Century.\r\n\r\r\n\r\t\t\t\t\t\t"
+Start element: P
+Start element: CENTER
+Characters:    "###"
+End element:   center
+Characters:    "\r\n\r\r\n\r \r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee,\r\n\rInc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End of document

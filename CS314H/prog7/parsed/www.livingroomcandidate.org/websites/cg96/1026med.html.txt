@@ -1,0 +1,86 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "Medicare Again"
+End element:   TITLE
+Characters:    "\r\n\r"
+Start element: kpetitle
+Characters:    "Medicare Again"
+End element:   kpetitle
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Start element: A
+Key: HREF, Value: index22.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r"
+Start element: P
+Characters:    "FOR IMMEDIATE RELEASE\t\t\t\t\r\n\r"
+Characters:    "October 26, 1996\t\t\t\t\t\t\r\n\r\t\t\t\t\r\n\r"
+Start element: P
+Characters:    "STATEMENT OF ANN LEWIS\r\n\r"
+Characters:    "DEPUTY CAMPAIGN MANAGER\r\n\r\r\n\r"
+Start element: p
+Characters:    "The Truth about Medicare Again:\r\n\r\r\n\r"
+Start element: p
+Characters:    "Once again Bob Dole and the Republican Party are ducking the truth about Medicare.  They are trying to run away from the facts about their record:\r\n\r\r\n\r"
+Start element: P
+Start element: b
+Characters:    "Fact:"
+End element:   b
+Characters:    "\r\n\r\tThe Dole/Gingrich 1995 budget would have increased Medicare premiums $1,700 for an elderly couple by 2002 (based on CBO estimates).\r\n\r\r\n\r"
+Start element: p
+Start element: b
+Characters:    "Fact:"
+End element:   b
+Characters:    "\tThe current Dole tax scheme would require even deeper cuts in Medicare, so much of a reduction that Senator Dole�s campaign steering co-chair says he can�t talk about it during the campaign (Senator D�Amato on the Don Imus Show, 8/12/96).\r\n\r\r\n\r"
+Start element: p
+Characters:    "Maybe Bob Dole and Haley Barbour really think that a difference of $1,700 dollars a year is insignificant.  Maybe they don�t think it should matter to American families if Medicare premiums are doubled.  Maybe they want to spend the rest of this campaign talking about Medicare.  We�ll be happy to continue discussing the facts.\r\n\r\r\n\r\r\n\r\t\t\t\t\t\t"
+Start element: P
+Start element: CENTER
+Characters:    "###"
+End element:   center
+Characters:    "\r\n\r\r\n\r \r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee,\r\n\rInc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End of document

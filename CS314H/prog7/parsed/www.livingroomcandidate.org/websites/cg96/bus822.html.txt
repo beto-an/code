@@ -1,0 +1,79 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "Two-Day Bus Tour to Follow Convention"
+End element:   TITLE
+Characters:    "\r\n\r\r\n\r"
+Start element: KPETITLE
+Start element: B
+Characters:    "For Immediate Release:"
+End element:   B
+Characters:    "\r\n\r\"Two-Day Bus Tour to Follow Convention"
+Start element: DD
+End element:   KPETITLE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "  "
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "  "
+Characters:    "\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r"
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "August 22, 1996\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "PRESIDENT CLINTON AND VICE PRESIDENT GORE TO TAKE TWO-DAY BUS TOUR\r\n\rFOLLOWING THE DEMOCRATIC NATIONAL CONVENTION\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "Taking their campaign \"on the road to the year 2000,\" President Clinton and Vice President Al Gore will begin a two-day bus tour following the Democratic National Convention.  The tour will begin Friday, August 30 in Cape Girardeau, Missouri and travel south through Illinois, Kentucky and Tennessee.  The bus will stop overnight in Paducah, Kentucky.   It will conclude in Memphis, Tennessee on Saturday, August 31.\r\n\r\r\n\r"
+Start element: P
+Characters:    "First Lady Hillary Rodham Clinton and Mrs. Tipper Gore will join the President and Vice President on the tour. \r\n\r\r\n\r"
+Start element: P
+Characters:    "Additional tour stops and logistical information will be released at later dates. For more information, contact the Clinton/Gore press office at 202/496-1037.\r\n\r"
+Start element: P
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: center
+Characters:    "###"
+End element:   center
+Characters:    "\r\n\r\r\n\r \r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    " "
+Characters:    " "
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee, Inc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End of document

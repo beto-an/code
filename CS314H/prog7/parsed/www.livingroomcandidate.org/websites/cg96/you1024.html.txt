@@ -1,0 +1,140 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "President Kicks Off Youth Voter Effort"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 25, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "PRESIDENT CLINTON KICKS OFF CAMPAIGN�S YOUTH VOTER\n\r      EFFORT, STRESSES IMPORTANCE OF YOUNG AMERICANS� POLITICAL\n\r      INVOLVEMENT"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Today, in Atlanta, President Clinton issued a challenge\n\r    to younger Americans -- those under 35 -- to plug into the\n\r    political process, to become active, to get involved in their\n\r    communities, and to vote for the Clinton/Gore ticket."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The President�s address coincided with the Clinton/Gore\n\r    campaign�s announcement of its National Youth Steering\n\r    Committee and 23 State Youth Advisory Committees."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "At a Clinton/Gore rally in Woodruff Park, the President\n\r    framed the upcoming election as a choice between two Americas\n\r    -- one that looks forward toward increased economic\n\r    opportunity, improved educational standards, and a renewed\n\r    sense of community, or one that looks backward to an era of\n\r    bloated budgets, skyrocketing debt and deficits, economic\n\r    disparity and declining living standards. The President called\n\r    on younger Americans to help him build a bridge to the 21st\n\r    century. The President also addressed the importance of\n\r    national service and challenged younger Americans to serve\n\r    their communities and their country."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"The President understands the concerns of younger\n\r    voters and believes that his re-election is the best hope\n\r    younger voters have to secure their economic and social\n\r    future,\" said Nicole Boxer-Rodham, Coordinator of Youth\n\r    Outreach for the Clinton/Gore campaign. \"This campaign is about\n\r    the future vs. the past. Younger voters have a clear choice: do\n\r    we want to stay on track with a healthy economy, lower interest\n\r    rates, more jobs, lower crime rates, education for all\n\r    Americans, and a clean and healthy environment, or do we want\n\r    to return to the failed policies of the past?\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The Clinton-Gore Administration has been and continues\n\r    to be committed to real next generation issues such as the\n\r    deficit, economic growth, education, the environment and the\n\r    fight against violent crime."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The Clinton-Gore Administration remains committed to\n\r    tackling the long range economic challenges facing younger\n\r    Americans and stressing the importance of the next generation�s\n\r    involvement in the political process."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The Clinton-Gore Administration has strengthened and\n\r    expanded America�s economy. The deficit has been cut by 60\n\r    percent; more than 10.5 million new jobs have been created; we\n\r    have the lowest unemployment rate in over six years; and\n\r    interest rates on car loans and home mortgages are the lowest\n\r    in three decades."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"More young people volunteer today than ever before in\n\r    our nation�s history, they are to be commended for their\n\r    efforts in their communities, but they need to be reminded that\n\r    they can have the same impact on National elections. President\n\r    Clinton reminded them of that today in Atlanta and offered\n\r    younger Americans a reason to participate. Our generation has a\n\r    say in what happens to America -- we have choices to make and\n\r    it�s important to exercise them, beginning with this election,\n\r    by making a choice for our future -- a choice for\n\r    Clinton-Gore,\" said Boxer-Rodham."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "# # #"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

@@ -1,0 +1,230 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Family and Medical Leave Act"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    September 24, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "BACKGROUND ON THE FAMILY AND MEDICAL LEAVE ACT"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "\"The Family and Medical Leave Law... allows parents\n\r    time off for birth or adoption of a child, or for family\n\r    emergencies, without fear that they will lose their jobs.\n\r    Already it has helped 12 million families -- and it hasn�t hurt\n\r    the economy one bit. Bill and I are fortunate that our jobs\n\r    have allowed us to take breaks from work, not only when Chelsea\n\r    was born but to attend her school events and take her to the\n\r    doctor. But millions of other parents can�t get time\n\r    off."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "\"That�s why my husband wants to expand the Family and\n\r    Medical Leave Law so that parents can take time off for their\n\r    doctors appointments and parent-teacher\n\r    conferences.\""
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "-- Hillary Rodham Clinton"
+Characters:    "\n\r    Democratic National Convention"
+Characters:    "\n\r    August 27, 1996"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Family and Medical Leave ensures that working families\n\r    don�t have to choose between the jobs they need and the\n\r    families they love. Because of family and medical leave,\n\r    working families do not face losing their jobs at the time when\n\r    they need them most -- when they have newborn or newly adopted\n\r    children, when they need to care for seriously ill children,\n\r    spouses, or parents, and when they need to recover from their\n\r    own serious illnesses."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Family and Medical Leave has helped millions of\n\r    American working families."
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: ul
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "Since President Clinton signed the Family and Medical\n\r      Leave Act, employees across America have taken over 12\n\r      million job-protected leaves."
+End element:   tt
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "67 million eligible employees can rely on the Family\n\r      and Medical Leave Act if and when they need its\n\r      protections."
+End element:   tt
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "People from all walks of life, from all across the\n\r      country, from every political, religious, and ethnic group\n\r      have used Family and Medical Leave. Working women and men\n\r      have taken Family and Medical Leave; fully 42% of\n\r      leave-takers are men."
+End element:   tt
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "Connecticut is a leading proponent of family leave\n\r      legislation, having passed a state law in 1989. A total of\n\r      670,000 workers are eligible for family leave in Connecticut\n\r      under the national Family and Medical Leave Act."
+End element:   tt
+End element:   li
+Characters:    "\n\r    "
+End element:   ul
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Family and Medical Leave has not created significant\n\r    costs or burdens on business; it has even "
+Start element: i
+Characters:    "improved"
+End element:   i
+Characters:    "\n\r    productivity at some companies."
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: ul
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "The vast majority of employers covered by the Family\n\r      and Medical Leave Act have experienced no or only small\n\r      increases in administrative and related costs because of\n\r      it."
+End element:   tt
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "More than three quarters of covered employers have\n\r      found it very or somewhat easy to coordinate Family and\n\r      Medical Leave benefits and laws, determine coverage and\n\r      eligibility, and maintain required records."
+End element:   tt
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "Many employers have found that Family and Medical\n\r      Leave actually saves them money in reduced turnover and\n\r      enhanced employee productivity."
+End element:   tt
+End element:   li
+Characters:    "\n\r    "
+End element:   ul
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "President�s Clinton�s vision: to help working\n\r    families who need family and medical leave even\n\r    more."
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: ul
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "Two out of five working Americans anticipate needing\n\r      family and medical leave over the next five years."
+End element:   tt
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "But Family and Medical Leave isn�t available when\n\r      parents need to go to parent-teacher conferences, or to take\n\r      their children or other family members to the doctor for\n\r      regular medical appointments."
+End element:   tt
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "President Clinton has proposed expanding the Family\n\r      and Medical Leave Act to allow working parents that extra\n\r      flexibility through an additional 24 hours of leave a year\n\r      for parent-teacher conferences and preventive\n\r      check-ups."
+End element:   tt
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "Bob Dole "
+Start element: i
+Characters:    "opposes"
+End element:   i
+Characters:    " even this modest expansion.\n\r      He says he doesn�t believe the federal government should help\n\r      working families in this way."
+End element:   tt
+End element:   li
+Characters:    "\n\r    "
+End element:   ul
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Today Clinton-Gore �96 is highlighting the law\n\r    nationwide. Four years ago on this same date, then-Republican\n\r    Leader Bob Dole cast his vote to uphold President Bush�s veto\n\r    of the Family and Medical Leave Act. Forty-four events are\n\r    taking place across the country to highlight President\n\r    Clinton�s commitment to America�s working families."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

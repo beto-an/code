@@ -1,0 +1,161 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "Dole Already Defensive"
+End element:   TITLE
+Characters:    "\r\n\r\r\n\r"
+Start element: KPETITLE
+Start element: B
+Characters:    "For Immediate Release:"
+End element:   B
+Characters:    "\r\n\rDole Already Defensive"
+Start element: DD
+End element:   KPETITLE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "  "
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "  "
+Characters:    "\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r"
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "August 5, 1996\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "STATEMENT BY JOE LOCKHART\r\n\r"
+Characters:    "NATIONAL PRESS SECRETARY\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "\tBob Dole has not even released his economic plan yet and already he is sounding defensive.  When his former colleagues are urging him not to take the irresponsible political route, we can understand why.  See the attached ad from the Concord Coalition.\r\n\r\t\r\n\r\r\n\r\r\n\r"
+Start element: p
+Start element: center
+Characters:    "###\r\n\r"
+End element:   center
+Characters:    "\r\n\r\r\n\r\r\n\r \r\n\r"
+Start element: P
+Characters:    "U.S. Newswire\r\n\r                                                                               \r\n\r04:54 PM, Friday, August 2, 1996\r\n\r                                                                                \r\n\r\r\n\r"
+Start element: P
+Characters:    "Concord Coalition to Run Ad Warning Against Tax Cuts \r\n\r"
+Characters:    "US Newswire\r\n\r"
+Characters:    "Keywords: \r\n\r Concord Coalition to Run Full Page Ad Warning Against Return to\r\n\rSupply-Side Tax Cuts\r\n\r "
+Characters:    "To: National Desk\r\n\r"
+Characters:    " Contact: Jamie Ridge of the Concord Coalition, 202-467-6222\r\n\r\r\n\r"
+Start element: P
+Characters:    "   WASHINGTON, Aug. 2 /U.S. Newswire/ -- The Concord Coalition has\r\n\rpurchased a full-page advertisement in this Sunday's New York Times\r\n\rthat warns against a return to the supply-side tax policies of the\r\n\r1980s.\r\n\r"
+Start element: P
+Characters:    "   The advertisement, which will appear in the form of an open letter\r\n\rto the American people, is signed by Concord Coalition founders Paul\r\n\rTsongas, Warren Rudman and Pete Peterson.\r\n\r"
+Start element: P
+Characters:    "   \"Let the 1980s be a lesson.  The original supply-side concept of\r\n\rtargeted tax cuts quickly led to a general tax cut bidding war, with\r\n\rboth parties joining in the frenzy,\" the ad states.  \"This resulted\r\n\rin unprecedented peacetime deficits and interest costs that will be\r\n\rwith us for years to come.\"\r\n\r"
+Start element: P
+Characters:    "   Rather than supply-side tax cuts, the ad urges political\r\n\rcandidates to focus on long-term economic growth and entitlement\r\n\rspending reforms that will prepare the country for the retirement of\r\n\rthe massive baby boom generation.\r\n\r"
+Start element: P
+Characters:    "   \"America ought to be preparing right now for this fast-\r\n\rapproaching demographic gauntlet by saving and investing more on\r\n\rbehalf of young workers,\" the letter states.  \"To make this possible,\r\n\rwe should eliminate the deficit by the year 2002 -- as the president\r\n\rand Congress agreed last year -- and even plan to run a budget\r\n\rsurplus through at least the first decade of the next century.\r\n\rToday's budget problems are tough enough.  Let's not make tomorrow's\r\n\rimpossible.\"\r\n\r "
+Start element: P
+Characters:    "  The Concord Coalition was founded in 1992 by former Sens. Rudman\r\n\r(R-N.H.) and Tsongas (D-Mass.) and former Secretary of Commerce\r\n\rPeterson.  The Coalition has more than 170,000 members nationwide and\r\n\rgrassroots chapters in each state and most congressional districts.\r\n\r  "
+Start element: P
+Characters:    " The full text of the ad follows.\r\n\r    ------\r\n\r    "
+Start element: P
+Start element: CENTER
+Characters:    "              IT'S TOO EARLY FOR CHRISTMAS\r\n\r"
+End element:   center
+Characters:    "\r\n\r"
+Start element: P
+Characters:    "   To the American People:\r\n\r\r\n\r  "
+Start element: P
+Characters:    " Voters beware!  Candidates are gearing up for their election year\r\n\rsales pitch, which means we'll be hearing plenty of promises that are\r\n\rtoo good to be true.  This time around, it looks like a large yet\r\n\r\"fiscally responsible\" tax cut will be heading our\r\n\rChristmas-in-Summer wish list.\r\n\r"
+Start element: P
+Characters:    "   How can a big tax cut be responsible when the federal budget is\r\n\ralready running a deficit and tomorrow's deficits are scheduled to\r\n\rfly higher than Santa's reindeer?  The answer is it can't.  It's not\r\n\rthe right season to celebrate Christmas.  Likewise, it's not the\r\n\rright year to advocate a big tax cut.\r\n\r\r\n\r"
+Start element: p
+Start element: CENTER
+Characters:    "       BIG TAX CUTS DON'T PAY FOR THEMSELVES: BEWARE THE\r\n\r              \"ROSY SCENARIOS\" AND TECHNICAL VOODOO\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r "
+Start element: p
+Characters:    "  Some say large tax cuts can pay for themselves.  This is not so.\r\n\rAlthough most economists concede that certain targeted cuts (such as\r\n\ra small reduction in the top marginal income tax rate or business tax\r\n\rincentives) might be largely self-financing, these cuts don't add up\r\n\rto a lot of money or growth.  More important, since they must be\r\n\rtargeted toward businesses and affluent households, neither the\r\n\rRepublicans nor the Democrats -- as a practical matter -- can propose\r\n\rthem without also offering a much larger cut to the broad middle\r\n\rclass.  And no mainstream economist believes that such an\r\n\racross-the-board cut will come anywhere near close to paying for\r\n\ritself.\r\n\r  "
+Start element: p
+Characters:    " In fact, despite all the hoopla about \"dynamic scoring\" and the\r\n\rrelated claim that the economy will grow like topsy, the most\r\n\rseasoned policymakers admit no one can be sure of the direction, much\r\n\rless the magnitude, of the economy's response to most tax cuts.\r\n\rFormer Fed Chairman Paul Volcker has warned that dynamic scoring is\r\n\r\"an invitation to wishful thinking.\" Current Fed Chairman Alan\r\n\rGreenspan worries that it could cause \"financial markets to lose\r\n\rconfidence in the integrity of our budget scoring procedures,\" and\r\n\rthat \"the rise in inflation premiums and interest rates could more\r\n\rthan offset any statistical difference between so- called static and\r\n\rmore dynamic scoring.\"\r\n\r"
+Start element: p
+Characters:    "   Let the 1980s be a lesson.  The orginal supply-side concept of\r\n\rtargeted tax cuts quickly led to a general tax cut bidding war, with\r\n\rboth parties joining in the frenzy.  This resulted in unprecedented\r\n\rpeacetime deficits and interest costs that will be with us for years\r\n\rto come.  This year alone, interest payments will come to $240\r\n\rbillion, or almost twice the size of the entire deficit.  Those who\r\n\rswear by dynamic scoring would do well to remember that the last time\r\n\rwe relied on this sort of technical voodoo its proponents assumed\r\n\rthat GDP would group by $2.1 trillion more than it really did over\r\n\rthe next five years.  Let's not replay the rosy scenario.\r\n\r\r\n\r"
+Start element: p
+Start element: CENTER
+Characters:    "          LONG-TERM SPENDING CONTROL MUST COME FIRST --\r\n\r     WHICH MEANS MAKING THE INDISPENSIBLE CUTS IN OUR GIANT\r\n\r                MIDDLE-CLASS ENTITLEMENT PROGRAMS\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r  "
+Start element: p
+Characters:    " Some say we can easily pay for a big tax cut by reducing federal\r\n\rspending.  But where?  Over the last 10 years, discretionary spending\r\n\ron everything from education to defense has already shrunk from 10.0\r\n\rpercent to 7.1 percent of GDP.  So deep are these cuts that even the\r\n\rRepublican Congress cannot reach consensus on further savings.  If we\r\n\rare serious about cutting spending, the big areas to focus on are\r\n\rmiddle class entitlements like Social Security and Medicare, and, in\r\n\raddition, Medicaid.  Entitlements are now 11.7 percent of GDP and\r\n\rclimbing on autopilot.  Yet here Congress and the White House aren't\r\n\rwilling to seize the controls.  America's leaders will have to show a\r\n\rlot more courage on spending before we earn the right to cut taxes.\r\n\r"
+Start element: p
+Characters:    "   Any political candidate who wants to be responsible to our\r\n\rnational future would do well to spell out cuts in spending and\r\n\rcorporate tax loopholes that could pay for a tax cut.  But if these\r\n\rbelt-tightening policies pay for the tax cut, they can't be used\r\n\rlater to balance the budget.  Even in Washington, money can be spent\r\n\ronly once.\r\n\r\r\n\r"
+Start element: p
+Start element: CENTER
+Characters:    "  THE LONG-TERM PERIL: TRILLION-DOLLAR-PLUS SOCIAL SECURITY AND\r\n\rMEDICARE DEFICITS\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r  "
+Start element: p
+Characters:    " Some say the federal deficit is declining.  That good news is true\r\n\rtoday, but it won't be true tomorrow.  We cannot expect that the\r\n\rworld will indefinitely remain as peaceful and recession-free as it\r\n\ris today.  We know for certain that today's favorable demographics\r\n\rcannot last much longer.  For the next dozen years a large (\"Boom\")\r\n\rgeneration will be swelling the ranks of workers and taxpayers while\r\n\ra small (\"Depression\") generation will be retiring.  But when the 76\r\n\rmillion Baby Boomers become the Senior Boomers, look out: all\r\n\rofficial projections show that entitlement spending and the deficit\r\n\rwill explode.  By the year 2030, the yearly deficit just for Social\r\n\rSecurity and Medicare Hospital Insurance alone is officially\r\n\rprojected to amount to $1.8 trillion.  Yes, we said trillion!\r\n\r"
+Start element: p
+Characters:    "   America ought to be preparing right now for this fast approaching\r\n\rdemographic gauntlet by saving and investing ore on behalf of young\r\n\rworkers.  To make this possible, we should eliminate the deficit by\r\n\rthe year 2002 -- as the president and Congress agreed last year --\r\n\rand even plan to run a budget surplus through at least the first\r\n\rdecade of the next century.  Today's budget problems are tough\r\n\renough.  Let's not make tomorrow's impossible.\r\n\r\r\n\r"
+Start element: p
+Start element: CENTER
+Characters:    "STRONGER ECONOMIC AND PRODUCTIVITY GROWTH REQUIRES SAVINGS AND INVESTMENT -- A BIG TAX CUT WOULD TAKE US IN THE\r\n\rOPPOSITE DIRECTION\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r  "
+Start element: p
+Characters:    " Some say that for want of a tax cut the U.S. economy is under-\r\n\rperforming.  By unleashing work and entrepreneurial effort, they say,\r\n\rthe economy could double its real growth rate.  Aside from the great\r\n\rleap of faith that tax cuts can do this unleashing, their argument\r\n\roverlooks basic arithmetic: Economic growth is the sum of employment\r\n\rgrowth (number of workers) and productivity growth (output per\r\n\rworker).  No finagling with the tax code will make the workforce grow\r\n\ras fast as it once did.  The share of women in the work force is\r\n\runlikely to rise much higher.  Since the 1960s, we've been having\r\n\rfewer children, which means that fewer new workers will be entering\r\n\rthe job market.  And no one is suggesting sizable increases in\r\n\rimmigration, legal or otherwise.  Thus, even if we did enjoy the same\r\n\rrate of productivity growth as in earlier post-war decades -- which\r\n\rwe don't -- the economy still wouldn't be growing as fast.\r\n\r"
+Start element: p
+Characters:    "   The Concord Coalition has always been in favor of genuine and\r\n\rsustainable economic growth -- the kind that requires increased\r\n\rproductivity, the ultimate foundation for any lasting improvement in\r\n\rliving standards.  But how do we increase productivity?  The only\r\n\rcertain way is by improving the tools, research and education at the\r\n\rdisposal of American workers.  This in turn requires that we generate\r\n\rthe savings needed to pay for these investments.  Tax cuts that jack\r\n\rup the deficit and encourage households to increase their immediate\r\n\rconsumption, are not the way to raise savings.\r\n\r\r\n\r"
+Start element: P
+Start element: CENTER
+Characters:    "                       CHRISTMAS CAN WAIT\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r"
+Start element: P
+Characters:    "   The tax cut Santas distract us from our real challenge: ensuring\r\n\rthat federal fiscal policies are sustainable over the long run, and\r\n\rthat they endow the young as much as they reward the old.  Yes, there\r\n\ris a time to celebrate Christmas.  That's after we've used our Indian\r\n\rSummer wisely.  That's after we've harvested our crops, set aside our\r\n\rseed corn, stocked our larders and provided for our own and our\r\n\rchildren's future.  Christmas can wait until then.  And so can a tax\r\n\rcut.\r\n\r\r\n\r"
+Start element: P
+Characters:    " -0-\r\n\r /U.S. Newswire  202-347-2770/\r\n\r 08/02 16:54\r\n\r\r\n\r"
+Start element: P
+Characters:    "Copyright 1996, U.S. Newswire\r\n\r\r\n\r\t\r\n\r\r\n\r"
+Start element: P
+Start element: CENTER
+Characters:    "###\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    " "
+Characters:    " "
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee, Inc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End of document

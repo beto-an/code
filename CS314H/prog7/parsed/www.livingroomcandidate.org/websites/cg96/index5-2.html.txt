@@ -1,0 +1,200 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Clinton/Gore '96 | We the People"
+End element:   title
+Characters:    "\n\r  "
+Start element: script
+Key: language, Value: JavaScript
+Characters:    "\n\r  <!--\n\r  function goAway()\n\r  {\n\r        //alert(document.forms[0].place.options.selectedIndex);\n\r        if(document.forms[0].place.options.selectedIndex == 0)\n\r                document.location.href=\"index110.html\";\n\r        else if(document.forms[0].place.options.selectedIndex == 1)\n\r                document.location.href=\"index111.html\";\n\r        else if(document.forms[0].place.options.selectedIndex == 2)\n\r                document.location.href=\"index112.html\";\n\r        else if(document.forms[0].place.options.selectedIndex == 3)\n\r                document.location.href=\"disability\"/index.htm;\n\r        else if(document.forms[0].place.options.selectedIndex == 4)\n\r                document.location.href=\"index113.html\";\n\r        else if(document.forms[0].place.options.selectedIndex == 5)\n\r                document.location.href=\"index114.html\";\n\r        else if(document.forms[0].place.options.selectedIndex == 6)\n\r                document.location.href=\"index115.html\";\n\r        else if(document.forms[0].place.options.selectedIndex == 7)\n\r                document.location.href=\"index116.html\";\n\r        else if(document.forms[0].place.options.selectedIndex == 8)\n\r                document.location.href=\"index117.html\";\n\r        else if(document.forms[0].place.options.selectedIndex == 9)\n\r                document.location.href=\"index118.html\";\n\r        else if(document.forms[0].place.option.selectedIndex == 10)\n\r                document.location.href=\"index119.html\";\n\r        else if(document.forms[0].place.options.selectedIndex == 11)\n\r                document.location.href=\"index120.html\";\n\r        else if(document.forms[0].place.options.selectedIndex == 12)\n\r                document.location.href=\"index121.html\";\n\r        else if(document.forms[0].place.options.selectedIndex == 13)\n\r                document.location.href=\"index122.html\";\n\r        else if(document.forms[0].place.options.selectedIndex == 14)\n\r                document.location.href=\"index123.html\";\n\r        else if(document.forms[0].place.options.selectedIndex == 15)\n\r                document.location.href=\"index124.html\";\n\r        else if(document.forms[0].place.options.selectedIndex == 16)\n\r                document.location.href=\"index125.html\";\n\r        else if(document.forms[0].place.options.selectedIndex == 17)\n\r                document.location.href=\"index17.html\";\n\r        else\n\r                document.location.href=\"index17.html\";\n\r  }\n\r\n\r  //-->\n\r  "
+End element:   script
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: font
+Key: size, Value: +1
+Characters:    " "
+Start element: i
+Characters:    "ur Challenge is twofold: first, to restore the\n\r      American Dream of opportunity and the American value of\n\r      responsibility; and second, to bring our country together\n\r      amid all our diversity into a stronger community, so that we\n\r      can find common ground and move forward together as\n\r      one."
+End element:   i
+Characters:    "”"
+End element:   font
+Characters:    "\n\r      "
+Start element: div
+Key: align, Value: right
+Characters:    "\n\r        "
+Start element: font
+Key: size, Value: +1
+Characters:    "—President Bill Clinton"
+End element:   font
+Characters:    "\n\r      "
+End element:   div
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: form
+Key: method, Value: post
+Key: action, Value: ../../../external.html
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: blockquote
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Start element: table
+Key: border, Value: 0
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: tr
+Characters:    "\n\r            "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r            "
+Start element: td
+Key: valign, Value: top
+Key: bgcolor, Value: #FFFFFF
+Start element: font
+Characters:    "I am\n\r            interested in learing more about issues\n\r            affecting:"
+End element:   font
+End element:   td
+Characters:    "\n\r            "
+Start element: td
+Key: valign, Value: top
+Key: bgcolor, Value: #FFFFFF
+Start element: select
+Key: name, Value: place
+Characters:    "\n\r              "
+Start element: option
+Key: value, Value: AfricanAmericans
+Characters:    "\n\r                African Americans\n\r              "
+End element:   option
+Characters:    "\n\r              "
+Start element: option
+Key: value, Value: AsianPacificAmericans
+Characters:    "\n\r                Asian Pacific Americans\n\r              "
+End element:   option
+Characters:    "\n\r              "
+Start element: option
+Key: value, Value: AmericanIndiansAlaskaNatives
+Characters:    "\n\r                American Indians\\Alaska Natives\n\r              "
+End element:   option
+Characters:    "\n\r              "
+Start element: option
+Key: value, Value: AmericansWithDisabilities
+Characters:    "\n\r                Americans with Disabilities\n\r              "
+End element:   option
+Characters:    "\n\r              "
+Start element: option
+Key: value, Value: TheEnvironment
+Characters:    "\n\r                The Environment\n\r              "
+End element:   option
+Characters:    "\n\r              "
+Start element: option
+Key: value, Value: EthnicAmericans
+Characters:    "\n\r                Ethnic Americans\n\r              "
+End element:   option
+Characters:    "\n\r              "
+Start element: option
+Key: value, Value: GaysAndLesbians
+Characters:    "\n\r                Gays and Lesbians\n\r              "
+End element:   option
+Characters:    "\n\r              "
+Start element: option
+Key: value, Value: HealthCare
+Characters:    "\n\r                Health Care\n\r              "
+End element:   option
+Characters:    "\n\r              "
+Start element: option
+Key: value, Value: HispanicsLatinos
+Characters:    "\n\r                Hispanics/Latinos\n\r              "
+End element:   option
+Characters:    "\n\r              "
+Start element: option
+Key: value, Value: JewishAmericans
+Characters:    "\n\r                Jewish Outreach\n\r              "
+End element:   option
+Characters:    "\n\r              "
+Start element: option
+Key: value, Value: RepublicansForCG
+Characters:    "\n\r                Republicans for Clinton/Gore\n\r              "
+End element:   option
+Characters:    "\n\r              "
+Start element: option
+Key: value, Value: RuralAmericans
+Characters:    "\n\r                Rural Americans\n\r              "
+End element:   option
+Characters:    "\n\r              "
+Start element: option
+Key: value, Value: SciTech
+Characters:    "\n\r                Scientists and Engineers\n\r              "
+End element:   option
+Characters:    "\n\r              "
+Start element: option
+Key: value, Value: Seniors
+Characters:    "\n\r                Seniors\n\r              "
+End element:   option
+Characters:    "\n\r              "
+Start element: option
+Key: value, Value: Women
+Characters:    "\n\r                Women\n\r              "
+End element:   option
+Characters:    "\n\r              "
+Start element: option
+Key: value, Value: Veterans
+Characters:    "\n\r                Veterans\n\r              "
+End element:   option
+Characters:    "\n\r              "
+Start element: option
+Key: value, Value: Youth
+Characters:    "\n\r                Youth\n\r              "
+End element:   option
+Characters:    "\n\r              "
+Start element: option
+Key: value, Value: None
+Key: selected, Value: 
+Characters:    "\n\r                Please chose a group and press the submit button\n\r              "
+End element:   option
+Characters:    "\n\r            "
+End element:   select
+End element:   td
+Characters:    "\n\r          "
+End element:   tr
+Characters:    "\n\r        "
+End element:   table
+Characters:    "\n\r        "
+Characters:    "\n\r      "
+End element:   blockquote
+Characters:    "\n\r    "
+End element:   form
+Characters:    "\n\r    "
+Characters:    "\n\r    Paid for by Clinton/Gore '96 General Committee, Inc.\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

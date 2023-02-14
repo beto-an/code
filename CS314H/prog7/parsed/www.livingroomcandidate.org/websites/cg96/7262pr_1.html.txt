@@ -1,0 +1,136 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Clinton/Gore '96 Appoints Disability Outreach\n\r  Director"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    7/26/96"
+Characters:    "\n\r    PRESS RELEASE"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "CLINTON/GORE '96 APPOINTS DISABILITY OUTREACH\n\r    DIRECTOR"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"Three and a half years ago, when I took the oath of\n\r    office, I had a very clear vision of what I hoped our country\n\r    could be like as we move into the 21st century. In 1992, I\n\r    issued a challenge to our nation. I said we must not rest until\n\r    America has a national disability policy based on three simple\n\r    creeds: inclusion, not exclusion; independence, not dependence;\n\r    and empowerment, not paternalism. I remain committed to that\n\r    vision.\" President William J. Clinton, May 23, 1996."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Keeping with the President's vision and commitment,\n\r    Becky Ogle has been named Disability Desk Director of the\n\r    Office of Public Liaison, Clinton/Gore'96 Campaign headquarters\n\r    in Washington, D.C."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Ms. Ogle, a well-known disability rights activist and\n\r    leader, is Chair of Justice For All, a national grassroots\n\r    organization that defends and advances disability rights. As\n\r    Director of Disability Outreach for Clinton/Gore'96, Ms. Ogle\n\r    will ensure that people with disabilities and the disability\n\r    rights agenda are integrated into every aspect of the\n\r    Clinton/Gore'96 re-election effort."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Overall, people with disabilities are the largest\n\r    minority in America--49 million persons, of whom more than 35\n\r    million are of voting age. According to a recent nationwide\n\r    Harris Poll, President Clinton enjoys a 31 percentage point\n\r    lead over Senator Bob Dole among adults with disabilities. \"The\n\r    disability vote can have a significant impact on the nation's\n\r    leadership,\" said Alan Reich, President of the National\n\r    Organization on Disability upon releasing the\n\r    findings."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "In the 1992 Presidential election, Bill Clinton won the\n\r    disability vote overwhelmingly against President Bush by 50\n\r    percent to 26 percent with 18 per cent voting for\n\r    Perot."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"The disability community is important to President\n\r    Clinton's re-election effort,\" stated, Alan Wheat, Deputy\n\r    Campaign Manager for Public Liaison. Wheat continued,\n\r    \"President Clinton has demonstrated his allegiance to\n\r    disability rights since he assumed his presidency. Throughout\n\r    the Clinton administration individuals with disabilities have\n\r    been appointed to positions of authority and power contributing\n\r    a significant portion to policy issues across the board.\n\r    President Clinton has fought to make sure that people with\n\r    disabilities have health care and the living wages they need to\n\r    live independently.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton stated recently to a conference in\n\r    Detroit, Michigan, \"We must preserve the guarantee of Medicaid\n\r    coverage for people with disabilities. Last year Congress sent\n\r    me legislation to repeal that guarantee -- legislation that\n\r    would have taken away health care coverage from millions of\n\r    Americans who need it most. I vetoed that legislation, and if\n\r    they send it to me again and they want to repeal the guarantee,\n\r    I will veto it again.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"While the Harris poll numbers look good, we do not\n\r    assume that we can take the disability vote for granted,\" said\n\r    Wheat, and he concluded, \"The disability community will be\n\r    visible throughout our re-election effort and we take their\n\r    vote very seriously.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Prior to Ms. Ogle's role as Chair of Justice For All,\n\r    she served as Director of Project Access Ability for the\n\r    National Association of Medical Equipment Services in\n\r    Alexandria, VA. Ms. Ogle is a person with spina bifida and uses\n\r    a wheelchair."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "###"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

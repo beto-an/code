@@ -1,0 +1,198 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Vice President Gore Unveils Website"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "7/10/96"
+Characters:    "\n\r    PRESS RELEASE"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "REMARKS BY VICE-PRESIDENT AL GORE"
+Characters:    "\n\r    AT THE UNVEILING OF THE CLINTON/GORE '96 WEBSITE"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Clinton/Gore '96 Headquarters"
+Characters:    "\n\r    Washington, D.C."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Thank you very much. It's exciting for me to be here and\n\r    I'm looking forward to visit with the men and women who work\n\r    here full time and volunteer here full time in just a few\n\r    moments. Before I make this unveiling official, I want to thank\n\r    Peter Knight for his leadership on the Clinton/Gore '96\n\r    campaign. As some of you know Peter and I have been close\n\r    friends for more than 20 years and it is a great pleasure to be\n\r    able to work with him in this capacity."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Thank you all for coming to this debut of the home page.\n\r    In 1992 when President Clinton and I campaigned to lead this\n\r    country we understood that important investments in technology\n\r    represent an investment in our nation's future. We believe that\n\r    technology opens doors, creates jobs, and makes possible the\n\r    opportunity for all of our citizens to reach out for the\n\r    American dream. That's why we're here today."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "On behalf of President Clinton, and all those committed\n\r    to the cause of putting families first and moving America\n\r    forward, I'm proud to officially unveil the Clinton/Gore '96\n\r    Home Page -- www.cg96.org -- for those of you who want to put\n\r    it in your bookmarks."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "This is the first thing you see when you go to our home\n\r    page, and it has a couple of innovative features for those of\n\r    you who are familiar with the Internet and the World Wide Web.\n\r    It's not very common to have this kind of ticker with a\n\r    changing message at the bottom constantly moving or to have a\n\r    server pushing new pictures onto the page with regularity right\n\r    to your own computer."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Anyway, this is the first thing that you see, and then\n\r    we go to the main menu. Since 1992, Bill Clinton has been\n\r    working tirelessly to insure that America forges ahead and\n\r    leads the world in the information age. He has brought\n\r    technology into our classrooms and libraries, he signed the\n\r    historic telecommunications reform bill to make sure that all\n\r    of our cabinet agencies are online. Together, not long after we\n\r    got into the White House, we became the very first President\n\r    and Vice-President to have e-mail addresses and to set up a\n\r    White House Website. I hope all of you have had the opportunity\n\r    to visit the White House Website."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "And today we take another important step in our\n\r    commitment to using technology to provide Americans with the\n\r    information they need to get involved and the tools they need\n\r    to get ahead. People across the country will now have the\n\r    opportunity to get involved in the Clinton/Gore campaign as\n\r    never before. From now until election day through this virtual\n\r    campaign headquarters we will take our campaign and the\n\r    President's vision for the next four years -- our proud record\n\r    of achievement -- directly to America's fingertips."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "I'd like to move on to the next page -- Meeting\n\r    America's Challenges. This is typical of the many pages that\n\r    you can access from the first home page. And from these pages\n\r    you can see for yourself the challenges that President Clinton\n\r    outlined in his State of the Union address earlier this year.\n\r    You can get instant access to the President's latest statement\n\r    and you can access the Clinton/Gore record -- 10 million new\n\r    jobs, expanded student loans, protection for the environment,\n\r    100,00 new community police officers being deployed on the\n\r    beat, the assault weapons ban."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Incidently on that point, it's important to have home\n\r    pages like these so that people can read for themselves the\n\r    exact words that the candidates use and the exact words\n\r    describing the accomplishments that are under discussion.\n\r    Yesterday Senator Dole made a statement that is really hard to\n\r    interpret. It was apparently about the assault weapons ban --\n\r    those three words were contiguous to one another in the Dole\n\r    statement -- but various people have scratched their heads and\n\r    tried with great difficulty to decipher what he was trying to\n\r    say."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "And I was interested to read in the morning news that\n\r    the chief lobbyist for the National Rifle Association, when\n\r    asked for her interpretation of Senator Dole's statement on the\n\r    assault weapons ban, just smiled and said she knew for an\n\r    absolute fact that he was not changing his position on the\n\r    assault weapons ban, that he would not veto a repeal of the\n\r    assault weapons ban, and she seemed to have no difficulty\n\r    whatsoever in interpreting what Senator Dole was saying. It's\n\r    important to have direct access -- see for yourself -- but\n\r    Senator Dole is wrong on the assault weapons ban, he was wrong\n\r    when he filibustered the ban, he was wrong when he sponsored an\n\r    amendment that blocked the assault weapons ban, he was wrong\n\r    when he worked so hard to repeal the assault weapons ban, and\n\r    made it a priority to repeal it, and he is just as wrong --\n\r    dead wrong -- today, when he says that the ban is irrelevant.\n\r    Senator Dole thinks it's enough just to keep these deadly\n\r    weapons away from felons. President Clinton thinks we should\n\r    keep them off our streets, period. There's no room for weapons\n\r    that are only meant to kill and maim people in\n\r    America."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "In any event, moving back to these pages, from these\n\r    pages, you can also click, as we've just done to see how\n\r    President Clinton's economic policy has cut the deficit in\n\r    half. This is what would have happened to the deficit if\n\r    President Clinton's economic plan had not passed -- the red\n\r    line -- and the blue line shows what has actually happened\n\r    during President Clinton's first four years here and what will\n\r    happen under the President's 1997 budget plan -- bringing our\n\r    budget into balance a few years hence."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Actually, thanks to President Clinton we have reduced\n\r    the federal budget deficit four years in a row, and that's the\n\r    first time the deficit has gone down four years in a row in one\n\r    hundred and fifty years since the days of \"Tippecanoe and Tyler\n\r    Too.\" The Republicans will make all these claims, but one click\n\r    of the mouse proves the elephant's wrong."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "So when false accusations are made by Republicans you\n\r    can come here to the home page to the virtual campaign\n\r    headquarters and set the record straight. Another example --\n\r    today Senator Dole is in Connecticut and New Hampshire claiming\n\r    that President Clinton has not done his job when it comes to\n\r    welfare. Well, Bob Dole claiming that Bill Clinton has not done\n\r    anything is about as far out as that movie \"Independence Day\".\n\r    As what Senator Dole said was science fiction, here is the\n\r    science -- again, one click of the mouse proves the elephant's\n\r    wrong."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Since taking office, President Clinton has given a\n\r    record 40 states the freedom to cut red tape and reform their\n\r    welfare system. The President has granted more waivers than the\n\r    two previous Administrations combined. These waivers cover more\n\r    than 10 million people -- about 75% of all recipients of AFDC.\n\r    President Clinton's reforms have helped reduce the food stamp\n\r    roll, saving 1.3 billion dollars. And today, as a result of\n\r    Bill Clinton's emphasis on welfare reform, welfare rolls have\n\r    decreased by 1.3 million, almost 10% -- a reduction of 10% in\n\r    the welfare rolls since we took office. That's why people are\n\r    calling it real reform -- a quiet revolution that's putting\n\r    people back to work. That's what President Clinton is\n\r    doing."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "On the other hand, Senator Dole has proposed slashing\n\r    health for those in need, cutting health for hungry children,\n\r    who have been abused, for those who are in need of health,\n\r    legitimately. Thank goodness that President Clinton's veto pen\n\r    was mightier than Senator Dole's mean spirited sword. Thank\n\r    goodness that when Senator Dole wrongly called something a\n\r    farce, Americans can click on this home page and get the\n\r    facts."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Here's a state by state record on job creation, fighting\n\r    crime, deficit reduction, welfare reform. It's truly a\n\r    remarkable record, and we're not done yet. This is a work in\n\r    progress. And if you want to know how we've done in your state,\n\r    again all you have to do is click the mouse. We picked a state\n\r    at random here, and you can see the remarkable improvements in\n\r    Tennessee, the creation of jobs, the reduction of unemployment,\n\r    the improvement in almost every social indicator."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "But as I said before, this is more than just a list of\n\r    accomplishments -- it is a fully interactive site that puts the\n\r    Clinton/Gore campaign headquarters on your desktop. So we want\n\r    to hear from you; we want to hear from you about your\n\r    suggestions, your ideas, your questions. We want you to be\n\r    involved. We want your help in putting America's families first\n\r    and moving this great nation forward. And you can do all of\n\r    that from this site."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Finally, before I close, no campaign is complete without\n\r    bumper stickers and buttons, and we have bumper stickers for\n\r    you with the Web page, the World Wide Web address, and also\n\r    buttons with our campaign headquarters Internet address printed\n\r    on them. Again, that's www.cg96.org. And we have buttons,\n\r    incidently -- take my advice -- they would make a great\n\r    addition to any home page, even electronically, you can\n\r    download them. If you have a color printer you can print them\n\r    out and make your own real buttons."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "In any event, it is exciting for me to officially unveil\n\r    this new Clinton/Gore '96 home page, and we look forward to\n\r    lots of \"hits\", as they say, on the World Wide Web, lots of\n\r    electronic business, students to the home page, and a lot of\n\r    interactions Americans would want to get involved in the\n\r    Clinton/Gore 1996 campaign. Thank you very much."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "###"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

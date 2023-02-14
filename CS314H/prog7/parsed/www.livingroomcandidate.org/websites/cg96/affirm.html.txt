@@ -1,0 +1,736 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | The Briefing Room | Bill Clinton & Al Gore on the\n\r  Issues"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    " "
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index89.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +2
+Start element: font
+Key: color, Value: #001058
+Start element: nobr
+Start element: i
+Characters:    "Working for\n\r    Greater Equality"
+End element:   i
+End element:   nobr
+End element:   font
+End element:   font
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: i
+Characters:    "ffirmative action has been\n\r      good for America. That does not mean it has always been\n\r      perfect. It does not mean it should go on forever. It should\n\r      be retired when its job is done, and I am resolved that that\n\r      day will come. But ... the job is not done ...”"
+End element:   i
+Characters:    "\n\r      "
+Start element: p
+Start element: b
+Characters:    "—President Bill Clinton"
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "President Clinton is\n\r    committed to the struggle toward equal opportunity for all and\n\r    special treatment for none. As we confront our challenges,\n\r    America does not have a person to waste."
+End element:   b
+End element:   font
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Affirmative action has closed many gaps in economic\n\r    opportunity, but we still have much to accomplish. Unemployment\n\r    for African Americans remains about twice that of whites. Women\n\r    working full-time still earn only 72 percent as much as men.\n\r    Women and minorities hold less than 5 percent of the senior\n\r    management positions in the nation's largest companies. The\n\r    federal government received more than 90,000 complaints of\n\r    employment discrimination based on race, ethnicity, and gender\n\r    in 1994. Hate crimes and violence are still ugly realities in\n\r    the lives of many Americans."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "President Clinton believes that we need to mend affirmative\n\r    action, not end it. There still exists a compelling need for\n\r    race-conscious affirmative action measures in federal\n\r    procurement that target assistance to small businesses owned by\n\r    socially and economically disadvantaged individuals. As we\n\r    approach the next century, the American Dream must be restored\n\r    to all Americans, and common ground must be found amid our\n\r    great diversity. The President is working to strengthen the\n\r    American commitment to equal opportunity for all by:"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Ordering a 1995 review of the federal government's\n\r            affirmative action programs that concluded that\n\r            affirmative action is still an effective tool to expand\n\r            economic and educational opportunity:\n\r            "
+Start element: p
+End element:   p
+Characters:    "\n\r            "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 500
+Key: align, Value: left
+Key: cellpading, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r              "
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    The military has set an example by ensuring\n\r                    that it has a wide pool of qualified candidates\n\r                    for every promotion. America's armed forces\n\r                    have given us the world's most diverse and best\n\r                    qualified military leadership.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Education Department programs targeted at\n\r                    minorities do a lot of good with a minimal\n\r                    investment -- including about 40 cents of every\n\r                    $1,000 in student aid.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    The Department of Labor's affirmative action\n\r                    program has prevented discrimination and\n\r                    fostered equal employment for all Americans\n\r                    including women, minorities, the disabled, and\n\r                    veterans -- without quotas or mandated\n\r                    outcomes.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Affirmative action has helped build up firms\n\r                    owned by minorities and women and has helped a\n\r                    new generation of entrepreneurs to flourish,\n\r                    fostering self-reliance and economic growth.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r            "
+End element:   table
+Characters:    "\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Directing all federal agencies to comply with the\n\r            Supreme Court's decision in "
+Start element: u
+Characters:    "Adarand Construction v.\n\r            Pena"
+End element:   u
+Characters:    " and to apply four standards to make sure that\n\r            all affirmative action programs are fair: \n\r            "
+Characters:    "\n\r            "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 500
+Key: align, Value: left
+Key: cellpading, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r              "
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    No quotas.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    No reverse discrimination.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    No preferences for unqualified individuals.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    No continuation of programs after they have met\n\r                    their goals.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r            "
+End element:   table
+Characters:    "\n\r            "
+Start element: table
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Continuing to defend the use of affirmative\n\r                    action contracting under the Small Business\n\r                    Administration's (SBA) 8(a) program in court\n\r                    cases brought since "
+Start element: u
+Characters:    "Adarand"
+End element:   u
+Characters:    ".\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Launching the Empowerment Contracting Program\n\r                    to supplement, not replace, existing federal\n\r                    procurement programs. This will offer\n\r                    incentives for government contracting awards to\n\r                    businesses in distressed communities that hire\n\r                    a significant number of residents and that\n\r                    generate significant economic activity in\n\r                    low-income areas.\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r            "
+End element:   table
+Characters:    "\n\r          "
+End element:   blockquote
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Building on Our\n\r            Progress"
+End element:   b
+End element:   font
+Characters:    "\n\r            "
+Start element: p
+Characters:    "President Clinton will continue to work to ensure\n\r            equal opportunity for all Americans. He believes that\n\r            America will survive and prosper as a society only if\n\r            we are confident and united. The President will\n\r            continue to work to renew and strengthen the ideals\n\r            that foster that unity by: "
+End element:   p
+Characters:    "\n\r            "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: align, Value: center
+Key: cellpading, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r              "
+Characters:    "\n\r              "
+Start element: tr
+Characters:    "\n\r                "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                  "
+Start element: blockquote
+Characters:    "\n\r                    Continuing to evaluate programs according to\n\r                    the Supreme Court's guidelines in\n\r                    "
+Start element: u
+Characters:    "Adarand"
+End element:   u
+Characters:    ". The President has proposed\n\r                    procurement reforms that: "
+Characters:    "\n\r                    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 500
+Key: align, Value: left
+Key: cellpading, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r                      "
+Characters:    "\n\r                      "
+Start element: tr
+Characters:    "\n\r                        "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                          "
+Start element: blockquote
+Characters:    "\n\r                            Safeguard against fraud and abuse,\n\r                            ensuring that the benefits of\n\r                            affirmative action go to deserving\n\r                            individuals and businesses only.\n\r                          "
+End element:   blockquote
+Characters:    "\n\r                        "
+End element:   td
+Characters:    "\n\r                      "
+End element:   tr
+Characters:    "\n\r                      "
+Start element: tr
+Characters:    "\n\r                        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r                      "
+End element:   tr
+Characters:    "\n\r                      "
+Start element: tr
+Characters:    "\n\r                        "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                          "
+Start element: blockquote
+Characters:    "\n\r                            Require the use of race-neutral means\n\r                            -- such as outreach and technical\n\r                            assistance -- to increase minority\n\r                            opportunity and participation in\n\r                            federal procurement.\n\r                          "
+End element:   blockquote
+Characters:    "\n\r                        "
+End element:   td
+Characters:    "\n\r                      "
+End element:   tr
+Characters:    "\n\r                      "
+Start element: tr
+Characters:    "\n\r                        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r                      "
+End element:   tr
+Characters:    "\n\r                      "
+Start element: tr
+Characters:    "\n\r                        "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                          "
+Start element: blockquote
+Characters:    "\n\r                            Ensure that race will not be relied on\n\r                            as the sole factor in procurement\n\r                            decisions -- only qualified businesses\n\r                            will receive federal procurement\n\r                            awards.\n\r                          "
+End element:   blockquote
+Characters:    "\n\r                        "
+End element:   td
+Characters:    "\n\r                      "
+End element:   tr
+Characters:    "\n\r                      "
+Start element: tr
+Characters:    "\n\r                        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r                      "
+End element:   tr
+Characters:    "\n\r                      "
+Start element: tr
+Characters:    "\n\r                        "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                          "
+Start element: blockquote
+Characters:    "\n\r                            Provide a set of market-driven\n\r                            benchmarks for each industry -- not\n\r                            quotas -- to ensure that race-conscious\n\r                            procurement is not used unnecessarily.\n\r                          "
+End element:   blockquote
+Characters:    "\n\r                        "
+End element:   td
+Characters:    "\n\r                      "
+End element:   tr
+Characters:    "\n\r                      "
+Start element: tr
+Characters:    "\n\r                        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r                      "
+End element:   tr
+Characters:    "\n\r                      "
+Start element: tr
+Characters:    "\n\r                        "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                          "
+Start element: blockquote
+Characters:    "\n\r                            Continue the use of several\n\r                            race-conscious contracting mechanisms\n\r                            to promote minority procurement,\n\r                            including the SBA's 8(a) program.\n\r                          "
+End element:   blockquote
+Characters:    "\n\r                        "
+End element:   td
+Characters:    "\n\r                        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r                      "
+End element:   tr
+Characters:    "\n\r                      "
+Start element: tr
+Characters:    "\n\r                        "
+Start element: td
+Key: width, Value: 20
+End element:   td
+Characters:    "\n\r                        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                          "
+Start element: blockquote
+Characters:    "\n\r                            Avoid any undue burden on\n\r                            nonbeneficiaries of the program.\n\r                          "
+End element:   blockquote
+Characters:    "\n\r                        "
+End element:   td
+Characters:    "\n\r                      "
+End element:   tr
+Characters:    "\n\r                    "
+End element:   table
+Characters:    "\n\r                    "
+Start element: table
+Characters:    "\n\r                      "
+Start element: tr
+Characters:    "\n\r                        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r                      "
+End element:   tr
+Characters:    "\n\r                      "
+Start element: tr
+Characters:    "\n\r                        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r                        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r                          "
+Start element: blockquote
+Characters:    "\n\r                            Strongly opposing federal and state\n\r                            initiatives, such as the Dole-Canady\n\r                            Bill and the California Civil Rights\n\r                            Initiative, that would turn back the\n\r                            clock on the federal government's\n\r                            historic, bipartisan commitment to\n\r                            equal opportunity and that would\n\r                            eliminate affirmative action in\n\r                            California for minorities and women.\n\r                          "
+End element:   blockquote
+Characters:    "\n\r                        "
+End element:   td
+Characters:    "\n\r                      "
+End element:   tr
+Characters:    "\n\r                      "
+Start element: tr
+Characters:    "\n\r                        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r                      "
+End element:   tr
+Characters:    "\n\r                    "
+End element:   table
+Characters:    "\n\r                  "
+End element:   blockquote
+Characters:    "\n\r                  "
+Start element: center
+Characters:    "\n\r                    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Meeting Our\n\r                    Challenges "
+Characters:    " Protecting Our Values"
+End element:   b
+End element:   font
+Characters:    "\n\r                  "
+End element:   center
+Characters:    "\n\r                  "
+Start element: center
+Characters:    "\n\r                    "
+Characters:    "\n\r                    "
+Characters:    "\n\r                  "
+End element:   center
+Characters:    "\n\r                  "
+Characters:    "\n\r                  "
+Start element: center
+Characters:    "\n\r                    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General\n\r                    Election Committee, Inc."
+End element:   p
+Characters:    "\n\r                  "
+End element:   center
+Characters:    "\n\r                "
+End element:   td
+Characters:    "\n\r              "
+End element:   tr
+Characters:    "\n\r            "
+End element:   table
+Characters:    "\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

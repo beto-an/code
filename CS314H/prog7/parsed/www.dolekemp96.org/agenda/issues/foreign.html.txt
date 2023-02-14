@@ -1,0 +1,296 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Where Bob Dole Stands on Foreign Policy"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: h2
+Key: align, Value: center
+Key: style, Value: text-align:center
+Characters:    "Where Bob Dole\n\r  Stands on Foreign Policy"
+End element:   h2
+Characters:    "\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Key: style, Value: margin-bottom:12.0pt
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "A Firm Hand in the Oval Office"
+End element:   span
+End element:   b
+Characters:    "\n\r  Our nation needs a President who can articulate and implement a\n\r  consistent foreign policy. The President of the world's only\n\r  superpower must be steadfast in his support of American policies\n\r  and America's friends and allies. The President must mean what he\n\r  says, say what he means, and stick to it. Bill Clinton's\n\r  vacillation and indecisiveness undermines our position at any\n\r  negotiation -- whether on security or trade matters."
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "America Is and Must Remain the\n\r  Leader of the Free World"
+End element:   span
+End element:   b
+Characters:    "\n\r  We did not win the Cold War without allies and friends, nor\n\r  should we contemplate facing future challenges without them. At\n\r  the end of the Gulf War, America was respected by friend and foe\n\r  alike. Bill Clinton has squandered this legacy. It must be\n\r  recaptured. America's allies and friends must have their\n\r  confidence in us restored. Potential enemies must know that we\n\r  will stand up to protect our interests."
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Foreign Policy That Puts\n\r  American Interests First"
+End element:   span
+End element:   b
+Characters:    "\n\r  The proven principle of \"peace through strength\" will guide Bob\n\r  Dole's foreign policy. Leadership in support of America's vital\n\r  national interests will be his course of action. Our chief goals\n\r  will be to maintain U.S. economic, political, and military access\n\r  to key regions, promote democratization, thwart the proliferation\n\r  of weapons of mass destruction and their delivery systems, and\n\r  punish those states and movements that plan or conduct terrorist\n\r  act against American citizens."
+End element:   p
+Characters:    "\n\r  "
+Start element: ul
+Key: type, Value: disc
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l6 level1 lfo18;tab-stops:list .5in
+Characters:    "\n\r    Neither the United Nations, nor any other international\n\r    organization or foreign country, will set America's foreign\n\r    policy agenda. Paring down the U.N. bureaucracy and genuine\n\r    U.N. reform will be a high priority."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l6 level1 lfo18;tab-stops:list .5in
+Characters:    "\n\r    Foreign aid will be offered only as a precise targeted\n\r    instrument of American foreign policy, designed to advance\n\r    specific U.S. foreign policy goals. It will not be an\n\r    international welfare program."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l6 level1 lfo18;tab-stops:list .5in
+Characters:    "\n\r    The United States must once again lead the North Atlantic\n\r    Alliance. The Dole administration will ensure that the\n\r    enlargement of NATO to include the Central and East European\n\r    democracies will be rapid, with Poland, Hungary, and the Czech\n\r    Republic being admitted by 1998."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l6 level1 lfo18;tab-stops:list .5in
+Characters:    "\n\r    America has a distinct national interest in a firm security\n\r    relationship with a democratic Russia that respects the\n\r    sovereignty and independence of its neighbors. The Dole\n\r    administration will seek cooperation with Russia, but will not\n\r    paper over differences or ignore behavior that is inconsistent\n\r    with Russia's international obligations."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l6 level1 lfo18;tab-stops:list .5in
+Characters:    "\n\r    American policy toward China will reflect our continuing desire\n\r    to promote economic and political liberalization in that\n\r    country. At the same time, we will not tolerate efforts by\n\r    China to intimidate Taiwan or any other of its neighbors. The\n\r    Dole Administration will be committed to reviving American\n\r    leadership in Asia."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l6 level1 lfo18;tab-stops:list .5in
+Characters:    "\n\r    In Bosnia and Herzegovina, Bob Dole's main priority will be to\n\r    ensure that the Bosnian people are provided with enough weapons\n\r    and sufficient training to defend themselves against potential\n\r    future aggression. Bob Dole will also promote an approach that\n\r    supports the democratic process in Bosnia and brings indicted\n\r    war criminals to justice."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l6 level1 lfo18;tab-stops:list .5in
+Characters:    "\n\r    America will continue to work closely with our friends and\n\r    allies in the Middle East toward promoting the strengthening of\n\r    democracy and rule of law, the acceleration of economic\n\r    development and the extension of peace. We reaffirm our\n\r    commitment to the territorial integrity of all of the states in\n\r    the region, as well as our special relationship with out\n\r    democratic ally, Israel."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l6 level1 lfo18;tab-stops:list .5in
+Characters:    "\n\r    Only through a policy of relentless pressure on Castro's regime\n\r    can we protect U.S. interests, prompt economic and democratic\n\r    political reform in Cuba, and help the Cuban people. The Dole\n\r    administration will continue to maintain an embargo on Cuba,\n\r    until the Cuban people are free from dictatorship."
+End element:   li
+Characters:    "\n\r  "
+End element:   ul
+Characters:    "\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "A Better America"
+End element:   span
+End element:   b
+Characters:    "\n\r  The end of the Cold War closes one chapter in our history and\n\r  presents us with new challenges to consolidate freedom and U.S.\n\r  interests around the world. In also confronts our great nation\n\r  with new dangers. Terrorism is on the rise, both at home and\n\r  abroad. America must have a leader who not only acts decisively\n\r  to prevent terror, but acts swiftly to seek and punish\n\r  perpetrators. Terrorists and those who support them must pay a\n\r  high price for their evil deeds. As we move into the next\n\r  century, we must keep in mind that America has proven that it can\n\r  meet the greatest of challenges and conquer the greatest of\n\r  threats."
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../../news/news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    " "
+Start element: a
+Key: href, Value: ../agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the\n\r  Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

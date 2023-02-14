@@ -1,0 +1,989 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | The Briefing Room | Bill Clinton & Al Gore on the\n\r  Issues"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    " "
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index89.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +2
+Start element: font
+Key: color, Value: #001058
+Start element: nobr
+Start element: a
+Key: href, Value: ../../../external.html
+Start element: i
+Characters:    "A Record of Partnership With\n\r    American Indians and Alaska\n\r    Natives"
+End element:   i
+End element:   a
+End element:   nobr
+End element:   font
+End element:   font
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: i
+Characters:    "y administration has worked\n\r      in partnership with tribal leaders...to protect American\n\r      Indian religious freedom, promote tribal self-determination,\n\r      preserve tribal natural resources and provide economic\n\r      opportunity for Native Americans. I look forward to\n\r      continuing this government-to-government relationship in\n\r      order to build on the progress we have made in Indian\n\r      Country.”"
+End element:   i
+Characters:    "\n\r      "
+Start element: p
+Start element: b
+Characters:    "—President Bill Clinton"
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "President Clinton is the\n\r    first President to invite the leaders of all Federally\n\r    Recognized Tribes to the White House."
+End element:   b
+End element:   font
+Characters:    " On this\n\r    historic occasion, the President pledged that his\n\r    Administration would work with Tribal leaders to establish a\n\r    true government-to-government partnership. The Clinton\n\r    Administration has delivered on this commitment by:\n\r    "
+Start element: p
+Characters:    "\n\r    "
+Start element: b
+Characters:    "Strengthening the Relationship Between the Federal\n\r    Government and Tribal Nations"
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Hosting 100 Tribal leaders and directing all federal\n\r            agencies to consult with Federally recognized Tribal\n\r            Governments in formulating policies and programs that\n\r            affect American Indians and Alaska Natives.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Creating the Office of Tribal Justice and hired the\n\r            largest force of Indian attorneys ever to promote\n\r            government-to-government relations with Indian Tribes\n\r            and to ensure aggressive representation of tribal\n\r            sovereignty in the courts.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Establishing the American Indian Environmental Office\n\r            to work with Tribes to protect water quality and the\n\r            environment in Indian Country.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Creating a permanent White House working group composed\n\r            of all Executive Branch Departments to advance Tribal\n\r            sovereignty across the administration.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Reaffirming the sovereign status of 225 Alaska Native\n\r            tribes and extending federal recognition to 12 other\n\r            Indian tribes.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: b
+Characters:    "Protecting Religious Freedom"
+End element:   b
+Characters:    "\n\r  "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r      "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r        "
+Start element: blockquote
+Characters:    "\n\r          Signing an executive order to protect American Indian and\n\r          Alaska Native sacred sites. This was the first executive\n\r          order affecting American Indians and Alaska Natives since\n\r          1968.\n\r        "
+End element:   blockquote
+Characters:    "\n\r      "
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r      "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r        "
+Start element: blockquote
+Characters:    "\n\r          Successfully fighting for passage of the American Indian\n\r          Religious Freedom Act Amendments and the Religious\n\r          Freedom Restoration Act, to protect the right of free\n\r          exercise of Tribal religions.\n\r        "
+End element:   blockquote
+Characters:    "\n\r      "
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r      "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r        "
+Start element: blockquote
+Characters:    "\n\r          Directing federal agencies to ensure efficient collection\n\r          and distribution of available eagle feathers and eagle\n\r          parts to American Indians and Alaska Natives for\n\r          traditional religious purposes.\n\r        "
+End element:   blockquote
+Characters:    "\n\r      "
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r  "
+End element:   table
+Start element: b
+Characters:    "Promoting Issues of Urban Indians"
+End element:   b
+Characters:    "\n\r  "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r      "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r        "
+Start element: blockquote
+Characters:    "\n\r          Demonstrating a commitment to urban Indians by hosting\n\r          the first ever meeting of the National Urban Indian\n\r          Policy Coalition and an additional 9 sessions, and by\n\r          providing this group access to federal agencies.\n\r        "
+End element:   blockquote
+Characters:    "\n\r      "
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r  "
+End element:   table
+Start element: b
+Characters:    "Promoting Tribal Self-Determination and Education"
+End element:   b
+Characters:    "\n\r  "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r      "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r        "
+Start element: blockquote
+Characters:    "\n\r          Supporting passage and implementation of the Indian\n\r          Self-Determination Act and the Tribal Self-Governance\n\r          Act, which give Tribal governments control of most\n\r          federal resources spent within Indian Country.\n\r        "
+End element:   blockquote
+Characters:    "\n\r      "
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r      "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r        "
+Start element: blockquote
+Characters:    "\n\r          Successfully fighting Republican attempts to penalize\n\r          tribes for exercising their powers of self-governance and\n\r          allowing states to tax Tribal governments on new trust\n\r          lands.\n\r        "
+End element:   blockquote
+Characters:    "\n\r      "
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r      "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r        "
+Start element: blockquote
+Characters:    "\n\r          Developing a plan to increase attendance and graduation\n\r          rates at, and increasing Tribal control over, Bureau of\n\r          Indian Affairs schools.\n\r        "
+End element:   blockquote
+Characters:    "\n\r      "
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r      "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r        "
+Start element: blockquote
+Characters:    "\n\r          Providing family literacy services to more than 1,100\n\r          families at 22 Indian schools through the Family and\n\r          Child Education Program.\n\r        "
+End element:   blockquote
+Characters:    "\n\r      "
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r  "
+End element:   table
+Start element: b
+Characters:    "Providing Economic Development Opportunities in Indian\n\r  Country"
+End element:   b
+Characters:    "\n\r  "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r      "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r        "
+Start element: blockquote
+Characters:    "\n\r          Vetoing Republican appropriation bills that would have\n\r          drastically reduced funding for American Indian and\n\r          Alaska Native programs.\n\r        "
+End element:   blockquote
+Characters:    "\n\r      "
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r      "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r        "
+Start element: blockquote
+Characters:    "\n\r          Approving 145 tribal-state compacts to allow gaming\n\r          within Indian Country.\n\r        "
+End element:   blockquote
+Characters:    "\n\r      "
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r      "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r        "
+Start element: blockquote
+Characters:    "\n\r          Establishing 17 tribal business development centers at\n\r          Tribal Community Colleges across Indian Country.\n\r        "
+End element:   blockquote
+Characters:    "\n\r      "
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r      "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r        "
+Start element: blockquote
+Characters:    "\n\r          Signing the Community Development Banking and Regulatory\n\r          Improvement Act, which promotes more lending in Indian\n\r          Country.\n\r        "
+End element:   blockquote
+Characters:    "\n\r      "
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r  "
+End element:   table
+Start element: b
+Characters:    "Protecting Tribal Natural Resources"
+End element:   b
+Characters:    "\n\r  "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r      "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r        "
+Start element: blockquote
+Characters:    "\n\r          Establishing for the first time the right of Alaska\n\r          Natives to fish for subsistence purposes.\n\r        "
+End element:   blockquote
+Characters:    "\n\r      "
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r      "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r        "
+Start element: blockquote
+Characters:    "\n\r          Completing settlements of Shoshone-Bannock,\n\r          Yavapi-Prescott, and Northern Cheyenne Water Rights\n\r          Claims and maintained aggressive efforts to settle water\n\r          claimes of other Tribes.\n\r        "
+End element:   blockquote
+Characters:    "\n\r      "
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r      "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r        "
+Start element: blockquote
+Characters:    "\n\r          Supporting the exercise of Northwest Tribes' treaty\n\r          fishing rights.\n\r        "
+End element:   blockquote
+Characters:    "\n\r      "
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r      "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r        "
+Start element: blockquote
+Characters:    "\n\r          Supporting legislation which recognized the rights of the\n\r          Confederated Tribes of the Colville Reservation and the\n\r          Crow Tribe to their water and land.\n\r        "
+End element:   blockquote
+Characters:    "\n\r      "
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r  "
+End element:   table
+Start element: b
+Characters:    "Providing Safety for American Indians and Alaska\n\r  Native Families"
+End element:   b
+Characters:    "\n\r  "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r      "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r        "
+Start element: blockquote
+Characters:    "\n\r          Awarding $22 million in grants to over 100 tribes to\n\r          improve police protection.\n\r        "
+End element:   blockquote
+Characters:    "\n\r      "
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r      "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r        "
+Start element: blockquote
+Characters:    "\n\r          Signing into law the Indian Tribal Justice Support Act to\n\r          improve criminal law enforcement in Indian Country.\n\r        "
+End element:   blockquote
+Characters:    "\n\r      "
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r      "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r        "
+Start element: blockquote
+Characters:    "\n\r          Supporting funding for continued implementation of the\n\r          Indian Child Welfare Act and tribal consensus amendments\n\r          to protect Indian families and culture.\n\r        "
+End element:   blockquote
+Characters:    "\n\r      "
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r      "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r        "
+Start element: blockquote
+Characters:    "\n\r          Opposing Republican efforts to take away Tribal rights to\n\r          protect children and their families.\n\r        "
+End element:   blockquote
+Characters:    "\n\r      "
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r      "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r        "
+Start element: blockquote
+Characters:    "\n\r          Allocating $5.2 million to the STOP Violence Against\n\r          Indian Women Program for (FY) 1996.\n\r        "
+End element:   blockquote
+Characters:    "\n\r      "
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r    "
+Start element: tr
+Characters:    "\n\r      "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r      "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r        "
+Start element: blockquote
+Characters:    "\n\r          Continuing to work with Indian Tribes as governmental\n\r          partners to strengthen reservation law enforcement and\n\r          enhance tribal justice systems.\n\r        "
+End element:   blockquote
+Characters:    "\n\r      "
+End element:   td
+Characters:    "\n\r    "
+End element:   tr
+Characters:    "\n\r  "
+End element:   table
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Building on Our\n\r    Progress"
+End element:   b
+End element:   font
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The Clinton Administration will continue to work with\n\r    American Indian and Alaska Native tribes on a\n\r    government-to-government basis by:"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: align, Value: center
+Key: cellpading, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Continuing to support protection of Tribal natural\n\r            resources and the rights of Tribes, guaranteed by\n\r            treaties, to the beneficial use of those resources.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Directing the Interior Department, Justice Department,\n\r            and Environmental Protection Agency to identify and\n\r            clean up environmental hazards within Indian country.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Continuning to improve reservation economies and ensure\n\r            that good housing is available to American Indians and\n\r            Alaska Natives.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Supporting the implementation of federal laws providing\n\r            for increased Tribal control over delivery and\n\r            administration of all governmental services within\n\r            Indian Country.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Continuing to promote measures such as the Indian Child\n\r            Welfare Act to protect Indian children, their families\n\r            and their culture.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Meeting Our Challenges\n\r    "
+Characters:    " Protecting Our Values"
+End element:   b
+End element:   font
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

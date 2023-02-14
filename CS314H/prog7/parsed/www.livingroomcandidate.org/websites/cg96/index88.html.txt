@@ -1,0 +1,169 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | The Briefing Room | Economic Growth"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: frameset
+Key: rows, Value: 100,*
+Characters:    "\n\r  "
+Start element: frame
+Key: src, Value: header.html
+Key: scrolling, Value: no
+Key: marginheight, Value: 0
+Key: marginwidth, Value: 0
+Characters:    "\n\r  "
+Start element: frame
+Key: src, Value: body.html
+Key: name, Value: body
+Key: marginheight, Value: 0
+Key: marginwidth, Value: 0
+Characters:    "\n\r  "
+Start element: noframes
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: body
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: center
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    " "
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+Characters:    "\n\r        "
+Start element: a
+Key: href, Value: index88.html
+End element:   a
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Start element: blockquote
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            "
+Start element: i
+Characters:    "he last four years have seen significant economic\n\r            improvements. From job growth to deficit reduction, the\n\r            Clinton/Gore administration is fighting every day to\n\r            strengthen America’s economy and to help every American\n\r            achieve economic security."
+End element:   i
+Characters:    "\n\r            "
+Start element: p
+Start element: i
+Characters:    "The charts below help demonstrate how effective\n\r            these efforts have been. Although many people don’t\n\r            often notice shifts in economic data, these numbers\n\r            directly impact millions of Americans’ lives every\n\r            day."
+End element:   i
+End element:   p
+Characters:    "\n\r          "
+End element:   blockquote
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: dnf.html
+Characters:    "President Clinton Eliminates the\n\r            Deficit"
+End element:   a
+End element:   font
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: unf.html
+Characters:    "Improving Education"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: jnf.html
+Characters:    "Over 10 Million New Jobs Under President\n\r            Clinton: "
+Start element: font
+Key: size, Value: -1
+Characters:    "\n\r            President Clinton's Record on Job Growth v. Previous\n\r            Republican Administrations"
+End element:   font
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: mnf.html
+Characters:    "Mortage Rates Are Lower Under President\n\r            Clinton"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   blockquote
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Meeting Our\n\r            Challenges "
+Characters:    "\n\r            Protecting Our Values"
+End element:   b
+End element:   font
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r            "
+Characters:    "\n\r            "
+Characters:    "\n\r            "
+Characters:    "\n\r            "
+Characters:    "\n\r            "
+Start element: center
+Characters:    "\n\r              "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee,\n\r              Inc."
+End element:   p
+Characters:    "\n\r            "
+End element:   center
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   blockquote
+Characters:    "\n\r      "
+End element:   center
+Characters:    "\n\r    "
+End element:   body
+Characters:    "\n\r  "
+End element:   noframes
+Characters:    "\n\r"
+End element:   frameset
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/unf.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/mnf.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/jnf.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/dnf.html

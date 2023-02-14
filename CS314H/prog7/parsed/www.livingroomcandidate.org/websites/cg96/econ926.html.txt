@@ -1,0 +1,106 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "It's the Economy, Stupid"
+End element:   TITLE
+Characters:    "\r\n\r"
+Start element: kpetitle
+Characters:    "It's the Economy, Stupide"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Start element: A
+Key: HREF, Value: index22.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r"
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "September 26, 1996\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "STATEMENT BY JOE LOCKHART\r\n\r"
+Characters:    "NATIONAL PRESS SECRETARY\r\n\r\r\n\r"
+Start element: P
+Characters:    "Bob Dole says the economy is in the tank, there is no consumer confidence and household incomes are falling.  Recent statistics show the economy growing at 4.8 percent, consumer confidence at a six year high and today�s census report shows the largest increase in household incomes in a decade.\r\n\r\r\n\r"
+Start element: P
+Characters:    "With this track record for predictions, it might be time for Bob Dole to find a new issue.\r\n\r\r\n\r"
+Start element: P
+Characters:    "While Bob Dole continues his negative attacks on the economy, President Clinton is working to build on our economic success with targeted tax cuts and a balanced budget.\r\n\r\r\n\r"
+Start element: P
+Characters:    "Here are just some of the highlights form the 1995 census report:\r\n\r\r\n\r"
+Start element: UL
+Start element: LI
+Characters:    " Poverty Rate Fell To 13.8 Percent -- Biggest Drop In Over A Decade. \r\n\r\r\n\r "
+Start element: P
+Start element: LI
+Characters:    "Typical Family Income Up $1,631 Since The President's Economic Plan Passed.\r\n\r\r\n\r "
+Start element: P
+Start element: LI
+Characters:    "The Largest Decline In Income Inequality In 27 Years.\r\n\r\r\n\r "
+Start element: P
+Start element: LI
+Characters:    "The Number Of People In Poverty Fell By 1.6 Million -- Largest Drop In 27 Years.\r\n\r\r\n\r"
+Start element: P
+Start element: LI
+Characters:    " Elderly Poverty Rate Dropped To 10.5 Percent -- Lowest Level Ever.    \r\n\r\r\n\r "
+Start element: P
+Start element: LI
+Characters:    "Biggest Drop In Child Poverty In 20 Years.  In 1995, the child poverty rate declined from 21.8 percent to 20.8 percent -- that's the largest one-year drop since 1976. \r\n\r\r\n\r "
+Start element: P
+Start element: LI
+Characters:    "Largest Drop In The Poverty Rate of Female-Headed Households In 30 Years.  \r\n\r\r\n\r "
+Start element: P
+Start element: LI
+Characters:    "The African-American Poverty Rate Dropped To It Lowest Level In History.  Under President Clinton, The Typical African-American Family's Income Is Up $3,000. \r\n\r\t"
+End element:   UL
+Characters:    "\r\n\r\r\n\r\r\n\r "
+Start element: P
+Start element: center
+Characters:    "###"
+End element:   center
+Characters:    " \r\n\r"
+Start element: P
+Characters:    "\r\n\r\r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Election Committee,\r\n\rInc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End of document

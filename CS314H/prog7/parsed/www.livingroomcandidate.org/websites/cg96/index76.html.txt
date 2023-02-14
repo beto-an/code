@@ -1,0 +1,504 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | Meeting America's Challenges | Economic\n\r  Security"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 460
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r            "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 450
+Key: cellspacing, Value: 5
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Submitted to Congress the first\n\r              genuine balanced budget in 17 years, balancing the\n\r              budget in seven years based on both Administration\n\r              and Congressional Budget Office estimates while\n\r              protecting our fundamental priorities of Medicare,\n\r              Medicaid, education and the environment."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Won enactment of the largest\n\r              deficit-cutting plan in history, cutting the deficit\n\r              in half within four years, after it quadrupled during\n\r              the previous two Administrations."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Oversaw the creation of more than 10\n\r              million new jobs in just under three and a half\n\r              years—a faster annual rate of job growth than any\n\r              Republican Administration since the 1920s."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Unemployment rate has fallen to\n\r              5.3%—down from over 7% when President Clinton took\n\r              office."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "93% of all new jobs created are in\n\r              the private sector—higher than the average percentage\n\r              during any Administration since the Harding\n\r              Administration."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Nearly 4 million new jobs in\n\r              high-wage industries have been created since January\n\r              1993. By contrast, 200,000 high-wage industry jobs\n\r              were lost in the previous four years."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "More than one million new\n\r              manufacturing, automotive and construction jobs have\n\r              been added since January 1993."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Highest annual number of new\n\r              business incorporations since World War II."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Real median family income is higher\n\r              now than when President Clinton took office after\n\r              falling 4% during the previous four years."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "The combined unemployment, inflation\n\r              and mortgage rate is at its lowest level since\n\r              1968."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r          "
+End element:   table
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 450
+Key: cellspacing, Value: 5
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Proposed a $2,600 jobs training\n\r              voucher program to allow unemployed workers the\n\r              freedom to choose the training programs that are\n\r              right for them."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Fought for meaningful health\n\r              insurance reform to allow people to keep coverage\n\r              when they change jobs and prevent denial of coverage\n\r              due to pre-existing conditions."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Challenged Congress to raise the\n\r              minimum wage to provide the opportunity for working\n\r              Americans to lift themselves and their families out\n\r              of poverty."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Protected the pensions of more than\n\r              40 million workers and retirees by reforming the\n\r              federal pension insurance system and requiring\n\r              companies to keep their retirement plans sufficiently\n\r              funded. (Retirement Protection Act)"
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Challenged Congress to enable\n\r              Americans to save for their retirements by increasing\n\r              pension portability, enhancing pension protection and\n\r              expanding coverage."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r          "
+End element:   table
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 450
+Key: cellspacing, Value: 5
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Exports have surged by one-third\n\r              over the last three years as President Clinton stood\n\r              up for America’s workers and opened more markets to\n\r              U.S. goods and services."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "More than 1 million new\n\r              export-related jobs have been created under the\n\r              Clinton Administration. Jobs supported by exports pay\n\r              on average 15% more than other jobs."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "America is once again the world’s\n\r              number one manufacturer of automobiles, overtaking\n\r              Japan for the first time since the 1970’s."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "American goods exported in sectors\n\r              covered by Clinton Administration trade agreements\n\r              with Japan have grown over 85%—three times faster\n\r              than growth in other U.S. goods exported to\n\r              Japan."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "The United States was named the most\n\r              competitive economy in the world for the third year\n\r              in a row."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r          "
+End element:   table
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: font
+Key: size, Value: -2
+Characters:    "Photograph © Jeffrey\n\r      Markowitz/SYGMA"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

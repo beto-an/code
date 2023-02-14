@@ -1,0 +1,78 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "Dole's Medicare Record"
+End element:   TITLE
+Characters:    "\r\n\r\r\n\r"
+Start element: KPETITLE
+Start element: B
+Characters:    "For Immediate Release:"
+End element:   B
+Characters:    "\r\n\rDole's Medicare Record"
+Start element: DD
+End element:   KPETITLE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "  "
+Characters:    "\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r"
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "August 19, 1996\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "STATEMENT BY JOE LOCKHART\r\n\r"
+Characters:    "NATIONAL PRESS SECRETARY\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "Everyone -- including senior citizens -- is worried about Bob Dole�s risky economic plan.  And rightly so.  \r\n\rIt�s the same old story of campaign Dole vs. Senator Dole.  During the 1994 Congressional elections, Bob Dole \r\n\rdeclared that Democrats were using scare tactics and \"falsely accusing Republicans of secret plans to cut social \r\n\rsecurity, Medicare and student loans...\" (Washington Post 11/6/94).  The same Bob Dole went on to offer $270 billion in\r\n\r Medicare cuts and $31 billion in education cuts in the Dole-Gingrich 1995 budget that President Clinton vetoed.\r\n\r\r\n\r"
+Start element: P
+Characters:    "Bob Dole has now doubled his gamble with a risky $548 billion tax cut.  The Concord Coalition, in a new \r\n\rstatement released Friday, August 16 said: \"Upon inspection, however, it turns out to embody nearly every pitfall we \r\n\rwarned against....Its proposed outlay cuts are politically if not arithmetically impossible.\"  (Concord Coalition Fax Alert, 8/16/96).  And Business Week has warned: \"Where on earth does he come up with that kind of dough...?  From popular programs such as Medicare and environmental protection.  But candidate Dole knows it�s bad politics to admit that now.\" (Business Week, 8/19/96)  Even Dole�s own Campaign Co-Chair, Republican Senator Al D�Amato, has now said that Dole would have to cut Medicare -- although Dole would be foolish to admit it during the election.\r\n\r\r\n\r"
+Start element: P
+Characters:    "Bob Dole should put everyone�s mind at rest and explain exactly what he will cut to pay for his newest plan. \r\n\rUntil he does, all Americans are wise to be scared of candidate Dole�s reckless tax cut promise.\r\n\r\r\n\r\r\n\r"
+Start element: p
+Start element: center
+Characters:    "###\r\n\r"
+End element:   center
+Characters:    "\r\n\r\r\n\r\r\n\r \r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    " "
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee,\r\n\rInc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End of document

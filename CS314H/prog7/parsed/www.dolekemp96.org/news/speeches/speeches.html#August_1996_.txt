@@ -1,0 +1,514 @@
+Start of document
+Characters:    ""
+Start element: html
+Characters:    ""
+Start element: head
+Characters:    ""
+Characters:    ""
+Characters:    ""
+Characters:    ""
+Characters:    ""
+Start element: title
+Characters:    "Speeches"
+End element:   title
+Characters:    ""
+End element:   head
+Characters:    ""
+Start element: body
+Characters:    ""
+Start element: p
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Start element: b
+Start element: a
+Key: name, Value: Speeches_
+Key: id, Value: Speeches_
+Start element: font
+Characters:    "Speeches"
+End element:   font
+End element:   a
+End element:   b
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Start element: font
+Start element: font
+Start element: u
+Characters:    "Oct '96"
+End element:   u
+End element:   font
+Characters:    ""
+Start element: font
+Start element: u
+Characters:    "Sept\n\r'96"
+End element:   u
+End element:   font
+Characters:    ""
+Start element: font
+Start element: u
+Start element: a
+Key: href, Value: #August_1996_
+Characters:    "Aug '96"
+End element:   a
+End element:   u
+End element:   font
+Characters:    ""
+Start element: font
+Start element: u
+Characters:    "July '96"
+End element:   u
+End element:   font
+Characters:    ""
+Start element: u
+Start element: font
+Characters:    "June\n\r'96"
+End element:   font
+End element:   u
+Characters:    ""
+Start element: u
+Start element: font
+Characters:    "May '96"
+End element:   font
+End element:   u
+Characters:    ""
+Start element: font
+Start element: u
+Characters:    "Apr '96"
+End element:   u
+End element:   font
+Characters:    "nbsp;"
+Start element: font
+Start element: u
+Characters:    "May '95"
+End element:   u
+End element:   font
+Characters:    ""
+Start element: font
+Start element: u
+Start element: a
+Key: href, Value: #April_1995
+Characters:    "Apr\n\r'95"
+End element:   a
+End element:   u
+End element:   font
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Characters:    "October 1996 "
+Start element: font
+Start element: u
+Start element: a
+Key: href, Value: #Speeches_
+Characters:    "Back to\n\rTop"
+End element:   a
+End element:   u
+End element:   font
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Characters:    "September 1996 "
+Start element: font
+Start element: u
+Start element: a
+Key: href, Value: #Speeches_
+Characters:    "Back to\n\rTop"
+End element:   a
+End element:   u
+End element:   font
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Start element: a
+Key: name, Value: August_1996_
+Key: id, Value: August_1996_
+Characters:    "August 1996"
+End element:   a
+Characters:    ""
+Start element: font
+Start element: u
+Start element: a
+Key: href, Value: #Speeches_
+Characters:    "Back to\n\rTop"
+End element:   a
+End element:   u
+End element:   font
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: a
+Key: href, Value: spaug1596a.html
+Start element: font
+Characters:    "August 15,1996"
+End element:   font
+End element:   a
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Characters:    "nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;Dole Accepts Nomination San Diego,California)"
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: a
+Key: href, Value: spaug1596.html
+Start element: font
+Characters:    "August 15,1996"
+End element:   font
+End element:   a
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Characters:    "nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;Kemp Accepts Nomination San Diego,California)"
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: a
+Key: href, Value: spaug1096.html
+Start element: font
+Characters:    "August 15,1996"
+End element:   font
+End element:   a
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Characters:    "nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;Jack Kemp Joins The Winning Team Russell,Kansas)"
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Characters:    "July 1996 "
+Start element: font
+Start element: u
+Start element: a
+Key: href, Value: #Speeches_
+Characters:    "Back to\n\rTop"
+End element:   a
+End element:   u
+End element:   font
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Characters:    "June 1996 "
+Start element: font
+Start element: u
+Start element: a
+Key: href, Value: #Speeches_
+Characters:    "Back to\n\rTop"
+End element:   a
+End element:   u
+End element:   font
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Characters:    "May 1996 "
+Start element: font
+Start element: u
+Start element: a
+Key: href, Value: #Speeches_
+Characters:    "Back to\n\rTop"
+End element:   a
+End element:   u
+End element:   font
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Characters:    "April 1996 "
+Start element: font
+Start element: u
+Start element: a
+Key: href, Value: #Speeches_
+Characters:    "Back to\n\rTop"
+End element:   a
+End element:   u
+End element:   font
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Characters:    "May 1995 "
+Start element: font
+Start element: u
+Start element: a
+Key: href, Value: #Speeches_
+Characters:    "Back to\n\rTop"
+End element:   a
+End element:   u
+End element:   font
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Start element: a
+Key: name, Value: April_1995
+Key: id, Value: April_1995
+Characters:    "April 1995"
+End element:   a
+Characters:    ""
+Start element: font
+Start element: u
+Start element: a
+Key: href, Value: #Speeches_
+Characters:    "Back to Top"
+End element:   a
+End element:   u
+End element:   font
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: a
+Key: href, Value: spapr1095.html
+Start element: font
+Characters:    "April 10,1995"
+End element:   font
+End element:   a
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Characters:    "nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;Official Announcement Topeka,Kansas)"
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Characters:    "nbsp;"
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    ""
+Start element: p
+Start element: font
+Characters:    "More opportunities.Smaller government.Stronger and\n\rsafer families"
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    ""
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    ""
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    ""
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    ""
+Start element: font
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    ""
+Start element: u
+Characters:    "Dole\n\rInteractive"
+End element:   u
+Characters:    ""
+Start element: u
+Start element: a
+Key: href, Value: ../news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    ""
+Start element: u
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    ""
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+End element:   a
+Characters:    ""
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the Campaign Trail"
+End element:   a
+End element:   u
+Characters:    ""
+Start element: u
+Characters:    "Get\n\rInvolved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Characters:    "nbsp;"
+End element:   p
+Characters:    ""
+Start element: p
+Start element: font
+Characters:    "Originally\n\rPaid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Start element: font
+Characters:    "Original Web\n\rDesign by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\rCampaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Start element: font
+Characters:    "To Learn\n\rmore about Bob Dole,Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    ""
+Start element: p
+Start element: font
+Characters:    "This Web\n\rSite is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    ""
+End element:   body
+Characters:    ""
+End element:   html
+Characters:    ""
+End of document

@@ -1,0 +1,139 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "The President's Economic Leadership"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 21, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "STATEMENT BY ANN LEWIS"
+Characters:    "\n\r      DEPUTY CAMPAIGN MANAGER"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton�s economic leadership has improved the\n\r    lives of America�s working families by increasing American\n\r    workers� incomes and keeping inflation low and stable. Today�s\n\r    economic report is further proof that President Clinton�s\n\r    economic policies put America on the right track."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The economy has grown at a rate of nearly three percent\n\r    this year -- far stronger than the Republican Congress\n\r    forecasted even if their budget had been passed. We now have\n\r    10.5 million new jobs and an unemployment rate of 5.2 percent\n\r    -- not surprisingly, consumer confidence is at a six year\n\r    high."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Here are the facts:"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "Economic growth this year has averaged 2.9% (at an\n\r      annual rate) -- far surpassing CBO expectations of 2.0% and\n\r      OMB�s projected growth of 2.2%."
+End element:   tt
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "The private sector grew 3.0% in the third quarter (at\n\r      an annual rate). Under President Clinton, the private sector\n\r      has grown 3.2% per year, compared to 1.3% under President\n\r      Bush and 3.0 percent under President Reagan."
+End element:   tt
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "Business investment increased at a remarkable 18.9%\n\r      annual rate in the last quarter. Under President Clinton,\n\r      investment has increased at an 11.1% rate -- stronger than\n\r      any Administration since President Kennedy."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton�s record of fiscal leadership is\n\r    strong and clear. The American people know they can count on\n\r    him to provide the economic security and fiscal responsibility\n\r    needed to lead our country into the 21st century."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "# # #"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

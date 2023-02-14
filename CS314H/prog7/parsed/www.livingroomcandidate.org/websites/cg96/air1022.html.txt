@@ -1,0 +1,144 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "The President's Free Air Time Remarks"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 22, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "TRANSCRIPT OF PRESIDENT CLINTON�S FREE AIR TIME\n\r      REMARKS"
+End element:   b
+End element:   tt
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "President Clinton�s remarks will be broadcast this\n\r      evening, October 22, 1996, on the following stations: "
+Start element: i
+Characters:    "CBS,\n\r      CNN, C-SPAN, NBC, NOSTALGIA TELEVISION, NPR, PBS AND\n\r      UPN"
+End element:   i
+Characters:    "."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "We must make education our highest priority, so that all\n\r    our children have the tools to make the most of their own\n\r    lives. I want to build a bridge to the 21st century where we\n\r    expand opportunity through education -- where computers are as\n\r    much a part of the classroom as blackboards, where\n\r    highly-trained teachers demand peak performance from our\n\r    students, where every eight-year-old can point to a book and\n\r    say, I can read that all by myself, and where everyone has a\n\r    chance to go to college."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "We�ve started the job of improving school standards. Now\n\r    math scores, science scores, and SAT scores are up. We�ve\n\r    expanded Head Start, and increased scholarships and student\n\r    loans and lowered the cost of those loans. We�re on the right\n\r    track."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Now we should require that our students pass tough tests\n\r    to move up in school. We should reward teachers who do well,\n\r    and remove those who don�t. We should expand public school\n\r    choice by opening 3,000 Charter schools, schools formed by\n\r    teachers and parents, that survive only if they produce\n\r    results. These schools are part of our balanced budget\n\r    plan."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "We should make sure every child can read independently\n\r    by the third grade, by mobilizing 30,000 reading tutors all\n\r    across America. We should continue to rebuild and modernize our\n\r    school, and make them safe and drug-free. We should finish the\n\r    job of connecting every classroom to the Internet by the year\n\r    2000."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "And above all, we should help everyone go to college\n\r    because higher education is the key to the higher-paying jobs\n\r    of the future. We should make sure the first two years of\n\r    college are as universal as high school is today, by giving a\n\r    tax credit of $1,500 for those years -- the cost of a typical\n\r    community college tuition -- and we should give a $10,000 tax\n\r    deduction for all college costs."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "My opponent disagrees with this approach. He voted\n\r    against creating the Department of Education, and now he wants\n\r    to abolish it. Just think about it: as we move into the 21st\n\r    century, at his cabinet meetings, there would be no one at the\n\r    table to fight for our children�s education. He also voted\n\r    against the creation of Head Start and student loans. That�s\n\r    the wrong approach for our children�s future."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "With my education strategy, we will make sure every\n\r    eight-year old can read, every twelve-year-old can log onto the\n\r    Internet, and every eighteen-year-old can go to college. That�s\n\r    the way to give every child a chance at the American\n\r    dream."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "# # #"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

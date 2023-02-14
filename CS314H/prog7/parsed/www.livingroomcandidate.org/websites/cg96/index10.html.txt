@@ -1,0 +1,86 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Volunteer of the Week | Billie Jean Houck"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #FFFFFF
+Key: alink, Value: #FF0000
+Key: vlink, Value: #FFFFFF
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index-3.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: color, Value: #BD0021
+Start element: b
+Characters:    "Iowa Office"
+End element:   b
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Billie Jean Houck is a 65 year old retired school teacher\n\r    who volunteers 4 days a week for the Iowa Clinton/Gore\n\r    campaign. She lives in Clive, Iowa, a suburb of Des Moines,\n\r    with her husband Edwin. Billie Jean was born in Pittsburgh but\n\r    has lived in Iowa most of her life."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Billie Jean is a dedicated Democrat and feels that the\n\r    election process is very important. She has been a devoted Bill\n\r    Clinton supporter since he spoke at the Iowa Jefferson Jackson\n\r    Day dinner before the 1992 election. She feels that the\n\r    President is doing a good job on the issues that matter most —\n\r    education, health care, taxes and crime."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The Iowa office couldn't function without Billie Jean. She\n\r    is reliable, always willing to help out with events, and very\n\r    pleasant to have around. They would be lost without her."
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

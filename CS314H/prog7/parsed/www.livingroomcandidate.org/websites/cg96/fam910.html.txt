@@ -1,0 +1,205 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Dole Continues to Oppose Family Medical Leave"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    September 10, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "STATEMENT BY JOE LOCKHART"
+Characters:    "\n\r    NATIONAL PRESS SECRETARY"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"This family leave act is heralded by the President as\n\r    one of the great milestones of his first term.... But my view\n\r    is, why should the federal government be getting into family\n\r    leave?\" Bob Dole (New York Times, 9/8/96)"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole is continuing his assault on America�s\n\r    families. He led the fight against Family Medical Leave in the\n\r    Senate and now opposes the President�s proposed expansion of\n\r    the law to allow parents time off to attend to family\n\r    needs."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "It�s no wonder that most Americans believe that the\n\r    President shares their values. (Labor Day USA Today/CNN/Gallup\n\r    poll)"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole is stubbornly standing alone against America�s\n\r    families and businesses. The Family and Medical Leave Act is\n\r    one of President Clinton�s most successful initiatives to help\n\r    working families. Twelve million families have benefited from\n\r    guaranteed time off in times of family emergencies. And nine\n\r    out of ten businesses surveyed found the Family and Medical\n\r    Leave Act did not adversely affect their companies."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Today, Bob Dole�s advisors said that he�s going to shift\n\r    his focus to moral issues. Bob Dole may talk about family\n\r    values, but he clearly doesn�t value America�s\n\r    families."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Bob Dole�s Continuing Opposition"
+Characters:    "\n\r      To The Family & Medical Leave Act"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "1996: Campaigning On His Opposition To Family\n\r    Leave:"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "In 1996, despite its proven\n\r    effectiveness, Dole continues to oppose the Family and Medical\n\r    Leave Act. On September 7, 1996, at a campaign speech, Dole\n\r    said:\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"This family leave act is heralded by the President as\n\r    one of the great milestones of his first term....But my view\n\r    is, why should the federal government be getting into family\n\r    leave? It ought to be left to employees or the states or the\n\r    counties, and the federal government ought to be out of it.\"\n\r    [New York Times, 9/8/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "1996: Dole Opposes Expansion Of Family & Medical\n\r    Leave:"
+End element:   b
+Characters:    "\n\r    Dole also opposed expansion of the Family and Medical Leave Act\n\r    that would allow parents time off to get medical attention for\n\r    children, or for family duties such as attending a child's\n\r    school play or accompanying an elderly relative to medical\n\r    appointments. Dole said:"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"It ought to be left to the employees, or the state or\n\r    the county -- the federal government ought to be out of it.\"\n\r    [Chicago Tribune, 9/8/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "1993: Dole \"Actively Blocks\" & Votes Against Family\n\r    Leave"
+End element:   b
+Characters:    "\n\r    In 1993, Dole voted against Senate passage of the Family and\n\r    Medical Leave Act (S. 5), after leading a filibuster against\n\r    the Act and sponsoring \"unfriendly\" amendments, designed to\n\r    slow progress and kill or water down the bill. [CQ Almanac,\n\r    1993 (p. 391; vote #7, p. 2-S); Congressional Record, 1993\n\r    (p.1,254)]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"So what this amendment provides is that the leave\n\r    program...is optional. It is optional for each business, not\n\r    mandatory...\" -- Bob Dole speaking on an amendment he offered\n\r    [Congressional Record, 2/4/93, p. S-1257]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "1992: Dole Filibusters, Votes Against Family & Medical\n\r    Leave"
+Characters:    "\n\r    Dole participated in a 2-day filibuster against the Family\n\r    Leave bill (S. 5), and later voted against overriding President\n\r    Bush�s veto of the Family and Medical Leave Act. [DSG, 6/13/94;\n\r    1992 CQ Almanac, p. 354; vote #232, p. 30-S]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"� don�t think this has anything to do with family\n\r    values.\"[Hutchinson News, 9/26/92]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "1991: Dole Votes Against Family & Medical\n\r    Leave"
+End element:   b
+Characters:    "\n\r    Dole voted against adoption of the compromise version of the\n\r    Family and Medical Leave Act, offered by Sens. Bond and Dodd in\n\r    an attempt to gain additional votes in the face of President\n\r    Bush�s threatened veto. [1991 CQ Almanac, p. 312-313, vote\n\r    #215, p. 28-S]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "1988: Dole Filibusters, Votes Against Family &\n\r    Medical Leave"
+End element:   b
+Characters:    "\n\r    Dole participated in the 9-day filibuster that killed passage\n\r    of the Parental Leave/Child Care bill (S. 2488), voting against\n\r    cloture on the bill. [1988 CQ Almanac, p. 261-263; vote #355,\n\r    p. 58-S; DSG, 6/13/94]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"What we�re saying is: slow down. This is not an urgent\n\r    matter...\" [Los Angeles Times, 10/8/88]"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

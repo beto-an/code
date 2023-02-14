@@ -1,0 +1,98 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "New Honorary Campaign Chairs Announced"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "FOR IMMEDIATE RELEASE"
+Characters:    "\n\r    September 14, 1996"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The Clinton/Gore '96 campaign has appointed seven\n\r    distinguished persons to serve as Honorary Campaign Chairs.\n\r    They are Terence R. McAulliffe, Alma Arrington Brown, Senator\n\r    David Pryor, Governor Roy Romer, Governor Ann Richards, Linda\n\r    Chavez-Thompson and Representative John Lewis."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The Honorary Chairs will assist in speaking on the\n\r    President's behalf and in organizing the President's supporters\n\r    throughout the country. \"These individuals will play a vital\n\r    role in ensuring our success on November 5th,\" said Peter\n\r    Knight, Clinton/Gore '96 Campaign Manager. \"We will look to the\n\r    Honorary Chairs to communicate the accomplishments of the\n\r    Administration and the President's vision for the\n\r    future.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Terence R. McAulliffe currently serves as the National\n\r    Finance Chairman of Clinton/Gore '96 and is Chairman of\n\r    American Heritage Homes Corporation and President of several\n\r    real estate related entities. Alma Arrington Brown is presently\n\r    the Vice President of Community Affairs at the Chevy Chase Bank\n\r    Corporation and holds a board position with such organizations\n\r    as the United Negro College Fund and The Girl Scouts of the\n\r    National Capital Area. Senator David Pryor of Arkansas has\n\r    distinguished himself through his three Senate terms as a\n\r    member of the Senate Agricultural Committee; the Senate Finance\n\r    Committee; and Chairman of the Senate Special Committee on\n\r    Aging. Governor Roy Romer was first elected to office as a\n\r    member of the Colorado House of Representatives in 1958 and has\n\r    served as a Member of the state Senate, as Colorado\n\r    Agricultural Commissioner and State Treasurer. Governor Ann\n\r    Richards, who served as Governor of Texas from 1990-94, is now\n\r    a Senior Advisor with Verner, Liipfert, Bernhard, McPherson &\n\r    Hand. Linda Chavez-Thompson was elected Executive\n\r    Vice-President of the AFL-CIO on October 25, 1995.\n\r    Representative John Lewis of Georgia serves as a member of the\n\r    House Ways and Means Committee and as Chief Deputy Democratic\n\r    Whip."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

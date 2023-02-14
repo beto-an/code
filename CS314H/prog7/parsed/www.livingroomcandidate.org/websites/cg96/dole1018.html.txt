@@ -1,0 +1,141 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Bob Dole's Lessons from Watergate"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 18, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "STATEMENT BY JOE LOCKHART"
+Characters:    "\n\r      NATIONAL PRESS SECRETARY"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Clearly when it comes to learning lessons from\n\r    Watergate, Bob Dole is the best teacher. Twenty-six year old\n\r    documents released yesterday by the National Archives make one\n\r    thing clear. Bob Dole has made a career out of negative\n\r    politics -- and choosing insults over ideas."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "In an internal Nixon White House memorandum dated\n\r    February 10, 1970, Nixon advisor \"P.J. Buchanan\" writes to\n\r    President Nixon that \"Dole recommended that\n\r    Republicans...initiate politically inspired investigations...\"\n\r    Buchanan calls the Dole idea \"a good one\" and notes that \"some\n\r    publicity-garnering Congressional Investigations might redound\n\r    to our political advantage.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Another internal White House memo (released earlier by\n\r    the National Archives) dated March 27, 1970 identifies Dole as\n\r    the \"starter\" who would receive ideas that \"merit partisan\n\r    investigation\" and give \"assignments\" to other Republican\n\r    Senators."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "In this election, Bob Dole has replaced Richard Nixon\n\r    with Newt Gingrich -- who repeated history on June 4, 1996 by\n\r    telling a meeting of Republicans that scandal mongering \"is\n\r    what this election is going to be all about.\" (New York Post,\n\r    6/5/96)"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "With Bob Dole insults, innuendo and partisan\n\r    investigation have sadly always come before ideas. And look at\n\r    the ideas Bob Dole has opposed over his 35 years in\n\r    Washington:"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole voted against creating Medicare in 1965 and\n\r    bragged about it in 1995, saying \"I was there, fighting the\n\r    fight, voting against Medicare -- one of twelve, because we\n\r    knew it wouldn�t work in 1965.\" Dole voted against creating\n\r    student loans in 1965, against the Department of Education in\n\r    1979, repeatedly against a higher minimum wage, against\n\r    creating a drug czar in 1982 and against the Brady Bill and\n\r    Family and Medical Leave in the 1990s."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The 26-year-old internal Nixon White House memo released\n\r    yesterday demonstrates one thing clearly. Bob Dole�s decision\n\r    to spend the last weeks of this campaign attacking the\n\r    President -- instead of offering ideas or his vision for the\n\r    future -- is sadly consistent with his 35 year record as a\n\r    Washington politician."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The American people have a clear choice between a\n\r    President with a record of accomplishment and forward-looking\n\r    plan for the 21st Century -- and a candidate with a three\n\r    decade record of focusing on negative, attack politics rather\n\r    than offering a positive agenda."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

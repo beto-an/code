@@ -1,0 +1,118 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Dole’s Rhetoric"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "7/6/96"
+Characters:    "\n\r    PRESS RELEASE"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "STATEMENT BY JOE LOCKHART"
+Characters:    "\n\r    NATIONAL PRESS SECRETARY"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "We are delighted that Senator Bob Dole today endorsed\n\r    key provisions of President Clinton's juvenile justice\n\r    proposal. The Dole/Gingrich Congress received the legislation\n\r    this spring but chose to take no action on it (The Anti-Gang\n\r    and Youth Violence Act)."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Once again, citizen Dole's rhetoric does not match the\n\r    record of Senator Bob Dole."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Senator Dole had a chance to ban assault weapons and\n\r    make sure convicted felons were barred from purchasing\n\r    handguns. When faced with promoting our national interests or\n\r    promoting special interests, Senator Dole sided with the\n\r    National Rifle Association."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Senator Dole had a chance to put 100,000 more cops on\n\r    the street. Rather than support police on the beat, Senator\n\r    Dole chose to filibuster and vote no."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Senator Dole had a chance to promote safe and drug free\n\r    schools and institute a policy of zero tolerance on teenagers\n\r    who bring guns into schools. Senator Dole voted no\n\r    again."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Finally, if Bob Dole is genuinely concerned about\n\r    America's youth, he will reconsider his position on tobacco.\n\r    Bob Dole needs to send a clear message to teenagers in America\n\r    that cigarette smoking is addictive and deadly. Comparing the\n\r    dangers of smoking to drinking a glass of milk may serve the\n\r    special interests, but not the interests of American\n\r    families."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "###"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

@@ -1,0 +1,123 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Response to Bob Dole Radio Address"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "FOR IMMEDIATE RELEASE"
+Characters:    "\n\r    September 7, 1996"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "STATEMENT BY JOE LOCKHART"
+Characters:    "\n\r    NATIONAL PRESS SECRETARY"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole is having trouble with Bob Dole�s record again.\n\r    In February, Bob Dole told New Hampshire legislators we had the\n\r    strongest economy for thirty years. More recently, with his\n\r    campaign struggling to find a message, Candidate Dole says we\n\r    have no consumer confidence and the economy is in the\n\r    tank."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole�s recent comments show how out of touch he is\n\r    with economic reality. The economy grew at an annual rate of\n\r    4.8 percent, unemployment is at a 7 year low, the deficit has\n\r    come down four years in a row and 10.5 million jobs have been\n\r    created since President Clinton took office."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "On the international front, the U.S. economy has created\n\r    more jobs since President Clinton was elected than all the\n\r    other G-7 countries combined. The United States now makes more\n\r    autos than Japan, has the lowest budget deficit and has been\n\r    judged the most competitive economy among industrialized\n\r    countries for three years in a row. All these statistics stand\n\r    in contrast to 1992 when the U.S. economy trailed our trading\n\r    partners in almost every category."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The President also has a plan to balance the budget by\n\r    2002 that has been reviewed and scored by the Congressional\n\r    Budget Office."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole�s plan is to risk our economic future with a\n\r    reckless scheme that will blow a hole in the deficit and result\n\r    in severe cuts in Medicare, Medicaid, education and the\n\r    environment. If Bob Dole wants to be taken seriously in this\n\r    economic debate he will submit his economic plan to the\n\r    Congressional Budget Office for review and scoring. No more\n\r    delays, no more hiding the facts -- the American public has a\n\r    right to know -- submit the Dole plan to the CBO\n\r    today."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "What we do know from Bob Dole is what�s good for\n\r    American working families is bad for the Dole for President\n\r    campaign."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

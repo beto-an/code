@@ -1,0 +1,459 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | Briefing Room | State by State\n\r  Information"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index13.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +2
+Start element: font
+Key: color, Value: #001058
+Start element: nobr
+Start element: i
+Characters:    "President\n\r    Clinton: Working Hard for\n\r    Pennsylvania"
+End element:   i
+End element:   nobr
+End element:   font
+End element:   font
+Start element: font
+Key: color, Value: #001058
+Characters:    "\n\r    Greater Prosperity, Safer Communities, Stronger\n\r    Families"
+End element:   font
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "President Clinton Has\n\r    Delivered on His Promises—Making Pennsylvania a Better Place to\n\r    Live and Work.&nbsp;"
+End element:   b
+End element:   font
+Characters:    " &nbsp;President Clinton has\n\r    been a leader on the issues the people of Pennsylvania care\n\r    about. President Clinton has delivered:\n\r    "
+Start element: p
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            A Growing Economy: Unemployment in Pennsylvania has\n\r            dropped from 7.4% to 5.3%. Our nation has the lowest\n\r            combined rate of unemployment, inflation, and mortgage\n\r            rates since 1968. Consumer confidence is at its highest\n\r            level in six years, real wages are rising for the first\n\r            time in a decade, and homeownership is at a 15-year\n\r            high.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            New Jobs, Better Wages: 181,800 new private-sector jobs\n\r            created in Pennsylvania under President Clinton after\n\r            losing jobs during the previous four years; 10.5\n\r            million jobs created nationally. Because President\n\r            Clinton signed the minimum wage increase on 8-20-96,\n\r            193,000 workers in Pennsylvania received a pay raise.\n\r            Over the next two years 430,000 workers in Pennsylvania\n\r            will benefit from the minimum wage increase.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Stronger Families: The Family and Medical Leave Act\n\r            protects over 2.1 million workers in\n\r            Pennsylvania—allowing them 12 weeks of unpaid leave for\n\r            the birth of a child or to take care of a sick family\n\r            member without fear of losing their jobs. Teen\n\r            pregnancy is falling, the poverty rate is decreasing,\n\r            the number of people on welfare is declining. In\n\r            Pennsylvania alone 78,441 fewer people are on welfare\n\r            and 34,894 fewer people are on food stamps. Tougher\n\r            child support enforcement collects nearly $120 million\n\r            more -- an increase of 15.5% since FY 1992.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Increased Access to Education: 1.7 million students in\n\r            Pennsylvania can benefit from the President’s reformed\n\r            student loan program. 26,149 students benefited from\n\r            Head Start funding and Pennsylvania will receive $34\n\r            million in funding for the Goals 2000 academic\n\r            achievement program.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Cut the Deficit in Half: Reducing the burden of\n\r            national debt for every Pennsylvania family of four by\n\r            $15,000.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            A Tax Cut: By expanding the Earned Income Tax Credit,\n\r            the President cut taxes for 510,000 working families in\n\r            Pennsylvania and 15 million working families\n\r            nationwide. President Clinton provided over 53,260\n\r            Pennsylvania small businesses with a tax cut this year\n\r            by expanding the annual expensing allowance from\n\r            $10,000 to $17,500. In addition, small businesses\n\r            received a total of $249 million in loan guarantees\n\r            which will help to create or sustain over 10,450 jobs\n\r            in Pennsylvania over the next four years. Of these\n\r            loans, 426 went to women-owned small businesses.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Safer Streets and Communities: The President’s Crime\n\r            Bill adds 1,893 police officers to Pennsylvania’s\n\r            streets and $4.7 million in funding to combat domestic\n\r            violence and sexual assault. &nbsp;“Three Strikes and\n\r            You’re Out,” the Brady Bill, the Assault Weapons Ban,\n\r            and community policing are working. Our nation’s crime\n\r            rate is down. The number of murders reported has\n\r            dropped 8%—one of the largest declines in three\n\r            decades. In Pennsylvania alone the crime rate dropped\n\r            and the state received over $4 million to combat\n\r            domestic violence and sexual assault.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Pension and Health Care Coverage: Because President\n\r            Clinton signed the Retirement Savings and Security Act,\n\r            500,000 workers in Pennsylvania for small businesses\n\r            will be offered expanded opportunity for pension\n\r            coverage. In Pennsylvania, as many as 766,000 citizens\n\r            in families with a worker who changed, lost or left a\n\r            job with health insurance will be guaranteed continued\n\r            access to health insurance under the Kassebaum-Kennedy\n\r            Health Insurance Bill which President Clinton fought\n\r            for and signed into law.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Renewed Growth in Key Industries: After a decade of\n\r            enormous job losses in construction, manufacturing, and\n\r            autos, these industries have made a remarkable\n\r            recovery—more than one million new jobs created under\n\r            this Administration.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Characters:    "\n\r    "
+Start element: b
+Characters:    "Fighting for a Balanced Budget That Reflects Our\n\r    Values:&nbsp;"
+End element:   b
+End element:   font
+Characters:    "Now we are fighting for a balanced\n\r    budget that will lift the burden of debt off our children and\n\r    reflect American values—a balanced budget that:\n\r    "
+Start element: p
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: cellpadding, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Honors our commitment to give America’s seniors the\n\r            health care they deserve.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Protects investment in our young people’s futures—Head\n\r            Start, access to college.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Protects America’s clean water and air, national parks,\n\r            and our public health.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Preserves tax fairness for America’s working families.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: font
+Key: size, Value: +1
+Characters:    "More: How President Clinton's "
+Start element: a
+Key: href, Value: trade6.html
+Characters:    "international trade policies"
+End element:   a
+Characters:    " have helped\n\r      your state"
+End element:   font
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: center
+Characters:    "\n\r        "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r      "
+End element:   center
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/trade6.html

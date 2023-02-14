@@ -1,0 +1,693 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Family and Medical Leave Act Day"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    September 23, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "FORTY-FOUR STATES TO HOLD �FAMILY AND MEDICAL LEAVE DAY�\n\r    NEWS EVENTS TO HIGHLIGHT THE IMPACT OF PRESIDENT CLINTON�S\n\r    LAW"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "WASHINGTON, D.C. -- The Clinton/Gore campaign today\n\r    announced that it will celebrate �Family and Medical Leave\n\r    Day,� on September 24, 1996. On this day, family advocates,\n\r    business leaders and key legislators across the nation will\n\r    hold news events in 44 states highlighting the success of\n\r    President Clinton�s Family and Medical Leave Act (FMLA), said\n\r    Clinton/Gore Campaign Manager Peter S. Knight."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "September 24 marks the fourth anniversary of Bob Dole�s\n\r    vote to sustain then-President George Bush�s veto of the Family\n\r    and Medical Leave Act. The Act enables workers to take unpaid\n\r    leave to care for a family member without fear of losing their\n\r    jobs."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton, Vice President Gore, First Lady\n\r    Hillary Rodham Clinton, and Tipper Gore will kick-off these\n\r    nationwide efforts at events in New Jersey, Louisiana,\n\r    Connecticut and Tennessee, respectively, on the 24th. �No other\n\r    piece of legislation has had a more immediate impact on the\n\r    American family�s ability to stay together in times of critical\n\r    need. President Clinton�s decisive leadership cut through the\n\r    special interest politicking that had stalled earlier efforts,\n\r    and, with passage of the Act, he demonstrated that what�s good\n\r    for the American family is good for business,� said\n\r    Knight."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Knight talked about other elements of President\n\r    Clinton�s strong pro-family record, citing the President�s\n\r    expansion of the Earned Income Tax credit, which provides tax\n\r    relief for 15 million working families; signing into law the\n\r    first increase in the minimum wage in five years; and\n\r    investment in education through the Goals 2000 initiative.\n\r    Also, in addition to making the FMLA the first piece of\n\r    legislation the President signed upon taking office in 1992,\n\r    President Clinton recently proposed an expansion of the\n\r    Act."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "In the face of clear evidence that the FMLA has not\n\r    negatively impacted businesses but has helped millions of\n\r    working Americans attend to family emergencies, and, in\n\r    general, balance the competing demands of work and family, Bob\n\r    Dole continues to speak out against family and medical leave,\n\r    most recently on September 7th in a campaign speech."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Some of the events and participants include a roundtable\n\r    at Mile High Medical Child Care Center in Colorado featuring\n\r    Gail Schoettler who is the Colorado Lt. Governor and Diana\n\r    DeGette who is a Colorado candidate. In Florida, there will be\n\r    a news conference at Wackenhutt Security Firm in West Palm\n\r    Beach with Lawton Chiles, who is the Governor of Florida. In\n\r    Minnesota, Ellen Anderson, Jane Ranum, Carol Flynn, Linda\n\r    Berglin, Karen Clark, and Donna Robertson, who are current or\n\r    former state legislators, will participate in a news conference\n\r    at the State Capitol. Each event will feature people who have\n\r    been affected by the FMLA."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "State-by-State Family Medical Leave Act\n\r    Events"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "ALABAMA"
+End element:   b
+Characters:    ":"
+Characters:    "\n\r    Activity: Press conference outside local Children�s Hospital,\n\r    in Birmingham"
+Characters:    "\n\r    Surrogates: Marsha Folsom, former First Lady, State Sen. E.B.\n\r    McLain, Lorane LeGrange, BellSouth employee and FMLA\n\r    beneficiary"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "ALASKA:"
+End element:   b
+Characters:    "\n\r    Activity: Roundtable at a day care center"
+Characters:    "\n\r    Surrogates: State Rep. Kay Brown, Deborah Bonito, State Party\n\r    Chair, and family"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "ARIZONA:"
+End element:   b
+Characters:    "\n\r    Activity: Roundtable with city worker and labor leaders, in\n\r    Phoenix"
+Characters:    "\n\r    Surrogates: Craig Tripken, City Council, Lisa Hubbard, FMLA\n\r    beneficiary, Labor leaders, Pro-FMLA business owner"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "CALIFORNIA:"
+End element:   b
+Characters:    "\n\r    Activity 1: Press conference with a family physician and\n\r    families, Contra Costa County."
+Characters:    "\n\r    Surrogate: Dr. Ellen Tauscher, family physician and\n\r    Congressional candidate"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Activity 2: Roundtable discussion, San Diego."
+Characters:    "\n\r    Surrogates: Peter Navarro, Congressional candidate"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Activity 3: Press conference at children�s park, Santa\n\r    Barbara."
+Characters:    "\n\r    Surrogates: State Senator O�Connell, Laura Capps, Congressional\n\r    candidate"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Activity 4: Interviews with Los Angeles area television,\n\r    radio and press"
+Characters:    "\n\r    Surrogates: Families"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Activity 5: Interviews with Fresno area television,\n\r    radio and press"
+Characters:    "\n\r    Surrogates: Families"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Activity 6: Interviews with San Francisco area\n\r    television, radio and press"
+Characters:    "\n\r    Surrogates: Families"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "COLORADO:"
+End element:   b
+Characters:    "\n\r    Activity: Roundtable at Mile High Medical Child Care Center"
+Characters:    "\n\r    Surrogates: Lt. Governor Gail Schoettler, Congressional\n\r    Candidate Diana DeGette, Five families"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "CONNECTICUT:"
+End element:   b
+Characters:    "\n\r    Principal: Hillary Rodham Clinton"
+Characters:    "\n\r    Others: Congressman Gejdenson"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "DELAWARE:"
+End element:   b
+Characters:    "\n\r    Activity: Radio interviews with parents"
+Characters:    "\n\r    Surrogates: Wayne Cross, MBNA, Patricia Davis, Micro-biologist\n\r    at VENCA Co, subsidiary of DUPONT"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "FLORIDA:"
+End element:   b
+Characters:    "\n\r    Activity 1: Press Conference at Wackenhutt Security Firm, West\n\r    Palm Beach"
+Characters:    "\n\r    Surrogates: Governor Chiles, Bud Kneti, Wackenhutt company\n\r    spokesman, Wackenhutt workers that have benefitted from\n\r    FMLA"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Activity 2: Press Conference at Bayfront Medical Center,\n\r    in St. Petersburg"
+Characters:    "\n\r    Surrogate: Bill Nelson, Insurance Commission, Bob Carter, Vice\n\r    President of Bayfront Medical Center, Jeanne Malchon, State\n\r    Senator"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Activity 3: Press Conference at Baptist Hospital, in\n\r    Miami"
+Characters:    "\n\r    Surrogate: Elaine Gordon, State Rep. Elaine Bloom, State Rep.\n\r    Larcenia Bullard, State Rep. Annie Bettancourt, State Rep.\n\r    Laura Jean Edwards"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Activity 4: Press interviews in Tallahassee"
+Characters:    "\n\r    Surrogate: Lt. Governor Buddy MacKay, Connie Wells, Family\n\r    Voices"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "GEORGIA:"
+End element:   b
+Characters:    "\n\r    Activity: Press conference at Ben and Jerry�s Scoop Shop, in\n\r    Atlanta"
+Characters:    "\n\r    Surrogate: Vicki and George Yandel, FMLA advocates (Mr. Yandel\n\r    was fired when he took time off to be with his daughter who was\n\r    dying), Cheryl Sarvis, Principal of Jackson Elementary School,\n\r    Darren McDaniel, owner of Ben & Jerry's Scoop Shop,\n\r    Representatives of BellSouth"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "HAWAII:"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Activity 1: Democratic Unity Breakfast"
+Characters:    "\n\r    Surrogates: Rep. Neil Abercrombie, Rep. Patsy Mink"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "IDAHO:"
+End element:   b
+Characters:    "\n\r    Activity: Op-eds and letters to the editor."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "ILLINOIS:"
+End element:   b
+Characters:    "\n\r    Activity 1: Op-ed, press conference, Champaign, IL"
+Characters:    "\n\r    Surrogates: Laurel Pressing, Jay Hoffman, Congressional\n\r    candidate"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Activity 2: Op-ed, press conference in Rockford, IL"
+Characters:    "\n\r    Surrogates: Katherine Lee, Congressional candidate"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "INDIANA:"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Activity 1: Press conference at Aging and In-home\n\r    Services Center, in Fort Wayne"
+Characters:    "\n\r    Surrogates: State Representative Barbara Engell (former\n\r    Republican, now Democrat), Diane Shappell, owner of the center,\n\r    Center employees"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Activity 2: Workshop on father-friendly workplaces, in\n\r    Indianapolis"
+Characters:    "\n\r    Surrogates: Governor Evan Bayh, sponsor of the event, will\n\r    discuss FMLA"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "IOWA:"
+End element:   b
+Characters:    "\n\r    Activity: Roundtable discussion at AFSCME offices, in Iowa\n\r    City"
+Characters:    "\n\r    Surrogates: Jay Ceyner, National Association of Social\n\r    Workers"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "KANSAS:"
+End element:   b
+Characters:    "\n\r    Activity: Press conference on steps of Capitol, in Topeka,\n\r    KS"
+Characters:    "\n\r    Surrogates: Joan Wagnon, former state legislator and family\n\r    leave advocate, Representative, American Association of\n\r    University Women, Prof. Forest Swall, Kansas University\n\r    Sociologist, expert on family leave"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "KENTUCKY:"
+End element:   b
+Characters:    "\n\r    Activity: Press availability at Triangle Park, in Lexington"
+Characters:    "\n\r    Surrogate: Debi Hartnett, mother and FMLA beneficiary"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "LOUISIANA:"
+End element:   b
+Characters:    "\n\r    Activity: Roundtable discussion at Willis-Knighton Hospital, in\n\r    Shreveport"
+Characters:    "\n\r    Principal: Vice President Gore"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "MAINE:"
+End element:   b
+Characters:    "\n\r    Activity: Press conference at East End Children�s Workshop, in\n\r    Portland"
+Characters:    "\n\r    Surrogates: State Representative Libby Mitchell, Joe Brennan,\n\r    Senatorial candidate, Marsha Lowery, single mother, Teacher,\n\r    Connie Goldman"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "MARYLAND:"
+End element:   b
+Characters:    "\n\r    Activity 1: TV/Radio/Newspaper Push: Target Health\n\r    Reporters"
+Characters:    "\n\r    Surrogates: Sen. Barbara Mikulski, Congressman Cummings,\n\r    Parents and Pediatricians, HHS Secretary Shalala\n\r    (Tentative)"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Activity 2: Tour at Kennedy Krieger Institute"
+Characters:    "\n\r    Surrogates: Pediatrician"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "MASSACHUSETTS:"
+End element:   b
+Characters:    "\n\r    Activity 1: Radio interviews in Boston and Worcester, MA"
+Characters:    "\n\r    Surrogates: Secretary Reich"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Activity 2: Ann Bookman, former Executive Director of\n\r    National Commission on Family"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "MICHIGAN:"
+End element:   b
+Characters:    "\n\r    Activity: Press conference at COBO Center"
+Characters:    "\n\r    Surrogates: Rep. Bonior"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "MINNESOTA:"
+End element:   b
+Characters:    "\n\r    Activity: Press conference/rally on West Steps of State\n\r    Capitol"
+Characters:    "\n\r    Surrogates: State Sen. Ellen Anderson, State Sen. Jane Ranum,\n\r    State Sen. Carol Flynn, State Sen. Linda Berglin, State Rep.\n\r    Karen Clark, Former State Sen. Donna Robertson - key to passing\n\r    state FMLA in 87, Beth Lerow, mother refused leave"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "MISSOURI:"
+End element:   b
+Characters:    "\n\r    Activity 1: Press conference, in Kansas City"
+Characters:    "\n\r    Surrogates: Diane Cleaver, manager of a care facility and wife\n\r    of Kansas City mayor"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Activity 2: Roundtable discussion at offices of business\n\r    that supports FMLA, in St. Louis"
+Characters:    "\n\r    Surrogates: Joan Kelly Horn, former congresswoman that\n\r    co-sponsored FMLA legislation, Vicki Gubany, R.N., recent\n\r    beneficiary of the FMLA"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "MONTANA:"
+End element:   b
+Characters:    "\n\r    Activity: Roundtable discussion with families, in Missoula"
+Characters:    "\n\r    Surrogates: Missoula Mayor Mike Kadas, State Senator Vivian\n\r    Brooke, State Senator Mark O'Keefe"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "NEVADA:"
+End element:   b
+Characters:    "\n\r    Activity 1: Roundtable discussion at Bob Baskin Park, in Las\n\r    Vegas"
+Characters:    "\n\r    Surrogates: Cheryl Miller, Clark County Commissioner, Tony\n\r    Wong, business owner, Tricia Smith, school teacher and FMLA\n\r    beneficiary"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Activity 2: Radio interviews"
+Characters:    "\n\r    Surrogate: Senator Reid"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Activity 3: Op-ed"
+Characters:    "\n\r    Surrogate: Governor Miller"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "NEW HAMPSHIRE:"
+End element:   b
+Characters:    "\n\r    Activity: Press conference in lobby of Legislative Office\n\r    Building, in Concord"
+Characters:    "\n\r    Surrogates: Dick Swett, former Congressman, current Senatorial\n\r    candidate, Deborah \"Arnie\" Arnesen, Congressional candidate,\n\r    Dr. Steve Gorin, New Hampshire Health Care Coalition"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "NEW JERSEY:"
+End element:   b
+Characters:    "\n\r    Principal: President Clinton"
+Characters:    "\n\r    Others: Congressman Torricelli, Senatorial candidate, David\n\r    DelVecchio, Congressional candidate"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "NEW MEXICO:"
+End element:   b
+Characters:    "\n\r    Activity: Press conference, in Sante Fe"
+Characters:    "\n\r    Surrogate: Gloria Tristani, State Corporation Commissioner,\n\r    Debbi Jaramillo, Mayor of Sante Fe"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "NEW YORK:"
+End element:   b
+Characters:    "\n\r    Activity: press round tables, radio shows"
+Characters:    "\n\r    Surrogates: Representative Velasquez, Representative Lowey,\n\r    Nora Breddis (1st CD Candidate), Carolyn McCarthy (4th CD\n\r    Candidate), Maria Echaveste (Tentative), Asking Dennis Rivera,\n\r    1199 health workers union, Asking Edwin Vargas, UNITE-needle\n\r    workers union"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "NORTH CAROLINA:"
+End element:   b
+Characters:    "\n\r    Activity: Event at Hodgest Taylor Gallery, in Charlotte"
+Characters:    "\n\r    Surrogates: Al Russo, President Pro Tem City Council, State\n\r    Rep. Ruth Easterling, Louise Randel, retired school\n\r    teacher"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "NORTH DAKOTA:"
+End element:   b
+Characters:    "\n\r    Activity: Press conference at office"
+Characters:    "\n\r    Surrogates: Glenn Pomeroy, Insurance Commissioner, and\n\r    family"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "OHIO:"
+End element:   b
+Characters:    " Surrogates: Mary Boyle, County\n\r    Commissioner, Marie Costas Weber, FMLA advocate"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "OKLAHOMA:"
+End element:   b
+Characters:    "\n\r    Activity: Press conference at Children�s Hospital, in Oklahoma\n\r    City"
+Characters:    "\n\r    Surrogate: Tammy Price, FMLA beneficiary, Ms. Price's\n\r    supervisor (Pioneer Telephone ), State Rep. Laura Boyd, Doctor\n\r    from Children's Hospital"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "OREGON:"
+End element:   b
+Characters:    "\n\r    Activity 1: Radio call-ins"
+Characters:    "\n\r    Surrogate: Rep. Elizabeth Furse"
+Characters:    "\n\r    Activity 2: Op-ed"
+Characters:    "\n\r    Surrogate: Laurie Wimmer, former chair of Women�s\n\r    Commission"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "PENNSYLVANIA:"
+End element:   b
+Characters:    "\n\r    Activity 1: Press conference and discussion, in\n\r    Philadelphia"
+Characters:    "\n\r    Surrogates: State Senator Allison Schwartz, Postal workers,\n\r    Businesses for Working Mom's award winner"
+Characters:    "\n\r    Activity 2: Press conference at Mellon Square, in\n\r    Pittsburgh"
+Characters:    "\n\r    Surrogates: Sam Bellin, FMLA advocate and manager of a seniors\n\r    center, Sarah Bellin, research scientist at University of\n\r    Pittsburgh and FMLA advocate, Jim Carroll, an attorney that has\n\r    handed FMLA cases, Lisa Georgetti, Children's Hospital"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "RHODE ISLAND:"
+End element:   b
+Characters:    "\n\r    Activity: Tour of neonatal ICU at Women�s and Infant\n\r    Hospital"
+Characters:    "\n\r    Surrogates: Congressman, Senatorial candidate Jack Reed,\n\r    Doctors, nurses, labor leaders and Citizen's Bank\n\r    employees"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "SOUTH DAKOTA:"
+End element:   b
+Characters:    "\n\r    Activity 1: Press conference at family's home."
+Characters:    "\n\r    Surrogates: Family that has benefitted from FMLA, Pro-FMLA\n\r    business owners"
+Characters:    "\n\r    Activity 2: Radio interviews"
+Characters:    "\n\r    Surrogates: Dr. Jack Billion"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "TENNESSEE:"
+End element:   b
+Characters:    "\n\r    Activity 1: Visit to Johnson City Medical Center Children�s\n\r    Hospital and roundtable discussion at Ronald McDonald House, in\n\r    Johnson City"
+Characters:    "\n\r    Principal: Tipper Gore"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Activity 2: Roundtable discussion at private home, in\n\r    Clarksville"
+Characters:    "\n\r    Principal: Tipper Gore"
+Characters:    "\n\r    Surrogates: Jeff and Tamara Kelly, hosts, Families that have\n\r    benefited from FMLA"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "TEXAS:"
+End element:   b
+Characters:    "\n\r    Activity: Roundtable discussion at Zilker Park, in Austin"
+Characters:    "\n\r    Surrogates: Leslie Hernandez, National Association of Social\n\r    Workers, Cathy Mellgren, Communications Workers of America, Dr.\n\r    Cindy Mangie, a pediatrician, and her children"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "UTAH:"
+End element:   b
+Characters:    "\n\r    Activity: Roundtable discussion at local hospital"
+Characters:    "\n\r    Surrogates: State Sen. Millie Peterson"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "VERMONT:"
+End element:   b
+Characters:    "\n\r    Activity: Op-eds, letters to the Editor, radio\n\r    interviews"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "WASHINGTON:"
+End element:   b
+Characters:    "\n\r    Activity: Open Letter from Senator Murray, Roundtable\n\r    discussion at local hospital"
+Characters:    "\n\r    Surrogates: Gary Locke, Gubernatorial candidate, and\n\r    families"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "WISCONSIN:"
+End element:   b
+Characters:    "\n\r    Activity: Press conference in Racine"
+Characters:    "\n\r    Surrogates: Lydia Spottswood, Congressional candidate, Ellen\n\r    Bravo, 9 to 5 Group (pro-FMLA group), State Senator Kim Plache,\n\r    State Representative Bob Turner"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "WYOMING:"
+End element:   b
+Characters:    "\n\r    Activity: Op-eds and letters to the Editor"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

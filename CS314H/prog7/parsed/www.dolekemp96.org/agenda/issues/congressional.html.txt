@@ -1,0 +1,325 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Where Bob Dole Stands on Congressional and Campaign\n\r  Finance Reform"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: h2
+Key: align, Value: center
+Key: style, Value: text-align:center
+Characters:    "Where Bob Dole\n\r  Stands on Congressional and Campaign Finance Reform"
+End element:   h2
+Characters:    "\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Key: style, Value: margin-bottom:12.0pt
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Many Americans Have Lost Confidence in Our\n\r  Elected Representatives"
+End element:   span
+End element:   b
+Characters:    "\n\r  Too many Americans have lost faith in our elected leaders. Many\n\r  see their representatives as people who live by separate laws and\n\r  are indebted to the big-money special interests that helped elect\n\r  them."
+Characters:    "\n\r  "
+Characters:    "\n\r  Bob Dole believes that the American people deserve meaningful\n\r  political and campaign finance reform. Members of Congress must\n\r  be held accountable to their constituents and live under the same\n\r  laws as the American people. And the current system through which\n\r  we finance political campaigns must be fixed."
+Characters:    "\n\r  "
+Characters:    "\n\r  That's why one of Dole's final acts as a Senator was to introduce\n\r  legislation creating an independent campaign-finance reform\n\r  commission whose recommendations would receive a straight up or\n\r  down vote in Congress."
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Bob Dole Has Fought for\n\r  Meaningful Congressional Reform"
+End element:   span
+End element:   b
+Characters:    "\n\r  Bob Dole's record shows a solid commitment to true reform. During\n\r  his career, Bob Dole:"
+End element:   p
+Characters:    "\n\r  "
+Start element: ul
+Key: type, Value: disc
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l28 level1 lfo5;tab-stops:list .5in
+Characters:    "\n\r    Introduced his first campaign finance reform measures in 1974.\n\r    These measures strengthened reporting and disclosure\n\r    requirements for federal elections."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l28 level1 lfo5;tab-stops:list .5in
+Characters:    "\n\r    Voted more than 30 times against congressional pay\n\r    increases."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l28 level1 lfo5;tab-stops:list .5in
+Characters:    "\n\r    Voted to prohibit members of Congress from receiving\n\r    honoraria."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l28 level1 lfo5;tab-stops:list .5in
+Characters:    "\n\r    Pushed the Congressional Accountability Act through Congress\n\r    which requires members of Congress to live under the same laws\n\r    that apply to everyone else."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l28 level1 lfo5;tab-stops:list .5in
+Characters:    "\n\r    Led the Senate to pass the first comprehensive lobbying reform\n\r    in over 45 years. The bill tightened registration and\n\r    disclosure requirements for lobbyists, without infringing upon\n\r    the ability of Americans to petition their government."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l28 level1 lfo5;tab-stops:list .5in
+Characters:    "\n\r    Led the successful effort last year to amend the Senate's\n\r    ethics rules that sharply restrict the ability of Senators to\n\r    receive gifts."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l28 level1 lfo5;tab-stops:list .5in
+Characters:    "\n\r    Introduced legislation to ban contributions by political action\n\r    committees, restrict fundraising outside a candidate's own\n\r    state, prohibit taxpayer-financed \"franked\" mass mailings a\n\r    full year before an election, and ban the practice of\n\r    \"bundling\" contributions. Bob Dole has not sent mass mailings\n\r    for years."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;margin-bottom:12.0pt; mso-list:l28 level1 lfo5;tab-stops:list .5in
+Characters:    "\n\r    Introduced legislation to prohibit members of Congress from\n\r    using the \"franked\" mailing privilege to solicit money."
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "The Dole Administration Will\n\r    Continue to Support Congressional Reform."
+End element:   span
+End element:   b
+Characters:    "\n\r    As President, Bob Dole will:"
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l28 level1 lfo5;tab-stops:list .5in
+Characters:    "\n\r    Support an Amendment to the Constitution to establish a\n\r    two-term limit for Senators and six-term limit for House\n\r    members."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l28 level1 lfo5;tab-stops:list .5in
+Characters:    "\n\r    Limit the power of special interest groups."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l28 level1 lfo5;tab-stops:list .5in
+Characters:    "\n\r    Push for representatives to be more accountable to their\n\r    constituents."
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Bill Clinton Favors Special\n\r    Interests and Opposes Term Limits"
+End element:   span
+End element:   b
+Characters:    "\n\r    While an overwhelming majority of Americans support term\n\r    limits, Bill Clinton has stalled. He has fought against term\n\r    limits and has failed to reduce the influence of special\n\r    interests in Washington."
+Characters:    "\n\r    "
+Characters:    "\n\r    Even members of his own party have noticed. \"The president\n\r    likes special-interest sugar to sprinkle around the country,\"\n\r    said Sen. Bill Bradley (D-NJ). \"He's doing what it takes to get\n\r    reelected.\" (The Washington Post, June 14, 1995)"
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "A Better\n\r    America"
+End element:   span
+End element:   b
+Characters:    "\n\r    With Bob Dole as President, there will be real campaign finance\n\r    reform. Bob Dole will fight for the American people -- not\n\r    special interest groups."
+End element:   li
+Characters:    "\n\r  "
+End element:   ul
+Characters:    "\n\r  "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../../news/news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    " "
+Start element: a
+Key: href, Value: ../agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the\n\r  Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

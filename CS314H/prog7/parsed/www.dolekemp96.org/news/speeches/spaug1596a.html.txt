@@ -1,0 +1,518 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Speech made on August 15, 1996"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: b
+Start element: font
+Key: size, Value: +1
+Characters:    "August 15, 1996"
+End element:   font
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: -1
+Characters:    "Remarks by Senator Bob Dole"
+End element:   font
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: -1
+Characters:    "Dole Accepts Nomination"
+End element:   font
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: -1
+Characters:    "San Diego, California"
+End element:   font
+Characters:    "\n\r    &nbsp;"
+End element:   b
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    The folks in Hollywood would be happy to know that I finally\n\r    found a movie I liked -- the one I just saw."
+Characters:    "\n\r    "
+Characters:    "\n\r    This is a big night for me, and I'm ready. We're ready to\n\r    go."
+Characters:    "\n\r    "
+Characters:    "\n\r    Thank you, California. And thank you, San Diego for hosting the\n\r    greatest Republican convention of them all. The greatest of\n\r    them all."
+Characters:    "\n\r    "
+Characters:    "\n\r    Thank you, President Ford and President Bush. And God bless\n\r    you, Nancy Reagan for your moving tribute to President\n\r    Reagan."
+Characters:    "\n\r    "
+Characters:    "\n\r    By the way, I spoke to President Reagan this afternoon, and I\n\r    made him a promise that we would win one more for the Gipper.\n\r    Are you ready?"
+Characters:    "\n\r    "
+Characters:    "\n\r    Thank you. And he appreciated it very much."
+Characters:    "\n\r    "
+Characters:    "\n\r    Ladies and gentlemen, delegates to the convention, and fellow\n\r    citizens, I cannot say it more clearly than in plain speaking.\n\r    I accept your nomination to lead our party once again to the\n\r    Presidency of the United States."
+Characters:    "\n\r    "
+Characters:    "\n\r    And I am profoundly moved by your confidence and trust, and I\n\r    look forward to leading America into the next century. But this\n\r    is not my moment, it is yours. It is yours, Elizabeth. It is\n\r    yours, Robin. It is yours, Jack and Joanne Kemp."
+Characters:    "\n\r    "
+Characters:    "\n\r    And do not think I have forgotten whose moment this is above\n\r    all. It is for the people of America that I stand here tonight,\n\r    and by their generous leave. And as my voice echoes across\n\r    darkness and desert, as it is heard over car radios on coastal\n\r    roads, and as it travels above farmland and suburb, deep into\n\r    the heart of cities that, from space, look tonight like strings\n\r    of sparkling diamonds, I can tell you that I know whose moment\n\r    this is: It is yours. It is yours entirely."
+Characters:    "\n\r    "
+Characters:    "\n\r    And who am I that stands before you tonight?"
+Characters:    "\n\r    "
+Characters:    "\n\r    I was born in Russell, Kansas, a small town in the middle of\n\r    the prairie surrounded by wheat and oil wells. As my neighbors\n\r    and friends from Russell, who tonight sit in front of this\n\r    hall, know well, Russell, though not the West, looks out upon\n\r    the West."
+Characters:    "\n\r    "
+Characters:    "\n\r    And like most small towns on the plains, it is a place where no\n\r    one grows up without an intimate knowledge of distance."
+Characters:    "\n\r    "
+Characters:    "\n\r    And the first thing you learn on the prairie is the relative\n\r    size of a man compared to the lay of the land. And under the\n\r    immense sky where I was born and raised, a man is very small,\n\r    and if he thinks otherwise, he is wrong."
+Characters:    "\n\r    I come from good people, very good people, and I'm proud of it.\n\r    My father's name was Doran and my mother's name was Bina. I\n\r    loved them and there's no moment when my memory of them and my\n\r    love for them does not overshadow anything I do -- even this,\n\r    even here -- and there is no height to which I have risen that\n\r    is high enough to allow me to allow me to forget them -- to\n\r    allow me to forget where I came from, and where I stand and how\n\r    I stand -- with my feet on the ground, just a man at the mercy\n\r    of God."
+Characters:    "\n\r    "
+Characters:    "\n\r    And this perspective has been strengthened and solidified by a\n\r    certain wisdom that I owe not to any achievement of my own, but\n\r    to the gracious compensations of age."
+Characters:    "\n\r    "
+Characters:    "\n\r    Now I know that in some quarters I may not -- may be expected\n\r    to run from this, the truth of this, but I was born in 1923,\n\r    and facts are better than dreams and good presidents and good\n\r    candidates don't run from the truth."
+Characters:    "\n\r    "
+Characters:    "\n\r    I do not need the presidency to make or refresh my soul. That\n\r    false hope I will gladly leave to others. For greatness lies\n\r    not in what office you hold, but on how honest you are in how\n\r    you face adversity and in your willingness to stand fast in\n\r    hard places."
+Characters:    "\n\r    "
+Characters:    "\n\r    Age has its advantages."
+Characters:    "\n\r    "
+Characters:    "\n\r    Let me be the bridge to an America than only the unknowing call\n\r    myth. Let me be the bridge to a time of tranquility, faith and\n\r    confidence in action."
+Characters:    "\n\r    "
+Characters:    "\n\r    And to those who say it was never so, that America's not been\n\r    better, I say you're wrong. And I know because I was there. And\n\r    I have seen it. And I remember."
+Characters:    "\n\r    "
+Characters:    "\n\r    And our nation, though wounded and scathed, has outlasted\n\r    revolutions, civil war, world war, racial oppression and\n\r    economic catastrophe. We have fought and prevailed on almost\n\r    every continent. And in almost every sea."
+Characters:    "\n\r    "
+Characters:    "\n\r    We have even lost. But we have lasted, and we have always come\n\r    through."
+Characters:    "\n\r    "
+Characters:    "\n\r    And what enabled us to accomplish this has little to do with\n\r    the values of the present. After decades of assault upon what\n\r    made America great, upon supposedly obsolete values, what have\n\r    we reaped? What have we created? What do we have?"
+Characters:    "\n\r    "
+Characters:    "\n\r    What we have in the opinions of millions of Americans is crime\n\r    and drugs, illegitimacy, abortion, the abdication of duty, and\n\r    the abandonment of children."
+Characters:    "\n\r    "
+Characters:    "\n\r    And after the virtual devastation of the American family, the\n\r    rock upon which this country was founded, we are told that it\n\r    takes a village, that is collective, and thus the state, to\n\r    raise a child."
+Characters:    "\n\r    "
+Characters:    "\n\r    The state is now more involved than it ever has been in the\n\r    raising of children. And children are now more neglected, more\n\r    abused and more mistreated than they have been in our time."
+Characters:    "\n\r    "
+Characters:    "\n\r    This is not a coincidence. This is not a coincidence. And with\n\r    all due respect, I am here to tell you it does not take a\n\r    village to raise a child. It takes a family to raise a\n\r    child."
+Characters:    "\n\r    "
+Characters:    "\n\r    If I could by magic restore to every child who lacks a father\n\r    or a mother that father or that mother, I would. And though I\n\r    cannot, I would never turn my back on them. And I shall as\n\r    President vote measures that keep families whole."
+Characters:    "\n\r    "
+Characters:    "\n\r    And I'm here to tell you that permissive and destructive\n\r    behavior must be opposed. That honor and liberty must be\n\r    restored and that individual accountability must replace\n\r    collective excuse."
+Characters:    "\n\r    "
+Characters:    "\n\r    And I'm here to say I am here to say to America, do not abandon\n\r    the great traditions that stretch to the dawn of our history.\n\r    Do not topple the pillars of those beliefs -- God, family,\n\r    honor, duty, country -- that have brought us through time, and\n\r    time, and time, and time again."
+Characters:    "\n\r    "
+Characters:    "\n\r    And to those who believe that I am too combative, I say if I am\n\r    combative, it is for love of country. It is to uphold a\n\r    standard that I was I was born and bread to defend. And to\n\r    those who believe that I live and breathe compromise, I say\n\r    that in politics honorable compromise is no sin. It is what\n\r    protects us from absolutism and intolerance."
+Characters:    "\n\r    "
+Characters:    "\n\r    But one must never compromise in regard to God and family and\n\r    honor and duty and country. And I'm here to set a marker, that\n\r    all may know that it is possible to rise in politics, with\n\r    these things firmly in mind, not compromised and never\n\r    abandoned, never abandoned."
+Characters:    "\n\r    "
+Characters:    "\n\r    For the old values endure and though they may sleep and though\n\r    they may falter, they endure. I know this is true. And to\n\r    anyone who believes that restraint honor and trust in the\n\r    people cannot be returned to government, I say follow me,\n\r    follow me."
+Characters:    "\n\r    "
+Characters:    "\n\r    Only right conduct, only right conduct distinguishes a great\n\r    nation from one that cannot rise above itself. It has never\n\r    been otherwise."
+Characters:    "\n\r    "
+Characters:    "\n\r    Right conduct every day, at every level, in all facets of life.\n\r    The decision of a child not to use drugs; of a student not to\n\r    cheat; of a young woman or a young man to serve when called; of\n\r    a screenwriter to refuse to add to mountains of trash; of a\n\r    businessman not to bribe; of a politician to cast a vote or\n\r    take action that will put his office or his chances of victory\n\r    at risk, but which is right."
+Characters:    "\n\r    "
+Characters:    "\n\r    And why have so many of us -- and I do not exclude myself, for\n\r    I am not the model of perfection -- why have so many of us been\n\r    failing these tests for so long? The answer is not a mystery.\n\r    It is to the contrary quite simple and can be given quite\n\r    simply."
+Characters:    "\n\r    "
+Characters:    "\n\r    It is because for too long we have had a leadership that has\n\r    been unwilling to risk the truth, to speak without calculation,\n\r    to sacrifice itself."
+Characters:    "\n\r    "
+Characters:    "\n\r    An administration, in its very existence, communicates this day\n\r    by day until it flows down like rain and the rain becomes a\n\r    river and the river becomes a flood."
+Characters:    "\n\r    "
+Characters:    "\n\r    Which is more important, wealth or honor?"
+Characters:    "\n\r    "
+Characters:    "\n\r    It is not as was said by the victors four years ago, the\n\r    economy stupid. It's a kind of nation we are. It's whether we\n\r    still possess the wit and determination to deal with many\n\r    questions including economic questions, but certainly not\n\r    limited to them. All things do not flow from wealth or poverty.\n\r    I know this firsthand and so do you."
+Characters:    "\n\r    "
+Characters:    "\n\r    All things flow from doing what is right."
+Characters:    "\n\r    "
+Characters:    "\n\r    The cry of this nation lies not in its material wealth but in\n\r    courage, and sacrifice and honor. We tend to forget when\n\r    leaders forget. And we tend to remember it when they remember\n\r    it."
+Characters:    "\n\r    "
+Characters:    "\n\r    The high office of the presidency requires not a continuous\n\r    four year campaign for re-election, but rather broad oversight\n\r    and attention to three essential areas: the material, the moral\n\r    and the nation's survival in that ascending order of\n\r    importance."
+Characters:    "\n\r    "
+Characters:    "\n\r    In the last presidential election, you the people were gravely\n\r    insulted. You were told that the material was not only the most\n\r    important of these three, but in fact, really the only one that\n\r    mattered."
+Characters:    "\n\r    "
+Characters:    "\n\r    I don't hold to that for a moment. No one can deny the\n\r    importance of material well-being. And in this regard, it is\n\r    time to recognize we have surrendered too much of our economic\n\r    liberty. I do not appreciate the value of economic liberty\n\r    nearly as much for what it has done in keeping us fed, as to\n\r    what it's done in keeping us free."
+Characters:    "\n\r    "
+Characters:    "\n\r    The freedom of the marketplace is not merely the best guarantor\n\r    of our prosperity. It is the chief guarantor of our rights, and\n\r    a government that seizes control of the economy for the good of\n\r    the people ends up seizing control of the people for the good\n\r    of the economy."
+Characters:    "\n\r    "
+Characters:    "\n\r    And our opponents portray the right to enjoy the fruits of\n\r    one's own time and labor as a kind selfishness against which\n\r    they must fight for the good of the nation. But they are deeply\n\r    mistaken, for when they gather to themselves the authority to\n\r    take the earnings and direct the activities of the people, they\n\r    are fighting not for our sake but for the power to tell us what\n\r    to do."
+Characters:    "\n\r    "
+Characters:    "\n\r    And you now work from the first of January to May just to pay\n\r    your taxes so that the party of government can satisfy its\n\r    priorities with the sweat of your brow because they think that\n\r    what you would do with your own money would be morally and\n\r    practically less admirable than what they would do with it."
+Characters:    "\n\r    And that simply has got to stop. It's got to stop in\n\r    America."
+Characters:    "\n\r    "
+Characters:    "\n\r    It is demeaning to the nation that within the Clinton\n\r    administration, a core of the elite who never grew up, never\n\r    did anything real, never sacrificed, never suffered and never\n\r    learned, should have the power to fund with your earnings their\n\r    dubious and self-serving schemes."
+Characters:    "\n\r    "
+Characters:    "\n\r    Somewhere, a grandmother couldn't afford to call her\n\r    granddaughter, or a child went without a book, or a family\n\r    couldn't afford that first home because there was just not\n\r    enough money to make the call, or to buy the book, or to pay\n\r    the mortgage. Or, for that matter, to do many other things that\n\r    one has the right and often the obligation to do."
+Characters:    "\n\r    "
+Characters:    "\n\r    Why? Because some genius in the Clinton administration took the\n\r    money to fund yet another theory, yet another program and yet\n\r    another bureaucracy. Are they taking care of you, or are they\n\r    taking care of themselves?"
+Characters:    "\n\r    "
+Characters:    "\n\r    I have asked myself that question. And I say, let the people be\n\r    free. Free to keep. Let the people be free to keep as much of\n\r    what they earn as the government can strain with all its might\n\r    not to take, not the other way around."
+Characters:    "\n\r    "
+Characters:    "\n\r    I trust the American people to work in the best interest of the\n\r    people. And I believe that every family, wage earner and small\n\r    business in America can do better -- if only we have the right\n\r    policies in Washington, D.C."
+Characters:    "\n\r    "
+Characters:    "\n\r    And make no mistake about it, my economic program is the right\n\r    policy for America and for the future, and for the next\n\r    century."
+Characters:    "\n\r    "
+Characters:    "\n\r    Here's what it will mean to you. Here's what it will mean to\n\r    you. It means you will have a president who will urge Congress\n\r    to pass and send to the states for ratification a balanced\n\r    budget amendment to the Constitution."
+Characters:    "\n\r    "
+Characters:    "\n\r    It means you will have a president and a Congress who have the\n\r    will to balance the budget by the year 2002. It means you will\n\r    have a president who will reduce taxes 15 percent\n\r    across-the-board for every taxpayer in America."
+Characters:    "\n\r    "
+Characters:    "\n\r    And it will include a $500 per child tax credit for lower and\n\r    middle income families in America. Taxes for a family of four\n\r    making $35,000 a year would be reduced by more than half -- 56\n\r    percent to be exact. And that's a big, big reduction."
+Characters:    "\n\r    "
+Characters:    "\n\r    It means you will have a president who will help small\n\r    businesses, the businesses that create most new jobs, by\n\r    reducing the capital gains tax rate by 50 percent. Cut it in\n\r    half. It means you will have a president who will end the IRS\n\r    as we know it."
+Characters:    "\n\r    "
+Characters:    "\n\r    It means you will have a president who will expand individual\n\r    retirement accounts, repeal President Clinton's Social Security\n\r    tax increase, provide estate tax relief, reduce government\n\r    regulations, reform our civil justice system, provide\n\r    educational opportunity scholarships and a host of other\n\r    proposals that will create more opportunity for all Americans\n\r    and all across America."
+Characters:    "\n\r    "
+Characters:    "\n\r    And I will not stop there. Working with Jack Kemp and a\n\r    Republican Congress I will not be satisfied until we have\n\r    reformed our entire tax code and made it fairer and flatter and\n\r    simpler for the American people."
+Characters:    "\n\r    "
+Characters:    "\n\r    The principle involved here is time-honored and true, and that\n\r    is, it's your money. You shouldn't have to apologize for\n\r    wanting to keep what you earn. To the contrary, the government\n\r    should apologize for taking too much of it."
+Characters:    "\n\r    "
+Characters:    "\n\r    The Clinton administration -- the Clinton administration just\n\r    doesn't get it. And that's why they have got to go."
+Characters:    "\n\r    "
+Characters:    "\n\r    The president -- the president's content with the way things\n\r    are. I am not. We must commit ourselves to a far more ambitious\n\r    path that puts growth, expanding opportunities, rising incomes\n\r    and soaring prosperity at the heart of national policy."
+Characters:    "\n\r    "
+Characters:    "\n\r    We must also commit ourselves to a trade policy that does not\n\r    suppress pay and threaten American jobs. And by any measure,\n\r    the trade policies of the Clinton administration has been a\n\r    disaster. Trade deficits are skyrocketing and middle income\n\r    families are paying the price."
+Characters:    "\n\r    "
+Characters:    "\n\r    My administration will fully enforce our trade laws and not let\n\r    our national sovereignty be infringed by the World Trade\n\r    Organization or any other international body."
+Characters:    "\n\r    "
+Characters:    "\n\r    Jack Kemp and I will restore the promise of America and get the\n\r    economy moving again, and we'll do so without leaving anybody\n\r    behind."
+Characters:    "\n\r    "
+Characters:    "\n\r    And I have learned in my own life, from my own experience that\n\r    not every man, woman or child can make it on their own. And\n\r    that in time of need, the bridge between failure and success\n\r    can be the government itself. And given all that I have\n\r    experienced, I shall always remember those in need. That is why\n\r    I helped to save Social Security in 1983 and that is why I will\n\r    be, I will be the president who preserves and strengthens and\n\r    protects Medicare for America's senior citizens."
+Characters:    "\n\r    "
+Characters:    "\n\r    For I will never forget the man who rode on a train from Kansas\n\r    to Michigan to see his son who was thought to be dying in an\n\r    Army hospital. When he arrived, his feet were swollen and he\n\r    could hardly walk because he had to make the trip from Kansas\n\r    to Michigan standing up most of the way."
+Characters:    "\n\r    "
+Characters:    "\n\r    Who was that man? He was my father. My father was poor and I\n\r    love my father. Do you imagine for one minute that as I sign\n\r    the bills that will set the economy free, I will not be\n\r    faithful to Americans in need? You can be certain that I\n\r    will."
+Characters:    "\n\r    "
+Characters:    "\n\r    For to do otherwise would be to betray those whom I love and\n\r    honor most. And I will betray nothing."
+Characters:    "\n\r    "
+Characters:    "\n\r    Let me speak about immigration. Yes. Let me speak about\n\r    immigration. The right and obligation of a sovereign nation to\n\r    control its borders is beyond debate. We should not have here a\n\r    single illegal immigrant."
+Characters:    "\n\r    "
+Characters:    "\n\r    But the question of immigration is broader than that, and let\n\r    me specific. A family from Mexico arrives this morning legally\n\r    has as much right to the American Dream as the direct descents\n\r    of the Founding Fathers."
+Characters:    "\n\r    "
+Characters:    "\n\r    The Republican Party is broad and inclusive. It represents --\n\r    The Republican Party is broad and inclusive. It represents many\n\r    streams of opinion and many points of view."
+Characters:    "\n\r    "
+Characters:    "\n\r    But if there's anyone who has mistakenly attached themselves to\n\r    our party in the belief that we are not open to citizens of\n\r    every race and religion, then let me remind you, tonight this\n\r    hall belongs to the Party of Lincoln. And the exits which are\n\r    clearly marked are for you to walk out of as I stand this\n\r    ground without compromise."
+Characters:    "\n\r    "
+Characters:    "\n\r    And though, I can only look up -- and though I can look up, and\n\r    at a very steep angle, to Washington and Lincoln, let me remind\n\r    you of their concern for the sometimes delicate unity of the\n\r    people."
+Characters:    "\n\r    "
+Characters:    "\n\r    The notion that we are and should be one people rather than\n\r    \"peoples\" of the United States seems so self-evident and\n\r    obvious that it's hard for me to imagine that I must defend it.\n\r    When I was growing up in Russell, Kansas, it was clear to me\n\r    that my pride and my home were in America, not in any faction,\n\r    and not in any division."
+Characters:    "\n\r    "
+Characters:    "\n\r    In this I was heeding, even as I do unto this day, Washington's\n\r    eloquent rejection of factionalism. I was honoring, even as I\n\r    do unto this day, Lincoln's word, his life and his sacrifice.\n\r    The principle of unity has been with us in all our\n\r    successes."
+Characters:    "\n\r    "
+Characters:    "\n\r    The 10th Mountain Division, in which I served in Italy, and the\n\r    Black troops of the 92ndm Division who fought nearby were the\n\r    proof for me once again of the truth I'm here trying to\n\r    convey."
+Characters:    "\n\r    "
+Characters:    "\n\r    The war was fought just a generation after America's greatest\n\r    and most intense period of immigration. And yet when the blood\n\r    of the sons of immigrants and the grandsons of slaves fell on\n\r    foreign fields, it was American blood. In it you could not read\n\r    the ethnic particulars of the soldier who died next to you. He\n\r    was an American."
+Characters:    "\n\r    "
+Characters:    "\n\r    And when I think how we learned this lesson I wonder how we\n\r    could have unlearned it. Is the principle of unity, so\n\r    hard-fought and at the cost of so many lives, having been\n\r    contested again and again in our history, and at such a\n\r    terrible price, to be casually abandoned to the urge to\n\r    divide?"
+Characters:    "\n\r    The answer is no."
+Characters:    "\n\r    "
+Characters:    "\n\r    Must we give in to the senseless drive to break apart that\n\r    which is beautiful and whole and good?"
+Characters:    "\n\r    "
+Characters:    "\n\r    And so tonight I call on every American to rise above all that\n\r    may divide us, and to defend the unity of the nation for the\n\r    honor of generations past, and the sake of those to come."
+Characters:    "\n\r    "
+Characters:    "\n\r    The Constitution of the United States mandates equal protection\n\r    under the law. This is not code language for racism. It is\n\r    plain speaking against it."
+Characters:    "\n\r    "
+Characters:    "\n\r    And the guiding light in my administration will be that in this\n\r    country, we have no rank order by birth, no claim to favoritism\n\r    by race, no expectation of judgment other than it be\n\r    even-handed. And we cannot guarantee the outcome, but we shall\n\r    guarantee the opportunity in America."
+Characters:    "\n\r    "
+Characters:    "\n\r    I will speak plainly -- I will speak plainly on another subject\n\r    of importance. We're not educating all of our children. Too\n\r    many are being forced to absorb the fads of the moment."
+Characters:    "\n\r    "
+Characters:    "\n\r    Not for the nothing are we the biggest education spenders and\n\r    among the lowest education achievers among the leading\n\r    industrial nations."
+Characters:    "\n\r    "
+Characters:    "\n\r    The teachers unions nominated Bill Clinton in 1992. They're\n\r    funding his re-election now. And they, his most reliable\n\r    supporters, know he will maintain the status quo."
+Characters:    "\n\r    "
+Characters:    "\n\r    And I say this -- I say this not to the teachers, but to their\n\r    unions. I say this, if education were a war, you would be\n\r    losing it. If it were a business, you would be driving it into\n\r    bankruptcy. If it were a patient, it would be dying."
+Characters:    "\n\r    "
+Characters:    "\n\r    And to the teachers union, I say, when I am president, I will\n\r    disregard your political power for the sake of the parents, the\n\r    children, the schools and the nation. I plan to enrich your\n\r    vocabulary with those words you fear -- school choice and\n\r    competition and opportunity scholarships."
+Characters:    "\n\r    "
+Characters:    "\n\r    All this for low and middle income families so that you will\n\r    join the rest of us in accountability, while others compete\n\r    with you for the commendable privilege of giving our children a\n\r    real education."
+Characters:    "\n\r    "
+Characters:    "\n\r    There is no reason why those who live on any street in America\n\r    should not have the same right as the person who lives at 1600\n\r    Pennsylvania Avenue -- the right to send your child to the\n\r    school of your choice."
+Characters:    "\n\r    "
+Characters:    "\n\r    And if we want to reduce crime -- if we want to reduce crime\n\r    and drug use and teen pregnancies, let's start by giving all\n\r    our children a first-class education."
+Characters:    "\n\r    "
+Characters:    "\n\r    And I also want these children to inherit a country that is far\n\r    safer than it is at present. I seek for our children and\n\r    grandchildren a world more open and with more opportunity than\n\r    ever before."
+Characters:    "\n\r    "
+Characters:    "\n\r    But in wanting these young Americans to be able to make the\n\r    best of this, I want first and foremost for them to be safe. I\n\r    want to remove the shadow that darkens opportunities for every\n\r    man, woman and child in America."
+Characters:    "\n\r    "
+Characters:    "\n\r    We are a nation paralyzed by crime. And it's time to end that\n\r    in America."
+Characters:    "\n\r    "
+Characters:    "\n\r    And to do so, I mean to attack the root cause of crime --\n\r    criminals, criminals, violent criminals."
+Characters:    "\n\r    "
+Characters:    "\n\r    And as our many and voracious criminals go to bed tonight, at\n\r    say, 6:00 in the morning, they had better pray that I lose this\n\r    election because if I win, the lives of violent criminals are\n\r    going to be hell."
+Characters:    "\n\r    "
+Characters:    "\n\r    During the Reagan administration -- during the Reagan\n\r    administration we abolished parole at the federal level. In the\n\r    Dole administration we will work with the nation's governors to\n\r    abolish parole for violent criminals all across America. And\n\r    with my national instant check initiative, we will keep all\n\r    guns out of the hands of criminals."
+Characters:    "\n\r    "
+Characters:    "\n\r    And I have been asked if I have a litmus tests for judges. I\n\r    do."
+Characters:    "\n\r    "
+Characters:    "\n\r    My litmus test for judges is that they be intolerant of\n\r    outrage; that their passion is not to amend, but to interpret\n\r    the Constitution that they are restrained in regard to those\n\r    who live within the law, and strict with those who break\n\r    it."
+Characters:    "\n\r    "
+Characters:    "\n\r    And for those who say that I should not make President\n\r    Clinton's liberal judicial appointments an issue in this\n\r    campaign, I have a simple response. I have heard your\n\r    argument."
+Characters:    "\n\r    "
+Characters:    "\n\r    The motion is denied."
+Characters:    "\n\r    "
+Characters:    "\n\r    I save my respect for the Constitution, not for those who would\n\r    ignore it, violate it or replace it with conceptions of their\n\r    own fancy."
+Characters:    "\n\r    "
+Characters:    "\n\r    My administration will zealously protect civil and\n\r    constitutional rights while never forgetting that our primary\n\r    duty is protecting law abiding citizens, everybody in this\n\r    hall."
+Characters:    "\n\r    "
+Characters:    "\n\r    I have no intention of ignoring violent -- I said violent\n\r    criminals, understanding them or buying them off. A nation that\n\r    cannot defend itself from outrage does not deserve to survive.\n\r    And a president who cannot lead itself against those who prey\n\r    upon it does not deserve to be president of the United States\n\r    of America."
+Characters:    "\n\r    "
+Characters:    "\n\r    I am prepared to risk more political capital in defense of\n\r    domestic tranquility than any president you have ever known.\n\r    The time for such risk is long overdue."
+Characters:    "\n\r    "
+Characters:    "\n\r    And in defending our nation from external threats, the\n\r    requirements of survival cannot merely be finessed. There is no\n\r    room for margin of error. On this subject perhaps more than any\n\r    other, a president must level with the people and be prepared\n\r    to take political risks. And I would rather do what is called\n\r    for in this regard and be unappreciated, than fail to do so and\n\r    win universal acclaim."
+Characters:    "\n\r    "
+Characters:    "\n\r    And it must be said because of misguided priorities there have\n\r    been massive cuts in funding for our national security. I\n\r    believe President Clinton has failed to adequately provide for\n\r    our defense. And for whatever reason the neglect, it is\n\r    irresponsible."
+Characters:    "\n\r    "
+Characters:    "\n\r    I ask that you consider these crystal-clear differences. He\n\r    believes that it is acceptable to ask our military forces to\n\r    more with less. I do not."
+Characters:    "\n\r    "
+Characters:    "\n\r    He defends giving a green light to a terrorist state, Iran, to\n\r    expand its influence in Europe. And he relies on the United\n\r    Nations to punish Libyan terrorists who murdered American\n\r    citizens. I will not. He believes that defending our people and\n\r    our territory from missile attack is unnecessary. I do not."
+Characters:    "\n\r    "
+Characters:    "\n\r    And on my first day in office, I will put America on a course\n\r    that will end our vulnerability to missile attack and rebuild\n\r    our armed forces."
+Characters:    "\n\r    "
+Characters:    "\n\r    It is a course President Clinton has refused to take. And on my\n\r    first day in office, I will put terrorists on notice. If you\n\r    harm one American, you harm all Americans. And America will\n\r    pursue you to the ends of the earth."
+Characters:    "\n\r    "
+Characters:    "\n\r    In short, don't mess with us if you're not prepared to suffer\n\r    the consequences."
+Characters:    "\n\r    "
+Characters:    "\n\r    And furthermore, the lesson has always been clear, if we are\n\r    prepared to defend, if we are prepared to fight many wars and\n\r    greater wars than any wars that come, we will have to fight\n\r    fewer wars and lesser wars and perhaps no wars at all."
+Characters:    "\n\r    "
+Characters:    "\n\r    It has always been so and will ever be so. And I'm not the\n\r    first to say that the long gray line has never failed us, and\n\r    it never has."
+Characters:    "\n\r    "
+Characters:    "\n\r    For those who might be sharply taken aback and thinking of\n\r    Vietnam, think again. For in Vietnam the long gray line did not\n\r    fail us, we failed it in Vietnam."
+Characters:    "\n\r    "
+Characters:    "\n\r    The American soldier -- the American soldier was not made for\n\r    the casual and arrogant treatment that he suffered there, where\n\r    he was committed without clear purpose or resolve, bound by\n\r    rules that prevented victory, and kept waiting in the valley of\n\r    the shadow of death for 10 years while the nation invaded the\n\r    undebatable question of his honor."
+Characters:    "\n\r    "
+Characters:    "\n\r    No, the American soldier was not to be thrown into battle\n\r    without a clear purpose or resolve, not made to be abandoned in\n\r    the field of battle, not made to give his life for indifference\n\r    or lack of respect. And I will never commit the American\n\r    soldier to an ordeal without the prospect of victory."
+Characters:    "\n\r    "
+Characters:    "\n\r    And when I am president, and when I am president every man, and\n\r    every women in our armed forces will know the president is\n\r    Commander-in-Chief, not Boutros Boutros-Ghali or any other UN\n\r    Secretary General."
+Characters:    "\n\r    "
+Characters:    "\n\r    This I owe not only to the living, but to the dead, to every\n\r    patriot, to every patriot grave, to the ghosts of Valley Forge,\n\r    of Flanders Field, of Bataan, the Chosin Reservoir, Khe Sanh,\n\r    and the Gulf."
+Characters:    "\n\r    "
+Characters:    "\n\r    This I owe to the men who died on the streets of Mogadishu not\n\r    three year ago, to the shadows on the bluffs of Normandy, to\n\r    the foot soldiers who never came home, to the airmen who fell\n\r    to earth, and the sailors who rest perpetually at sea."
+Characters:    "\n\r    "
+Characters:    "\n\r    This is not an issue of politics, but far graver than that.\n\r    Like the bond of trust between parent and child, it is the\n\r    lifeblood of the nation. It commands not only sacrifice but a\n\r    grace in leadership embodying both caution and daring at the\n\r    same time. And this we owe not only to ourselves. Our Allies\n\r    demand consistency and resolve, which they deserve from us as\n\r    we deserve it from them. But even if they falter, we cannot,\n\r    for history has made us the leader, and we are obliged by\n\r    history to keep the highest standard possible."
+Characters:    "\n\r    "
+Characters:    "\n\r    And in this regard may I remind you of the nation's debt to\n\r    Presidents Nixon, Ford, Reagan and Bush. President Nixon\n\r    engaged China and the Soviet Union with diplomatic genius.\n\r    President Ford, who gave me my start in 1976, stood fast in a\n\r    time of great difficulty, and with the greatest of dignity.\n\r    Were it not for President Reagan, the Soviet Union would still\n\r    be standing today."
+Characters:    "\n\r    "
+Characters:    "\n\r    He brought the Cold War to an end, not, as some demanded,\n\r    through compromise and surrender -- but by winning it. That's\n\r    how he brought the Cold War to an end."
+Characters:    "\n\r    "
+Characters:    "\n\r    And President Bush, with a mastery that words fail to convey,\n\r    guided the Gulf War coalition and its military forces to\n\r    victory. A war that might have lasted years and taken the lives\n\r    of tens of thousands of Americans passed so swiftly and passed\n\r    so smoothly that history has yet to catch its breath and give\n\r    him the credit he is due."
+Characters:    "\n\r    "
+Characters:    "\n\r    History is like that. History is like that. Whenever we forget\n\r    its singular presence, it gives us a lesson in grace and\n\r    awe."
+Characters:    "\n\r    "
+Characters:    "\n\r    And when I look back on my life, I see less and less of myself\n\r    and more and more a history of this civilization that we have\n\r    made that is called America."
+Characters:    "\n\r    "
+Characters:    "\n\r    And I am content and always will be content to see my own story\n\r    subsumed in great events, the greatest of which is the simple\n\r    onward procession of the American people. What a high privilege\n\r    it is to be at the center in these times -- and this I owe to\n\r    you, the American people."
+Characters:    "\n\r    "
+Characters:    "\n\r    I owe everything to you. And to make things right, and to close\n\r    the circle, I will return to you as much as I possibly can. It\n\r    is incumbent upon me to do so. It is my duty and my deepest\n\r    desire. And so tonight, I respectfully -- I respectfully ask\n\r    for your blessing and your support."
+Characters:    "\n\r    "
+Characters:    "\n\r    The election will not be decided -- the election will not be\n\r    decided by the polls or by the opinion-makers or by the\n\r    pundits."
+Characters:    "\n\r    "
+Characters:    "\n\r    It will be decided by you. It will be decided by you."
+Characters:    "\n\r    "
+Characters:    "\n\r    And I ask for your vote so that I may bring you an\n\r    administration that is able, honest, and trusts in you."
+Characters:    "\n\r    "
+Characters:    "\n\r    For the fundamental issue is not of policy, but of trust -- not\n\r    merely whether the people trust the president, but whether the\n\r    president and his party trust the people, trust in their\n\r    goodness and their genius for recovery."
+Characters:    "\n\r    "
+Characters:    "\n\r    That's what the election is all about."
+Characters:    "\n\r    "
+Characters:    "\n\r    For the government cannot direct the people, the people must\n\r    direct the government."
+Characters:    "\n\r    "
+Characters:    "\n\r    This is not the outlook of my opponent -- and he is my\n\r    opponent, not my enemy."
+Characters:    "\n\r    "
+Characters:    "\n\r    And though he has tried of late to be a good Republican ... and\n\r    I expect him here tonight ... there are certain distinctions\n\r    that even he cannot blur. There are distinctions between the\n\r    two great parties that will be debated and must be debated in\n\r    the next 82 days."
+Characters:    "\n\r    "
+Characters:    "\n\r    He and his party brought us the biggest tax increase in the\n\r    history of America. And we are the party of lower taxes -- we\n\r    are the party of lower taxes and greater opportunity."
+Characters:    "\n\r    "
+Characters:    "\n\r    We are the party whose resolve did not flag as the Cold War\n\r    dragged on. We did not tremble before a Soviet giant that was\n\r    just about to fall, and we did not have to be begged to take up\n\r    arms against Saddam Hussein."
+Characters:    "\n\r    "
+Characters:    "\n\r    We are not the party, as drug use has soared and doubled among\n\r    the young, hears no evil, sees no evil, and just cannot say,\n\r    \"Just say no.\""
+Characters:    "\n\r    "
+Characters:    "\n\r    We are the party that trusts in the people. I trust in the\n\r    people. That is the heart of all I have tried to say\n\r    tonight."
+Characters:    "\n\r    "
+Characters:    "\n\r    My friends, a presidential campaign is more than a contest of\n\r    candidates, more than a clash of opposing philosophies."
+Characters:    "\n\r    "
+Characters:    "\n\r    It is a mirror held up to America. It is a measurement of who\n\r    we are, where we come from, and where we are going. For as much\n\r    inspiration as we may draw from a glorious past, we recognize\n\r    American preeminently as a country of tomorrow. For we were\n\r    placed here for a purpose, by a higher power. There's no doubt\n\r    about it."
+Characters:    "\n\r    "
+Characters:    "\n\r    Every soldier in uniform, every school child who recites the\n\r    Pledge of Allegiance, every citizen who places her hand on her\n\r    heart when the flag goes by, recognizes and responds to our\n\r    American destiny."
+Characters:    "\n\r    "
+Characters:    "\n\r    Optimism is in our blood. I know this as few others can. There\n\r    once was a time when I doubted the future. But I have learned\n\r    as many of you have learned that obstacles can be overcome."
+Characters:    "\n\r    "
+Characters:    "\n\r    And I have unlimited confidence in the wisdom of our people and\n\r    the future of our country."
+Characters:    "\n\r    "
+Characters:    "\n\r    Tonight, I stand before you tested by adversity, made sensitive\n\r    by hardship, a fighter by principle, and the most optimistic\n\r    man in America."
+Characters:    "\n\r    "
+Characters:    "\n\r    My life is proof that America is a land without limits. And\n\r    with my feet on the ground and my heart filled with hope, I put\n\r    my faith in you and in the God who loves us all. For I am\n\r    convinced that America's best days are yet to come."
+Characters:    "\n\r    "
+Characters:    "\n\r    May God bless you. And may God bless America. Thank you very\n\r    much."
+Characters:    "\n\r    &nbsp;\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    "\n\r  "
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get\n\r  Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

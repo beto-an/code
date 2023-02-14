@@ -1,0 +1,515 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | The Briefing Room | Bill Clinton & Al Gore on the\n\r  Issues"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #BE0023
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index89.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: blockquote
+Characters:    "\n\r        "
+Start element: i
+Characters:    "tay close to the briefings that address the goal of\n\r        providing opportunities to all Americans. President Clinton\n\r        and Vice President Gore are working to help people make the\n\r        most of their lives, with stronger families, economic\n\r        security, increased educational opportunity, safer streets,\n\r        a cleaner environment and a safer world for our children\n\r        and future generations."
+End element:   i
+Characters:    "\n\r      "
+End element:   blockquote
+Characters:    "\n\r      "
+Start element: blockquote
+Characters:    "\n\r        "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: AIDS.html
+Characters:    "Fighting AIDS—Care, Research,\n\r        Prevention"
+End element:   a
+End element:   font
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: CRIME.html
+Characters:    "Making Neighborhoods Safer for America’s\n\r        Families"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: COMMUNIT.html
+Characters:    "Community Empowerment"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: affirm.html
+Characters:    "Working for Greater Equality"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: economy.html
+Characters:    "Promoting Strong and Steady Economic\n\r        Growth"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: disabled.html
+Characters:    "Strengthening America's Families: Americans\n\r        With Disabilities"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: drugs.html
+Characters:    "Fighting Drugs"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: EDUC.html
+Characters:    "Improving Education"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: ENVIRO.html
+Characters:    "Preserving Our Environment"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: FAMILY.html
+Characters:    "Protecting America’s Families"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: aframer.html
+Characters:    "Strengthening America’s Families:"
+Characters:    "\n\r        African Americans"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: ASIAN.html
+Characters:    "Strengthening America’s Families:"
+Characters:    "\n\r        Asian and Pacific Americans"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: HISP.html
+Characters:    "Strengthening America’s Families:"
+Characters:    "\n\r        Hispanic Americans"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: jewish.html
+Characters:    "Strengthening America’s Families:"
+Characters:    "\n\r        Jewish Outreach"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: GAY.html
+Characters:    "A\n\r        Record of Respecting Gay and Lesbian\n\r        Americans"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: native.html
+Characters:    "A\n\r        Record of Partnership with American Indians and Alaska\n\r        Natives"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: REGOV.html
+Characters:    "Making Government Work Better and Cost\n\r        Less"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: HLTHCRE.html
+Characters:    "Fighting for Quality Health\n\r        Care"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: HOUS.html
+Characters:    "Expanding Affordable Housing"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: IMMIG.html
+Characters:    "Immigration"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: meds.html
+Characters:    "Safeguarding and Strengthening Medicare and\n\r        Medicaid"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: pension.html
+Characters:    "Protecting and Expanding\n\r        Pensions"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: religion.html
+Characters:    "Protecting Religious Freedom"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: REPROD.html
+Characters:    "Reproductive Rights"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: seniors.html
+Characters:    "Protecting Our Seniors"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: tech.html
+Characters:    "Investing in Science and\n\r        Technology"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: smallbiz.html
+Characters:    "Promoting Growth and Opportunity for\n\r        America's Small Businesses"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: TEENPRG.html
+Characters:    "Preventing Teen Pregnancy"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: trade.html
+Characters:    "Competing Abroad and Promoting Prosperity at\n\r        Home"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: agricul.html
+Characters:    "Preparing Rural America for the 21st\n\r        Century"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: VETS.html
+Characters:    "Honoring Our Veterans"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: WOMEN.html
+Characters:    "Creating Greater Opportunity for\n\r        Women"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: LABOR.html
+Characters:    "America’s Workers and Their\n\r        Families"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: WELFARE.html
+Characters:    "Strengthening the Values of Family and\n\r        Work"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: a
+Key: href, Value: youth.html
+Characters:    "Investing in America's Youth"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r      "
+End element:   blockquote
+Characters:    "\n\r      "
+Start element: center
+Characters:    "\n\r        "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Meeting Our Challenges\n\r        "
+Characters:    " Protecting Our\n\r        Values"
+End element:   b
+End element:   font
+Characters:    "\n\r      "
+End element:   center
+Characters:    "\n\r      "
+Start element: center
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Start element: center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee,\n\r          Inc."
+End element:   p
+Characters:    "\n\r        "
+End element:   center
+Characters:    "\n\r      "
+End element:   center
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/seniors.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/HOUS.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/affirm.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/CRIME.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/economy.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/FAMILY.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/COMMUNIT.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/VETS.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/TEENPRG.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/aframer.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/drugs.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/agricul.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/youth.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/LABOR.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/AIDS.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/disabled.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/tech.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/religion.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/ENVIRO.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/HLTHCRE.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/GAY.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/EDUC.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/jewish.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/pension.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/trade.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/REGOV.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/WELFARE.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/REPROD.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/smallbiz.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/native.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/HISP.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/meds.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/IMMIG.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/WOMEN.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/ASIAN.html

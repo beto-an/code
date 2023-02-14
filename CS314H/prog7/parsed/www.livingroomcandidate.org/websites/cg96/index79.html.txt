@@ -1,0 +1,295 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | Meeting America's Challenges | World\n\r  Leadership"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 460
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r            "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 450
+Key: cellspacing, Value: 5
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "After first brokering Dayton Peace\n\r              Accords ending four years of bloodshed in Bosnia, now\n\r              helping to provide secure environment so that\n\r              elections and economic reconstruction can\n\r              proceed."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Championed peace efforts in the\n\r              Middle East, negotiating Israel-Jordan peace treaty\n\r              and helping Israelis and Palestinians fulfill their\n\r              historic peace agreement."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Authored and organized strong\n\r              counter-terrorism initiatives at the Summit of the\n\r              Peacemakers in Egypt in March 1996 and at the G-7\n\r              Economic Summit in Lyons in June 1996."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Restored democracy to Haiti,\n\r              stopping the flow of refugees to the United States,\n\r              accomplishing the first transfer of power from one\n\r              democratically elected president to another in\n\r              Haitian history."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "As the first American President to\n\r              visit Northern Ireland, made a consistent commitment\n\r              to establish lasting peace there."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r          "
+End element:   table
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 450
+Key: cellspacing, Value: 5
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Russian missiles are no longer\n\r              pointed at America’s children."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Poised to reduce nuclear stockpiles\n\r              by another 25% by successfully securing bipartisan\n\r              Senate ratification of the Start II Treaty with\n\r              Russia."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Imposed the toughest sanctions ever\n\r              on Castro’s Cuba following the brutal shoot-down of\n\r              U.S. nationals over international waters."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Shaped new American military for\n\r              post-Cold War challenges to peace, ensuring America\n\r              remains the best-equipped, best-trained and\n\r              best-prepared fighting force in the world."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r            "
+Start element: tr
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 33
+Characters:    "\n\r                "
+Start element: center
+Characters:    "\n\r                  "
+Characters:    "\n\r                "
+End element:   center
+Characters:    "\n\r              "
+End element:   td
+Characters:    "\n\r              "
+Start element: td
+Key: valign, Value: top
+Characters:    "Intensified the fight against\n\r              terrorism and organized crime at home and abroad by\n\r              pressing for new anti-terrorism legislation providing\n\r              law enforcement officials tough, updated tools to\n\r              stop terrorists before they strike and to insure\n\r              strong penalties for the convicted."
+End element:   td
+Characters:    "\n\r            "
+End element:   tr
+Characters:    "\n\r          "
+End element:   table
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: font
+Key: size, Value: -2
+Characters:    "Photograph © Conklin/MONKMEYER"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

@@ -1,0 +1,194 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Dole and Campaign Finance Reform"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 20, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "STATEMENT BY JOE LOCKHART"
+Characters:    "\n\r      NATIONAL PRESS SECRETARY"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "We agree that campaign finance reform is long overdue\n\r    and should be dealt with in a bipartisan fashion. But it�s a\n\r    little late -- and disingenuous -- for Bob Dole to promote\n\r    campaign finance reform. Bob Dole has made a career opposing\n\r    meaningful campaign finance reform, including actively blocking\n\r    the McCain/Feingold proposal which President Clinton\n\r    supported."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "It�s too bad that Senator Bob Dole�s record doesn�t\n\r    match Candidate Dole�s rhetoric."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "# # #"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Bob Dole�s History Of Campaign Finance Ethical\n\r    Lapses"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\""
+Start element: i
+Characters:    "Dole has another embarrassment on his hands about\n\r    how his campaign raises money. When it happens time and time\n\r    again, and it�s the same (alleged) violation, it's very\n\r    serious. You have what I would call election-law recidivism.\"\n\r    -- Charles Lewis, head of the Center for Public Integrity [K.C.\n\r    Star, 9/29/96]"
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "September 1996:"
+Characters:    "\n\r    Illegal Scheme By Nevada Liquor Company To Funnel Money To Dole\n\r    Is Uncovered."
+End element:   b
+Characters:    " In September 1996, it was reported that\n\r    DeLuca Liquor & Wine of Nevada gave thousands of dollars to its\n\r    managers and then asked them to make individual contributions\n\r    to Dole�s Presidential campaign. The company admitted the\n\r    scheme and a DeLuca VP said, \"It's not illegal, I hope.\" On a\n\r    single day in 1995, Dole�s campaign collected at least $10,000\n\r    from DeLuca executives and their wives. [K.C. Star,\n\r    9/29/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "April 1996:"
+Characters:    "\n\r    Empire Landfill�s Questionable $50,000 Contribution Scheme To\n\r    Dole Is Discovered."
+End element:   b
+Characters:    " Federal agents are currently examining\n\r    nearly $50,000 in contributions to Dole�s 1996 Presidential\n\r    campaign by employees of Pennsylvania-based waste disposal\n\r    company -- Empire Landfill. The contributions are suspicious\n\r    because many came from lower-level employees on the same day.\n\r    [WSJ, 5/8/96; Washington Post, 4/25/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "April 1996:"
+Characters:    "\n\r    Aqua-Leisure�s $69,000 Illegal Contribution Scheme To Dole Is\n\r    Uncovered."
+End element:   b
+Characters:    " Earlier this year, Simon Fireman agreed to pay a\n\r    $6 million fine as part of a plea bargain with the U.S.\n\r    Attorney for illegally reimbursing his Aqua-Leisure employees\n\r    for $69,000 in contributions to Dole�s 1996 Presidential\n\r    campaign. [K.C. Star, 7/11/96; 7/23/96; 9/29/96; Boston Globe,\n\r    7/22/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Dole�s 1986 Senate Campaign (September 1995):"
+Characters:    "\n\r    FEC Rules Dole�s 1986 Senate Campaign Accepted Illegal Birdview\n\r    Contributions."
+End element:   b
+Characters:    " In September 1995, the FEC fined officials\n\r    of Kansas-based Birdview Satellite Communications for illegally\n\r    taking company money in return for personal contributions to\n\r    Dole�s 1986 Senate campaign. The FEC found that Birdview\n\r    employees were encouraged to give to Dole and were repaid by\n\r    the company. [K.C. Star, 9/18/95]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "June 1995:"
+Characters:    "\n\r    Dole Forced To Close \"Better America Foundation\"After Using It\n\r    To Circumvent Law."
+End element:   b
+Characters:    "In June 1995, political pressure forced\n\r    Dole to close his \"Better America Foundation\" and reveal its\n\r    donors. The foundation had allowed large companies and wealthy\n\r    individuals to bypass campaign finance laws and give $4.6\n\r    million to Dole. Unlike campaigns, this tax-exempt foundation\n\r    was not required to disclose donors and had no contribution\n\r    limits. Dole was using the then-secret funds for polling and a\n\r    commercial featuring Dole. [Washington Post, 6/21/95]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Dole�s 1988 Presidential Campaign (August 1993):"
+Characters:    "\n\r    Dole�s 1988 Campaign Received Largest FEC Fine In History For\n\r    Improper Activities."
+End element:   b
+Characters:    "In 1993, Dole�s 1988 Presidential\n\r    campaign paid a then-record $100,000 civil fine to the FEC for\n\r    campaign violations, including: exceeding primary campaign\n\r    spending limits in Iowa and New Hampshire by $588,149,\n\r    knowingly accepting $64,043 in illegal corporate contributions\n\r    and improperly accepting $239,131 in over-contributions. [K.C.\n\r    Star, 8/7/93] "
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "September 1976:"
+Characters:    "\n\r    Gulf Oil Lobbyist Said That He Gave Illegal Corporate\n\r    Contribution To Dole In 1973."
+End element:   b
+Characters:    " In September 1976, it was\n\r    reported that Gulf Oil�s top lobbyist told a Federal grand jury\n\r    that in 1973 he made an illegal corporate contribution of\n\r    $5,000 or $6,000 from Gulf�s secret slush fund to Dole. The\n\r    lobbyist also said that he gave Dole $2,000 in 1970 to pass on\n\r    to other candidates. The lobbyist later flip-flopped on the\n\r    second assertion but in 1970, he had written on the check stub,\n\r    \"given to Dole for disbursement by him.\" As part of the\n\r    investigation into this matter, Dole testified before a Federal\n\r    grand jury. [New York Times, 9/6/76; 9/7/96; 9/8/96;\n\r    9/9/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

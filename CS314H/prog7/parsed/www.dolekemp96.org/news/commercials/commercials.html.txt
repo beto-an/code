@@ -1,0 +1,485 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Commercials"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Key: link, Value: #FF0000
+Key: vlink, Value: #FF0000
+Key: alink, Value: #FF0000
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: h2
+Start element: a
+Key: name, Value: Commercials_
+Key: id, Value: Commercials_
+Characters:    "Commercials"
+End element:   a
+End element:   h2
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: -1
+Characters:    "If you need the free QuickTime player\n\r    software,"
+Characters:    "\n\r    bookmark this page, and then visit the Apple Computer Web\n\r    Site"
+Characters:    "\n\r    to get your copy. If you need the free RealAudio player\n\r    software,"
+Characters:    "\n\r    bookmark this page, and then visit the RealAudio Web Site to\n\r    get your copy."
+End element:   font
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: size, Value: -1
+Characters:    "Elizabeth Dole "
+Start element: a
+Key: href, Value: #Elizabeth1
+Characters:    "1"
+End element:   a
+Characters:    "\n\r    or "
+Start element: a
+Key: href, Value: #Elizabeth2
+Characters:    "2"
+End element:   a
+Characters:    " | "
+Start element: a
+Key: href, Value: #Betterman
+Characters:    "Better\n\r    Man for a Better America"
+End element:   a
+Characters:    " | "
+Start element: a
+Key: href, Value: #Furthering
+Characters:    "Furthering\n\r    America"
+End element:   a
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: #Helping
+Characters:    "Helping Every American"
+End element:   a
+Characters:    " | "
+Start element: a
+Key: href, Value: #Economics
+Characters:    "American Economics"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Start element: a
+Key: name, Value: Elizabeth1
+Key: id, Value: Elizabeth1
+Start element: font
+Key: size, Value: 5
+Characters:    "Elizabeth Dole"
+End element:   font
+End element:   a
+Start element: font
+Key: size, Value: 4
+End element:   font
+End element:   b
+Characters:    "\n\r    "
+Start element: b
+Start element: font
+Key: size, Value: 4
+Characters:    "The truth."
+Characters:    "\n\r    Always the truth."
+End element:   font
+End element:   b
+Characters:    "\n\r    My husband is a plain-spoken man from the heart of America,\n\r    Russell, Kansas. In Russell, you say what you're going to do\n\r    and you do it. The truth. First. Last. Always the truth. When\n\r    Bob Dole says he'll cut your taxes 15 percent, he'll cut your\n\r    taxes 15 percent. This is Bob Dole. He's a workhorse, not a\n\r    showhorse. And he knows whose money it really is... your\n\r    family's."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: #Commercials_
+Start element: font
+Key: size, Value: -1
+Characters:    "Back to\n\r    Top"
+End element:   font
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Start element: font
+Key: size, Value: 5
+Start element: a
+Key: name, Value: Elizabeth2
+Key: id, Value: Elizabeth2
+Characters:    "Elizabeth Dole"
+End element:   a
+End element:   font
+End element:   b
+Characters:    "\n\r    "
+Start element: b
+Start element: font
+Key: size, Value: 4
+Characters:    "Honesty, doing what's right,"
+Characters:    "\n\r    living up to his word."
+End element:   font
+End element:   b
+Characters:    "\n\r    My husband has come out strongly to protect the victims of\n\r    domestic violence, and to make sure a man and woman who work at\n\r    the same job get the same retirement benefits. Bob gets it\n\r    done, not for the credit, but because it's right. And when Bob\n\r    says he'll cut taxes fifteen percent for families, you can\n\r    count on it, because it's right for America. And Bob Dole\n\r    doesn't make promises he can't keep."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: #Commercials_
+Start element: font
+Key: size, Value: -1
+Characters:    "Back to\n\r    Top"
+End element:   font
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Start element: a
+Key: name, Value: Betterman
+Key: id, Value: Betterman
+Start element: font
+Key: size, Value: 5
+Characters:    "Bob\n\r    Dole - The Better Man for a Better America"
+End element:   font
+End element:   a
+End element:   b
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: b
+Start element: font
+Key: size, Value: 4
+Characters:    "The stakes for America are enormous."
+Characters:    "\n\r    These times demand a real leader."
+End element:   font
+End element:   b
+Characters:    "\n\r    "
+Characters:    "\n\r    His parents instilled values in him, like love of God, love of\n\r    country, love of family, honesty. In an era of too much\n\r    salesmanship and too much smooth talking, Bob Dole is a\n\r    plain-spoken man. It was here that Bob Dole first developed\n\r    strength of character and strong values. I remember in our\n\r    household when you didn't tell the truth my mother she would,\n\r    well she would find a bar of soap. He put aside his dream of\n\r    becoming a doctor and, instead, answered his country's call to\n\r    duty... and was severely wounded. It was about 11 months I\n\r    think before I could feed myself... The fact that I've had a\n\r    problem, a serious problem, and I didn't give up, and I\n\r    overcame it and I was successful. Bob Dole knows what it takes\n\r    to help Americans fight back. You've got to challenge young\n\r    people. They've gotta learn from failure. There is a moral\n\r    crisis in America. Drug use is up. The wrong messages are being\n\r    sent to our youth. Americans do have a stake in this election.\n\r    It's about our America. It's not my America. It's your America.\n\r    It's what do I want for my kids. I want young people to have\n\r    the same challenges and the same opportunities, and succeed as\n\r    I did. And it's about families getting ahead. You shouldn't\n\r    have to apologize for wanting to keep what you earn. It's your\n\r    money."
+Characters:    "\n\r    "
+Characters:    "\n\r    Bob Dole is the candidate most qualified by virtue of his\n\r    beliefs, his character and competence to be the next President\n\r    of the United States of America. Bob Dole. The only man who\n\r    will restore the American dream."
+Characters:    "\n\r    "
+Start element: b
+Characters:    "The Better Man for a Better America."
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: #Commercials_
+Start element: font
+Key: size, Value: -1
+Characters:    "Back to\n\r    Top"
+End element:   font
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Start element: a
+Key: name, Value: Furthering
+Key: id, Value: Furthering
+Start element: font
+Key: size, Value: 5
+Characters:    "Bob\n\r    Dole - Economics and Furthering America"
+End element:   font
+End element:   a
+End element:   b
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: b
+Start element: font
+Key: size, Value: 4
+Characters:    "The stakes this election?"
+End element:   font
+End element:   b
+Characters:    "\n\r    "
+Characters:    "\n\r    Keeping more of what you earn. That's what Bob Dole's tax cut\n\r    plan is all about. The Dole plan starts with a 15% tax cut for\n\r    working Americans.. That's $1,600 more for the typical family.\n\r    A $500 per child tax credit. Education and job training\n\r    incentives... Replacing the IRS with a fairer and simpler tax\n\r    system... And a Balanced Budget Amendment to stop wasteful\n\r    spending."
+Characters:    "\n\r    "
+Characters:    "\n\r    The Dole Plan. "
+Start element: b
+Characters:    "Helping you keep more of what you\n\r    earn."
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: #Commercials_
+Start element: font
+Key: size, Value: -1
+Characters:    "Back to\n\r    Top"
+End element:   font
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Start element: a
+Key: name, Value: Helping
+Key: id, Value: Helping
+Start element: font
+Key: size, Value: 5
+Characters:    "Bob Dole -\n\r    Economic Plan to Help Every American"
+End element:   font
+End element:   a
+End element:   b
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: b
+Start element: font
+Key: size, Value: 4
+Characters:    "We Can Do Better"
+End element:   font
+End element:   b
+Characters:    "\n\r    "
+Characters:    "\n\r    Under Clinton... Stagnant wages. The largest tax increase in\n\r    history. Two incomes needed to make ends meet. Americans\n\r    deserve better. Dole: Make no mistake about it. My economic\n\r    program is the right policy for America."
+Characters:    "\n\r    "
+Characters:    "\n\r    The Dole Plan - Cut wasteful spending. Balance the budget. A\n\r    tax cut of $1600 for the typical family. You shouldn't have to\n\r    apologize for wanting to keep what you earn. It's your\n\r    money."
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: b
+Characters:    "Bob Dole. The Better Man for a Better America."
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: #Commercials_
+Start element: font
+Key: size, Value: -1
+Characters:    "Back to\n\r    Top"
+End element:   font
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Start element: a
+Key: name, Value: Economics
+Key: id, Value: Economics
+Start element: font
+Key: size, Value: 5
+Characters:    "Bob\n\r    Dole - Economics and Furthering America"
+End element:   font
+End element:   a
+End element:   b
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: b
+Start element: font
+Key: size, Value: 4
+Characters:    "Today, taxes are the highest in American\n\r    history..."
+Characters:    "\n\r    Bill Clinton says we have the healthiest economy in \"three\n\r    decades.\""
+End element:   font
+End element:   b
+Characters:    "\n\r    "
+Characters:    "\n\r    Believe that? America can do better. Bob Dole. Jack Kemp."
+Characters:    "\n\r    Cutting income taxes on every family 15%. A 500 dollar per\n\r    child tax credit."
+Characters:    "\n\r    Higher take home pay. Bob Dole. Cut taxes. Balance the budget.\n\r    Raise take home pay. Tell the truth."
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: b
+Characters:    "Bob Dole. The Better Man. For a Better America."
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: #Commercials_
+Start element: font
+Key: size, Value: -1
+Characters:    "Back to\n\r    Top"
+End element:   font
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    "\n\r  "
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get\n\r  Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

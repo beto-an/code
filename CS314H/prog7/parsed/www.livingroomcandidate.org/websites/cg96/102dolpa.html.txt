@@ -1,0 +1,101 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "Dole in Elizabethtown, PA"
+End element:   TITLE
+Characters:    "\r\n\r"
+Start element: kpetitle
+Characters:    "Dole in Elizabethtown, PA"
+End element:   kpetitle
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Start element: A
+Key: HREF, Value: index22.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r"
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "October 2, 1996\t\t\t\t\t\t   \t\t\t\t\t\t\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "STATEMENT BY JOE LOCKHART\r\n\r"
+Characters:    "NATIONAL PRESS SECRETARY\r\n\r\t\t\t\t\t\t\r\n\r "
+Start element: P
+Characters:    "Bob Dole must be spending too much time in debate prep.  He has lost touch with the real world.\r\n\r\r\n\r"
+Start element: P
+Characters:    "Only in Bob Dole�s world can he travel to Elizabethtown College &#151 the place where he voted against aid for its buildings &#151 and pose as a friend of students.  Bob Dole has a history of opposing student loans, opposing the creation of Americorps and specific opposition to a grant that would have aided the students of Elizabethtown (1963 Higher Education Facilities Act).  Bob Dole has been voting against these students since before they were born.\r\n\r\r\n\r"
+Start element: P
+Characters:    "Only in Bob Dole�s world is the economy \"in the tank\" and opportunities for the nation�s youth non-existent.  In the real world, the economy has a strong and sustained growth with:\r\n\r\r\n\r  "
+Start element: ul
+Start element: li
+Characters:    "Incomes rising faster in 1995 than in any year in a decade;"
+End element:   li
+Characters:    "\r\n\r"
+Start element: li
+Characters:    "The deficit reduced by 60% &#151Bill Clinton is the first President to reduce the deficit for four consecutive years since before the Civil War;"
+End element:   li
+Characters:    "\r\n\r "
+Start element: li
+Characters:    "10.5 million new jobs created;"
+End element:   li
+Characters:    "\r\n\r "
+Start element: li
+Characters:    "The unemployment rate lowered to 5.1% &#151 the lowest in 7 � years and second lowest in 22 years."
+End element:   li
+End element:   ul
+Characters:    "\r\n\r\r\n\r"
+Start element: P
+Characters:    "In Bob Dole�s world, he�ll win the debates with President Clinton if he \"shows up.\"  The American people are hoping Bob Dole \"shows up\" ready to admit that, by his own numbers, it will take 40 percent cuts in domestic areas such as education, the environment, and Border Patrols and even deeper cuts in Medicare and Medicaid than the 1995 Dole/Gingrich budget to pay for his $548 billion tax scheme.\r\n\r\r\n\r"
+Start element: P
+Characters:    "The real world requires real answers and hard work; merely \"showing up\" won�t pass muster with the American people.\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: P
+Start element: center
+Characters:    "###"
+End element:   center
+Characters:    "\r\n\r\r\n\r"
+Start element: P
+Characters:    "Note: The Higher Education Facilities Act of 1963 (H.R. 6143) provided over six hundred colleges, universities, and graduate schools with federal grants and loans for the construction or improvement of academic buildings and libraries.  The Act was signed into law by President Johnson on December 16, 1963.  On November 6, 1963, Dole voted against the conference report of the Higher Education Facilities Act.\r\n\r\r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee,\r\n\rInc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End of document

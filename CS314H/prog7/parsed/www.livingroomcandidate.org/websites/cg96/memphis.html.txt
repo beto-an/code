@@ -1,0 +1,265 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Address to Members of the Church of God in Christ Mason\n\r  Temple"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index91.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #001058
+Characters:    "PRESIDENT CLINTON'S\n\r      ADDRESS"
+Characters:    "\n\r      TO MEMBERS OF"
+Characters:    "\n\r      THE CHURCH OF GOD IN CHRIST MASON TEMPLE"
+End element:   font
+Characters:    "\n\r      "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #001058
+Start element: font
+Key: color, Value: #000000
+Characters:    "Memphis, Tennessee"
+End element:   font
+End element:   font
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #001058
+Start element: font
+Key: color, Value: #000000
+Characters:    "November 13, 1993"
+End element:   font
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    PRESIDENT CLINTON: (Applause.) Thank you. Well, Bishop Ford,\n\r    Mrs. Mason, Bishop Owens, and Bishop Anderson—my Bishops,\n\r    Bishop Walker and Bishop Lindsey. (Applause.) Come here,\n\r    Bishop.\n\r    "
+Start element: p
+Characters:    "Now, if you haven’t had Bishop Lindsey’s barbecue, you\n\r    haven’t had barbecue. (Applause.) And, if you haven’t heard\n\r    Bishop Walker attack one of my opponents, you have never heard\n\r    a political speech. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I am glad to be here. You have touched my heart, and you\n\r    brought tears to my eyes and joy to my spirit. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Last year, I was with you over at the Convention Center. Two\n\r    years ago, your Bishops came to Arkansas and we laid a plaque\n\r    at the point in Little Rock, Arkansas, at 8th and Gaines, where\n\r    Bishop Mason received the inspiration for the name of this\n\r    great church. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Bishop Brooks said from his pulpit that I would be elected\n\r    President when most people thought I wouldn’t survive. I thank\n\r    him and I thank your faith and I thank your works for, without\n\r    you, I would not be here today as your President.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Many have spoken eloquently and well, and many have been\n\r    introduced. I want to thank my good friend Governor McWherter\n\r    and my friend Mayor Herenton for being here with me today, and\n\r    my—(applause)—my friend Congressman Harold Ford. We are glad to\n\r    be in his congressional district. (Applause.) I would like\n\r    to—if I might—introduce just three other people who are members\n\r    of the Congress. They have come here with me. And without them,\n\r    it’s hard for me to do much for you. The President proposes and\n\r    the Congress disposes."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "(Laughter.) Sometimes they dispose of what I propose,\n\r    but—(laughter)—I’m happy to say that, according to a recent\n\r    report in Washington—notwithstanding what you may have\n\r    heard—this Congress have given me a higher percentage of my\n\r    proposals than any first year president since President\n\r    Eisenhower. And I thank them for that. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "So, let me introduce my good friend—a visitor to\n\r    Tennessee—Congressman Bill Jefferson from New Orleans,\n\r    Louisiana. Please, stand up. (Applause.) And an early supporter\n\r    of my campaign. (Applause.) Congressman Bob Clement from\n\r    Tennessee, known to many of you. (Applause.) And a young man\n\r    who’s going to be coming back to the people of Tennessee and\n\r    asking them to give him a promotion next year, Congressman Jim\n\r    Cooper from Tennessee and a good friend. Please, welcome him.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "You know, in the last 10 months, I’ve been called a lot of\n\r    things, but nobody’s called me a Bishop yet.\n\r    (Laughter/Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "When I was about nine years old, my beloved and now departed\n\r    grandmother—who was a very wise woman looked at me and she\n\r    said,&nbsp;“You know, I believe you could be a preacher if you\n\r    were just a little better boy.” (Laughter.) The proverb\n\r    says,&nbsp;“A happy heart doeth good like medicine, but a\n\r    broken spirit dryeth the bone.” This is a happy place, and I am\n\r    happy to be here."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "(Applause.) I thank you for your spirit. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "By the grace of God and your help, last year, I was elected\n\r    President of this great country. I never dreamed that I would\n\r    ever have a chance to come to this hallowed place where Martin\n\r    Luther King gave his last sermon. I ask you to think today\n\r    about the purpose for which I ran and the purpose for which so\n\r    many of you worked to put me in this great office. I have\n\r    worked hard to keep faith with our common efforts—to restore\n\r    the economy, to reverse the politics of helping only those at\n\r    the top of our totem pole and not the hard-working middle class\n\r    or the poor, to bring our people together across racial and\n\r    regional and political lines, to make a strength out of our\n\r    diversity instead of letting it tear us apart, to reward work\n\r    and family and community, and try to move us forward into the\n\r    21st Century."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I have tried to keep faith. Thirteen percent of all my\n\r    presidential appointments are African Americans and there are\n\r    five African Americans in the Cabinet of the United\n\r    States—two-and-a-half times as many as have ever served in the\n\r    history of this great land. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I have sought to advance the right to vote with the\n\r    Motor-Voter Bill supported so strongly by all the churches in\n\r    our country. And next week, it will be my great honor to sign\n\r    the Restoration of Religious Freedoms Act—a bill supported\n\r    widely by people across all religions and political\n\r    philosophies, to put back the real meaning of the Constitution,\n\r    to give you and every other American the freedom to do what is\n\r    most important in your life—to worship God as your spirit leads\n\r    you. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I say to you, my fellow Americans, we have made a good\n\r    beginning. Inflation is down. Interest rates are down. The\n\r    deficit is down. Investment is up. Millions of Americans,\n\r    including—I bet—some people in this room, have refinanced their\n\r    homes or their business loans just in the last year.\n\r    (Applause.) And in the last ten months, this economy has\n\r    produced more jobs in the private sector than in the previous\n\r    four years."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We have passed a law, called the Family Leave Law, which\n\r    says you can’t be fired if you take a little time off when a\n\r    baby is born or a parent is sick. (Applause.) We know that most\n\r    Americans have to work, but you ought not to have to give up\n\r    being a good parent just to take a job. If you can’t succeed as\n\r    a worker and a parent, this can’t make it."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We have radically reformed the college loan program, as I’ve\n\r    promised, to lower the costs of college loans and broaden the\n\r    availability of it—(applause)—and make the repayment terms\n\r    easier. And we have passed the National Service Law that will\n\r    give—three years from now—100,000 young Americans the chance to\n\r    serve their communities at home to repair the frayed bonds of\n\r    community, to build up the needs of people at the grassroots,\n\r    and, at the same time, earn some money to pay for a college\n\r    education. (Applause.) It is a wonderful idea. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "On April the 15th, when people pay their taxes, somewhere\n\r    between 15 and 18 million working families on modest incomes,\n\r    families with children and incomes of under $23,000, will get a\n\r    tax cut, not a tax increase, in the most important effort to\n\r    ensure that we reward work and family in the last 20 years.\n\r    Fifty million American parents and their children will be\n\r    advantaged by putting the tax code back on the side of working\n\r    American parents for a change. (Applause.) Under the leadership\n\r    of the First Lady, we have produced a comprehensive plan to\n\r    guarantee health care security to all Americans. How can we\n\r    expect the American people to work and to live with all of the\n\r    changes in a global economy, where the average 18 year old will\n\r    change work seven times in a lifetime, unless we can simply\n\r    say,&nbsp;“We have joined the ranks of all the other advanced\n\r    countries in the world. You can have decent health care that’s\n\r    always there, that can never be taken away.” It is time we did\n\r    that—long past time. I ask you to help us achieve that.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But we have so much more to do. You and I know that most\n\r    people are still working harder for the same or lower wages,\n\r    that many people are afraid that their job will go away. We\n\r    have to provide the education and training our people need—not\n\r    just for our children, but for our adults, too. If we cannot\n\r    close this country up to the forces of change sweeping\n\r    throughout the world, we have to at least guarantee people the\n\r    security of being employable. They have to be able to get a new\n\r    job, if they’re going to have to get a new job. We don’t do\n\r    that today—and we must, and we intend to proceed until that is\n\r    done. We have to guarantee that there will be some investment\n\r    in those areas of our country—in the inner cities and in the\n\r    destitute rural areas in the Mississippi Delta of my home state\n\r    and this state and Louisiana and Mississippi and other places\n\r    like it throughout America. It’s all very well to train people,\n\r    but if they don’t have a job, they can be trained for nothing.\n\r    We must get investment into those places where the people are\n\r    dying for work. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And finally, let me say, we must find people who will buy\n\r    what we have to produce. We are the most productive people on\n\r    earth. That makes us proud."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But what that means is that, every year, one person can\n\r    produce more in the same amount of time. Now, if fewer and\n\r    fewer people can produce more and more things—and yet you want\n\r    to create more jobs and raise people’s incomes—you have to have\n\r    more customers for what it is you’re making. And that is why I\n\r    have worked so hard to sell more American products around the\n\r    world, why I have asked that we be able to sell billions of\n\r    dollars of computers we used not to sell to foreign countries\n\r    and foreign interests to put our people to work. Why, next\n\r    week, I am going all the way to Washington State to meet with\n\r    the President of China and the Prime Minister of Japan and the\n\r    heads of 13 other Asian countries— the fastest growing part of\n\r    the world—to say,&nbsp;“We want to be your partners. We will\n\r    buy your goods, but we want you to buy ours, too—if you\n\r    please.” (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "That is why—that is why I have worked so hard for this North\n\r    American Trade Agreement that Congressman Ford endorsed today,\n\r    and Congressman Jefferson endorsed, and Congressman Cooper, and\n\r    Congressman Clement—because we know that Americans can compete\n\r    and win only if people will buy what it is we have to sell.\n\r    There are 90 million people in Mexico. Seventy cents of every\n\r    dollar they spend on foreign goods, they spend on American\n\r    goods. People worry, fairly, about people shutting down plants\n\r    in America and going—not just to Mexico, but to any place where\n\r    the labor is cheap. It has happened. What I want to say to you,\n\r    my fellow Americans, is that nothing in this agreement makes\n\r    that more likely. That has happened already. It may happen\n\r    again. What we need to do is to keep the jobs here by finding\n\r    customers there. That’s what this agreement does. (Applause.)\n\r    It gives us a chance to create opportunities for people.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I would never—there are people—I have friends in this\n\r    audience, people who are ministers from my state, fathers and\n\r    sons, people I have looked out all over this vast crowd, and I\n\r    see people I’ve known for years. They know, I’ve spent my whole\n\r    life working to create jobs. I would never, knowingly, do\n\r    anything that would take a job away from the American people.\n\r    This agreement will make more jobs."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, we can also leave it, if it doesn’t work, in six\n\r    months. But if we don’t take it, we’ll lose it forever. We need\n\r    to take it, because we have to do"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But, I guess what I really want to say to you today, my\n\r    fellow Americans, is that we can do all of this and still fail\n\r    unless we meet the great crisis of the spirit that is gripping\n\r    America today. When I leave you, Congressman Ford and I are\n\r    going to a Baptist Church near here to a town meeting he’s\n\r    having on health care and violence. I tell you, unless we do\n\r    something about crime and violence and drugs that is ravaging\n\r    the community, we will not be able to repair this country.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "If Martin Luther King—who said,&nbsp;“Like Moses, I am on\n\r    the mountain top and I can see the Promised Land, but I’m not\n\r    going to be able to get there with you. But we will get\n\r    there.”—if he were to re-appear by my side today and give us a\n\r    report card on the last 25 years, what would he say? &nbsp;“You\n\r    did a good job,” he would say,&nbsp;“voting and electing people\n\r    who formerly were not electable because of the color of their\n\r    skin.” You have more political power—and that is\n\r    good.&nbsp;“You did a good job,” he would say,&nbsp;“letting\n\r    people who have the ability to do so, live wherever they want\n\r    to live, go wherever they want to go in this great\n\r    country.”"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "&nbsp;“You did a good job,” he would say,&nbsp;“elevating\n\r    people of color into the ranks of the United States Armed\n\r    Forces to the very top or into the very top of our government.\n\r    You did a very good job,” he would say. He would say,&nbsp;“You\n\r    did a good job creating a Black middle class of people who\n\r    really are doing well, and the middle class is growing more\n\r    among African Americans than among non-African Americans. You\n\r    did a good job. You did a good job in opening opportunity.” But\n\r    he would say,&nbsp;“I did not live and die to see the American\n\r    family destroyed.” (Applause.)&nbsp;“I did not live and die to\n\r    see 13 year old boys get automatic weapons and gun down nine\n\r    year olds just for the kick of it.” (Applause.)&nbsp;“I did not\n\r    live and die to see young people destroy their own lives with\n\r    drugs and then build fortunes destroying the lives of others.\n\r    That is not what I came here to do.” (Applause.)&nbsp;“I fought\n\r    for freedom,” he would say,&nbsp;“but not for the freedom of\n\r    people to kill each other with reckless abandonment, not for\n\r    the freedom of children to have children and the fathers of the\n\r    children to walk away from them and abandon them, as if they\n\r    don’t amount to anything.” (Applause.)&nbsp;“I fought for\n\r    people to have the right to work, but not to have whole\n\r    communities and people abandoned. This is not what I lived and\n\r    died for.” My fellow Americans, he would say,&nbsp;“I fought to\n\r    stop White people from being so filled with hate that they\n\r    would wreak violence on Black people. I did not fight for the\n\r    right of Black people to murder other Black people with\n\r    reckless abandonment.” (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The other day, the Mayor of Baltimore, a dear friend of\n\r    mine, told me a story of visiting the family of a young man who\n\r    had been killed—18 years old—on Halloween. He always went out\n\r    with little-bitty kids so they could trick-or-treat safely. And\n\r    across the street from where they were walking on Halloween, a\n\r    14 year old boy gave a 13 year old boy a gun and dared him to\n\r    shoot the 18 year old boy—and he shot him dead. And the Mayor\n\r    had to visit the family."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "In Washington, DC, where I live—your nation’s capitol, the\n\r    symbol of freedom throughout the world—look how that freedom is\n\r    being exercised. The other night, a man came along the street\n\r    and grabbed a one year old child and put the child in his car.\n\r    The child may have been the child of the man. And two people\n\r    were after him and they chased him in the car and they just\n\r    kept shooting with reckless abandonment—knowing that baby was\n\r    in the car. And they shot the man dead, and a bullet went\n\r    through his body into the baby’s body and blew the little booty\n\r    off the child’s foot."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The other day on the front page of our paper, the nation’s\n\r    capitol—&nbsp;“Are We Talking About World Peace or World\n\r    Conflict?” You know, a big article on the front page of the\n\r    Washington Post about an 11 year old child planning her\n\r    funeral. &nbsp;“These are the hymns I want sung. This is the\n\r    dress I want to wear. I know I’m not going to live very long.”\n\r    That is not the freedom—the freedom to die before you’re a\n\r    teenager is not what Martin Luther King lived and died for.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "More than 37,000 people die from gunshot wounds in this\n\r    country every year. Gunfire is the leading cause of death in\n\r    young men. And now that we’ve all gotten so cool that everybody\n\r    can get a semi-automatic weapon, a person shot now is three\n\r    times more likely to die than 15 years ago, because they’re\n\r    likely to have three bullets in them. A\n\r    hundred-and-sixty-thousand children stay home from school every\n\r    day because they are scared they will be hurt in their school.\n\r    The other day, I was in California at a town meeting, and a\n\r    handsome young man stood up and said,&nbsp;“Mr. President, my\n\r    brother and I, we don’t belong to gangs. We don’t have guns. We\n\r    don’t do drugs. We want to go to school. We want to be\n\r    professionals. We want to work hard. We want to do well. We\n\r    want to have families. And we changed our school, because the\n\r    school we were in was so dangerous. So, when we showed up to\n\r    the new school to register, my brother and I were standing in\n\r    line, and somebody ran in the school and started shooting a\n\r    gun, and my brother was shot down standing right in front of me\n\r    at the safer school.” The freedom to do that kind of thing is\n\r    not what Martin Luther King lived and died for. (Applause.) Not\n\r    what people gathered in this hallowed church for the night\n\r    before he was assassinated in April of 1968. If you had told\n\r    anybody who was here in that church on that night that we would\n\r    abuse our freedom in that way, they would have found it hard to\n\r    believe. And I tell you, it is our moral duty to turn it\n\r    around. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And now, I think, finally, we have a chance. Finally, I\n\r    think, we have a chance. We have a pastor here from New Haven,\n\r    Connecticut. I was in his church, with Reverend Jackson, when I\n\r    was running for President, on a snowy day in Connecticut, to\n\r    mourn the deaths of children who had been killed in that city.\n\r    And afterward, we walked down the street for more than a mile\n\r    in the snow. Then, the American people were not ready. People\n\r    would say,&nbsp;“Oh, this is a terrible thing, but what can we\n\r    do about it?” Now, when we read that foreign visitors come to\n\r    our shores and are killed at random in our fine state of\n\r    Florida, when we see our children planning their funerals, when\n\r    the American people are finally coming to grips with the\n\r    accumulated waste of crime and violence and the breakdown of\n\r    family and community and the increase in drugs and the decrease\n\r    in jobs, I think, finally, we may be ready to do something\n\r    about it."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And there is something for each of us to do. There are\n\r    changes we can make from the outside in—that’s the job of the\n\r    President and the Congress and the governors and the mayors and\n\r    the social service agencies. And then, there are some changes\n\r    we’re going to have to make from the inside out, or the others\n\r    won’t matter. (Applause.) That’s what that magnificent song was\n\r    about, isn’t it?"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Sometimes, there are no answers from the outside in.\n\r    Sometimes, all of the answers have to come from the values and\n\r    the stirrings and the voices that speak to us from within."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "So, we are beginning. We are trying to pass a bill to make\n\r    our people safer, to put another 100,000 police officers on the\n\r    streets, to provide boot camps instead of prisons for young\n\r    people who could still be rescued—(applause)—to provide more\n\r    safety in our schools, to restrict the availability of these\n\r    awful assault weapons, to pass the Brady Bill and at least\n\r    require people to have their criminal background checked before\n\r    they get a gun, and to say, if you’re not old enough to vote\n\r    and you’re not old enough to go to war, you ought not to own a\n\r    handgun and you ought not to use one unless you’re on a target\n\r    range. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We want to pass a health care bill that will make drug\n\r    treatment available for everyone. And we also have to do it—we\n\r    have to have drug treatment and education available to\n\r    everyone, and especially those who are in prison, who are\n\r    coming out. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We have a drug czar now in Lee Brown, who was the police\n\r    chief of Atlanta, of Houston, of New York, who understands\n\r    these things. And, when the Congress comes back next year, we\n\r    will be moving forward on that. We need this crime bill now. We\n\r    ought to give it to the American people for Christmas. And we\n\r    need to move forward on all these other fronts. But I say to\n\r    you, my fellow Americans, we need some other things as well. I\n\r    do not believe we can repair the basic fabric of society until\n\r    people who are willing to work have work."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Work organizes life. It gives structure and discipline to\n\r    life. It gives meaning and self-esteem to people who are\n\r    parents. It gives a role model to children."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The famous African American sociologist, William Julius\n\r    Wilson, has written a stunning book, called The Truly\n\r    Disadvantaged, in which he chronicles in breathtaking terms how\n\r    the inner cities of our country have crumbled as work has\n\r    disappeared. And we must find a way, through public and private\n\r    sources, to enhance the attractiveness of the American people\n\r    who live there to get investment there. We cannot—I submit to\n\r    you—repair the American community and restore the American\n\r    family until we provide the structure, the values, the\n\r    discipline, and the reward that work gives. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I read a wonderful speech the other day, given at Howard\n\r    University, in a lecture series funded by Bill and Camille\n\r    Cosby, in which the speaker said,&nbsp;“I grew up in Anacostia\n\r    years ago. Even then it was all Black and it was a very poor\n\r    neighborhood. But, you know, when I was a child in Anacostia—a\n\r    100 percent African American neighborhood, a very poor\n\r    neighborhood—we had a crime rate that was lower than the\n\r    average of the crime rate of our city. Why? Because we had\n\r    coherent families. We had coherent communities. The people who\n\r    filled the church on Sunday lived in the same place they went\n\r    to church. The guy that owned the drug store lived down the\n\r    street. The person that owned the grocery store lived in our\n\r    community. We were whole.” And I say to you, we have to make\n\r    our people whole again. This church has stood for that. Why do\n\r    you think you have 5 million members in this country?"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Because people know you are filled with the spirit of God to\n\r    do the right thing in this life by them. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "So, I say to you, we have to make a partnership—all the\n\r    government agencies, all the business folks. But where there\n\r    are no families, where there is no order, where there is no\n\r    hope, where we are reducing the size of armed services because\n\r    we have won the Cold War, who will be there to give structure,\n\r    discipline, and love to these children. You must do that and we\n\r    must help you. The scripture says,&nbsp;“You are the salt of\n\r    the earth and the light of the world,” that,&nbsp;“If your\n\r    light shines before men, they will give glory to the Father in\n\r    Heaven.” That is what we must do. That is what we must do. How\n\r    would we explain it to Martin Luther King if he showed up today\n\r    and said,&nbsp;“Yes, we won the Cold War. Yes, the biggest\n\r    threat that all of us grew up under—Communism and nuclear\n\r    war—Communism is gone; nuclear war receding. Yes, we developed\n\r    all of these miraculous technologies. Yes, we all got a VCR in\n\r    our home. It’s interesting. Yes, we get 50 channels on the\n\r    cable. Yes, without regard to race, if you work hard, play by\n\r    the rules, you get into a service academy or a good college,\n\r    you’ll do just great.” How would we explain to him all these\n\r    kids getting killed and killing each other? How would we\n\r    justify the things that we permit that no other country in the\n\r    world would permit? How could we explain that we gave people\n\r    the freedom to succeed and we created conditions in which\n\r    millions abuse that freedom to destroy the things that make\n\r    life worth living and life itself? We cannot."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And so, I say to you today, my fellow Americans, you gave me\n\r    this job, and we’re making progress on the things you hired me\n\r    to do. But unless we deal with the ravages of crime and drugs\n\r    and violence, and unless we recognize that it’s due to the\n\r    breakdown of the family, the community, and the disappearance\n\r    of jobs, and unless we say,&nbsp;“Some of this cannot be done\n\r    by government because we have to reach deep inside to the\n\r    values, the spirit, the soul, and the truth of human nature,”\n\r    none of the other things we seek to do will ever take us where\n\r    we need to go."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "So, in this pulpit, on this day, let me ask all of you in\n\r    your heart to say, “We will honor the life and the work of\n\r    Martin Luther King. We will honor the meaning of our church. We\n\r    will somehow, by God’s grace, we will turn this around. We will\n\r    give these children a future. We will take away their guns and\n\r    give them books. We will take away their despair and give them\n\r    hope. We will rebuild the families and the neighborhoods and\n\r    the communities. We won’t make all the work that has gone on\n\r    here benefit just a few. We will do it together by the grace of\n\r    God.” Thank you. (Applause.)"
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

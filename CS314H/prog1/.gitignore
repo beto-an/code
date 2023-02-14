@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/classes/
+/bin/
+/test_images/
+/.idea/
+/.classpath
+/.project
+/gallery/
+*.pdf
+*.iml
+*.xml
+*.class

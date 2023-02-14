@@ -1,0 +1,335 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "Clinton/Gore Releases New Ad"
+End element:   TITLE
+Characters:    "\r\n\r"
+Start element: kpetitle
+Characters:    "Clinton/Gore Releases New Ad"
+End element:   kpetitle
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Start element: A
+Key: HREF, Value: index22.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r"
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "October 5, 1996\t\t\t\t\t\t\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Start element: CENTER
+Characters:    "MAJOR ENVIRONMENTAL GROUPS PRESENT ENDORSEMENT OF\r\n\r "
+Characters:    "PRESIDENT CLINTON AND VICE PRESIDENT GORE,\r\n\r "
+Characters:    "PRESS ACTIVITIES IN 34 STATES MARK THE ENDORSEMENT"
+End element:   CENTER
+End element:   B
+Characters:    "\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "Three major environmental groups -- the Sierra Club, Clean Water Action and the League of Conservation Voters -- today presented their endorsements of President Bill Clinton and Vice President Al Gore.  Vice President Gore accepted the endorsements from the three groups, who represent over one million Americans, at an event in Washington, D.C.\r\n\r\r\n\r\t"
+Start element: P
+Characters:    "Said Vice President Gore upon accepting the endorsement, �President Clinton and I are committed to protecting our families� future.  No child should have to drink water contaminated by dangerous chemicals, eat food laden with pesticides or live near a toxic waste dump. We will not let Bob Dole, Newt Gingrich and extreme anti-environmentalists in Congress destroy 25 years of progress on safe water, clean air or toxic waste standards.  We will not compromise America�s natural heritage in the Arctic National Wildlife Refuge, Grand Staircase-Escalante National Monument, Tongass National Forest, the Mojave National Preserve and other areas.�\r\n\r\r\n\r\t"
+Start element: P
+Characters:    "In announcing the endorsements, leaders of the three groups praised President Clinton�s leadership on a broad range of environmental issues and condemned Bob Dole�s 35-year record of votes against the environment. Deb Callahan, President of the bipartisan League of Conservation Voters (LCV), contrasted the Clinton Administration�s record in support of environmental protection with Bob Dole�s congressional record of anti-environmental votes, as scored by the annual LCV National Environmental Scorecard.  �With only a 19 percent lifetime voting record, Bob Dole has voted against the environment four out of five times over the last 25 years.  You have to work very hard to acquire such a terrible record,� Callahan said.\r\n\r\r\n\r\t"
+Start element: P
+Characters:    "Speaking for the 700,000 members of Clean Water Action, Board Member Myrth York stated,  �President Clinton�s vetoes were the only thing standing between the Dole/Gingrich, pro-polluter Congress and its desire to gut the Clean Water Act and other protections for our health and the environment.�\r\n\r\r\n\r\t"
+Start element: P
+Characters:    "Sierra Club President Adam Werbach added, �President Clinton and Vice President Gore have demonstrated a strong commitment to protecting America�s environment for our families and our future.  Their leadership in protecting the environment has earned them the support of the Sierra Club and all Americans.�  \r\n\r\t \r\n\r\t"
+Start element: P
+Characters:    "Clinton/Gore Campaign Manager Peter S. Knight said, �The endorsements of these major environmental groups is a strong acknowledgment of the President�s and Vice President�s commitment to the environment.  We are thrilled to have the support of these prestigious groups.�\r\n\r\t\r\n\r\t"
+Start element: P
+Characters:    "Companion press activities featuring environmental leaders, citizen activists and Clinton/Gore campaign officials are being held in 34 states across the nation marking the endorsement.  (See attached list.)  \r\n\r\r\n\r# # #\r\n\r\t\t\t\t\r\n\r\t\t\r\n\r"
+Start element: P
+Start element: B
+Characters:    "ALABAMA:"
+End element:   B
+Characters:    "               \r\n\r"
+Characters:    "Activity:\tPress Conference in Birmingham\r\n\r"
+Characters:    "Surrogates:\tMayor Richard Arrington, Pete Conroy, Alabama Environmental Council, John Gemmill, Director Economic and Community Development in Birmingham\r\n\r\t\t\r\n\r\t\r\n\r\t\t\r\n\r"
+Start element: P
+Start element: B
+Characters:    "ALASKA:"
+End element:   B
+Characters:    "   \r\n\r"
+Characters:    "Activity:\tPress and radio from local environmentalists\r\n\r"
+Characters:    "Surrogates:\tRepresentatives from: Sierra Club, Alaska Rainforest, Alaska Center for the Environment, Gwinchin Group (ANWR), State Representative David Finklestein\r\n\r\t\t\r\n\r\t\t\r\n\r\t\t\r\n\r\t\t\r\n\r\t\t\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "CALIFORNIA:"
+End element:   B
+Characters:    " \r\n\r"
+Characters:    "Activity:\tRadio Actualities \r\n\r"
+Characters:    "Surrogates:\tSierra Club, National President or Executive Director, Clean Water Action State Director\r\n\r\t\t                      \r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "COLORADO: "
+End element:   B
+Characters:    "  \r\n\r"
+Characters:    "Activity:\tPress Conference and Radio Actualities at Cherry Creek in Denver\r\n\r"
+Characters:    "Surrogates:\tRepresentatives from: Sierra Club, Clean Water Action, League of Conservation Voters\r\n\r\t\t\r\n\r\t\t\r\n\r\t\t\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "DELAWARE:"
+End element:   B
+Characters:    "   \r\n\r"
+Characters:    "Activity:\tRadio\r\n\r"
+Characters:    "Surrogates:\tDebbie Heaton, President of Delaware Sierra Club\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "FLORIDA:"
+End element:   B
+Characters:    "   \r\n\r"
+Characters:    "Activity:\tPress Interviews\r\n\r"
+Characters:    "Surrogates:\tBob Sullivan, St. Petersburg political Chair Sierra Club, Hamish Ziegler, Miami, Research Consultant Clean Water Action, Dan Hendrickson, League of Conservation Florida Vice President, Francine Robinson, Florida League of Conservation Voters President\r\n\r\t\t\r\n\r\t\t\r\n\r\t\t\r\n\r\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "GEORGIA:"
+End element:   B
+Characters:    "   \r\n\r"
+Characters:    "Activity:\tPress availability Conference and canoe trips at Etowah/Chastity waterway\r\n\r"
+Characters:    "Surrogates:\tSierra Club Representative\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "INDIANA:"
+End element:   B
+Characters:    "\r\n\r"
+Characters:    "Event:\t\tPress Conference and Clean up of a waste dump\r\n\r"
+Characters:    "Surrogate:\tMark Carmichael, Congressional candidate\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "KANSAS:"
+End element:   B
+Characters:    "   \r\n\r"
+Characters:    "Event:\t\tPress Conference\r\n\r"
+Characters:    "Surrogate:\tBill Kraven, President Kansas Sierra Club\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "KENTUCKY:"
+End element:   B
+Characters:    "  \r\n\r"
+Characters:    "Event:\t\tPress Conference at the Greenbriar in Lexington\r\n\r"
+Characters:    "Surrogates:\tOscar Geraldo, Chair of Kentucky Sierra Club\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "LOUISIANA:"
+End element:   B
+Characters:    "   \r\n\r"
+Characters:    "Event 1:\tPress Availability and cleanup of Palmer Park in New Orleans\r\n\r"
+Characters:    "Surrogates:\tLaura Fruge, College Democrats, Louisiana Action Network\r\n\r\t\t\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "Activity 2:\tPress Availability and cleanup of Spanish Lake (near Baton Rouge)\r\n\r"
+Characters:    "Surrogates:\tFrank Bonefay, Willie Fontenot, Louisiana Environmental Action Network\r\n\r\t\t\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "MARYLAND: "
+End element:   B
+Characters:    "  \r\n\r"
+Characters:    "Activity:\tRadio interviews\r\n\r"
+Characters:    "Surrogates:\tSierra Club members\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "MICHIGAN:"
+End element:   B
+Characters:    " \r\n\r"
+Characters:    "Activity 1:\tPress Availability\r\n\r"
+Characters:    "Surrogates:\tRepresentative Kildee\r\n\r"
+Start element: P
+Characters:    "\r\n\rActivity 2:\tPress Conference in Grand Rapids\r\n\r"
+Characters:    "Surrogates:\tSierra Club, Clean Water Action, League of Conservation Voters\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "Activity 3:\tPress Conference in Traverse City\r\n\r"
+Characters:    "Surrogates:\tRepresentatives from Sierra Club, Clean Water Action\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "MINNESOTA:"
+End element:   B
+Characters:    "   \r\n\r"
+Characters:    "Activity:\tPress Conference at City Park on Banks of Mississippi\r\n\r"
+Characters:    "Surrogates:\tPam Bilxt, Sierra Club President, Steve Hoffman, League of Conservation Voters President, Ginny Yingling, Clean Water Action President, Representative Bruce Vento, Senator Paul Wellstone, Attorney General Skip Humphrey\r\n\r\t\t\r\n\r\t\t\r\n\r\t\t\r\n\r\t\t\r\n\r\t\t\r\n\r\t\r\n\r\t\t\r\n\r"
+Start element: P
+Start element: B
+Characters:    "MISSISSIPPI:"
+End element:   B
+Characters:    "  \r\n\r"
+Characters:    "Activity:\tPress Conference in Jackson\r\n\r"
+Characters:    "Surrogates:\tRepresentatives of the Sierra Club\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "MISSOURI:"
+End element:   B
+Characters:    "   \r\n\r"
+Characters:    "Activity 1:\tPress Availability at Recycling Drive in St. Louis\r\n\r"
+Characters:    "Activity 2:\tPress Availability at Recycling Drive in Kansas City\r\n\r"
+Characters:    "Surrogates:\tClinton/Gore Green Team - Volunteers from local environmental organizations\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "MONTANA:"
+End element:   B
+Characters:    "   \r\n\r"
+Characters:    "Activity:\tPress Conference in Bozeman\r\n\r"
+Characters:    "Surrogates:\tSherman Janke, Chairman local Sierra Club, Jane Gelinski, Galltin County Commissioner, Brian Kuehl, Greater Yellowstone Commissioner, Clean Water Action\r\n\r\t\t\r\n\r\t\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "NEVADA:"
+End element:   B
+Characters:    "   \r\n\r"
+Characters:    "Activity:\tPress conference in Las Vegas\r\n\r"
+Characters:    "Surrogates:\tSenator Bryan\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "NEW JERSEY:"
+End element:   B
+Characters:    "   \r\n\r"
+Characters:    "Activity:\tRadio\r\n\r"
+Characters:    "Surrogates:\tRepresentatives from the Environmental Federation\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "NEW MEXICO:"
+End element:   B
+Characters:    "   \r\n\r"
+Characters:    "Activity:\tPress event\r\n\r"
+Characters:    "Surrogates:\tRepresentatives Sierra Club and League of Conservation Voters\r\n\r\t\t\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "NEW YORK:"
+End element:   B
+Characters:    "  \r\n\r"
+Characters:    "Activity:\tPress Conference at Echofest at Riverside Park\r\n\r"
+Characters:    "Surrogates:\tCarolyn Maloney, Jerry Nadler, Sierra Club, League of Conservation Voters\r\n\r\t\t\r\n\r\t\r\n\r\t\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "NORTH CAROLINA:"
+End element:   B
+Characters:    "   \r\n\r"
+Characters:    "Activity:\tPress Conference in front of EPA Research Lab\r\n\r"
+Characters:    "Surrogates:\tBill Holman, Sierra Club, Mark Izzell, League of Conservation Voters\r\n\r\t\t\r\n\r\t\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "NORTH DAKOTA:"
+End element:   B
+Characters:    "   \r\n\r"
+Characters:    "Activity:\tPrint and radio availability \r\n\r"
+Characters:    "Surrogate:\tSherry Shadley, Clean Water Action Program Coordinator\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "OHIO:"
+End element:   B
+Characters:    "   \r\n\r"
+Characters:    "Activity:\tPress Conference with Ohio Sierra Club and League of  Conservation\r\n\r\t\tVoters meeting\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "PENNSYLVANIA: "
+End element:   B
+Characters:    "\r\n\r"
+Characters:    "Activity 1:\tPress Conference at Superfund site in Philadelphia\r\n\rS"
+Characters:    "urrogates:\tRepresentative Borsky, Sierra Club and Clean Water Action representatives\r\n\r\t\t\r\n\r\r\n\r"
+Start element: P
+Characters:    "Activity 2:\tPress Conference at Point State Park in Pittsburgh\r\n\r"
+Characters:    "Surrogates:\tRepresentatives from Sierra Club, Clean Water Action, and Group Against Smog \t& Pollution\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "RHODE ISLAND:"
+End element:   B
+Characters:    "   \r\n\r"
+Characters:    "Activity:\tRadio\r\n\r"
+Characters:    "Surrogate:\tMyrth York, former State Senator\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "SOUTH CAROLINA:"
+End element:   B
+Characters:    " \r\n\r"
+Characters:    "Event:\t\tPress Conference\r\n\r"
+Characters:    "Surrogates:\tRepresentatives of Sierra Club\r\n\r\t\r\n\r"
+Start element: P
+Start element: B
+Characters:    "SOUTH DAKOTA: "
+End element:   B
+Characters:    "  \r\n\r"
+Characters:    "Activity:\tPress Availability\r\n\r"
+Characters:    "Surrogates:\tKaren Fogas, Chair South Dakota Sierra Club, Tom Yseth, naturalist\r\n\r\t\t\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "TENNESSEE:"
+End element:   B
+Characters:    " \r\n\r"
+Characters:    "Activity:\tPress Conference at Bicentennial Mall State Park\r\n\r"
+Characters:    "Surrogate:\tSheila Shay, Tennessee Sierra Club\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "TEXAS:"
+End element:   B
+Characters:    "  \r\n\r"
+Characters:    "Activity:\tPress Availability at Superfund Site Cleanup in Dallas\r\n\r"
+Characters:    "Surrogates:\tRepresentative Edie Bernice Johnson, Gary Mauro, Chair Clinton/Gore '96 Advisory Committee, Representative John Bryan, John Paulond, Congressional Candidate\r\n\r\t\t\r\n\r\t\t\r\n\r\t\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "VERMONT:"
+End element:   B
+Characters:    "\r\n\r"
+Characters:    "Activity:\tPress Conference at Lake Champlain\r\n\r"
+Characters:    "Surrogates:\tSierra Club, Local environmental groups\r\n\r\t\t\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "VIRGINIA:"
+End element:   B
+Characters:    " \r\n\r"
+Characters:    "Activity:\tPress Conference at James River Restoration Project in Richmond \r\n\r"
+Characters:    "Surrogates:\tRepresentatives from Sierra Club, League of Conservation Voters\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "WASHINGTON:"
+End element:   B
+Characters:    "   \r\n\r"
+Characters:    "Activity:\tPress Interviews\r\n\r"
+Characters:    "Surrogates:\tBill Arthur, North West Regional Director, Sierra Club\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Characters:    "WEST VIRGINIA: "
+End element:   B
+Characters:    "  \r\n\r"
+Characters:    "Activity:\tPress Conference\r\n\r"
+Characters:    "Surrogates:\tState Senator David Grubb, National Board of Clean Water Action, David Arnold, Class IV River Runners, Norm Steenstra, Executive Director of West Virginia Citizens Action Group\r\n\r\t\t\r\n\r\t\t\r\n\r\r\n\r"
+Start element: P
+Start element: CENTER
+Characters:    "###"
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End element:   TT
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee,\r\n\rInc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r\r\n\r"
+End of document

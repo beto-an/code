@@ -1,0 +1,107 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Meeting America's Challenges"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #FFFFFF
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    " "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: i
+Characters:    "he challenges are significant. But America\n\r      was built on challenges, not promises... I am confident: when\n\r      Americans work together in their homes, their schools, their\n\r      churches, their synagogues, their civic groups, their\n\r      workplace, they can meet any challenge."
+End element:   i
+Characters:    "”\n\r      "
+Start element: p
+Start element: b
+Characters:    "—President Clinton, State of the Union Address"
+Characters:    "\n\r      January 23, 1996"
+End element:   b
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: a
+Key: href, Value: index74.html
+End element:   a
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: a
+Key: href, Value: index75.html
+End element:   a
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: a
+Key: href, Value: index76.html
+End element:   a
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: a
+Key: href, Value: index77.html
+End element:   a
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: a
+Key: href, Value: index78.html
+End element:   a
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: a
+Key: href, Value: index79.html
+End element:   a
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: a
+Key: href, Value: index80.html
+End element:   a
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+End element:   p
+Characters:    "\n\r      "
+Start element: center
+Characters:    "\n\r        "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: -2
+Characters:    "Photographs © John Ficara/SYGMA; Brooks\n\r        Kraft/SYGMA; Markowitz/SYGMA"
+End element:   font
+End element:   p
+Characters:    "\n\r      "
+End element:   center
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

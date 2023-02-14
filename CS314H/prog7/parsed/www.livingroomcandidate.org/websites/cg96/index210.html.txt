@@ -1,0 +1,237 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "America’s Home Page"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #FFFFFF
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: width, Value: 230
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: font
+Key: size, Value: +6
+Start element: b
+Characters:    "“What is Right with\n\r          America...”"
+End element:   b
+End element:   font
+Characters:    "\n\r          "
+Start element: p
+Start element: font
+Key: size, Value: +2
+Characters:    "by Kelly Gomas —"
+Characters:    "\n\r          New Port Richey, FL"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    " “I am married and\n\r          recently retired after a 30 year career with IBM. As a\n\r          young retiree I have plenty of time to listen, to study,\n\r          and to think."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“I try not to be swayed by just nice words but to also\n\r          look at matters objectively. And objectively I believe\n\r          Bill Clinton has some concrete achievements to boast\n\r          about. For too long politics has been filled with empty\n\r          promises that don't get fulfilled after the election. And\n\r          that is what is important — progress. Step by step,\n\r          evolving to meet the challenges of the 21st century."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“The President's phrase 'There is nothing wrong with\n\r          America that what is right about America cannot fix' is a\n\r          charismatic remark. This phrase touches me because\n\r          inspite of vicious personal assaults, Bill has continued\n\r          to have faith in a vision for America and more\n\r          importantly faith in the character of the American\n\r          people. As an American I need to be believed in by the\n\r          person who is supposed to be representing me! I think it\n\r          takes real character to look past the stones thrown by a\n\r          few, to the hearts and minds of our Great\n\r          America.”"
+End element:   p
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: center
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Key: width, Value: 230
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +4
+Start element: b
+Characters:    "Reflections of a Working\n\r            Woman"
+End element:   b
+End element:   font
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: size, Value: +2
+Characters:    "by Joan Ziegler Seibenick"
+Characters:    "\n\r            Ann Arbor, MI"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“I work in Detroit as a manager of Total Compensation\n\r          Design for an automotive supply company. I have been\n\r          married for ten years and have one beautiful son who will\n\r          be three on Christmas Eve."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“As a working mother and senior manager for a Fortune\n\r          15 company, I find it very difficult to find women\n\r          mentors within my work environment. Therefore, I look\n\r          outside of my immediate surroundings to find women who\n\r          inspire and lead by example. There are many great women,\n\r          both presently and in our past, who have been\n\r          inspirational leaders in this country. One of the most\n\r          visible of these women is Hillary Clinton. With her\n\r          tenacity and spirit, she proves to all that it takes a\n\r          lot more than just intelligence to succeed."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“I look at Bill and Hillary and feel that there is\n\r          hope for our country and our companies. Not only is Bill\n\r          not threatened by Hillary�s strength, character and\n\r          abilities, he encourages her to succeed. He knows her\n\r          talents, trusts her expertise and calls on her leadership\n\r          often. This takes a man of great character and\n\r          integrity."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“I will be proud to vote for the Clinton/Gore team\n\r          this November.”"
+End element:   p
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: center
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: top
+Key: width, Value: 230
+Characters:    "\n\r          "
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: font
+Key: size, Value: +6
+Start element: b
+Characters:    "“Another Cold November\n\r            Night...”"
+End element:   b
+End element:   font
+Characters:    "\n\r            "
+Start element: p
+Start element: font
+Key: size, Value: +2
+Characters:    "by Kathleen Mulhern"
+Characters:    "\n\r            Seattle, WA"
+End element:   font
+End element:   p
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“I went to the polls on that cold November night in\n\r          1992, and I voted for Bill Clinton. I have a friend in\n\r          the White House, I thought, and I put him there."
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“It�s now four years later and he hasn't let me down.\n\r          In 1994, I shook hands the President. He had just\n\r          finished with his early morning jog, and he was greeting\n\r          people in front of the White House. Before I could say or\n\r          do anything, the President turned around, looked me right\n\r          in the eyes, smiled, stuck out his hand and said, 'It's\n\r          nice to meet you!' I took his hand and the only thing I\n\r          could think to say was, 'HI!!'"
+End element:   p
+Characters:    "\n\r          "
+Start element: p
+Characters:    "“When I think about it now, that awkward greeting was\n\r          actually very appropriate. 'Hi' is a greeting for a\n\r          friend, and that's who I consider President Clinton to\n\r          be. When that cold November night rolls around this year,\n\r          once more I will cast my vote for Bill Clinton, and once\n\r          more I'll see a bright future.”"
+End element:   p
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Key: height, Value: 25
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Characters:    "\n\r          "
+Characters:    " "
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Start element: a
+Key: border, Value: 0
+Key: href, Value: index8-2.html
+Key: name, Value: America's Home Page
+End element:   a
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: colspan, Value: 5
+Key: height, Value: 25
+Characters:    "\n\r          "
+Start element: center
+Characters:    "\n\r            "
+Characters:    "\n\r          "
+End element:   center
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

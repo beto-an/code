@@ -1,0 +1,229 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Dole's \"Gender Gap Blues\" Revisited"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "STATEMENT BY JOE LOCKHART"
+Characters:    "\n\r    NATIONAL PRESS SECRETARY"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The last time Bob Dole went to Illinois to talk about\n\r    domestic violence, he was lectured by a woman attending the\n\r    event. Our statement remains the same. Please see\n\r    attached."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "PRESS RELEASE"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "For Immediate Release:"
+Characters:    "\n\r    July 23, 1996"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "STATEMENT BY ANN LEWIS DEPUTY CAMPAIGN\n\r    MANAGER"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Bob Dole�s Record On Protecting Women From Domestic\n\r    Violence:"
+Characters:    "\n\r    It Is Bob Dole Who Has Questions To Answer"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Call it the \"gender gap\" blues. Press accounts have\n\r    repeatedly mentioned that Bob Dole is personally bothered by\n\r    the fact that he is trailing President Clinton among American\n\r    women."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "This frustration is the only explanation for Bob Dole�s\n\r    ridiculous and unfounded charge today."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "But Bob Dole has no one to blame but himself."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "American women are supporting President Clinton because\n\r    they have seen the President work hard to address their\n\r    concerns and improve their safety."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The President�s record on protecting women from violence\n\r    is strong. He signed the Violence Against Women Act into law as\n\r    part of the 1994 Anti-Crime Bill. The President�s program to\n\r    put 100,000 additional police on the street included $20\n\r    million specifically designated for local domestic violence\n\r    programs."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "At virtually every turn over the last 3 years, Bob Dole\n\r    and his partner Newt Gingrich opposed the President�s efforts\n\r    for their own narrow partisan reasons. They voted \"NO\" on the\n\r    Violence Against Women Act and the 1994 Anti-Crime Bill. They\n\r    voted \"NO\" on funding local domestic violence programs. And\n\r    they voted \"NO\" on keeping handguns out of the wrong\n\r    hands."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "If it were up to Bob Dole, there would be no domestic\n\r    violence hotline. Bob Dole�s opposition to this important\n\r    program is consistent with his 35 year record in Washington. In\n\r    1980, for example, Dole voted against a $65 million grant\n\r    program to prevent domestic violence and provide emergency\n\r    shelter for battered women."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "It is Bob Dole who will have to answer for his partisan\n\r    opposition to sensible actions taken by President Clinton to\n\r    protect American women from violence."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "The Dole Record On Domestic Violence: Opposing Efforts\n\r      To Protect Women From Violence And Domestic Abuse"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "Senator Dole has opposed, filibustered and voted\n\r    against President Clinton�s efforts to provide more protections\n\r    for American women."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The Violence Against Women Act -- Senator Dole Voted\n\r    No:"
+Characters:    "\n\r    Dole bragged about \"leading\" passage of Violence Against Women\n\r    Act. In May 1996, Dole spoke to a group of Republican women in\n\r    Washington, DC claiming that among the reasons that women\n\r    should support his presidential campaign was the fact that his\n\r    record included, \"leading the Senate to fully fund -- for the\n\r    first time -- the Violence Against Women Act\". [CNN,\n\r    5/8/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "However, Dole voted against the Violence Against Women\n\r    Act -- and referred to it as \"pork.\" On"
+Characters:    "\n\r    August 14, 1994, Dole discussed his opposition to President\n\r    Clinton�s Violent Crime Control and Law Enforcement Act of\n\r    1994. Dole said the bill contained \"pork\" social spending. Dole\n\r    then led opposition to the Crime Bill and eventually voted\n\r    against it. After the Crime Bill passed -- despite Dole�s\n\r    filibustering and threatening to kill the bill -- Dole referred\n\r    to the \"$10 billion worth of pork\" in the Crime Bill. Included\n\r    in the $10 billion in so-called \"pork\" was the $1.8 billion in\n\r    funding for the Violence Against Women Act. [NBC \"Meet The\n\r    Press,\" 8/14/95; Washington Post, 8/15/94; LA Times, 8/12/94;\n\r    Dole speech, Denver Colorado, CSPAN, Campaign �94; 1994 CQ\n\r    Almanac, Votes # 294, 295, p. 50-S]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Opposition To Action On Domestic Violence Is Not New To\n\r    Bob Dole�s Long Career. Opposition"
+Characters:    "\n\r    to federal action against domestic violence is not new to Bob\n\r    Dole�s 35 year congressional career. Sixteen years ago in 1980,\n\r    Bob Dole voted against the Domestic Violence Prevention and\n\r    Services Act sponsored by Sen. Alan Cranston (D-CA). The act\n\r    established a $65 million grant program for state, local and\n\r    private efforts to prevent domestic violence and provide\n\r    emergency shelter to victims. Republican senators eventually\n\r    killed the bill with a threatened filibuster. [1980 CQ Almanac,\n\r    p. 443-445, vote #382, 9/4/80; DPC, Senate Vote Report, 1980,\n\r    vote # 390]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "More Local Police To Fight Abuse Against Women --\n\r    Senator Dole Voted No:"
+Characters:    "\n\r    Why did Bob Dole vote against investing $20 million in local\n\r    police department programs to combat domestic violence? When\n\r    Bob Dole filibustered and voted against President Clinton�s\n\r    1994 anti-crime bill, he voted against putting 100,000 new\n\r    police officers on America�s streets through the Community\n\r    Oriented Policing (COPS) program. And in 1995, Dole voted to\n\r    eliminate funding for the COPS program altogether. Among the\n\r    COPS programs the President�s initiative created was the\n\r    Community Oriented Policing to Combat Domestic Violence program\n\r    -- which makes $20 million available to local police\n\r    departments that apply community policing techniques to fight\n\r    domestic violence. [Department Of Health And Human Services,\n\r    Reuters, 8/24/94; CQ Almanac, 1994 (50-S); Congressional\n\r    Record, 12/7/95 (Vote # 591; CQ, 12/9/95)]"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

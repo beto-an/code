@@ -1,0 +1,308 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Princeton University Commencement Address"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index91.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #001058
+Characters:    "REMARKS BY THE PRESIDENT"
+Characters:    "\n\r      AT THE PRINCETON UNIVERSITY COMMENCEMENT ADDRESS"
+End element:   font
+Characters:    "\n\r      "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #001058
+Start element: font
+Key: color, Value: #000000
+Characters:    "Princeton University"
+Characters:    "\n\r      Princeton, New Jersey"
+End element:   font
+End element:   font
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #001058
+Start element: font
+Key: color, Value: #000000
+Characters:    "June\n\r      4, 1996"
+End element:   font
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    THE PRESIDENT: Thank you very much. President Shapiro, members\n\r    of the faculty, alumni, to parents and friends of this\n\r    graduating class, especially to the graduates of the Class of\n\r    1996. (Applause.) Let me thank you co-Presidents, George\n\r    Whitesides and Susan Suh, who came to say hello to me this\n\r    morning; and compliment your valedictory address by Bryan Duff,\n\r    and the Latin address by Charles Stowell. I actually took four\n\r    years of Latin in high school. (Laughter.) And even without\n\r    being prompted, I knew I was supposed to laugh when he was\n\r    digging me about going to Yale. (Laughter.)\n\r    "
+Start element: p
+Characters:    "I want to also thank Princeton for honoring the high school\n\r    teachers and the faculty members here for teaching, for today\n\r    we celebrate the learning of the graduates and we should be\n\r    honoring the teachers who made their learning possible. I thank\n\r    you for that. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "It’s a great honor to be here in celebrating Princeton’s 250\n\r    years. I understand that Presidents are only invited to speak\n\r    here once every 50 years. President Truman and President\n\r    Cleveland—you’ve got to say one thing, for all the troubles the\n\r    Democrats have had in the 20th century, we’ve had pretty good\n\r    timing when it comes to Princeton over the last 100 years.\n\r    (Laughter and applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want to thank President Shapiro for his distinguished\n\r    service to higher education in our country. I thank Princeton\n\r    for its long and noble service to our nation. I also am deeply\n\r    indebted to Princeton for the contributions it has made to our\n\r    administration and my presidency."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "My Press Secretary, Mike McCurry, sat in these seats in\n\r    1976. I’m sure that Princeton had something to do with the fact\n\r    that he not only thinks, but talks so fast. (Laughter.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The Chair of our National Economic Council, Laura Tyson, was\n\r    a Princeton Professor then, and Mike McCurry’s thesis advisor.\n\r    And you got back from me Professor Alan Blinder, who was a\n\r    distinguished member of the Council of Economic Advisors and\n\r    the Vice Chairman of the Federal Reserve, and a brilliant\n\r    contributor to our efforts to improve the economy. I want to\n\r    thank Alan Blinder here among his colleagues and these students\n\r    for what he has done."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I thank Tony Lake and Bruce Reed and John Hilley and Peter\n\r    Bass, all members of our staff who graduated from Princeton.\n\r    Two Princeton graduates who are no longer living—Vic Raiser and\n\r    his son, Monty, were great friends of mine. Vic’s wife, Molly,\n\r    is here—our protocol chief. And if it hadn’t been for him I\n\r    might not be here today, and I want to recognize their\n\r    contributions to Princeton and Princeton’s gifts to them."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I also want to say that one of my youngest staff members is\n\r    a classmate here—Jon Orszag. And when the ceremony is over I’d\n\r    like to have you back at work, please. (Laughter.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I would like to talk to the senior class today about not\n\r    only the importance of your education, but the importance of\n\r    everyone else’s education to your future. At every pivotal\n\r    moment in American history, Princeton, its leadership, its\n\r    students have played a crucial role. Many of our Founding\n\r    Fathers were among your first sons. A president of Princeton\n\r    was the only university president to sign the Declaration of\n\r    Independence. This hall was occupied by the British since 1776,\n\r    liberated by Washington’s army in 1777, and as the President\n\r    said, sanctified forever to American history by the\n\r    deliberations of the Continental Congress in 1783."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "In 1896, the last time there was a Class of&nbsp;’96, when\n\r    Princeton celebrated its 150th anniversary and, as has been\n\r    said, Grover Cleveland was President, Professor Woodrow Wilson\n\r    gave his very famous speech,&nbsp;“Princeton in the Nation’s\n\r    Service.” I read that speech before I came here today. And I’d\n\r    like to read just a brief quote from it:&nbsp;“Today we must\n\r    stand as those who would count their force for the future.\n\r    Those who made Princeton are dead. Those who shall keep it and\n\r    better it still live. They are even ourselves.” What he said\n\r    about Princeton 100 years ago applied then to America and\n\r    applies to America even more today."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "At the time of that speech 100 years ago, America was living\n\r    as it is living today, through a period of enormous change. The\n\r    Industrial Age brought incredible new opportunities and great\n\r    new challenges to our people. Princeton, through Wilson and his\n\r    contemporaries, was at the center of efforts to master these\n\r    powerful forces of change in a way that would enable all\n\r    Americans to benefit from them and protect our time-honored\n\r    values."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Less than three years after he left this campus, Woodrow\n\r    Wilson became President of the United States. He followed\n\r    Theodore Roosevelt as the leader of America’s response to that\n\r    time of change. We now know it as the Progressive Era."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Today, on the edge of a new century, all of you—our Class\n\r    of&nbsp;’96—are living through another time of great change,\n\r    standing on the threshold of a new Progressive Era. Powerful\n\r    forces are changing forever our jobs, our neighborhoods, the\n\r    institutions which shape our lives. For many Americans, this is\n\r    a time of enormous opportunity. But for others, it’s a time of\n\r    profound insecurity. They wonder whether their old skills and\n\r    their enduring values will be enough to keep up with the\n\r    challenges of this new age."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "In 1996, like 1896, we really do stand at the dawn of a\n\r    profoundly new era. I have called it the Age of Possibility\n\r    because of the revolution in information and technology and\n\r    market capitalism sweeping the globe—a world no longer divided\n\r    by the Cold War. Just consider this: There’s more computer\n\r    power in a Ford Taurus every one of you can buy and drive to\n\r    the supermarket than there was in Apollo 11 when Neil Armstrong\n\r    took it to the moon. Nobody who wasn’t a high-energy physicist\n\r    had even heard of the World Wide Web when I became President.\n\r    And now even my cat, Socks, has his own page. (Laughter.) By\n\r    the time a child born today is old enough to read, over 100\n\r    million people will be on the Internet."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "This Age of Possibility means that more Americans than ever\n\r    before will be able to live out their dreams. Indeed, for all\n\r    of you in the Class of&nbsp;’96, this Age of Possibility is\n\r    actually an age of high probability, in large measure because\n\r    of the excellent education you celebrate today."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But we know that not all Americans see the future that way.\n\r    We know that about half of our people in this increasingly\n\r    global economy are working harder and harder without making any\n\r    more money; that about half of the people who lose their jobs\n\r    today don’t ever find another job doing as well as they were\n\r    doing in their previous one."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We know that, therefore, our mission today must be to ensure\n\r    that all of our people have the opportunity to live out their\n\r    dreams in a nation that remains the world’s strongest force for\n\r    peace and freedom, for prosperity, for our commitment that we\n\r    can respect our diversity and still find unity."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "This is about more than money. Opportunity is what defines\n\r    this country. For 220 years, the idea of opportunity for all\n\r    and the freedom to seize it have literally been the defining\n\r    elements of America. They were always ideals never perfectly\n\r    realized, but always our history has been a steady march of\n\r    striving to live up to them."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Having these ideals achievable, imaginable for all is an\n\r    important part of maintaining our sense of democracy and our\n\r    ability to forge an American community with such disparate\n\r    elements of race and religion and ethnicity across so many\n\r    borders that could so easily divide this country."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And so I say to you, creating opportunity for all, the\n\r    opportunity that everyone has, that many of you are now\n\r    exercising, dreaming about your future—that is what you must do\n\r    in order to make sure that this Age of Possibility is really\n\r    that for all Americans."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "When I took office, I was concerned about the uncertain\n\r    steps our country was taking for that future. We’d let our\n\r    deficit get out of hand, unemployment had exploded, job growth\n\r    was the slowest since the Great Depression. The country seemed\n\r    to be coming apart when we needed desperately to be coming\n\r    together."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I wanted to chart a new course, rooted first in growth and\n\r    opportunity—first, to put our economic house in order so that\n\r    our businesses could prosper and create jobs; second, to tap\n\r    the full potential of the new global economy; third, to invest\n\r    in our people so that they would have the capacity to meet the\n\r    demands of this new age and to improve their own lives."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "This strategy is in place, and it is working. The deficit is\n\r    half of what it was. The government is now the smallest it’s\n\r    been in 30 years. As a percentage of the federal work force,\n\r    the federal government is the smallest it’s been since 1933,\n\r    before the beginning of the New Deal. We signed over 200 trade\n\r    agreements. Our exports are at an all-time high. Fifteen\n\r    million of our hardest-pressed people have gotten tax cuts.\n\r    Most of the small businesses have as well."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We’ve invested in research and defense transformations.\n\r    We’ve invested in new technologies. And we’ve invested in\n\r    environmental protection and sustainable development. And I\n\r    will say, parenthetically, the great challenge of your age will\n\r    be to prove that we can bring prosperity and opportunity to\n\r    people all across the globe without destroying the environment,\n\r    which is the precondition of our successful existence. And all\n\r    of you will have to meet that challenge, and I challenge you to\n\r    do it. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Our economy, while most of the rest of the world was in\n\r    recession, has produced 8.5 million new jobs, the lowest\n\r    combined rates of inflation, unemployment and home mortgages in\n\r    three decades, the lowest deficit as a percentage of our income\n\r    of any advanced economy in the world, 3.7 million more American\n\r    homeowners, and record numbers of new small businesses in each\n\r    of the last three years."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We are doing well, but we must do better if we are going to\n\r    make the promise of this new age real to all Americans. That\n\r    means we have to grow faster. How fast can we grow? No one\n\r    knows the exact answer to that. But if we look at the\n\r    long-term, if we believe in our people and invest in them and\n\r    their opportunities, and our people take responsibility, the\n\r    sky is the limit."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We must look with the greatest skepticism toward those who\n\r    promise easy and quick solutions. We know that the course that\n\r    leads to long-term growth is in the minds and spirits and ideas\n\r    and discipline and effort of people like those of you who\n\r    graduate here today. We are on the right course; we must\n\r    accelerate it, not veer from it."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We have to finish the job we started in 1993 and balance the\n\r    budget—not only because we want to free you and your children\n\r    of the legacy of debt, but because that will keep interest\n\r    rates down, increase savings, expand companies, start new small\n\r    businesses, help more families buy homes and more parents send\n\r    their children to college."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We know we have to continue to fight for fair and open trade\n\r    because we proved now if other markets are as open to our\n\r    products and services as we are to theirs, we’ll do just fine.\n\r    We know we have to do more to help all Americans deal with the\n\r    economic changes of the present day in a more positive way by\n\r    investing in the future and targeting tax cuts to help\n\r    Americans deal with their own problems and build strong\n\r    families."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We know we have to continue to invest in the things that a\n\r    government needs to invest in, including research and\n\r    development, and technology, and environmental protection. We\n\r    know that since so many people will have to change jobs more\n\r    often than in the past, we have to give families the security\n\r    to know that if they change jobs they can still carry with them\n\r    access to health care and pensions and education for a\n\r    lifetime."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But finally and most importantly, if we really want\n\r    Americans—all Americans—to participate in the future that is\n\r    now at your fingertips, we have got to increase the quality and\n\r    the level of education not just for the graduates of Princeton\n\r    and Georgetown and Yale and the state universities of this\n\r    country, but for all the American people. It is the only way to\n\r    achieve that goal. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The very fact that we have been here or our forebears have\n\r    for 250 years is testimony to the elemental truth that\n\r    education has always been important to individual Americans.\n\r    And for quite a long time, education has been quite important\n\r    to our whole country. Fifty years ago when the Class\n\r    of&nbsp;’46 was here, coming in after World War II the G.I.\n\r    Bill helped to build a great American middle class and a great\n\r    American economy. But today, more than ever before in the\n\r    history of the United States, education is the fault line, the\n\r    great Continental Divide between those who will prosper and\n\r    those who will not in the new economy."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "If you look at the census data, you can see what happens to\n\r    hard-working people who have a high school diploma or who drop\n\r    out of high school and try to keep up in the job market, but\n\r    fall further and further behind. You can also see that if all\n\r    Americans have access to education, it is no longer a fault\n\r    line, it is a sturdy bridge that will lead us all together from\n\r    the old economy to the new."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, we have to work to give every American that kind of\n\r    opportunity. And we’ve worked hard to do it—from increasing\n\r    preschool opportunities, to improving the public school years,\n\r    to increasing technology in our schools. And this spring the\n\r    Vice President and I helped to kick off a Net Day in California\n\r    where schools and businesses and civic leaders hooked up nearly\n\r    50 percent of the schools to the Internet in a single weekend.\n\r    What I want to see is every schoolroom and every library in\n\r    every school in America hooked up to the Internet by the end of\n\r    the year 2000. We can do that. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And I am very proud that I was asked to announce today that\n\r    a coalition of high-tech companies, parents, teachers and\n\r    students are launching Net Day New Jersey this week to connect\n\r    over a thousand schools in New Jersey to the Internet by this\n\r    time next year. That will make a huge difference in making\n\r    learning more democratic and information more accessible in\n\r    this country. I thank them for that. Every single person in New\n\r    Jersey who will be a part of that. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But we have to face the fact that that is not enough. We\n\r    have to do more. Just consider the last hundred years. At the\n\r    turn of the century, the progressives made it the law of the\n\r    land for every child to be in school. Before then there was no\n\r    such requirement. After World War II, we said 10 years are not\n\r    enough, public schools should extend to 12 years. And then, as\n\r    I said, the G.I. Bill and college loans threw open the doors of\n\r    college to the sons and daughters of farmers and factory\n\r    workers. And they have powered our economy ever since."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "America knows that higher education is the key to the growth\n\r    we need to lift our country. And today that is more true than\n\r    ever. Just listen to these facts. Over half the new jobs\n\r    created in the last three years have been managerial and\n\r    professional jobs. The new jobs require higher-level skills.\n\r    Fifteen years ago the typical worker with a college degree made\n\r    38 percent more than a worker with a high school diploma.\n\r    Today, that figure is 73 percent more. Two years of college\n\r    means a 20 percent increase in annual earnings. People who\n\r    finish two years of college earn a quarter of a million dollars\n\r    more than their high school counterparts over a lifetime."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, it is clear that America has the best higher education\n\r    system in the world, and that it is a key to a successful\n\r    future in the 21st century. It is also clear that because of\n\r    cost and other factors, not all Americans have access to higher\n\r    education."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want to say today that I believe the clear facts of this\n\r    time make it imperative that our goal must be nothing less than\n\r    to make the 13th and 14th years of education as universal to\n\r    all Americans as the first 12 are today. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We have put in place an unprecedented college opportunity\n\r    strategy: Student loans can now be given directly to people who\n\r    need them, with a provision to repay them based on the ability\n\r    of the graduate to pay—based on income. This is a dramatic\n\r    change which is making loans more accessible to young people\n\r    who did not have them before. Americorps, which by next year\n\r    will have given over 65,000 young people the chance to earn\n\r    their way through college by serving their country and their\n\r    communities. More Pell Grants, scholarships for deserving\n\r    students every year."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now we want to go further; we want to expand work-study so\n\r    that a million students can work their way through college by\n\r    the year 2000. We want to let people use money from their\n\r    Individual Retirement accounts to help pay for college. We want\n\r    every honor student in the top five percent of every high\n\r    school class in America to get a $1,000 scholarship."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And we also want to do some other things that I believe we\n\r    must do to make 14 years of education the standard for every\n\r    American. First, I have asked Congress to pass a $10,000 tax\n\r    deduction to help families pay for the cost of all education\n\r    after high school—$10,000 a year. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Today I announced one more element to complete our college\n\r    strategy and make those two years of college as universal as\n\r    four years of high school—a way to do it, by giving families a\n\r    tax credit targeted to achieve that goal and making clear that\n\r    this opportunity requires responsibility to receive it."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We should say to Americans who want to go to college, we\n\r    will give you a tax credit to pay the cost of tuition at the\n\r    average community college for your first year, or you can apply\n\r    the same amount to the first year in a four-year university or\n\r    college. We will give you the exact same cut for the second\n\r    year, but only if you earn it by getting a B average the first\n\r    year. A tax deduction for families to help them pay for\n\r    education after high school; a tax credit for individuals to\n\r    guarantee their first year of college and the second year if\n\r    they earn it."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "This is not just for those individuals, this is for America.\n\r    Your America will be stronger if all Americans have at least\n\r    two years of higher education. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Think of it: We’re not only saying to children from very\n\r    poor families who think they would never be able to go to\n\r    college, people who may not have stellar academic records in\n\r    high school, if you’re willing to work hard and take a chance,\n\r    you can at least go to your local community college and we’ll\n\r    pay for the first year. If you’re in your 20s and you’re\n\r    already working, but you can’t move ahead on a high school\n\r    diploma, now you can go back to college. If you’re a mother\n\r    planning to go to work, but you’re afraid you don’t have the\n\r    skills to get a good job, you can go to college. If you’re 40\n\r    and you’re worried that you need more education to support your\n\r    family, now you can go part-time, you can go at night. By all\n\r    means, go to college and we’ll pay the tuition."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I know this will work. When I was the governor of my home\n\r    state, we created academic challenge scholarships that helped\n\r    people who had good grades and who had good behavior to go to\n\r    college. But my proposal today builds mostly on the enormously\n\r    successful HOPE Scholarships in Georgia, which guaranteed any\n\r    student in the state of Georgia free college as long as they\n\r    had a B average. This year those scholarships are helping\n\r    80,000 students in the state of Georgia alone—including 70\n\r    percent of the freshmen class at the University of Georgia."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "In recognition of Georgia’s leadership, I have decided to\n\r    call this proposal America’s HOPE Scholarships. And I want to\n\r    thank the Governor of Georgia, Zell Miller, who developed this\n\r    idea. I also would like to recognize him—he came up here with\n\r    me today—and thank him for the contribution that he is now\n\r    going to make to all of America’s future."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Governor Miller, where are you? Would you please stand up?\n\r    Here he is. Thank you. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Let me say, as all of you know, money doesn’t grow on trees\n\r    in Washington, and we’re not financing deficits anymore. I’m\n\r    proud to say, as a matter of fact, for the last two years our\n\r    budget has been in surplus, except for the interest necessary\n\r    to pay the debt run up in the several years before I became\n\r    President. So we are doing our best to pay for these programs.\n\r    And this program will be paid for by budgeted savings in the\n\r    balanced budget plan. We cannot go back to the days of\n\r    something for nothing or pretend that in order to invest in\n\r    education we have to sacrifice fiscal responsibility."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, this program will do three things. It will open the\n\r    doors of college opportunity to every American, regardless of\n\r    their ability to pay. Education at the typical community\n\r    college will now be free. And the very few states that have\n\r    tuition above the amount that we can afford to credit, I would\n\r    challenge those states to close the gap. We’re going to take\n\r    care of most of the states. The rest of them should help us the\n\r    last little way."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Second, it will offer free tuition and training to every\n\r    adult willing to work for it. Nobody now needs to be stuck in a\n\r    dead-end job or in unemployment. And finally, this plan will\n\r    work because it will go to people who, by definition, are\n\r    willing to work for it. It’s America’s most basic bargain.\n\r    We’ll help create opportunity if you’ll take responsibility.\n\r    This is the basic bargain that has made us a great nation."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I know that here at the reunion weekend the Class\n\r    of&nbsp;’46 has celebrated its 50th reunion. And I want to just\n\r    mention them one more time. Many members of the Class\n\r    of&nbsp;’46 fought in the second world war. And they came home\n\r    and laid down their arms and took up the responsibility of the\n\r    future with the help of the G.I. Bill. That’s when our nation\n\r    did its part simply by giving them the opportunity to make the\n\r    most of their own lives. And in doing that, they made America’s\n\r    most golden years."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The ultimate lesson of the Class of 1946 will also apply to\n\r    the Class of 1996 in the 21st century. Because of the education\n\r    you have, if America does well, you will do very well. If\n\r    America is a good country to live in you will be able to build\n\r    a very good life."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "So I ask you never to be satisfied with an age of\n\r    probability for only the sons and daughters of Princeton. You\n\r    could go your own way in a society that, after all, seems so\n\r    often to be coming apart instead of coming together. You will,\n\r    of course, have the ability to succeed in the global economy,\n\r    even if you have to secede from those Americans trapped in the\n\r    old economy. But you should not walk away from our common\n\r    purpose."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Again I will say this is about far more than economics and\n\r    money. It is about preserving the quality of our democracy, the\n\r    integrity of every person standing as an equal citizen before\n\r    the law, the ability of our country to prove that no matter how\n\r    diverse we get, we can still come together in shared community\n\r    values to make each of our lives and our family’s lives\n\r    stronger and richer and better. This is about more than\n\r    money."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The older I get and the more I become aware that I have more\n\r    yesterdays than tomorrows, the more I think that in our final\n\r    hours, which all of us have to face, very rarely will we say,\n\r    gosh, I wis"
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

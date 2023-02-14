@@ -1,0 +1,85 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "Bob Dole Adopts Pat Buchanan's Platform"
+End element:   TITLE
+Characters:    "\r\n\r\r\n\r"
+Start element: KPETITLE
+Start element: B
+Characters:    "For Immediate Release:"
+End element:   B
+Characters:    "\r\n\rBob Dole Adopts Pat Buchanan's Platform"
+Start element: DD
+End element:   KPETITLE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "  "
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "  "
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r"
+Start element: TT
+Characters:    "\r\n\r"
+Start element: P
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "August 8, 1995\r\n\r\r\n\r"
+Start element: P
+Characters:    "STATEMENT BY ANN LEWIS\r\n\r"
+Characters:    "DEPUTY CAMPAIGN MANAGER\r\n\r  \r\n\r\r\n\r"
+Start element: P
+Characters:    "After promising that his platform would reach out to mainstream Republicans by including \"tolerance\" language in the GOP�s abortion plank, Bob Dole agreed yesterday to push \"tolerance\" out of the GOP platform altogether. \r\n\r\r\n\r"
+Start element: P
+Characters:    "Tolerance is not in the abortion plank -- as Bob Dole promised it would be.  There is no \r\n\r\"tolerance plank\" in the GOP platform -- as Bob Dole promised there would be.  In fact,  yesterday�s deal established in writing that tolerance is a second class issue in Bob Dole�s Republican Party.  \r\n\r\r\n\r"
+Start element: P
+Characters:    "Mainstream Republicans� attempts to include tolerance in the platform will now be listed in an \"appendix\" -- along with other amendments that were rejected by Bob Dole�s delegates.  \r\n\r\r\n\r"
+Start element: P
+Characters:    "As Pat Buchanan�s sister Bay said: \"... (W)e will, obviously, in an appendix (list) those amendments that they proposed.  They did happen, they were proposed, they were defeated, and that's all this says\" (CNN Inside Politics Extra, 8/7/96)\r\n\r\r\n\r"
+Start element: P
+Characters:    "A Wall Street Journal poll out today shows that \"some 52% of Republican voters surveyed said the party should either drop from its platform support for an anti-abortion constitution amendment or eliminate reference to abortion altogether.\" \r\n\r\r\n\r"
+Start element: P
+Characters:    "Bob Dole�s convention platform defeated this majority of mainstream Republicans -- and sided with the right-wing, extreme fringe of the party.  Or as Bay Buchanan put it: \"This is very Buchanan ...  We could not be more pleased.  This is much more of a ... Buchananesque platform than we ever dreamed, to be honest.\" "
+Characters:    "(Washington Post, 8/8/96)\r\n\r\r\n\r"
+Start element: P
+Start element: CENTER
+Characters:    "###\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    " "
+Characters:    " "
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee, Inc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End of document

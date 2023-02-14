@@ -1,0 +1,168 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Bob Dole: Against the Brady Bill"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 2, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "STATEMENT BY JOE LOCKHART"
+Characters:    "\n\r    NATIONAL PRESS SECRETARY"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Today marks the four year anniversary of Bob Dole�s\n\r    votes to stall action on the Crime Bill -- votes which\n\r    successfully killed the Brady Bill provision. This was not his\n\r    first vote against gun control legislation. In fact, Bob Dole\n\r    has long opposed the Brady Bill -- voting against similar\n\r    legislation as early as 1985. Bob Dole�s stalling techniques\n\r    might be a mistake once, but time after time?"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole did not think it was a mistake. On November 27,\n\r    1993, on the CBS Evening News, Dole stated, \"[W]ill [the Brady\n\r    bill] make much difference? Probably not.\" Once again, Bob Dole\n\r    was wrong. To date, the Brady Law has prevented more than\n\r    60,000 felons, fugitives, and other criminals from buying\n\r    handguns."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The difference between President Clinton and Bob Dole on\n\r    the Brady Bill could not be more clear. President Clinton is\n\r    providing leadership that protects families and fights crime.\n\r    Senator Dole has opposed him every step of the way."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "Bob Dole: Against the Brady Bill"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: ul
+Characters:    "\n\r      "
+Start element: b
+Characters:    "1993: Dole Filibustered, Voted Against Brady Bill"
+End element:   b
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "On November 20, 1993, Dole voted against passage of\n\r      the Brady Bill. [1993 CQ Almanac, p. 302; p. 51-S, vote #\n\r      394]"
+End element:   tt
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "Upon voting against final passage, Dole stated: \"We\n\r      lost one.\" [Houston Chronicle, 11/25/93]"
+End element:   tt
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "Dole had also led a GOP filibuster of the Brady Bill,\n\r      voting twice against cloture, despite the fact that the bill\n\r      represented a compromise measure that he helped draft. [1993\n\r      CQ Almanac, p. 302; votes #387, #390, 11/19/93, p.\n\r      50-S]"
+End element:   tt
+End element:   li
+Characters:    "\n\r    "
+End element:   ul
+Characters:    "\n\r    "
+Start element: ul
+Characters:    "\n\r      "
+Start element: b
+Characters:    "Dole Successfully Blocked Brady Bill for Years Before\n\r      Clinton Signed It"
+End element:   b
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "Over several years, Bob Dole tried numerous times to\n\r      kill the Brady Bill:"
+End element:   tt
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "In 1992, Dole voted twice against ending a Republican\n\r      filibuster of an Omnibus Crime Bill that included Brady Bill\n\r      provisions (HR 3371), thereby killing the Brady Bill for that\n\r      year. [1992 CQ Almanac, vote #53, 3/19/92, p. 8-S; vote #262,\n\r      10/2/92, p. 34-S; p.311-313]"
+End element:   tt
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: tt
+Characters:    "In 1991, Dole voted to continue a filibuster of a\n\r      crime bill that contained Brady Bill provisions. [1991 CQ\n\r      Almanac, p.262-273; p. 36-S, vote #278, 11/27/91]"
+End element:   tt
+End element:   li
+Characters:    "\n\r    "
+End element:   ul
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

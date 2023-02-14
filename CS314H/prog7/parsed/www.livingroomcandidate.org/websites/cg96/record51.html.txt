@@ -1,0 +1,183 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Compare the Records..."
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+Characters:    "\n\r    "
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    September 26, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "STATEMENT BY JOE LOCKHART"
+Characters:    "\n\r    NATIONAL PRESS SECRETARY"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "In his new ad, Bob Dole is resorting to insults over\n\r    ideas."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The Truth about the Clinton Record: he's the first\n\r    President to cut the deficit for four consecutive years since\n\r    before the Civil War. Under 3 and 1/2 years of President\n\r    Clinton, the deficit has been cut by 60 percent. The\n\r    President's 1993 Economic Plan cut federal spending by $255\n\r    billion -- one of the largest spending cut packages in history.\n\r    Spending as a share of the economy has declined from 23.3% to\n\r    21.7% of GDP and is lower than at any time during the previous\n\r    two Administrations -- lower than any year since 1979. The\n\r    federal workforce has been reduced by nearly 250,000 workers to\n\r    its lowest level since President Kennedy."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton�s CBO certified balanced budget cuts\n\r    spending by an additional $500 billion more over the next six\n\r    years and protects our values. Also, he has signed a welfare\n\r    reform bill that will save $60 billion."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Now let�s take a peek at Bob Dole�s record. Bob Dole\n\r    voted for over $900 billion in new taxes over 35 years in\n\r    Congress. When Bob Dole was a Republican Leader -- as Senate\n\r    Finance Committee Chairman and Senate Majority Leader -- from\n\r    1980 to 1986, the deficit tripled. Worse, his risky $548\n\r    billion economic scheme would blow a hole in the deficit and\n\r    actually raise taxes on nine million working\n\r    Americans."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole had an interesting idea with his ad today. Too\n\r    bad, it�s the ad Republican Steve Forbes ran about Bob Dole in\n\r    the 1996 Republican Presidential primaries."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Recall: \"A choice for Republicans in wasteful spending.\n\r    Should Congress have spent six million dollars of taxpayers\n\r    money for an Idaho ski resort? ...Bob Dole voted Yes. Should\n\r    Congress have spent 2 1/2 million dollars of taxpayers' money\n\r    to build bicycle paths in North Miami Beach? Bob Dole voted\n\r    Yes. ...Bob Dole -- Washington values.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "# # #"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Steve Forbes Television Ads"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"Wasteful Spending\""
+Characters:    "\n\r    :30"
+Characters:    "\n\r    Television"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"A choice for Republicans on wasteful spending. Should\n\r    Congress have spent six million dollars of taxpayers' money for\n\r    an Idaho ski resort? Steve Forbes says No. Bob Dole voted Yes.\n\r    Should Congress have spent 2 1/2 million dollars of taxpayers'\n\r    money to build bicycle paths in North Miami Beach? Steve Forbes\n\r    says No. Bob Dole voted Yes. Two men -- different values. Bob\n\r    Dole -- Washington values. Steve Forbes -- Conservative\n\r    values.\" [Forbes release, 1/3/96 as quoted in Hotline,\n\r    1/4/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Senate Subway"
+Characters:    "\n\r    :30"
+Characters:    "\n\r    Television"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"A choice for Republicans on wasteful spending. Should\n\r    Congress have spent $18 million for a new subway to run three\n\r    blocks from senators' offices to the Capitol? Steve Forbes says\n\r    no, it was wasteful spending. Bob Dole says yes. Bob Dole voted\n\r    for a new subway to run three blocks from senators' offices to\n\r    the Capitol. Two men. Different values. Bob Dole -- Washington\n\r    values. Steve Forbes -- conservative values.\" [Associated\n\r    Press, 12/13/95]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Dole�s Taxes"
+Characters:    "\n\r    :30"
+Characters:    "\n\r    Television"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Announcer: \"Since 1982, Bob Dole has voted for tax\n\r    increases, raising income taxes, taxes on phones, gas, even\n\r    Social Security. A total of 962 billion dollars in tax\n\r    increases.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Steve Forbes: \"I'm Steve Forbes. I disagree with Bob\n\r    Dole. We need a flat tax that's a tax cut. It's simple. It's\n\r    honest. And that's a big change for Washington.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Announcer: \"Steve Forbes for President.\"[Transcribed\n\r    from video, NBC, 11/5/95. First aired, 11/2/95]"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

@@ -1,0 +1,94 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG ’96 | Bill Clinton and Al Gore | William Jefferson\n\r  Clinton"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    " \n\r    "
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: table
+Key: width, Value: 70%
+Key: align, Value: center
+Key: height, Value: 90%
+Key: valign, Value: top
+Characters:    "\n\r        "
+Start element: tr
+Characters:    "\n\r          "
+Start element: td
+Characters:    "\n\r            "
+Characters:    "\n\r            "
+Characters:    "\n\r            "
+Characters:    "\n\r            "
+Characters:    "\n\r            "
+Start element: blockquote
+Characters:    "\n\r              The President earned a Bachelor’s degree from\n\r              Georgetown University in 1968 and a law degree from\n\r              Yale Law School in 1973. He also studied at Oxford\n\r              University as a Rhodes Scholar from 1968 to 1970 and\n\r              later became a member of the law school faculty at\n\r              the University of Arkansas at Fayetteville.\n\r              "
+Start element: p
+Characters:    "Elected Attorney General of Arkansas in 1976,\n\r              President Clinton won the race for Governor two years\n\r              later. The people of Arkansas reelected him four\n\r              times thereafter, allowing him to serve as Governor\n\r              longer than all but one of his predecessors.\n\r              Leadership on education and economic development\n\r              issues highlighted his term."
+End element:   p
+Characters:    "\n\r              "
+Start element: p
+Characters:    "President Clinton has served as chair of the\n\r              National Governors’ Association, the Education\n\r              Commission of the States, the Lower Mississippi Delta\n\r              Development Commission, the Southern Growth Policies\n\r              Board, the Democratic Governors’ Association, and the\n\r              Democratic Leadership Council."
+End element:   p
+Characters:    "\n\r              "
+Start element: p
+Characters:    "The President is married to Hillary Rodham\n\r              Clinton, and they have a sixteen-year-old daughter,\n\r              Chelsea. President and Mrs. Clinton celebrated their\n\r              20th wedding anniversary in October of 1995."
+End element:   p
+Characters:    "\n\r            "
+End element:   blockquote
+Characters:    "\n\r          "
+End element:   td
+Characters:    "\n\r        "
+End element:   tr
+Characters:    "\n\r      "
+End element:   table
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: center
+Characters:    "\n\r        "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: -2
+Characters:    "Photograph © Brooks\n\r        Kraft/SYGMA"
+End element:   font
+End element:   p
+Characters:    "\n\r      "
+End element:   center
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

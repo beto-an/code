@@ -1,0 +1,321 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Democratic National Convention Address"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index91.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #001058
+Characters:    "ADDRESS BY THE FIRST LADY"
+Characters:    "\n\r      TO THE DEMOCRATIC NATIONAL CONVENTION"
+End element:   font
+Characters:    "\n\r      "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #001058
+Start element: font
+Key: color, Value: #000000
+Characters:    "United Center"
+Characters:    "\n\r      Chicago, Illinois"
+End element:   font
+End element:   font
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #001058
+Start element: font
+Key: color, Value: #000000
+Characters:    "August 27, 1996"
+End element:   font
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Thank you, Tipper. And thank you for being such a good\n\r    friend to me and to Americans everywhere."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "You know, Chicago really is my kind of town."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I have so many friends here, people who have been important\n\r    to my life. And it seems like every one of them has given me\n\r    advice on this speech."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "One friend suggested I appear with Binti, the child-saving\n\r    gorilla from the Brookfield Zoo. As this friend explained it:\n\r    \"Binti is a typical Chicagoan. Tough on the outside, but with a\n\r    heart of gold underneath\"\""
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Another friend advised that I should have my hair cut and\n\r    colored orange. And then I could change my name to Hillary\n\r    RODMAN Clinton."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "After considering these and countless other suggestions, I\n\r    decided to do what I've been doing for years - - to talk about\n\r    what matters most in our lives and in our nation: children and\n\r    families. I wish we could be sitting around a kitchen table,\n\r    talking about our hopes and fears about our children's\n\r    futures."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "For Bill and me, family has been the center of our lives.\n\r    But we also know that our family, like yours, is part of a\n\r    larger community that can help or hurt our best efforts to\n\r    raise our child."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Right now, in our biggest cities and our smallest towns,\n\r    there are boys and girls being tucked gently into bed. And\n\r    there are boys and girls who have no one to call Mom or Dad - -\n\r    and no place to call home."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Right now, there are mothers and fathers just finishing a\n\r    long day's work. And there are mothers and fathers just going\n\r    to work, some to their second or third job of the day."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Right now, there are parents worrying: What if the\n\r    babysitter is sick tomorrow? How are we going to pay for\n\r    college this fall?"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Right now, there are parents despairing about gang members\n\r    and drug pushers on the corner. There are parents questioning a\n\r    popular culture that glamorizes sex and violence, smoking and\n\r    drinking, and teaches children that their clothes are more\n\r    valued than the generosity in their hearts."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But also right now, there are dedicated teachers preparing\n\r    lessons for the new school year; volunteers tutoring children\n\r    and coaching teams; doctors and nurses caring for sick\n\r    children; police officers risking their lives to help kids stay\n\r    out of trouble and off drugs."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Of course, parents, first and foremost, are responsible for\n\r    their children. But we are all responsible for ensuring that\n\r    children are raised in a nation that doesn't just talk about\n\r    family values, but acts in ways that value families."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "As Christopher Reeve so eloquently reminded us last night,\n\r    we are all part of one family - - the American family - - and\n\r    each one of us has value. Each child who comes into this world\n\r    should feel special. Every boy - - and every girl."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Our daughter Chelsea will graduate from college in 2001, at\n\r    the dawn of the next century."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Though that's not so far away, it is hard for any of us to\n\r    know what the world will look like then, much less when Chelsea\n\r    is my age - - in 2028."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But one thing we know for sure is that change is certain,\n\r    progress is not. Progress depends on the choices we make today\n\r    for tomorrow, and on whether we meet our challenges and protect\n\r    our values."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We can start by doing more to support parents and the jobs\n\r    they have to do. Issues affecting children and families are\n\r    some of the hardest we face - - as parents, as citizens, as a\n\r    nation."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "In October, Bill and I will celebrate our 21st wedding\n\r    anniversary. Bill was with me when Chelsea was born. In the\n\r    delivery room. In my hospital room. And when we brought our\n\r    baby daughter home."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Not only did I have lots of help, I was able to stay in the\n\r    hospital as long as my doctor thought I needed to be there."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But today too many new mothers are asked to get up and get\n\r    out of the hospital twenty-four hours after their baby is born.\n\r    That's just not enough time for many mothers."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "That's why the President is right to support a bill that\n\r    would prohibit the practice of forcing mothers and babies to\n\r    leave the hospital in less than 48 hours."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "That's why more hospitals ought to install 24-hour hotlines\n\r    to answer questions once new mothers and fathers get home.\n\r    That's why home nurses can make such a difference to parents\n\r    who may not have grandparents or aunts and uncles around to\n\r    help."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We have to do whatever we can to help parents meet their\n\r    responsibilities at home and at work."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The very first piece of legislation that my husband signed\n\r    into law had been vetoed twice. The Family and Medical Leave\n\r    Law."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "It allows parents time off for the birth or adoption of a\n\r    child, or for family emergencies, without fear that they will\n\r    lose their jobs. Already it has helped 12 million families - -\n\r    and it hasn't hurt the economy one bit."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Bill and I are fortunate that our jobs have allowed us to\n\r    take breaks from work, not only when Chelsea was born but to\n\r    attend her school events and take her to the doctor. But\n\r    millions of other parents can't get time off."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "That's why my husband wants to expand the Family and Medical\n\r    Leave Law so that parents can take time off for children's\n\r    doctors appointments and parent-teacher conferences."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Raising kids is a full-time job, and since most parents\n\r    work, they are - - we are - -stretched thin."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Just think about what many parents are responsible for on\n\r    any given day: packing lunches, dropping the kids off at\n\r    school, going to work, checking to make sure the kids get home\n\r    from school, shopping for groceries, making dinner, doing the\n\r    laundry, helping with homework, paying the bills - - and I\n\r    didn't even mention taking the dog to the vet."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "That's why my husband wants to pass a flex time law that\n\r    will give parents the option to take overtime pay, either in\n\r    extra income or in extra time off, whichever is best for your\n\r    family."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Our family has been lucky to have a child blessed with good\n\r    health. Chelsea has spent only one night in the hospital, after\n\r    she had her tonsils out. And that night Bill and I couldn't\n\r    sleep at all."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But our experience was nothing like the emotional strain on\n\r    parents when their child is seriously ill. And often their\n\r    worry is compounded by the looming question of how they are\n\r    going to pay the medical bills."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "That's why my husband has always felt that all American\n\r    families should have affordable health insurance."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Just last week the President signed a bill sponsored by\n\r    Senators Kennedy and Kassebaum - - a Democrat and a Republican\n\r    - - that will enable 25 million Americans to keep their health\n\r    insurance even when they switch jobs, lose a job, or have a\n\r    family member who's been sick."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "This law contains some of the key provisions from the\n\r    President's proposal for health care reform. It was an\n\r    important step - - achieved only after both parties agreed to\n\r    build, not block, progress on making health care available to\n\r    all Americans."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now the country must take the next step of helping\n\r    unemployed Americans and their children keep health insurance\n\r    for six months after losing their jobs. If you lose your job\n\r    it's bad enough. But your daughter shouldn't have to lose her\n\r    doctor too."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And our nation still must find a way to offer affordable\n\r    coverage to the working poor and the 10 million children who\n\r    lack health insurance today."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The President hasn't forgotten that there are thousands of\n\r    children languishing in foster care who can't be returned home.\n\r    That's why he just signed legislation that provides for a\n\r    $5,000 tax credit for parents who adopt a child. It also\n\r    abolishes the barriers to cross-racial adoptions. A racial\n\r    barrier should never stand in the way of a family's love."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "My husband also understands that parents are their\n\r    children's first teachers. Not only do we need to read to our\n\r    children and talk to them in ways that encourage learning, we\n\r    must support our teachers and our schools in deeds as well as\n\r    words. The President announced today an important initiative\n\r    called \"America Reads\" whose aim is to make sure all children\n\r    can read well by third grade."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "For Bill and me, there has been no experience more\n\r    challenging, more rewarding, and more humbling than raising our\n\r    daughter."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And we have learned that to raise a happy, healthy and\n\r    hopeful child:"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "It takes a family."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "It takes teachers."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "It takes clergy."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "It takes business people."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "It takes community leaders."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "It takes those who protect our health and safety."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "It takes all of us."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Yes, it takes a village."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And . . . it takes a President."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "It takes a President who believes not only in the potential\n\r    of his own child, but of all children; who believes not only in\n\r    the strength of his own family, but of the American family; who\n\r    believes not only in the promise of each of us as individuals,\n\r    but in our promise together as a nation."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "It takes a President who not only holds these beliefs but\n\r    acts on them."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "It takes Bill Clinton."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Sometimes, late at night, when I see Chelsea doing her\n\r    homework, or watching TV, or talking to a friend on the phone,\n\r    I think to myself: Her life and the lives of millions of boys\n\r    and girls will be better because of what all of us are doing\n\r    together. They will face fewer obstacles and more\n\r    possibilities. That is something we should all be proud of."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And that is what this election is all about."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Thank you very much."
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

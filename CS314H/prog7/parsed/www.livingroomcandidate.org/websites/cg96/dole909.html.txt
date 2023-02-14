@@ -1,0 +1,155 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Bob Dole's Education Cuts"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    September 9, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "STATEMENT BY JOE LOCKHART"
+Characters:    "\n\r    NATIONAL PRESS SECRETARY"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole today put education at the top of the list of\n\r    programs he will cut to pay for his $550 billion economic\n\r    scheme. Dole said today he wants to \"cut out\" the Department of\n\r    Education. But that's only where the Dole economic plan begins.\n\r    With programs like Medicare, Defense and Veterans programs off\n\r    the table, Dole's economic plan will mean more than 40 percent\n\r    cuts in all education programs from Safe and Drug Free Schools\n\r    to college scholarships."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole's rare economic candor in eliminating the\n\r    Department of Education today indicates the short-sighted and\n\r    risky nature of his economic plan. Bob Dole is telling America\n\r    that at his first cabinet meeting there will be no one there to\n\r    speak for education. President Clinton believes education is\n\r    the key to building an economic bridge to the 21st century. If\n\r    Bob Dole was really \"listening to America,\" education would be\n\r    a top priority, not the top of his hit list for spending\n\r    cuts."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "Bob Dole's Plan To Cut Education"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "DOLE ADMITTED TODAY THAT HE WOULD \"CUT OUT\" EDUCATION\n\r    DEPARTMENT:"
+End element:   b
+Characters:    "\n\r    Dole has not specified where most of the cuts would come from\n\r    to pay for his risky economic scheme. In the past Dole had\n\r    said, \"We don't have every dollar worked out.\" However, while\n\r    campaigning in Georgia today, Dole said, \"We're going to cut\n\r    out the Department of Education...\" [CBS This Morning, 8/12/96;\n\r    Dole \"Listening To America\" event (Georgia), 9/9/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "DOLE'S 40% CUTS IN EDUCATION WOULD MEAN:"
+End element:   b
+Characters:    "\n\r    Dole's risky economic scheme would cause 40% cuts in a broad\n\r    range of federal programs, including education: A 40% cut in\n\r    education would mean:"
+Characters:    "\n\r    2.7 Million Children Could be Denied Basic and Advanced Skills\n\r    Assistance from Title I Education Funding Which Currently Helps\n\r    6.8 Million School-Children Nationwide."
+Characters:    "\n\r    16 Million of the Current 40 Million School-Children Protected\n\r    by Safe and Drug Free Schools Could be Denied Safe & Drug Free\n\r    Schools Services, or services could be drastically reduced in\n\r    each of the 97% of school districts that currently use Safe and\n\r    Drug Free Schools funds to keep schools safe and our children\n\r    drug free."
+Characters:    "\n\r    1.45 Million Students could be denied Pell Grant Scholarships,\n\r    or, Pell Grant awards could have to be reduced by 40% for the\n\r    3.6 million Pell Grant recipients. [Calculations based on\n\r    current budget]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "1995 DOLE/GINGRICH BUDGET CUT EDUCATION BY $31\n\r    BILLION -- MOST IN HISTORY:"
+End element:   b
+Characters:    "."
+Characters:    "\n\r    The 1995 (FY96) Dole/Gingrich budget would have cut Education\n\r    and Training by $31 billion over 7 years -- the largest cuts in\n\r    history. Dole voted for this budget on November 17, 1996. [CBO,\n\r    Analysis of HR 2491, 11/16/95, FY96 Budget Resolution\n\r    Conference Agreement; FY97 Budget Report, Chart 8-1]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "1996 DOLE/GINGRICH BUDGET TRIED TO CUT EDUCATION BY\n\r    $24 BILLION:"
+End element:   b
+Characters:    "\n\r    The 1996 (FY97) Dole/Gingrich budget would have cut Education\n\r    and Training by $24 billion over six years. [OMB]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "FOLLOWING THROUGH ON THE EXTREMIST 1996 GOP\n\r    PLATFORM:"
+End element:   b
+Characters:    "\n\r    Bob Dole's 1996 Republican platform states, \"As a first step in\n\r    reforming government, we support elimination of the Departments\n\r    of ... Education.\" [1996 Republican Party Platform]"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

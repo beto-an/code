@@ -1,0 +1,204 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "National Get Out the Women's Vote Weekend"
+End element:   TITLE
+Characters:    "\r\n\r"
+Start element: kpetitle
+Characters:    "Nationa Get Out the Women's Vote Weekend"
+End element:   kpetitle
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Start element: A
+Key: HREF, Value: index22.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r"
+Start element: P
+Characters:    "FOR IMMEDIATE RELEASE\t\t\t\t\r\n\r"
+Characters:    "October 26, 1996\t\t\t\t\t\t\r\n\r\r\n\r"
+Start element: p
+Start element: b
+Characters:    "President Clinton, Hillary Rodham Clinton and Tipper Gore Kick Off  \r\n\r"
+Characters:    "\"National Clinton/Gore �96 Get Out the Women�s Vote Weekend,\" \r\n\r"
+Characters:    "Activities Scheduled in 15 States"
+End element:   b
+Characters:    "\r\n\r\r\n\r\r\n\r\r\n\r\t"
+Start element: p
+Characters:    "The Clinton/Gore Campaign announced today that it will celebrate \"National Clinton/Gore �96 Get Out the Women�s Vote Weekend\" on October 26 and October 27, 1996.  To celebrate the weekend activities, President Clinton will speak at a Clinton/Gore \"Get Out the Women�s Vote\" rally at Lee High School Park in Springfield, Virginia on Sunday, October 27.   Hillary Rodham Clinton is scheduled to address a Clinton/Gore rally on Sunday at the Garden State Park Pavilion in Cherry Hill, New Jersey and Tipper Gore will apeak at a \"Women�s Vote\" rally in Chattanooga, Tennessee on Monday, October 28.\r\n\r\r\n\r\t"
+Start element: p
+Characters:    "Throughout the weekend thousands of women from across the nation will participate in Clinton/Gore GOTV events designed to generate enthusiasm and mobilize women to vote for the Clinton/Gore ticket. \r\n\r\r\n\r\t"
+Start element: p
+Characters:    "\"Your vote clearly made the difference in 1992, and I hope you will cast your vote for me again in 1996,\"  President Clinton told a group of women at a recent event.  \"The choice women make on November 5 will determine our country�s direction for the next four years, and the future of issues that really matter, such as education, crime, health care and the environment.\"\r\n\r\r\n\r\t"
+Start element: p
+Characters:    "Other Clinton/Gore GOTV events scheduled for this weekend include organized state-wide literature drops to \"soccer moms\" across Arkansas and Vermont; phone banking to prospective women voters in New Mexico and North Carolina; and teams of 2100 women campaigning in counties throughout Georgia and Pennsylvania.\r\n\r\r\n\r\t"
+Start element: p
+Characters:    "\"There is a great deal at stake in this election,\" said Hillary Rodham Clinton.  \"It is not only the last presidential election of this century, but more importantly it will define how our children and grandchildren will live in the 21st century.\"  \r\n\r\r\n\r\t"
+Start element: p
+Characters:    "President Clinton has an unprecedented record of helping women and their families.  Since taking office in 1993, President Clinton hasn�t stopped campaigning for the women�s vote.  Among other things, he has signed the Family and Medical Leave Act, increased funding for breast cancer research, increased small business loans to women by 86 percent, and sponsored the Violence Against Women Act.\r\n\r\r\n\r\t"
+Start element: p
+Characters:    "According to Ann Lewis, Clinton/Gore Deputy Campaign Manager, 54 million eligible women voters did not go to the polls in 1994.  \"By holding �Get Out the Vote� events on October 26 and October 27, the campaign hopes to underscore the Administration�s efforts to support women and to encourage women to go to the polls on November 5,\" said Lewis.\r\n\r\r\n\r\t"
+Start element: p
+Characters:    "Similar efforts to highlight the importance of women voting are being organized by state Democratic Coordinated Campaigns, including events in Florida and Oklahoma. \r\n\r\r\n\r\t"
+Start element: p
+Start element: center
+Characters:    "###"
+End element:   center
+Characters:    "\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: p
+Start element: b
+Start element: center
+Characters:    "Clinton/Gore Campaign�s \"Get Out the Women�s Vote Weekend,\" \r\n\r"
+Characters:    "STATEWIDE EVENTS\r\n\r"
+Characters:    "OCTOBER 26-27, 1996"
+End element:   center
+End element:   b
+Characters:    "\r\n\r \r\n\r"
+Start element: p
+Start element: b
+Characters:    "ARKANSAS:"
+End element:   b
+Characters:    "\t\r\n\r"
+Characters:    "Date:\t\t\tSaturday, October 26\t\r\n\r"
+Characters:    "Activity:\t\tStatewide literature drop at 51 soccer fields\t\t\r\n\r\r\n\r"
+Start element: p
+Start element: b
+Characters:    "GEORGIA:"
+End element:   b
+Characters:    "\t\t\r\n\r"
+Characters:    "Date:\t\t\tSaturday, October 26\r\n\r"
+Characters:    "Activity:\t\t2100 women will \"Build a Bridge to 21st Century.\"  Ten women volunteers in each of the 210 precincts will go to local grocery stores, Walmarts, and Laundromats.\r\n\r\r\n\r"
+Start element: p
+Start element: b
+Characters:    "HAWAII:"
+End element:   b
+Characters:    "\t\t\r\n\r"
+Characters:    "Date:\t\t\tSaturday, October 26\r\n\r"
+Characters:    "Activity:\t\"Clothes Out Violence,\" a clothing drive to benefit a domestic violence shelter, featuring Patsy Mink, who is the U.S. Congresswoman.\r\n\r\r\n\r"
+Start element: p
+Start element: b
+Characters:    "ILLINOIS:"
+End element:   b
+Characters:    "\t\r\n\r"
+Characters:    "Date:\t\t\tSaturday, October 26\r\n\r"
+Characters:    "Activity:\t\"Women Talk,\" talk radio calls statewide.\r\n\r\r\n\r"
+Start element: p
+Start element: b
+Characters:    "INDIANA:"
+End element:   b
+Characters:    "\t\t\r\n\r"
+Characters:    "Date:\t\t\tSaturday, October 26\r\n\r"
+Characters:    "Activity:\tIndiana Women for Clinton/Gore �96 Advisory Committee will be announced.   \r\n\r\t\t\r\n\r"
+Start element: p
+Start element: b
+Characters:    "MONTANA:"
+End element:   b
+Characters:    "\t\t\r\n\r"
+Characters:    "Date:\t\t\tSaturday, October 26\r\n\r"
+Characters:    "Activity:\tEvents in Great Falls and Helena with Clinton/Gore �96 Honorary Co-chair Linda Chavez-Thompson.  \r\n\r\r\n\r"
+Start element: p
+Start element: b
+Characters:    "NEW JERSEY:"
+End element:   b
+Characters:    "\r\n\r"
+Characters:    "Date:\t\t\tSunday, October 27\r\n\r"
+Characters:    "Activity:\t\tNew Jersey Women�s Clinton/Gore GOTV kickoff at the Garden State Park Pavilion in Cherry Hill, New Jersey with First Lady Hillary Rodham Clinton, Senate Candidate Bob Torricelli and Congressional Candidate Ruth Katz.\r\n\r\r\n\r\r\n\r"
+Start element: p
+Start element: b
+Characters:    "NEW MEXICO:"
+End element:   b
+Characters:    "\r\n\r"
+Characters:    "Date:\t\t\tSaturday, October 26\r\n\r"
+Characters:    "Activity:\tClinton/Gore Get Out the Women�s Vote events will be held in Albuquerque, Las Cruces, and Santa Fe. Women signing special hand-crafted birthday cards for Mrs. Clinton.\r\n\r\r\n\r"
+Start element: p
+Start element: b
+Characters:    "NEW YORK:"
+End element:   b
+Characters:    "\t\r\n\r"
+Characters:    "Date:\t\t\tSaturday, October 26\r\n\r"
+Characters:    "Activity:\t\tPress Conference on the steps of City Hall with the Democratic Congresswomen and Democratic women Congressional candidates.\r\n\r\r\n\r"
+Start element: p
+Start element: b
+Characters:    "OREGON:"
+End element:   b
+Characters:    "\t\r\n\r"
+Characters:    "Date:\t\t\tSaturday, October 26\r\n\r"
+Characters:    "Activity:\t\t\"Women Walk\" will target precincts to drop women-specific literature.\r\n\r\r\n\r"
+Start element: p
+Start element: b
+Characters:    "PENNSYLVANIA:"
+End element:   b
+Characters:    "\t\r\n\r"
+Characters:    "Date:\t\t\tSaturday, October 26\r\n\r"
+Characters:    "Activity:\t\t2100 women from across the state will go to grocery stores, shopping malls and libraries to \"Build a Bridge to the 21st Century.\" \r\n\r\r\n\r"
+Start element: p
+Start element: b
+Characters:    "TENNESSEE:"
+End element:   b
+Characters:    "\r\n\r\r\n\r"
+Characters:    "Date:\t\t\tMonday, October 28\r\n\r"
+Characters:    "Activity:\t\tClinton/Gore rally with Tipper Gore, State House Speaker \r\n\r\t\tPro Temp Lois DeBerry and Chuck Jolly, a Congressional \r\n\r\t\tcandidate (TN-3)\r\n\r\t\r\n\r"
+Start element: p
+Start element: b
+Characters:    "TEXAS:"
+End element:   b
+Characters:    "\t\t\r\n\r"
+Characters:    "Date:\t\t\tSunday, October 27\r\n\r"
+Characters:    "Activity:\t\tGov. Ann Richards will vote early and then do voter registration and outreach at H-E-B Grocery store in Austin.\r\n\r\r\n\r"
+Start element: p
+Start element: b
+Characters:    "VIRGINIA:"
+End element:   b
+Characters:    "\t\t\r\n\r"
+Characters:    "Date:\t\t\tSunday, October 27\r\n\r"
+Characters:    "Activity:\tClinton/Gore rally with President Clinton at Lee High School Park in Springfield.  \r\n\r\r\n\r"
+Start element: p
+Start element: b
+Characters:    "VERMONT:"
+End element:   b
+Characters:    "\t\r\n\r"
+Characters:    "Date:\t\t\tSaturday, October 26\r\n\r"
+Characters:    "Activity:\tLast day to register to vote in Vermont. GOTV events, including voter registration, and door-to-door distribution of absentee ballot request forms and literature in Burlington.\t\t\t\t\r\n\r\r\n\r\r\n\r\t\t\t\t\t\t\r\n\r\r\n\r \r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee,\r\n\rInc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End of document

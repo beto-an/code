@@ -1,0 +1,686 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "41 States Hold \"Domestic Violence Awareness Day\"\n\r  Activities"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October, 11 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "41 STATES HOLD \"DOMESTIC VIOLENCE AWARENESS DAY\"\n\r      ACTIVITIES TO HIGHLIGHT IMPACT OF PRESIDENT CLINTON�S\n\r      ANTI-DOMESTIC VIOLENCE LAWS"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The Clinton/Gore campaign today announced that it will\n\r    celebrate \"Domestic Violence Awareness Day\" on October 12,\n\r    1996. On this day, advocates, 24-hour hotline beneficiaries,\n\r    grant recipients under the Violence Against Women Act and COPS\n\r    program, business leaders, union leaders, and political leaders\n\r    will participate in press activities in 41 states highlighting\n\r    the remarkable accomplishments this Administration has made in\n\r    domestic violence prevention."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The President has officially proclaimed October\n\r    \"National Domestic Violence Awareness Month.\" Across the\n\r    nation, local organizations are holding conferences, vigils,\n\r    and other events to increase awareness and build unity around\n\r    this disturbing issue. Millions of women and children\n\r    throughout our nation are plagued by the terror of family\n\r    violence each year, and approximately 20 percent of all\n\r    hospital emergency room visits by women result from such\n\r    violence. As many as three million children witness violence in\n\r    their homes each year. It is only by stopping violence at home\n\r    that we will ultimately end violence in the streets."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"By holding press activities nationwide on October 12,\n\r    the campaign hopes to underscore the Administration�s\n\r    commitment to -- and turn a national spotlight on -- efforts to\n\r    end domestic violence,\" said Clinton/Gore Campaign Manager\n\r    Peter S. Knight."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The President has an unprecedented record on combating\n\r    domestic violence:"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton signed the Violence Against Women Act\n\r    (VAWA) into law, which is providing $156 million to strengthen\n\r    the criminal justice system�s response to crimes of violence\n\r    against women. President Clinton created a 24-hour Domestic\n\r    Violence Hotline, 1-800-799-SAFE, which has already provided\n\r    immediate crisis intervention, counseling and referrals for\n\r    over 42,000 women."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The Administration allocated $46 million under the\n\r    Community Oriented Policing program (COPS) to help law\n\r    enforcement counter domestic violence. The President created\n\r    the Violence Against Women Office in the Department of Justice\n\r    to lead a national effort to combine tough new federal laws\n\r    with help for states and localities. The President fought for\n\r    and signed legislation that would expand the Brady law to\n\r    prohibit those convicted of any offense involving domestic\n\r    violence -- misdemeanor or felony -- from owning or possessing\n\r    a firearm."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Senator Dole has not displayed this same commitment\n\r    during his 35 year congressional career. He voted against\n\r    President Clinton�s 1994 Crime Bill which contained the\n\r    Violence Against Women Act and funding for more local police to\n\r    fight domestic violence. He also voted against the Brady Bill\n\r    which makes it harder for domestic abusers to buy\n\r    handguns."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "In 1980, Bob Dole voted against the Domestic Violence\n\r    Prevention and Services Act -- which established a $65 million\n\r    grant program for state, local and private efforts to prevent\n\r    domestic violence and provide emergency shelter to battered\n\r    women. At the time, Dole said, \"the federal government has no\n\r    business getting into the treatment of domestic ills of this\n\r    nature...\" (Congressional Record 8/26/80)."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Events will be held throughout the month, with most\n\r    occuring October 11-14. Some of the events and participants\n\r    include a roundtable at a women�s shelter in Nevada with\n\r    Christopher Dodd, who is a Senator from Connecticut and\n\r    chairman of the Democratic National Committee; an American\n\r    College of Emergency Physicians conference in California; and a\n\r    roundtable discussion on domestic violence with Gloria Steinem\n\r    and other domestic violence prevention activists in\n\r    Massachusetts."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "# # #"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "Clinton/Gore �96 State By State Domestic Violence\n\r      Events 10/11 - 4:15pm"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "Some events are still in formation."
+End element:   i
+Characters:    " "
+Start element: b
+Characters:    "ALABAMA:\n\r    Contact: Peggy Roberts 334-262-6887"
+End element:   b
+Characters:    "\n\r    Date: Friday 10/11"
+Characters:    "\n\r    Theme: Clinton Administrations State Grants to end violence\n\r    against women"
+Characters:    "\n\r    Activity: Press Conference in Birmingham"
+Characters:    "\n\r    Surrogates: Michelle McAlpine, Director of Project SAFE LaVeeda\n\r    Morgan Battle, attorney for survivors of spousal abuse Connie\n\r    Hill, Director of the Family Violence Center"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "ALASKA: Contact: Gail Gatton 907-274-6673"
+End element:   b
+Characters:    "\n\r    Date: Tuesday 10/15 -- Juneau"
+Characters:    "\n\r    Activity: Press Conference"
+Characters:    "\n\r    Surrogates: Lt. Governor Fran Ulmer"
+Characters:    "\n\r    Deputy Attorney General Laurie Otto"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "ARIZONA: Contact: Lisa Mac Spadden\n\r    602-253-9600"
+End element:   b
+Characters:    "\n\r    Date: Monday 10/14"
+Characters:    "\n\r    Activity: Press Conference"
+Characters:    "\n\r    Surrogate: Women for Clinton/Gore"
+Characters:    "\n\r    Governor of the Hila River Tribe, Mary Thomas"
+Characters:    "\n\r    State Senator Kathy Forster"
+Characters:    "\n\r    State Senator Mary Hartley"
+Characters:    "\n\r    State Representative Carmen Cajero"
+Characters:    "\n\r    State Representative Rebecca Rios"
+Characters:    "\n\r    Marion Murray (Republican Woman)"
+Characters:    "\n\r    Berry Sweet (Republican Woman)"
+Characters:    "\n\r    Robin Everding (Republican Woman)"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "ARKANSAS: Contact: Steve Harrelson\n\r    501-374-2500"
+End element:   b
+Characters:    "\n\r    Date: Saturday 10/12"
+Characters:    "\n\r    Activity: Meeting Roundtable on Domestic Violence"
+Characters:    "\n\r    Surrogate: Winston Bryant, Congressional candidate"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "CALIFORNIA: Contact: Neera Tanden\n\r    213-951-1996"
+End element:   b
+Characters:    "\n\r    Date: Monday 10/14"
+Characters:    "\n\r    Theme: Violence prevention strategies -- Surrogates to\n\r    highlight Clinton Record"
+Characters:    "\n\r    Activity: American College of Emergency Physicians conference\n\r    in Los Angles"
+Characters:    "\n\r    Surrogates: Dr. Bedard, chairman, President�s Advisory Task\n\r    Force on Violence Against Women"
+Characters:    "\n\r    Alana Bowman, Special Assistant L.A. City Attorney, Domestic\n\r    Violence Prosecution Unit"
+Characters:    "\n\r    Dr. Patricia Salber, author, Physicians�s Guide to Domestic\n\r    Violence and Founder and President of Physicians for a\n\r    Violence-free Society"
+Characters:    "\n\r    Esta Soler, Founder and Executive Director of the Family\n\r    Violence Prevention Fund"
+Characters:    "\n\r    Gail Abareanel, Director of the Rape Treatment Center at Santa\n\r    Monica Hospital"
+Characters:    "\n\r    Date: Monday 10/14"
+Characters:    "\n\r    Activity: Op-eds and Press Interviews"
+Characters:    "\n\r    Surrogates: Conference speakers and other domestic violence\n\r    spokes people"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "CONNECTICUT: Contact: Patty McQueen\n\r    860-525-1996"
+End element:   b
+Characters:    "\n\r    Date: Friday 10/11"
+Characters:    "\n\r    Theme: Domestic Violence"
+Characters:    "\n\r    Activity: Domestic Violence Vigil"
+Characters:    "\n\r    Surrogates: Anna Maria Garcia, Executive Director YWCA"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "DELAWARE: Contact: Peter Woolfolk\n\r    302-998-6041"
+End element:   b
+Characters:    "\n\r    Date: Monday 10/14"
+Characters:    "\n\r    Activity: Radio Interviews"
+Characters:    "\n\r    Surrogate: State Senator Patricia Belvins"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "FLORIDA: Contact: Jo Miglino in Tallahassee\n\r    904-222-9094 Contact: Blanca Messa in Miami\n\r    305-876-0033"
+End element:   b
+Characters:    "\n\r    Date: Thursday 10/10"
+Characters:    "\n\r    Activity: Speech at Domestic Violence Conference in\n\r    Jacksonville Release, Op-eds and Letters to the Editor"
+Characters:    "\n\r    Surrogates: Governor Lawton Chiles"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "GEORGIA: Contact: Caroline Adelman Aronovitch\n\r    404-872-2516"
+End element:   b
+Characters:    "\n\r    Date: Monday 10/14"
+Characters:    "\n\r    Theme: Program that trains officers to be sensitive to domestic\n\r    violence."
+Characters:    "\n\r    Activity: Press Conference in Macon"
+Characters:    "\n\r    Surrogates: Police Officer - program trainer"
+Characters:    "\n\r    Domestic Violence survivor"
+Characters:    "\n\r    Date: Monday 10/14"
+Characters:    "\n\r    Activity: Op-eds"
+Characters:    "\n\r    Surrogates: Domestic Violence advocates Cobb and Cherokee\n\r    County"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "HAWAII: Contact: Allicyn Hikida\n\r    808-593-9577"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Date: Friday 10/11"
+Characters:    "\n\r    Activity: Collecting signatures for Open letter to Press\n\r    outside YWCA"
+Characters:    "\n\r    Surrogates: Clinton/Gore supporters"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "IDAHO: Contact: Rachel A. Joseph 208-385-9696"
+End element:   b
+Characters:    "\n\r    Date: Saturday 10/12"
+Characters:    "\n\r    Activity: Press on Attorney General Endorsement"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "INDIANA: Contact: Jeff Fites 317-955-1846"
+End element:   b
+Characters:    "\n\r    Date: Monday 10/14"
+Characters:    "\n\r    Activity: Press Conference outside Statehouse in\n\r    Indianapolis"
+Characters:    "\n\r    Surrogates: Attorney General Pam Carter"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "IOWA: Contact: Julie Stauch 515-244-9696"
+End element:   b
+Characters:    "\n\r    Date: Saturday 10/12"
+Characters:    "\n\r    Activity: Press Availability"
+Characters:    "\n\r    Surrogates: Attorney General Tom Miller"
+Characters:    "\n\r    Activity: Op-eds"
+Characters:    "\n\r    Surrogates: Domestic Violence service providers"
+Characters:    "\n\r    Jane France, Victim Witness coordinator, and Former President\n\r    of Iowa Coalition of Victim Assistance"
+Characters:    "\n\r    Sue Prochaska, Tri-State Shelter"
+Characters:    "\n\r    Susan Jelling"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "KANSAS: Contact: Joe Wagner 913-354-4696"
+End element:   b
+Characters:    "\n\r    Date: Friday 10/11"
+Characters:    "\n\r    Activity: News Availability in Lawrence"
+Characters:    "\n\r    Surrogates: Gail Elliot, Survivor of Domestic Violence"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "LOUISIANA: Contact: Bill Bryan 504-267-5290"
+End element:   b
+Characters:    "\n\r    Date: Wednesday 10/9"
+Characters:    "\n\r    Activity: Silent Witness Project on Courthouse steps in\n\r    Shreveport"
+Characters:    "\n\r    Surrogate: President�s Domestic Violence proclamation read to\n\r    crowd"
+Characters:    "\n\r    Date: Wednesday 10/16"
+Characters:    "\n\r    Activity: Take Back the Night Candlelight March in Baton\n\r    Rouge"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "MAINE: Contact: Deborah Cook 207-774-1396"
+End element:   b
+Characters:    "\n\r    Date: Thursday 10/31"
+Characters:    "\n\r    Activity: Press Event"
+Characters:    "\n\r    Surrogates: Joe Brennen, Senate Candidate"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "MARYLAND: Contact: Jess Sarmiento\n\r    410-662-4470"
+End element:   b
+Characters:    "\n\r    Date: Friday 10/11"
+Characters:    "\n\r    Theme: Domestic Violence"
+Characters:    "\n\r    Activity: Maryland Network against domestic violence\n\r    luncheon"
+Characters:    "\n\r    Surrogates: Lt. Governor Kathleen Kennedy Townsend Attorney\n\r    General Joe Curran"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "MASSACHUSETTS: Contact: Doug Hattaway\n\r    617-227-0496"
+End element:   b
+Characters:    "\n\r    Date: Friday 10/11"
+Characters:    "\n\r    Theme: Domestic Violence"
+Characters:    "\n\r    Activity: Roundtable discussion"
+Characters:    "\n\r    Surrogates: Gloria Steinem"
+Characters:    "\n\r    Claire Dalton, Domestic Violence Institute, Northeastern\n\r    University Law Center"
+Characters:    "\n\r    Shannon O�Brien, Clinton/Gore Women�s Committee"
+Characters:    "\n\r    Debra Robbin, Casa Myrna Vasquez"
+Characters:    "\n\r    Beth Boland, Domestic violence attorney"
+Characters:    "\n\r    Denise Cortese, Domestic violence survivor"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "MICHIGAN: Contact: Craig Sutherland\n\r    313-965-3933"
+End element:   b
+Characters:    "\n\r    Date: Saturday 10/12"
+Characters:    "\n\r    Activity: Rally in Lansing on Courthouse steps"
+Characters:    "\n\r    Surrogates: Representatives of Council on Domestic\n\r    Assault"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "MINNESOTA: Contact: Peter Hamm 612-642-9600"
+End element:   b
+Characters:    "\n\r    Date: Monday 10/14"
+Characters:    "\n\r    Activity: Press Conference in Minneapolis"
+Characters:    "\n\r    Surrogates: Senator Paul Wellstone Sheila Wellstone"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "MISSISSIPPI: Contact: Glen Rushing\n\r    601-960-0796"
+End element:   b
+Characters:    "\n\r    Date: Friday 10/11"
+Characters:    "\n\r    Activity: Press Availability in Jackson"
+Characters:    "\n\r    Surrogate: Representatives of Mississippi Women in\n\r    Action"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "MISSOURI: Contact: Nina Thompson in Kansas City\n\r    816-363-0096 Contact: Rachel Fayman in St. Louis\n\r    314-647-0880"
+End element:   b
+Characters:    "\n\r    Date: Saturday 10/12"
+Characters:    "\n\r    Activity: Press Conference in Kansas City"
+Characters:    "\n\r    Surrogate: State Prosecutor Clair McCaskill"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "MONTANA: Contact: Jay Strell 406-442-5600"
+End element:   b
+Characters:    "\n\r    Date: Monday 10/14"
+Characters:    "\n\r    Activity: Press Conference in Butte"
+Characters:    "\n\r    Surrogate: Butte County Sheriff John McPherson Butte County\n\r    Attorney General Bob McCarthy Domestic Violence Advocate\n\r    Marilyn Manney"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "NEVADA: Contact: Angelina Ornelas\n\r    702-822-1211"
+End element:   b
+Characters:    "\n\r    Date: Saturday 10/12"
+Characters:    "\n\r    Activity: Roundtable at Women's Shelter"
+Characters:    "\n\r    Surrogate: Senator Chris Dodd Mayor Jan Jones State Assembly\n\r    Woman Katherine Brown State Assemblywoman Jean Orenshall (Also\n\r    run Rape Crisis Center) Sandy Durdin, Police Officer working on\n\r    Domestic Violence Unit"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "NEW HAMPSHIRE: Contact: Jennifer Miller\n\r    603-626-6696"
+End element:   b
+Characters:    "\n\r    Date: Sunday 10/13"
+Characters:    "\n\r    Activity: Press Event outside Concord District Courthouse"
+Characters:    "\n\r    Surrogates: Jeanne Shaheen, Gubernatorial candidate Bill Hart,\n\r    Rockingham County Commissioner Lincoln Soldati, Stratford\n\r    County Commissioner"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "NEW JERSEY: Contact: Jo Astrid-Glading\n\r    908-296-8848"
+End element:   b
+Characters:    "\n\r    Date: Friday 10/11"
+Characters:    "\n\r    Activity: Roundtable in Newark"
+Characters:    "\n\r    Surrogates: Representative Torricelli Mayor Cardell Cooper,\n\r    East Orange Domestic violence service provider Domestic\n\r    violence survivor"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "NEW MEXICO: Contact: Anne Uhring 505-262-9600"
+Characters:    "\n\r    Date: Saturday 10/12"
+Characters:    "\n\r    Activity: Rally and March in Vallencia County on Domestic\n\r    Violence"
+Characters:    "\n\r    Surrogate: Antoinette SeDillo-Lopez, Clinton/Gore state\n\r    director"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "NEW YORK: Contact: Max Smith 212-253-9456"
+Characters:    "\n\r    Date: Friday 10/11"
+Characters:    "\n\r    Activity: Women�s Voter Rally in NYC"
+Characters:    "\n\r    Surrogates: Members of the 1199 Labor Union Representative Nita\n\r    Lowey Governor Ann Richards"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "NORTH CAROLINA: Contact: Hal Kwalwasser\n\r    919-508-1996"
+End element:   b
+Characters:    "\n\r    Date: Friday 10/11"
+Characters:    "\n\r    Activity: Domestic Violence Roundtable at Governmental Plaza in\n\r    Greensboro"
+Characters:    "\n\r    Surrogates: Survivors, advocates, Greensboro Police, and public\n\r    officials"
+Characters:    "\n\r    Mayor Carolyn Allen"
+Characters:    "\n\r    Mayor pro tem Don Vaughan"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "OKLAHOMA: Contact: Elissa Dozona 405-524-9996"
+End element:   b
+Characters:    "\n\r    Date: Tuesday 10/15"
+Characters:    "\n\r    Activity 1: Press Event in Tulsa"
+Characters:    "\n\r    Surrogate: Mayor Susan Savage Domestic Violence Advocates"
+Characters:    "\n\r    Activity 2: Press Release/Op-eds in Oklahoma City"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "PENNSYLVANIA: Contact: Adrienne Schwartz in\n\r    Pittsburgh 412-434-7456 Contact: Tricia Enright in Philadelphia\n\r    215-985-4096"
+End element:   b
+Characters:    "\n\r    Date: Friday 10/11"
+Characters:    "\n\r    Theme: Women for Clinton/Gore and focus on Domestic\n\r    Violence"
+Characters:    "\n\r    Activity 1: Press Conference at Capitol in Harrisburg"
+Characters:    "\n\r    Surrogates: State Treasurer Catherine Baker Knoll"
+Characters:    "\n\r    Date: Friday 10/11"
+Characters:    "\n\r    Theme: Women for Clinton/Gore and focus on Domestic\n\r    Violence"
+Characters:    "\n\r    Activity: Press Conference outside Bucks County Courthouse"
+Characters:    "\n\r    Surrogates: County Commissioner Sandra Miller and Claudia\n\r    Post"
+Characters:    "\n\r    Date: Friday 10/11"
+Characters:    "\n\r    Theme: Women�s event and focus on Domestic Violence"
+Characters:    "\n\r    Activity: Press Event in Pittsburgh"
+Characters:    "\n\r    Principal: Mrs. Gore"
+Characters:    "\n\r    Date: Friday 10/11"
+Characters:    "\n\r    Theme: Pennsylvania Women for Clinton/Gore"
+Characters:    "\n\r    Activity: Press Conference at Schneider, Harrison, Segal &\n\r    Lewis in Philadelphia"
+Characters:    "\n\r    Surrogate: Sherry Swirsky, Member of the National Steering\n\r    Committee"
+Characters:    "\n\r    Augusta Clark, Majority Whip, Philadelphia City Council"
+Characters:    "\n\r    Kathy Manderino, State Representative"
+Characters:    "\n\r    Alba Martine, Executive Director, Congress de Latinos\n\r    Unidos"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "RHODE ISLAND: Contact: Cindy Gire\n\r    401-273-9396"
+End element:   b
+Characters:    "\n\r    Date: TBD -- tentatively 10/23"
+Characters:    "\n\r    Activity: Women�s Event -- Dedication of Roger Williams\n\r    Memorial Park in Providence"
+Characters:    "\n\r    Surrogates: Representatives of the Coalition on Domestic\n\r    Violence"
+Characters:    "\n\r    Congressman Patrick Kennedy"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "SOUTH CAROLINA: Contact: Mary Nicholson\n\r    803-256-4004"
+End element:   b
+Characters:    "\n\r    Date: Monday 10/14"
+Characters:    "\n\r    Theme: Domestic Violence with Women�s Rollout"
+Characters:    "\n\r    Activity: Press Event in Rock Hill"
+Characters:    "\n\r    Surrogate: Donna DeWitt, state AFL-CIO President"
+Characters:    "\n\r    State legislative leaders"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "SOUTH DAKOTA: Contact: Debbie Hoffman\n\r    605-373-9600"
+End element:   b
+Characters:    "Date: Wednesday 10/9"
+Characters:    "\n\r    Activity: Press Conference in Rapid City"
+Characters:    "\n\r    Surrogate: Female Labor Representatives"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "TENNESSEE: Contact: Patrick Willard\n\r    615-320-3889"
+End element:   b
+Characters:    "\n\r    Date: Saturday 10/12"
+Characters:    "\n\r    Activity: Speech at Rally in Chattanooga"
+Characters:    "\n\r    Surrogate: State Senator Annabel Clement O�Brien"
+Characters:    "\n\r    Date: Saturday 10/12"
+Characters:    "\n\r    Activity: Press Event in Nashville"
+Characters:    "\n\r    Surrogate: Attorney General"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "TEXAS: Contact: Margaret Justus 512-469-6096"
+End element:   b
+Characters:    "Date:\n\r    Saturday 10/12"
+Characters:    "\n\r    Theme: Endorsement/Domestic Violence"
+Characters:    "\n\r    Activity: Press Release, Op-eds, and Letters to the Editor"
+Characters:    "\n\r    Surrogate: Dan Morales, Attorney General"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "UTAH: Contact: Nelson Reyneri 801-322-1996"
+End element:   b
+Characters:    "\n\r    Date: Saturday 10/12"
+Characters:    "\n\r    Activity: YWCA Rally"
+Characters:    "\n\r    Surrogate: Former Congresswoman Karen Shepard"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "VIRGINIA: Contact: Tyler Beardsly\n\r    804-649-1996"
+End element:   b
+Characters:    "Date: Tuesday 10/15"
+Characters:    "\n\r    Activity: Press Event at Market Square in Old Towne\n\r    Alexandria"
+Characters:    "\n\r    Surrogate: Sara Brady, President, Handgun Control Inc."
+Characters:    "\n\r    Senator Charles Robb (tentative)"
+Characters:    "\n\r    Congressman Jim Moran"
+Characters:    "\n\r    Domestic Violence Advocates"
+Characters:    "\n\r    Date: Tuesday 10/15"
+Characters:    "\n\r    Activity: Press Event in Richmond outside Capitol"
+Characters:    "\n\r    Surrogates: State Senators"
+Characters:    "\n\r    Toddy Puller, State Delegate"
+Characters:    "\n\r    Mark Warner, Senate Candidate (tentative)"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "WASHINGTON: Contact: Joe Cerrell 206-287-1996"
+End element:   b
+Characters:    "\n\r    Date: Sunday 10/13"
+Characters:    "\n\r    Activity: Press Interviews, Radio"
+Characters:    "\n\r    Surrogate: Attorney General Christine Gregoire"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "WEST VIRGINIA: Contact: Dan Israel\n\r    304-347-8681"
+End element:   b
+Characters:    "Date: Thursday 10/10"
+Characters:    "\n\r    Activity: Silent Witness Program/Vigil"
+Characters:    "\n\r    Op-eds and Letters to the Editor"
+Characters:    "\n\r    Surrogate: Darrell McGraw, Attorney General"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "WISCONSIN: Contact: Jim Cullinan 608-257-1996"
+End element:   b
+Characters:    "\n\r    Date: Saturday 10/12"
+Characters:    "\n\r    Activity: Press Availability in Madison"
+Characters:    "\n\r    Surrogate: Attorney General, Jim Doyle"
+Characters:    "\n\r    Representatives from:"
+Characters:    "\n\r    A Rape Crisis Center"
+Characters:    "\n\r    The Statewide Coalition Against Domestic Violence"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

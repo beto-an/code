@@ -1,0 +1,120 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "President Clinton's Free Air Time Remarks on the Fox\n\r  Network"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "Press Release"
+Characters:    "\n\r    October 12, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "TRANSCRIPT OF PRESIDENT CLINTON�S"
+Characters:    "\n\r      FREE AIR TIME REMARKS ON THE FOX NETWORK"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "QUESTION: Many people believe that too much money is\n\r    spent on foreign aid, boosting the economies of countries like\n\r    the former Soviet Union, at the expense of the United States.\n\r    Explain why this is a good idea."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "PRESIDENT CLINTON: I am committed to keeping America the\n\r    world�s strongest force for peace, freedom, and prosperity, to\n\r    defend our security and protect our values. A smart, limited\n\r    foreign aid program must be a part of that."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Foreign aid is just one penny out of every tax dollar we\n\r    spend. But if we can help freedom take root in countries that\n\r    once threatened our security, that�s money well-spent. Today,\n\r    no Russian missiles are pointed at America�s children. I want\n\r    to keep it that way."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "While we reward democracies, we must penalize\n\r    terrorists, fighting them on three fronts: Toughening our laws\n\r    to punish terrorists. Tightening airport security. And rallying\n\r    the world to a policy of zero tolerance for terrorism, which\n\r    means isolating rogue states. As long as Iran trains\n\r    terrorists, as long as Lybia refuses to give up those who blew\n\r    up Pan Am 103, they must pay a price."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "America will maintain its leadership, fight terrorism,\n\r    and keep our defenses the strongest in the world."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Start element: tt
+Characters:    "\n\r    "
+End element:   tt
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

@@ -1,0 +1,92 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "Clinton/Gore Releases New Ad"
+End element:   TITLE
+Characters:    "\r\n\r"
+Start element: kpetitle
+Characters:    "Clinton/Gore Releases New Ad"
+End element:   kpetitle
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Start element: A
+Key: HREF, Value: index22.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r"
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "October 7, 1996\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: P
+Start element: B
+Start element: CENTER
+Characters:    "CLINTON/GORE �96 RELEASES NEW ADVERTISEMENT"
+End element:   CENTER
+End element:   B
+Characters:    "\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "\r\n\rToday, October 7, 1996, the Clinton/Gore �96 campaign announces a new ad entitled, \"Responsibility.\"  The text of the ad follows:\r\n\r\r\n\r\r\n\r"
+Start element: p
+Start element: i
+Start element: b
+Characters:    "Responsibility"
+End element:   b
+End element:   i
+Characters:    "\r\n\r\r\n\r"
+Start element: p
+Start element: i
+Characters:    "You take responsibility for yourself and your family.\r\n\r\r\n\r"
+Start element: p
+Characters:    "President Clinton is making people on welfare take responsibility.\r\n\r\r\n\r"
+Start element: p
+Characters:    "He signed tough welfare reform.  Work requirements.  Time limits.  Force teenage mothers to stay in school or lose benefits.\r\n\r\r\n\r"
+Start element: p
+Characters:    "The next step: create jobs.  Tax incentives for businesses that hire welfare recipients.  Job training for all workers.\r\n\r\r\n\r"
+Start element: p
+Characters:    "Dole/Gingrich tried to cut job training.  Wrong for our future.\r\n\r\r\n\r"
+Start element: p
+Characters:    "President Clinton.  Moving people from welfare to work.  Meeting our challenges.\r\n\r"
+Characters:    "\r\n\r"
+Start element: P
+Start element: CENTER
+Characters:    "###"
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End element:   TT
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee,\r\n\rInc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r\r\n\r"
+End of document

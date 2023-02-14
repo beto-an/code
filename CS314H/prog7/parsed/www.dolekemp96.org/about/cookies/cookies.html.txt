@@ -1,0 +1,326 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Cookies"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Key: link, Value: #FF0000
+Key: vlink, Value: #FF0000
+Key: alink, Value: #FF0000
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: h2
+Characters:    "Pecan Roll Cookies"
+End element:   h2
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Start element: b
+Characters:    "Ingredients:"
+End element:   b
+End element:   font
+Characters:    "\n\r    "
+Start element: ul
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: size, Value: +1
+Characters:    "1/2 lb. margarine, creamed\n\r      with"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: size, Value: +1
+Characters:    "4 TBSP powdered sugar"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: size, Value: +1
+Characters:    "2 cups flour"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: size, Value: +1
+Characters:    "1 tsp vanilla"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: size, Value: +1
+Characters:    "1 TBSP cold water"
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: size, Value: +1
+Characters:    "2 cups broken pecans"
+End element:   font
+End element:   li
+Characters:    "\n\r    "
+End element:   ul
+Start element: font
+Key: size, Value: +1
+Start element: b
+Characters:    "Directions:"
+End element:   b
+End element:   font
+Characters:    "\n\r    "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Characters:    "&nbsp;"
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+Start element: ol
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: size, Value: +1
+Characters:    "Mix above ingredients together.\n\r      "
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: size, Value: +1
+Characters:    "Flour hands and roll teaspoons of dough\n\r      in date - like shapes. "
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: size, Value: +1
+Characters:    "Place on greased cookie sheet and crease\n\r      with a knife length wise. "
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: size, Value: +1
+Characters:    "Bake at 275 oven for one hour.\n\r      "
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: size, Value: +1
+Characters:    "Roll on powdered sugar while still warm.\n\r      "
+End element:   font
+End element:   li
+Characters:    "\n\r      "
+Start element: li
+Start element: font
+Key: size, Value: +1
+Characters:    "Makes 50 cookies."
+End element:   font
+End element:   li
+Characters:    "\n\r    "
+End element:   ol
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole Interactive"
+End element:   u
+Characters:    "\n\r  | "
+Start element: u
+Start element: a
+Key: href, Value: ../../news/news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    "\n\r  "
+Start element: a
+Key: href, Value: ../../agenda/agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get\n\r  Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

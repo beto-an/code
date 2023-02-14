@@ -1,0 +1,112 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Clinton/Gore '96 Appoints New Assistant Director of Public\n\r  Liaison for Jewish Outreach"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    7/24/96"
+Characters:    "\n\r    PRESS RELEASE"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The Clinton/Gore '96 campaign has appointed Deborah\n\r    Mohile as the Jewish Outreach Director. Ms. Mohile will act as\n\r    a liaison to the Jewish community; formulate and execute plans\n\r    to reach Jewish voters; create and staff the Clinton/Gore\n\r    Jewish Leadership Council; and coordinate Clinton/Gore '96\n\r    campaign events in Jewish communities nationwide."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"Debi was a tremendous asset during her tenure at the\n\r    Democratic National Committee,\" said Deputy Campaign Manager\n\r    for Public Liaison, former Congressman Alan Wheat. \"Her\n\r    expertise and experience with the Jewish community will greatly\n\r    benefit the campaign.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Ms. Mohile most recently worked as the Deputy Director\n\r    for Jewish Affairs at the Democratic National Committee for the\n\r    last two campaign cycles where she served as a liaison for the\n\r    community to the Democratic party and the Administration, and\n\r    acted as a resource for State Democratic parties, Democratic\n\r    candidates and Administration officials on issues of concern to\n\r    the Jewish community. Previous to that, Ms. Mohile served as\n\r    Legislative Fellow at the Washington Office of the National\n\r    Council of Jewish Women and she also served as Graduate Fellow\n\r    at the Jewish Community Relations Council of the Jewish\n\r    Federation of Greater Los Angeles. In 1994, Ms. Mohile\n\r    completed a Master of Arts in Jewish Communal Service (MA) from\n\r    Hebrew Union College and a Master of Public Administration\n\r    (MPA) from the University of Southern California."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "In 1992, almost eighty-five percent of Jewish voters\n\r    chose Clinton/Gore. In the 1994 election approximately eighty\n\r    percent of the Jewish vote went towards Democratic candidates.\n\r    The 1996 Clinton/Gore Jewish Outreach Program seeks to continue\n\r    the grass roots momentum that it launched successfully in the\n\r    1992 election."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"This election is important to all Jewish Americans\"\n\r    said Ms. Mohile. With the support of the Jewish community,\n\r    President Clinton has won key legislative victories including\n\r    measures protecting religious freedom and the separation\n\r    between church and state; the support of reproductive freedoms;\n\r    making our communities safer by adding police officers and\n\r    banning assault weapons; and passage of the Family and Medical\n\r    Leave Act to secure jobs for workers who have to take time off\n\r    to care for a sick family member. Under President Clinton's\n\r    leadership the American economy is expanding. The Clinton\n\r    Administration has cut the deficit four years in a row and\n\r    reduced the federal workforce to its smallest size since the\n\r    Kennedy Administration."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton's deep commitment to the US-Israeli\n\r    relationship is clear. The President created the US-Israel\n\r    Science and Technology Commission in 1993, fostering historic\n\r    cooperation between the two governments. President Clinton and\n\r    Vice President Gore combined have visited Israel five times\n\r    since 1992. The United States has overseen a remarkable record\n\r    of achievement toward peace and security in the Middle East\n\r    including the Israeli-Palestinian accords; the peace agreement\n\r    between Israel and Jordan; new regional security and investment\n\r    summits; and Israel's increased acceptance throughout the\n\r    Middle East and the world. President Clinton remains committed\n\r    to America's long-standing special relationship with Israel,\n\r    based on shared values, a mutual commitment to democracy and a\n\r    strategic alliance that benefits both nations. The Jewish\n\r    community has worked with President Clinton to gain support for\n\r    this important agenda."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "###"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

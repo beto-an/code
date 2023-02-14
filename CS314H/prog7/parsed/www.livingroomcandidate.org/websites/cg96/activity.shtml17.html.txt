@@ -1,0 +1,387 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | Briefing Room | Clinton/Gore in Your\n\r  State"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index13.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: align, Value: right
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Start element: b
+Characters:    "On the Horizon"
+End element:   b
+Characters:    "\n\r    "
+Start element: p
+Characters:    "As we head into the\n\r    final days"
+Characters:    "\n\r    of the campaign, we need your help"
+Characters:    "\n\r    energizing your community to"
+Characters:    "\n\r    GET OUT THE VOTE!"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Call the Clinton/Gore office number"
+Characters:    "\n\r    below to volunteer."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Michigan Highlights"
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "October 30 - The\n\r    President's"
+Characters:    "\n\r    Remarks in Ypsilanti"
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "October 22 - The\n\r    President"
+Characters:    "\n\r    delivers a foreign policy"
+Characters:    "\n\r    address in Detroit"
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "October 21 - The\n\r    President's"
+Characters:    "\n\r    Remarks to Michigan Clergy United"
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "October 7 - "
+Start element: a
+Key: href, Value: miupdate.html
+Characters:    "The First Lady in"
+Characters:    "\n\r    Detroit and Flint"
+End element:   a
+Characters:    " and other"
+Characters:    "\n\r    highlights from the Michigan office"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "September 17 -"
+Characters:    "\n\r    The President visits Westland"
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "August 27-28 -"
+Characters:    "\n\r    "
+Start element: i
+Characters:    "21st Century Express"
+End element:   i
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: rowspan, Value: 6
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Wyandotte"
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Royal Oak"
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Pontiac"
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "East Lansing"
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Battle Creek"
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Kalamazoo"
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Ann Arbor resident Joan Ziegler Seibenick"
+Characters:    "\n\r    tells us why she supports the President"
+Characters:    "\n\r    in the 2nd edition of "
+Start element: a
+Key: href, Value: ../../../external.html
+Start element: i
+Characters:    "America's Home Page"
+End element:   i
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "East Lansing resident Nicole Ciachella"
+Characters:    "\n\r    is profiled in the 6th edition of"
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: ../../../external.html
+Start element: i
+Characters:    "America's Home\n\r    Page"
+End element:   i
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Dowgiac resident Anna Kidman"
+Characters:    "\n\r    is profiled in the 7th edition of"
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: ../../../external.html
+Start element: i
+Characters:    "America's Home\n\r    Page"
+End element:   i
+End element:   a
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Fremont resident Curt Haufe"
+Characters:    "\n\r    tells us why he supports the President"
+Characters:    "\n\r    in the 8th edition"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Clinton-Gore '96 Headquarters"
+End element:   b
+Characters:    "\n\r    155 West Congress Street"
+Characters:    "\n\r    Suite 555"
+Characters:    "\n\r    Detriot, MI 48226"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Phone: 313-965-3933"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Fax: 313-965-4873"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Start element: b
+Characters:    "State\n\r    Director:"
+End element:   b
+End element:   font
+Characters:    " Freeman Hendrix"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Start element: b
+Characters:    "Political\n\r    Director:"
+End element:   b
+End element:   font
+Characters:    " Renee Walker"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Start element: b
+Characters:    "Press\n\r    Secretary:"
+End element:   b
+End element:   font
+Characters:    " Craig Sutherland"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Michigan Democratic Coordinated Campaign"
+End element:   b
+Characters:    "\n\r    155 West Congress"
+Characters:    "\n\r    Suite 555"
+Characters:    "\n\r    Detroit, MI 48226"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Phone: 313-964-8683"
+Characters:    "\n\r    Fax: 313-964-1875"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    " "
+Start element: font
+Key: color, Value: #001058
+Start element: b
+Characters:    "Director:"
+End element:   b
+End element:   font
+Characters:    " Amy Chapman"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: i
+Characters:    "The Coordinated Campaign is a distinct entity, directed\n\r    by the Democratic National Party and the State Democratic\n\r    Parties, and designed to elect Democrats to all levels of\n\r    office."
+End element:   i
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/miupdate.html

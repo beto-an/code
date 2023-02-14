@@ -1,0 +1,178 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Dole on Abortion"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "7/12/96"
+Characters:    "\n\r    PRESS RELEASE"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "STATEMENT BY JOE LOCKHART"
+Characters:    "\n\r    NATIONAL PRESS SECRETARY"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole said putting tolerance language in the abortion\n\r    plank was his decision. \"I think I make the decision,\" he told\n\r    CNN. \"It's not negotiable, it's the decision. And that's going\n\r    to be in the plank...And it ought to be right up there where\n\r    people can see it.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Asked later in the week if the language should be kept\n\r    out of the abortion plank, Dole said, \"But then it doesn't mean\n\r    anything...The Bible says we ought to be tolerant.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "We now know when it comes to the issue of abortion, it\n\r    is Bob Dole's claim to be tolerant that doesn't mean anything.\n\r    Bob Dole demonstrated today who is really calling the shots in\n\r    his campaign -- Pat Robertson and the extreme right wing\n\r    radicals of the Republican party."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "This week must leave mainstream Republicans feeling like\n\r    they don't have a candidate. With Dole's statements on tobacco,\n\r    assault weapons, the NAACP -- and now abortion -- Bob Dole has\n\r    clearly decided to stand with Newt Gingrich, Pat Robertson and\n\r    the extreme right wing of the Republican party."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "###"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "BOB DOLE'S \"TOLERANCE\" TIME LINE"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "June 10, 1996"
+Characters:    "\n\r    Dole Said The So-Called \"Declaration Of Tolerance\" Would Be In\n\r    The Abortion Plank."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "In early June, Dole tried to settle the abortion issue\n\r    in the Republican party by saying that a so-called \"declaration\n\r    of tolerance\" would be placed in the GOP platform. Dole was\n\r    then asked, \"Is the abortion issue now over as a matter of\n\r    controversy within the Republican Party?\" He said, \"I don't\n\r    know. I mean, I think Pat Buchanan said he welcomed my\n\r    statement on the abortion issue. It has been resolved. I think\n\r    I make that decision -- it's not negotiable, it's the decision.\n\r    And that's going to be in the plank. And it's probably going to\n\r    be in the abortion plank, not in the preamble. It seems to me\n\r    if you want to make it clear to the people out there that we're\n\r    tolerant, you make it -- this is a moral issue, it's not like\n\r    all the other things in the platform. And it ought to be right\n\r    up there where people can see it.\" [CNN's Inside Politics,\n\r    6/10/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\n\r    June 13, 1996"
+Characters:    "\n\r    Dole Said Declaration Of Tolerance \"Doesn't Mean Anything\" If\n\r    It's Not In Abortion Plank."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "While Dole campaigned in Kentucky after he said he\n\r    wanted tolerance language in the abortion plank, he was greeted\n\r    by anti-abortion activist Frank Simon, who unveiled a long,\n\r    yellow banner which read, \"Tolerance belongs in the preamble.\"\n\r    Simon was along the ropeline after Dole's speech and he asked\n\r    Dole to put the tolerance language in the preamble. Dole\n\r    responded, \"But then it doesn't mean anything... The Bible says\n\r    we ought to be tolerant.\" [Louisville Courier-Journal,\n\r    6/14/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\n\r    June 22, 1996"
+Characters:    "\n\r    Reed Said He Would Strongly Oppose \"Declaration Of Tolerance\"\n\r    In Abortion Plank."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "After Dole met with Henry Hyde, the Christian\n\r    Coalition's Ralph Reed said, \"Henry and we are going to hang\n\r    together on this. If there is an attempt to attach a\n\r    'declaration of tolerance' only to the pro-life plank, there\n\r    will be very strong opposition in the platform committee.\"\n\r    [Chicago Tribune, 6/22/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\n\r    June 27, 1996"
+Characters:    "\n\r    Dole Met With Christian Coalition's Pat Robertson and Ralph\n\r    Reed."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole met with Christian Coalition founder Pat\n\r    Robertson and executive director Ralph Reed. After the meeting,\n\r    Christian Coalition spokesperson Mike Russell said Robertson\n\r    and Reed had an \"honest, forthright discussion on the party\n\r    platform language.\" Dole spokesman Nelson Warfield said the\n\r    three met for 40 minutes regarding the GOP party platform.\n\r    [Boston Globe, 6/28/96; Houston Chronicle, 6/28/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\n\r    July 12, 1996"
+Characters:    "\n\r    Dole Caves To Radical Right And Leaves \"Tolerance\" Language Out\n\r    Of Abortion Plank Itself."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "On July 12, 1996, Dole announced his plan to have a\n\r    \"Tolerance Plank\" and a \"Tolerance Principle\" in the GOP\n\r    platform. In a monumental cave to Pat Robertson, Ralph Reed,\n\r    and the radical right wing of the Republican party. As the\n\r    Associated Press wrote, \"The attempt at a compromise was seen\n\r    mainly as a gesture to appease the religious right, which had\n\r    vociferously opposed any effort by Dole to soften the\n\r    anti-abortion language.\" [Associated Press, 7/12/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

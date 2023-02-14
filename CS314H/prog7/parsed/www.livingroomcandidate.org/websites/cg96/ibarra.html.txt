@@ -1,0 +1,81 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "Campaign Announces New Senior Advisor"
+End element:   TITLE
+Characters:    "\r\n\r\r\n\r"
+Start element: KPETITLE
+Start element: B
+Characters:    "For Immediate Release:"
+End element:   B
+Characters:    "\r\n\rCampaign Announces New Senior Advisor"
+Start element: DD
+End element:   KPETITLE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "  "
+Characters:    "\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r"
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "August 19, 1996\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "CLINTON/GORE �96 ANNOUNCES NEW SENIOR CAMPAIGN\r\n\rADVISOR AND DIRECTOR OF SPECIAL PROJECTS\r\n\r\r\n\r"
+Start element: P
+Characters:    "Peter Knight, Clinton/Gore Re-election Campaign Manager, today announced that Mickey Ibarra will join the\r\n\r campaign as the Senior Campaign Advisor and Director of Special Projects.\r\n\r\r\n\r"
+Start element: P
+Characters:    "Mr. Ibarra will be responsible for a broad portfolio of activities to support the\r\n\r Clinton/Gore �96 campaign.\r\n\r\r\n\r"
+Start element: P
+Characters:    "\"We are extremely fortunate to have Mickey joining our team,\" said Knight.  \"His 15 years experience and \r\n\rstrong relationships with the Hispanic, labor, and education communities uniquely qualifies him for this position.\"\r\n\r\r\n\r"
+Start element: P
+Characters:    "Mr. Ibarra will join the campaign on September 1, 1996 after taking a leave from his position as the Campaigns\r\n\r and Elections Manager at the National Education Association in Washington, DC.  At the NEA, Mr. Ibarra oversaw \r\n\rcampaign planning and coordination, strategy development, fundraising, voter registration and participation, political \r\n\radvocacy, and candidate recommendations.  He was named a \"Rising Star\" in May of 1994 by\r\n\r Campaigns & Elections magazine and was selected by Hispanic Business magazine in October of 1995 to their \r\n\r\"100 Influentials Directory\"�\r\n\r\r\n\r"
+Start element: P
+Characters:    "A native of Salt Lake City, Mr. Ibarra has a Master of Education degree from the University of Utah.  He is a \r\n\rmember of the Democratic National Committee and served on the Political Affairs staff of the Presidential Transition\r\n\r Office following President Clinton�s election in 1992.\r\n\r\r\n\r\r\n\r"
+Start element: p
+Start element: center
+Characters:    "###\r\n\r"
+End element:   center
+Characters:    "\r\n\r\r\n\r\r\n\r \r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    " "
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee,\r\n\rInc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End of document

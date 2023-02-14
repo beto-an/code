@@ -1,0 +1,119 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Children and Cigarettes"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "7/2/96"
+Characters:    "\n\r    PRESS RELEASE"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "REMARKS BY THE PRESIDENT"
+Characters:    "\n\r    BEFORE THE NATIONAL COUNCIL OF SENIOR CITIZENS"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Chicago, Illinois"
+Characters:    "\n\r    July 2, 1996"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "One of the things that I tried to do -- it's turned out\n\r    to be very controversial and I now see why no previous\n\r    President ever wanted to get into this -- is I believe that we\n\r    should take strong action to stop the advertising, sales, and\n\r    transference of cigarettes to children. I think it's\n\r    wrong."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "You talk about saving money. Three thousand children a\n\r    day smoke -- start smoking -- begin. Three thousand children a\n\r    day begin. One thousand of them will have their lives shortened\n\r    because of it. And along the way society will pick up a\n\r    significant part of the health care bill. Now, that's one way\n\r    to save money."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Now, I have been amazed at the debate that's injected\n\r    itself into the national campaign on this issue. I notice that\n\r    Senator Dole questioned the other day whether or not tobacco\n\r    was really addictive for everybody. And then, apparently, this\n\r    morning, when it was -- he was asked about Dr. Koop, who was\n\r    President Reagan's Surgeon General, a remarkable man, who may\n\r    be a Republican for all I know -- President Reagan's Surgeon\n\r    General, but he has been one of our most outspoken advocates of\n\r    trying to stop smoking among young people -- and this morning\n\r    Senator Dole suggested that maybe Dr. Koop had been brainwashed\n\r    by the liberal media. Well, I imagine Dr. Koop was surprised to\n\r    hear that."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "I believe Dr. Koop knows more about the dangers of\n\r    tobacco than the so-called liberal media or Senator Dole. He's\n\r    out there fighting for our children, and that's what we need\n\r    more people to do -- fight for children and not play politics\n\r    with this issue."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Medicaid today spends at least $10 billion in federal\n\r    and state funds to pay for treatment for smoking-related\n\r    illnesses. Now, if we're going to get serious about cutting the\n\r    costs, that's one way to do it without hurting families. It\n\r    will help families, it will strengthen families."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "###"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

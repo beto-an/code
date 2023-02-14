@@ -1,0 +1,212 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "The Digital Archive"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #BE0023
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    " "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: center
+Characters:    "\n\r        "
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: dnctalk.html
+Characters:    "Address by President\n\r        Clinton"
+Characters:    "\n\r        to the Democratic National Convention"
+Characters:    "\n\r        August 29, 1996"
+End element:   a
+End element:   font
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: vpdnc.html
+Characters:    "Address by Vice\n\r        President Gore"
+Characters:    "\n\r        to the Democratic National Convention"
+Characters:    "\n\r        August 28, 1996"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: hrcdnc.html
+Characters:    "Remarks by the\n\r        First Lady"
+Characters:    "\n\r        to the Democratic National Convention"
+Characters:    "\n\r        August 27, 1996"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: tagdnc.html
+Characters:    "Remarks by Tipper\n\r        Gore"
+Characters:    "\n\r        to the Democratic National Convention"
+Characters:    "\n\r        August 27, 1996"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 0604pr.html
+Characters:    "Remarks by\n\r        President Clinton"
+Characters:    "\n\r        at the Princeton University Commencement Address"
+Characters:    "\n\r        June 4, 1996"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 0323oh.html
+Characters:    "Remarks by\n\r        President Clinton"
+Characters:    "\n\r        to the Ohio Democratic Party"
+Characters:    "\n\r        March 23, 1996"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 0313-4.html
+Characters:    "Remarks by\n\r        President Clinton"
+Characters:    "\n\r        to the Residents of Northern New Jersey"
+Characters:    "\n\r        March 11, 1996"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 0208-5.html
+Characters:    "\n\r        "
+Start element: center
+Characters:    "\n\r          "
+Start element: font
+Key: size, Value: +1
+Characters:    "Remarks by President Clinton"
+Characters:    "\n\r          at the Democratic Governors’ Association Dinner"
+Characters:    "\n\r          February 5, 1996"
+End element:   font
+Characters:    "\n\r        "
+End element:   center
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: 1995sotu.html
+Characters:    "President\n\r        William Jefferson Clinton"
+Characters:    "\n\r        State of the Union Address"
+Characters:    "\n\r        Joint Session of Congress"
+Characters:    "\n\r        The Capitol of the United States"
+Characters:    "\n\r        January 24, 1995"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Start element: a
+Key: href, Value: memphis.html
+Characters:    "President\n\r        Clinton’s Address"
+Characters:    "\n\r        to Members of the Church of God in Christ Mason Temple"
+Characters:    "\n\r        Memphis, Tennessee"
+Characters:    "\n\r        November 13, 1993"
+End element:   a
+End element:   font
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+End element:   p
+Characters:    "\n\r        "
+Start element: center
+Characters:    "\n\r          Paid for by Clinton/Gore ’96 General Committee, Inc."
+Characters:    "\n\r          "
+Characters:    "\n\r        "
+End element:   center
+Characters:    "\n\r      "
+End element:   center
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/0313-4.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/tagdnc.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/memphis.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/hrcdnc.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/1995sotu.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/0604pr.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/dnctalk.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/0323oh.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/vpdnc.html
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/0208-5.html

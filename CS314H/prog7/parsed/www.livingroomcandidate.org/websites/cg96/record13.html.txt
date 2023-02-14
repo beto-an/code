@@ -1,0 +1,148 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Start element: TITLE
+Characters:    " CG '96 | Briefing Room | State by State Information \r\n\r"
+End element:   TITLE
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #001058
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: #001058
+Start element: CENTER
+Start element: A
+Key: HREF, Value: index22.html
+End element:   A
+Start element: A
+Key: HREF, Value: index13.html
+End element:   A
+Start element: FONT
+Key: SIZE, Value: +2
+Start element: FONT
+Key: COLOR, Value: #001058
+Start element: NOBR
+Start element: I
+Characters:    "President Clinton: Working Hard for \r\n\rAlabama."
+End element:   I
+End element:   NOBR
+End element:   FONT
+End element:   FONT
+Start element: FONT
+Key: COLOR, Value: #001058
+Characters:    "Greater \r\n\rProsperity, Safer Communities, Stronger \r\n\rFamilies"
+End element:   FONT
+End element:   CENTER
+Start element: BLOCKQUOTE
+Start element: FONT
+Key: SIZE, Value: +1
+Key: COLOR, Value: #be0023
+Start element: B
+Characters:    "President Clinton Has Delivered on His \r\n\rPromises&#151;Making Alabama a Better Place to Live and \r\n\rWork."
+End element:   FONT
+Characters:    "\r\n\r  &#160; President Clinton has been a  leader on \r\n\rthe issues the people of Alabama care about. President Clinton has \r\n\rdelivered:"
+Start element: P
+Characters:    "\t"
+Start element: TABLE
+Key: BORDER, Value: 0
+Key: WIDTH, Value: 80%
+Key: CELLPADDING, Value: 0
+Key: CELLSPACING, Value: 0
+Start element: TD
+Key: ALIGN, Value: LEFT
+Key: VALIGN, Value: TOP
+End element:   TD
+Start element: TD
+Key: VALIGN, Value: TOP
+Start element: BLOCKQUOTE
+Characters:    " A Growing Economy: Unemployment in Alabama has \r\n\rdropped from 7.5% to 4.5%. Our nation has the lowest combined rate of \r\n\runemployment, inflation, and mortgage rates since 1968. Consumer confidence is at its highest level in six years, real wages are rising for the first time in a decade, and homeownership is at a 15-year high.  \r\n\r\r\n\r"
+End element:   TD
+Start element: TD
+Key: HEIGHT, Value: 5
+End element:   TD
+Characters:    " "
+Start element: TD
+Key: ALIGN, Value: LEFT
+Key: VALIGN, Value: TOP
+End element:   TD
+Start element: TD
+Key: VALIGN, Value: TOP
+Start element: BLOCKQUOTE
+Characters:    " Stronger Families: The Family and \r\n\rMedical Leave Act protects 629,000 workers in Alabama&#151;allowing them \r\n\rto take 12 weeks of unpaid leave for the birth of a child or to take care \r\n\rof  a sick family member without fear of losing their jobs. Teen \r\n\rpregnancy is falling, the poverty rate is decreasing, and the number of \r\n\rpeople on welfare is declining."
+End element:   TD
+Start element: TD
+Key: HEIGHT, Value: 5
+End element:   TD
+Characters:    " "
+Start element: TD
+Key: ALIGN, Value: LEFT
+Key: VALIGN, Value: TOP
+End element:   TD
+Start element: TD
+Key: VALIGN, Value: TOP
+Start element: BLOCKQUOTE
+Characters:    " Cut the Deficit in Half: Reducing the burden of \r\n\rnational debt for every Alabama family of four by $15,000.  \r\n\r"
+End element:   TD
+Start element: TD
+Key: HEIGHT, Value: 5
+End element:   TD
+Characters:    " "
+Start element: TD
+Key: ALIGN, Value: LEFT
+Key: VALIGN, Value: TOP
+End element:   TD
+Start element: TD
+Key: VALIGN, Value: TOP
+Start element: BLOCKQUOTE
+Characters:    " Safer Streets and Communities: The \r\n\rPresident&#146;s Crime Bill is adding 683 police officers to Alabama&#146;s \r\n\rstreets. &#160;&#147;Three Strikes and You&#146;re Out,&#148; the Brady Bill, \r\n\rthe Assault Weapons Ban,  and community policing are working. Our \r\n\rnation&#146;s crime rate is down. The number of murders  reported has \r\n\rdropped 8%&#151;one of the largest declines in three \r\n\rdecades."
+End element:   TD
+Start element: TD
+Key: HEIGHT, Value: 5
+End element:   TD
+Characters:    " \r\n\r"
+Start element: TD
+Key: ALIGN, Value: LEFT
+Key: VALIGN, Value: TOP
+End element:   TD
+Start element: TD
+Key: VALIGN, Value: TOP
+Start element: BLOCKQUOTE
+Characters:    " Protects investment in our young people&#146;s \r\n\rfutures&#151;Head Start, access to college.  "
+End element:   TD
+Start element: TD
+Key: HEIGHT, Value: 5
+End element:   TD
+Characters:    " "
+Start element: TD
+Key: ALIGN, Value: LEFT
+Key: VALIGN, Value: TOP
+End element:   TD
+Start element: TD
+Key: VALIGN, Value: TOP
+Start element: BLOCKQUOTE
+Characters:    " Preserves tax fairness for America&#146;s working \r\n\rfamilies.  \t"
+End element:   TD
+End element:   TABLE
+Start element: CENTER
+Characters:    "\r\n\r"
+Start element: font
+Key: size, Value: +1
+Characters:    "More: How President Clinton's "
+Start element: a
+Key: href, Value: trade12.html
+Characters:    "international trade policies"
+End element:   a
+Characters:    " have helped your state"
+End element:   font
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee, Inc."
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r"
+End of document
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/trade12.html

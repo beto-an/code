@@ -1,0 +1,89 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "Excerpts by Vice President Gore"
+End element:   TITLE
+Characters:    "\r\n\r\r\n\r"
+Start element: KPETITLE
+Start element: B
+Characters:    "For Immediate Release:"
+End element:   B
+Characters:    "\r\n\rExcerpts by Vice President Gore"
+Start element: DD
+End element:   KPETITLE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "  "
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "  "
+Characters:    "\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r"
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "August 5, 1996\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "EXCERPTED REMARKS OF VICE PRESIDENT AL GORE\r\n\r"
+Characters:    "BEFORE \r\n\rTHE AMERICAN FEDERATION OF TEACHERS\r\n\r\r\n\r"
+Start element: p
+Characters:    "Cincinnati, OH\r\n\r"
+Characters:    "August 3, 1996\r\n\r\r\n\r \r\n\r"
+Start element: P
+Characters:    "\tPresident Clinton also understands that even with the latest technology, often a high school diploma is not enough.  And the time has come to make two years of education after high school just as universal as a high school education is now.\r\n\r\r\n\r"
+Start element: P
+Characters:    "\tSo -- in addition to our $10,000 tax deduction for the cost of college tuition -- the President has proposed a tax credit of $1,500 a year for the cost of going to a local community college...so every citizen can have that opportunity.\r\n\r\r\n\r"
+Start element: P
+Characters:    "\tThere couldn�t be a sharper contrast to Senator Dole.  What President Clinton proposed is a tax cut -- much like the EITC -- specifically targeted at real problems for real people...a plan that doesn�t rely on incentives that will never trickle down, but rather on opportunity and jobs and growth that will, along with the hope of our educators and students, shoot up.\r\n\r\r\n\r"
+Start element: P
+Characters:    "\tWhen Bob Dole unveils his economic policy on Monday...watch closely.\r\n\r\r\n\r"
+Start element: P
+Characters:    "\tBob Dole's economic plan will blow a hole in the deficit and as "
+Start element: i
+Characters:    "Business Week"
+End element:   i
+Characters:    " said August 3, 1996, \"could raise interest rates and lower long term growth\".  Candidate Dole�s economic plan leads the retreat from balancing the budget and contradicts everything Senator Dole has said about deficit reduction with honest numbers.\r\n\r\t\r\n\r\r\n\r"
+Start element: P
+Start element: CENTER
+Characters:    "###\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    " "
+Characters:    " "
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee, Inc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End of document

@@ -1,0 +1,113 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "The Debate on Economic Policy"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "6/21/96"
+Characters:    "\n\r    PRESS RELEASE"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "STATEMENT BY ANN LEWIS"
+Characters:    "\n\r    DEPUTY CAMPAIGN MANAGER"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The Clinton/Gore '96 campaign welcomes the debate on\n\r    economic policy begun by the Dole for President Campaign today.\n\r    Deputy Press Secretary Christina Martin attacked President\n\r    Clinton's record on creating new jobs, particularly his record\n\r    in California, Florida and North Carolina."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Here are the facts:"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Under President Clinton's leadership, the economy has\n\r    produced 9.7 million new jobs, 93% of which are in the private\n\r    sector. That is the best record of any administration since the\n\r    1920s. Over two-thirds of all new jobs are high-wage jobs\n\r    (Bureau of Labor Statistics/Council of Economic\n\r    Advisors)."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "In California, North Carolina and Florida, 1.5 million\n\r    new jobs have been created -- 561,000 in California; 316,700 in\n\r    North Carolina; and 666,100 in Florida (Bureau of Labor\n\r    Statistics)."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Unemployment nationwide has dropped over 23% (from 7.3%\n\r    to 5.6%) since President Clinton took office. In California,\n\r    unemployment has dropped from 9.7 to 7.5%, a 23% decline. In\n\r    North Carolina, unemployment has dropped from 5.5 to 4.4%, a\n\r    20% decline. In Florida, unemployment has dropped from 7.3 to\n\r    5.2%, a 29% decline (Bureau of Labor Statistics)."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "###"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

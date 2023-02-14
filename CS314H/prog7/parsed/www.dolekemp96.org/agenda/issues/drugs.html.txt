@@ -1,0 +1,388 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Where Bob Dole Stands on Drugs"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: h2
+Key: align, Value: center
+Key: style, Value: text-align:center
+Characters:    "Where Bob Dole\n\r  Stands on Drugs"
+End element:   h2
+Characters:    "\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Bill\n\r  Clinton Has Surrendered the War on Drugs"
+End element:   span
+End element:   b
+Characters:    "\n\r  With Bill Clinton's lack of leadership, there are about 1 million\n\r  more youths involved in drugs than before he became President.\n\r  Clinton has nearly surrendered the War on Drugs:"
+End element:   p
+Characters:    "\n\r  "
+Start element: ul
+Key: type, Value: disc
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l4 level1 lfo10;tab-stops:list .5in
+Characters:    "\n\r    Days after taking office, Clinton reduced the staff of the Drug\n\r    Czar's Office from 146 people to just 25. Then he cut their\n\r    budget by 90 percent."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l4 level1 lfo10;tab-stops:list .5in
+Characters:    "\n\r    Within his first year, the National Security Council \"dropped\n\r    the drug war from one of three top priorities to No. 29 on a\n\r    list of 29.\" "
+Start element: i
+Characters:    "(Star Tribune, February 14, 1993)"
+End element:   i
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l4 level1 lfo10;tab-stops:list .5in
+Characters:    "\n\r    His former Surgeon General thought the best way to combat drug\n\r    use was to legalize them."
+End element:   li
+Characters:    "\n\r  "
+End element:   ul
+Characters:    "\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Characters:    "\n\r  Even members of Clinton's own party agree that Clinton has given\n\r  up the battle. \"Rep. Charles Rangel, a New York Democrat, said,\n\r  \"I've been in Congress for over two decades, and I have never,\n\r  never, never seen a president who cares less about this\n\r  issue.\""
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Teen Drug Use is\n\r  Skyrocketing"
+End element:   span
+End element:   b
+Characters:    "\n\r  The results of this \"Just Say Nothing\" approach is\n\r  horrifying:"
+End element:   p
+Characters:    "\n\r  "
+Start element: ul
+Key: type, Value: disc
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l0 level1 lfo11;tab-stops:list .5in
+Characters:    "\n\r    Marijuana use soared 141 percent from 1992 to 1995 among\n\r    America's youth."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l0 level1 lfo11;tab-stops:list .5in
+Characters:    "\n\r    Cocaine use by young people rose 166 percent from 1994 to\n\r    1995."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l0 level1 lfo11;tab-stops:list .5in
+Characters:    "\n\r    Heroin-related overdoses increased to record levels, jumping\n\r    from 48,003 in 1992 to 76,023 in 1995."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l0 level1 lfo11;tab-stops:list .5in
+Characters:    "\n\r    Methamphetamine-related deaths have increased nationally by 145\n\r    percent over the past two years."
+End element:   li
+Characters:    "\n\r  "
+End element:   ul
+Characters:    "\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "A Dole-Kemp Administration Will\n\r  Cut Teen Drug Use in Half by 2000"
+End element:   span
+End element:   b
+Characters:    "\n\r  Bob Dole and Jack Kemp understand that drug use is a national\n\r  problem that cannot be solved by the federal government alone.\n\r  The federal government must work in partnership with state and\n\r  local governments. As President, Bob Dole will:"
+End element:   p
+Characters:    "\n\r  "
+Start element: ul
+Key: type, Value: disc
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l13 level1 lfo12;tab-stops:list .5in
+Characters:    "\n\r    Use the Bully Pulpit of the Presidency to teach America's youth\n\r    that drug use is wrong and life-threatening. He has already\n\r    kicked off this campaign by speaking out against drugs and\n\r    unveiling his \"Just Don't Do It\" motto."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l13 level1 lfo12;tab-stops:list .5in
+Characters:    "\n\r    Spearhead the creation of 1,000 new community-based antidrug\n\r    coalitions, using federal seed money where necessary"
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l13 level1 lfo12;tab-stops:list .5in
+Characters:    "\n\r    Encourage the movie, television, and music industries to\n\r    embrace a no-use, zero-tolerance message in the products they\n\r    create for America's youth."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l13 level1 lfo12;tab-stops:list .5in
+Characters:    "\n\r    Ensure adequate funding and staffing for the Drug Czar's Office\n\r    and give the drug Czar the tools and authority he or she needs\n\r    to get the job done."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l13 level1 lfo12;tab-stops:list .5in
+Characters:    "\n\r    Develop a National Drug Strategy that establishes a set of\n\r    concrete, measurable goals, "
+Start element: u
+Characters:    "including a 50% reduction in\n\r    teen drug use by the end of Dole's first term"
+End element:   u
+Characters:    "."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l13 level1 lfo12;tab-stops:list .5in
+Characters:    "\n\r    Ensure that the funding for the Republican Safe- and Drug-Free\n\r    Schools Program is used for its intended purpose - no-use drug\n\r    prevention - and not diverted to unproven social programs."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l13 level1 lfo12;tab-stops:list .5in
+Characters:    "\n\r    Enhance the antidrug role of the National Guard, including the\n\r    creation of a Southwest Border Counter Drug Task Force, the\n\r    reinvigoration of the National Guard's marijuana eradication\n\r    campaign, and the authorization of the National Guard to\n\r    provide \"meth lab\" cleanups."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l13 level1 lfo12;tab-stops:list .5in
+Characters:    "\n\r    Reform the federal treatment bureaucracy and promote effective\n\r    drug treatment programs. Model programs include the nationwide\n\r    \"Teen Challenge\" program based in Arizona."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l13 level1 lfo12;tab-stops:list .5in
+Characters:    "\n\r    Require drug testing at all stages of the federal criminal\n\r    justice system."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l13 level1 lfo12;tab-stops:list .5in
+Characters:    "\n\r    Empower low-income families to move out of drug-infested\n\r    areas"
+Characters:    "\n\r    by giving them housing vouchers."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l13 level1 lfo12;tab-stops:list .5in
+Characters:    "\n\r    Encourage states to establish pilot drug-testing programs for\n\r    welfare beneficiaries who may use government assistance to\n\r    subsidize a drug habit."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l13 level1 lfo12;tab-stops:list .5in
+Characters:    "\n\r    Work to greenline distressed communities and encourage\n\r    businesses and residents to reclaim their neighborhoods by\n\r    providing incentives for entrepreneurship and work."
+End element:   li
+Characters:    "\n\r  "
+End element:   ul
+Characters:    "\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "A Better America"
+End element:   span
+End element:   b
+Characters:    "\n\r  With Bob Dole as President, the United States will have a renewed\n\r  commitment to the War on Drugs. A Dole Administration will devote\n\r  ample resources to fight illegal drug use. There will be a strong\n\r  Drug Czar. The United States will not be afraid to get tough with\n\r  countries that refuse to cooperate with our anti-drug efforts.\n\r  Most importantly, our President will provide the moral leadership\n\r  that we need to protect our children from illegal drugs by making\n\r  it clear that drug use is wrong and will not be tolerated."
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../../news/news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    " "
+Start element: a
+Key: href, Value: ../agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the\n\r  Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

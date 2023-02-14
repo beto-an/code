@@ -1,0 +1,130 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "The Dole/Gingrich/Kemp \"Revolution\""
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    September 11, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "STATEMENT BY JOE LOCKHART"
+Characters:    "\n\r    NATIONAL PRESS SECRETARY"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Today, Bob Dole and Jack Kemp went to Capitol Hill to\n\r    get the blessing of Newt Gingrich and to reassure their troops\n\r    that they will continue the \"Republican revolution.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The Dole-Gingrich \"revolution\" would have cut Medicare\n\r    by $270 billion -- the deepest cuts in history -- to pay for a\n\r    $245 billion tax cut. If President Clinton had not held firm,\n\r    the Dole-Gingrich Congress also would have raised taxes on\n\r    eight million families, repealed the assault weapons ban, cut\n\r    head start for preschool children, ended the federal guarantee\n\r    of a school lunch, and cut college scholarships."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole doesn�t need to convince Hill Republicans. Bob\n\r    Dole needs to be straight with the American people and tell\n\r    them what he intends to cut this time to pay for his huge $550\n\r    billion tax cut."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "The Dole/Gingrich/Kemp"
+Characters:    "\n\r      \"Revolution\" \""
+End element:   b
+End element:   tt
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "The great part about it is, come January, Newt's\n\r      going to be able to work with a Republican"
+Characters:    "\n\r      president.\""
+End element:   b
+Characters:    "\n\r      -- Bob Dole"
+End element:   tt
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "Bob Dole and Jack Kemp visited Capitol Hill today to\n\r      check in with the third member of their team -- Newt\n\r      Gingrich. Jack Kemp made the Dole/Gingrich/Kemp ticket�s\n\r      intentions clear today when he said, \"...we can complete the\n\r      revolution.\" In 1995, Dole said, \"The revolution's started,\n\r      and if we're going to finish it, we need someone in the White\n\r      House, as I said, who can bring about change and I'll hope\n\r      the people who believe that will stand beside me in this\n\r      campaign.\" (WMUR-TV (NH) debate, CNN, 10/11/95) In June 1996,\n\r      Dole said, \"The great part about it is, come January, Newt's\n\r      going to be able to work with a Republican president.\"\n\r      (Washington Post, 7/23/96; Atlanta Journal & Constitution,\n\r      6/9/96)"
+End element:   tt
+End element:   p
+Characters:    "\n\r      "
+Start element: center
+Characters:    "\n\r        "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r      "
+End element:   center
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

@@ -1,0 +1,129 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "President Clinton Signs Health Insurance Reform\n\r  Bill"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    August 23, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "PRESIDENT CLINTON SIGNS HISTORIC HEALTH CARE REFORM\n\r    LEGISLATION"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Keeping his promise to millions of uninsured Americans,\n\r    President Clinton today signed into law the Kassebaum-Kennedy\n\r    Health Insurance Reform Act of 1996, which limits the ability\n\r    of insurers to exclude from coverage those individuals who are\n\r    sick or disabled. This legislation also provides a guarantee of\n\r    ongoing coverage for millions of Americans who leave or lose\n\r    their jobs."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton is extremely pleased to secure this\n\r    long-overdue victory. He appreciates the bipartisan\n\r    Congressional response to his State of the Union Address\n\r    calling for the passage of this legislation."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "As many as 25 million Americans will benefit from the\n\r    important portability guarantees -- guaranteed renewal and\n\r    guaranteed issue -- within the health insurance reform\n\r    provisions."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Although health insurance reform is the focus of this\n\r    legislation, the Kassebaum-Kennedy Health Insurance Reform Act\n\r    of 1996 includes numerous other provisions advocated by\n\r    President Clinton. For example:"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "Preventing fraud and abuse. The Kassebaum-Kennedy\n\r      legislation strengthens the efforts of the federal government\n\r      to target and prosecute \"bad apple\" health care providers who\n\r      are bilking the system of billions of dollars."
+End element:   tt
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "Tax deductibility of health insurance premiums for the\n\r      self-employed. With regard to the tax deductibility of health\n\r      insurance premiums, the Kassebaum-Kennedy legislation moves\n\r      toward assuring that the self-employed are treated the same\n\r      as all other employers who purchase health\n\r      insurance."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton remains committed to seeking other\n\r    ways to address other problems in the health care system. This\n\r    legislation represents an important part of his agenda for\n\r    increased access to the health care system.."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

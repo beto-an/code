@@ -1,0 +1,115 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Dole's Crime Program...Sound Familiar?"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    September 16, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "STATEMENT BY JOE LOCKHART"
+Characters:    "\n\r    NATIONAL PRESS SECRETARY"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "When it comes to fighting crime, Bob Dole is running on\n\r    empty."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "From his one-liners to his policy prescriptions, Bob\n\r    Dole�s performance today might just be a violation of copyright\n\r    law. Virtually all of the proposals Candidate Dole outlined\n\r    today have already been implemented by the Clinton\n\r    Administration -- over the active opposition of Senator Dole.\n\r    Bob Dole even resorted to stealing one-liners from the\n\r    President. A September 28, 1992 press release from the\n\r    Clinton/Gore campaign included the following line: \"... when it\n\r    comes to fighting crime, George Bush talks like Clint Eastwood,\n\r    but his record looks like Barney Fife.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Candidate Dole said today that he wants to cut youth\n\r    drug use by 50 percent. But Senator Dole voted to cut the\n\r    President�s \"Safe and Drug Free Schools\" initiative by 50\n\r    percent. Candidate Dole said he wanted to provide more funding\n\r    for prison construction. But Senator Dole voted against the\n\r    President�s 1994 Crime Bill which provided $7.9 billion for new\n\r    prisons. Candidate Dole said he wants to establish an instant\n\r    computer check to prevent criminals from illegally buying guns.\n\r    But Senator Dole led the Republican fight against the Brady\n\r    Bill which provides funds for a national Instant Check system.\n\r    In short, when Bob Dole had a chance to act, he chose to \"just\n\r    say no.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "They say that imitation is the highest form of flattery\n\r    -- but we wish Bob Dole had decided to support the President�s\n\r    anti-crime agenda when he was in office and could actually do\n\r    something about it."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Not only did the national Fraternal Order of Police\n\r    endorse the President�s crime fighting initiatives today, so\n\r    did Bob Dole."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

@@ -1,0 +1,491 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r\r\n\r"
+Start element: head
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: title
+Characters:    "Issues"
+End element:   title
+Characters:    "\r\n\r"
+End element:   head
+Characters:    "\r\n\r\r\n\r"
+Start element: body
+Key: vlink, Value: #000080
+Key: alink, Value: #000080
+Key: background, Value: ../../background.jpg
+Characters:    "\r\n\r\r\n\r"
+Start element: div
+Key: class, Value: Section1
+Characters:    "\r\n\r\r\n\r"
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\r\n\r\r\n\r"
+Start element: h2
+Key: align, Value: center
+Key: style, Value: text-align:center
+Characters:    "&nbsp;"
+End element:   h2
+Characters:    "\r\n\r"
+Start element: h2
+Key: align, Value: center
+Key: style, Value: text-align:center
+Characters:    "Issues"
+End element:   h2
+Characters:    "\r\n\r\r\n\r"
+Start element: div
+Key: align, Value: center
+Characters:    "\r\n\r\r\n\r"
+Start element: table
+Key: border, Value: 0
+Key: cellpadding, Value: 0
+Key: style, Value: mso-cellspacing:1.5pt
+Characters:    "\r\n\r "
+Start element: tr
+Characters:    "\r\n\r  "
+Start element: td
+Key: valign, Value: top
+Key: style, Value: padding:.75pt .75pt .75pt .75pt
+Characters:    "\r\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Start element: a
+Key: href, Value: balanced.html
+Characters:    "Balanced Budget"
+End element:   a
+Characters:    " "
+End element:   p
+Characters:    "\r\n\r  "
+Start element: p
+Start element: a
+Key: href, Value: civil.html
+Characters:    "Civil Rights"
+End element:   a
+Characters:    " "
+End element:   p
+Characters:    "\r\n\r  "
+Start element: p
+Start element: a
+Key: href, Value: congressional.html
+Characters:    "Congressional and"
+Characters:    "\r\n\r  Campaign Finance Reform"
+End element:   a
+Characters:    " "
+End element:   p
+Characters:    "\r\n\r  "
+Start element: p
+Start element: a
+Key: href, Value: crime.html
+Characters:    "Crime"
+End element:   a
+Characters:    " "
+End element:   p
+Characters:    "\r\n\r  "
+Start element: p
+Start element: a
+Key: href, Value: disabilities.html
+Characters:    "Disabilities"
+End element:   a
+Characters:    " "
+End element:   p
+Characters:    "\r\n\r  "
+Start element: p
+Start element: a
+Key: href, Value: drugs.html
+Characters:    "Drugs"
+End element:   a
+Characters:    " "
+End element:   p
+Characters:    "\r\n\r  "
+Start element: p
+Start element: a
+Key: href, Value: economy.html
+Characters:    "Economy"
+End element:   a
+Characters:    " "
+End element:   p
+Characters:    "\r\n\r  "
+Start element: p
+Start element: a
+Key: href, Value: environment.html
+Characters:    "Environment"
+End element:   a
+Characters:    " "
+End element:   p
+Characters:    "\r\n\r  "
+Start element: p
+Start element: a
+Key: href, Value: foreign.html
+Characters:    "Foreign Policy"
+End element:   a
+End element:   p
+Characters:    "\r\n\r  "
+End element:   td
+Characters:    "\r\n\r  "
+Start element: td
+Key: width, Value: 10
+Key: style, Value: width:7.5pt;padding:.75pt .75pt .75pt .75pt
+Characters:    "\r\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Characters:    "<![if !supportEmptyParas]>&nbsp;<![endif]>"
+Start element: o:p
+End element:   o:p
+End element:   p
+Characters:    "\r\n\r  "
+End element:   td
+Characters:    "\r\n\r  "
+Start element: td
+Key: valign, Value: top
+Key: style, Value: padding:.75pt .75pt .75pt .75pt
+Characters:    "\r\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Start element: a
+Key: href, Value: health.html
+Characters:    "Health Care"
+End element:   a
+Characters:    " "
+End element:   p
+Characters:    "\r\n\r  "
+Start element: p
+Start element: a
+Key: href, Value: immigration.html
+Characters:    "Immigration"
+End element:   a
+Characters:    " "
+End element:   p
+Characters:    "\r\n\r  "
+Start element: p
+Start element: a
+Key: href, Value: juvenile.html
+Characters:    "Juvenile"
+End element:   a
+Characters:    " "
+End element:   p
+Characters:    "\r\n\r  "
+Start element: p
+Start element: a
+Key: href, Value: education.html
+Characters:    "K-12 Education"
+End element:   a
+Characters:    " "
+End element:   p
+Characters:    "\r\n\r  "
+Start element: p
+Start element: a
+Key: href, Value: legal.html
+Characters:    "Legal Reform"
+End element:   a
+Characters:    " "
+End element:   p
+Characters:    "\r\n\r  "
+Start element: p
+Start element: a
+Key: href, Value: missile.html
+Characters:    "Missile Defense"
+End element:   a
+Characters:    " "
+End element:   p
+Characters:    "\r\n\r  "
+Start element: p
+Start element: a
+Key: href, Value: seniors.html
+Characters:    "Seniors' Issues"
+End element:   a
+Characters:    " "
+End element:   p
+Characters:    "\r\n\r  "
+Start element: p
+Start element: a
+Key: href, Value: business.html
+Characters:    "Small Business"
+End element:   a
+Characters:    " "
+End element:   p
+Characters:    "\r\n\r  "
+Start element: p
+Start element: a
+Key: href, Value: loans.html
+Characters:    "Student Loans"
+End element:   a
+Characters:    " "
+End element:   p
+Characters:    "\r\n\r  "
+End element:   td
+Characters:    "\r\n\r  "
+Start element: td
+Key: width, Value: 10
+Key: style, Value: width:7.5pt;padding:.75pt .75pt .75pt .75pt
+Characters:    "\r\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Characters:    "<![if !supportEmptyParas]>&nbsp;<![endif]>"
+Start element: o:p
+End element:   o:p
+End element:   p
+Characters:    "\r\n\r  "
+End element:   td
+Characters:    "\r\n\r  "
+Start element: td
+Key: valign, Value: top
+Key: style, Value: padding:.75pt .75pt .75pt .75pt
+Characters:    "\r\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Start element: a
+Key: href, Value: taxcuts.html
+Characters:    "Tax Cuts"
+End element:   a
+Characters:    " "
+End element:   p
+Characters:    "\r\n\r  "
+Start element: p
+Start element: a
+Key: href, Value: taxreform.html
+Characters:    "Tax Reform"
+End element:   a
+Characters:    " "
+End element:   p
+Characters:    "\r\n\r  "
+Start element: p
+Start element: a
+Key: href, Value: internet.html
+Characters:    "Technology and"
+Characters:    "\r\n\r  Internet Issues"
+End element:   a
+Characters:    " "
+End element:   p
+Characters:    "\r\n\r  "
+Start element: p
+Start element: a
+Key: href, Value: values.html
+Characters:    "Values"
+End element:   a
+Characters:    " "
+End element:   p
+Characters:    "\r\n\r  "
+Start element: p
+Start element: a
+Key: href, Value: veterans.html
+Characters:    "Veterans' Issues"
+End element:   a
+Characters:    " "
+End element:   p
+Characters:    "\r\n\r  "
+Start element: p
+Start element: u
+Start element: span
+Key: style, Value: color:#0F02FF
+Characters:    "Welfare"
+End element:   span
+End element:   u
+Characters:    " "
+End element:   p
+Characters:    "\r\n\r  "
+Start element: p
+Start element: a
+Key: href, Value: women.html
+Characters:    "Women's Issues"
+End element:   a
+End element:   p
+Characters:    "\r\n\r  "
+End element:   td
+Characters:    "\r\n\r "
+End element:   tr
+Characters:    "\r\n\r"
+End element:   table
+Characters:    "\r\n\r\r\n\r"
+Start element: p
+Characters:    "&nbsp;"
+End element:   div
+Characters:    "\r\n\r\r\n\r"
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "\r\n\r"
+End element:   a
+End element:   p
+Characters:    "\r\n\r\r\n\r"
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More\r\n\ropportunities. Smaller government. Stronger and safer families"
+End element:   font
+End element:   p
+Characters:    "\r\n\r\r\n\r"
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    "\r\n\r| "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\r\n\r\r\n\r"
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About\r\n\rthe Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "\r\n\r"
+Start element: a
+Key: href, Value: ../../news/news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Start element: a
+Key: href, Value: ../agenda.html
+Characters:    "\r\n\r"
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\r\n\r\r\n\r"
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\r\n\r\r\n\r"
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\r\n\rPaid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\r\n\r"
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original\r\n\rWeb Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    " Presage Internet Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\r\n\r"
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To\r\n\rLearn more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    " Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\r\n\r"
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This\r\n\rWeb Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    " 4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\r\n\r\r\n\r"
+End element:   div
+Characters:    "\r\n\r\r\n\r"
+End element:   body
+Characters:    "\r\n\r\r\n\r"
+End element:   html
+Characters:    "\r\n\r"
+End of document
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/issues/business.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/issues/values.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/issues/women.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/issues/health.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/issues/drugs.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/issues/seniors.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/issues/taxcuts.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/issues/balanced.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/issues/economy.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/issues/missile.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/issues/juvenile.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/issues/civil.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/issues/loans.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/issues/immigration.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/issues/crime.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/issues/foreign.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/issues/disabilities.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/issues/legal.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/issues/veterans.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/issues/environment.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/issues/congressional.html
+file:///C:/CS314H/prog7/president96/www.dolekemp96.org/agenda/issues/taxreform.html

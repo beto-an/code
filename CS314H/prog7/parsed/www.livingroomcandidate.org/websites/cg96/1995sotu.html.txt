@@ -1,0 +1,210 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "1995 State of the Union Address"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index91.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #001058
+Characters:    "PRESIDENT WILLIAM JEFFERSON\n\r      CLINTON"
+Characters:    "\n\r      STATE OF THE UNION ADDRESS"
+Characters:    "\n\r      JOINT SESSION OF CONGRESS"
+Characters:    "\n\r      THE CAPITOL OF THE UNITED STATES"
+End element:   font
+Characters:    "\n\r      "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #001058
+Start element: font
+Key: color, Value: #000000
+Characters:    "January 24, 1995"
+End element:   font
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "(Applause, cheers.) Thank you very much. Thank you. Thank\n\r    you. Thank you. (Continued cheers, applause.) Thank you. Thank\n\r    you. Mr. President, Mr. Speaker, members of the 104th Congress,\n\r    my fellow Americans, again we are here in the sanctuary of\n\r    democracy, and once again our democracy has spoken. So let me\n\r    begin by congratulating all of you here in the 104th Congress\n\r    and congratulating you, Mr. Speaker. (Applause.) If we agree on\n\r    nothing else tonight, we must agree that the American people\n\r    certainly voted for change in 1992 and in 1994. (Applause.) And\n\r    as I look out at you, I know how some of you must have felt in\n\r    1992! (Laughter.) But—(laughs)—(applause)—I must say that in\n\r    both years we didn’t hear America singing, we heard America\n\r    shouting, and now all of us, Republicans and Democrats alike,\n\r    must say,&nbsp;“We hear you. We will work together to earn the\n\r    jobs you have given us.”(Applause.) For we are the keepers of a\n\r    sacred trust and we must be faithful to it in this new and very\n\r    demanding era."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Over 200 years ago, our founders changed the entire course\n\r    of human history by joining together to create a new country\n\r    based on a single powerful idea: We hold these truths to be\n\r    self-evident, that all men are created equal, endowed by their\n\r    Creator with certain inalienable rights, and among these are\n\r    life, liberty and the pursuit of happiness."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "It has fallen to every generation since then to preserve\n\r    that idea, the American idea, and to deepen and expand its\n\r    meaning in new and different times. To Lincoln and to his\n\r    Congress, to preserve the Union and to end slavery. To Theodore\n\r    Roosevelt and Woodrow Wilson, to restrain the abuses and\n\r    excesses of the Industrial Revolution and to assert our\n\r    leadership in the world. To Franklin Roosevelt, to fight the\n\r    failure and pain of the Great Depression, and to win our\n\r    country’s great struggle against fascism. And to all our\n\r    presidents since, to fight the Cold War."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Especially I recall two who struggled to fight that Cold War\n\r    in partnership with Congresses where the majority was of a\n\r    different party. To Harry Truman, who summoned us to\n\r    unparalleled prosperity at home, and who built the architecture\n\r    of the Cold War, and to Ronald Reagan, whom we wish well\n\r    tonight, and who exhorted us to carry on until the twilight\n\r    struggle against Communism was won. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "In another time of change and challenge I had the honor to\n\r    be the first president to be elected in the post Cold War era,\n\r    an era marked by the global economy, the information\n\r    revolution, unparalleled change and opportunity and security\n\r    for the American people. I came to this hallowed chamber two\n\r    years ago on a mission, to restore the American dream for all\n\r    our people and to make sure that we move into the 21st century\n\r    still the strongest force for freedom and democracy in the\n\r    entire world."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I was determined then to tackle the tough problems too long\n\r    ignored. In this effort, I am frank to say that I have made my\n\r    mistakes, and I have learned again the importance of humility\n\r    in all human endeavor. But I am also proud to say tonight that\n\r    our country is stronger than it was two years ago. (Applause.)\n\r    Record numbers of Americans are succeeding in the new global\n\r    economy. We are at peace, and we are a force for peace and\n\r    freedom throughout the world. We have almost six million new\n\r    jobs since I became president, and we have the lowest combined\n\r    rate of unemployment and inflation in 25 years. (Applause.) Our\n\r    businesses are more productive, and here we have worked to\n\r    bring the deficit, to expand trade, to put more police on our\n\r    streets, to give our citizens more of the tools they need to\n\r    get an education and to rebuild their own communities. But the\n\r    rising tide is not lifting all boats. While our nation is\n\r    enjoying peace and prosperity, too many of our people are still\n\r    working harder and harder for less and less. While our\n\r    businesses are restructuring and growing more productive and\n\r    competitive, too many of our people still can’t be sure of\n\r    having a job next year or even next month. And far more than\n\r    our material riches are threatened, things far more precious to\n\r    us: our children, our families, our values."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Our civil life is suffering in America today. Citizens are\n\r    working together less and shouting at each other more. The\n\r    common bonds of community which have been the great strength of\n\r    our country from its very beginning are badly frayed."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "What are we to do about it? More than 60 years ago, at the\n\r    dawn of another new era, President Roosevelt told our nation\n\r    new conditions imposed new requirements on government and those\n\r    who conduct government. And from that simple proposition, he\n\r    shaped the New Deal, which helped to restore our nation to\n\r    prosperity and defined the relationship between our people and\n\r    our government for half a century. That approach worked in its\n\r    time, but we today, we face a very different time and very\n\r    different conditions. We are moving from an industrial age\n\r    built on gears and sweat to an information age demanding skills\n\r    and learning and flexibility. Our government, once a champion\n\r    of national purposes, is now seen by many as simply a captive\n\r    of narrow interests, putting more burdens on our citizens\n\r    rather than equipping them to get ahead. The values that used\n\r    to hold us all together seem to be coming apart. So tonight, we\n\r    must forge a new social compact to meet the challenges of this\n\r    time. As we enter a new era, we need a new set of\n\r    understandings, not just with government but even more\n\r    important with one another as Americans. That’s what I want to\n\r    talk with you about tonight. I call it the New Covenant, but\n\r    it’s grounded in a very, very old idea: that all Americans have\n\r    not just a right but a solemn responsibility to rise as far as\n\r    their God-given talents and determination can take them, and to\n\r    give something back to their communities and their country in\n\r    return. Opportunity and responsibility, they go hand in hand;\n\r    we can’t have one without the other, and our national community\n\r    can’t hold together without both. (Applause.) Our new covenant\n\r    is a new set of understanding for how we can equip our people\n\r    to meet the challenges of the new economy, how we can change\n\r    the way our government works to fit a different time, and above\n\r    all, how we can repair the damaged bonds in our society and\n\r    come together behind our common purpose."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We must have dramatic change in our economy, our government\n\r    and ourselves. My fellow Americans, without regard to party,\n\r    let us rise to the occasion. Let us put aside partisanship and\n\r    pettiness and pride. As we embark on this new course, let us\n\r    put our country, remembering that regardless of party label we\n\r    are all Americans. And let the final test of everything we do\n\r    be a simple one: Is it good for the American people?\n\r    (Applause.) Let me begin by saying that we cannot ask Americans\n\r    to be better citizens if we are not better servants. You’ve\n\r    made a good start by passing that law which applies to Congress\n\r    all the laws you put on the private sector, and I was proud to\n\r    sign it yesterday. (Applause, cheers.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But we have a lot more to do before people really trust the\n\r    way things work around here. Three times as many lobbyists are\n\r    in the streets and corridors of Washington as were here 20\n\r    years ago. The American people look at their capital and they\n\r    see a city where the well-connected and the well-protected can\n\r    work the system, but the interests of ordinary citizens are\n\r    often left out. As the new Congress opened its doors, lobbyists\n\r    were still doing business as usual—the gifts, the trips, all\n\r    the things that people are concerned about haven’t stopped.\n\r    Twice this month you missed opportunities to stop these\n\r    practices. I know there were other considerations in those\n\r    votes, but I want to use something that I’ve heard my\n\r    Republican friends say from time to time, there doesn’t have to\n\r    be a law for everything. So tonight, I ask you to just stop\n\r    taking the lobbyist perks. Just stop. (Applause, cheers.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We don’t have to wait for legislation to pass to send a\n\r    strong signal to the American people that things are really\n\r    changing. But I also hope you will send me the strongest\n\r    possible lobby reform bill, and I’ll sign that too. (Applause.)\n\r    We should require lobbyists to tell the people for whom they\n\r    work, what they’re spending, what they want. We should also\n\r    curb the role of big money in elections by capping the costs of\n\r    campaigns and limiting the influence of PACs. (Applause.) And\n\r    as I have said for three years, we should work to open the\n\r    airwaves so that they can be an instrument of democracy, not a\n\r    weapon of destruction, by giving free TV time to candidates for\n\r    public office. (Applause.) When the last Congress killed\n\r    political reform last year, it was reported in the press that\n\r    the lobbyists actually stood in the halls of this sacred\n\r    building and cheered. This year let’s give the folks at home\n\r    something to cheer about. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "More important, I think we all agree that we have to change\n\r    the way the government works. Let’s make it smaller, less\n\r    costly and smarter, leaner not meaner. (Applause.) I just told\n\r    the Speaker the equal time doctrine is alive and well.\n\r    (Laughter.) The New Covenant approach to governing is as\n\r    different from the old bureaucratic way as the computer is from\n\r    the manual typewriter. The old way of governing around here\n\r    protected organized interests. We should look out for the\n\r    interests of ordinary people. The old way divided us by\n\r    interests, constituency or class."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The New Covenant way should unite us behind a common vision\n\r    of what’s best for our country."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The old way dispensed services through large top-down,\n\r    inflexible bureaucracies. The New Covenant way should shift\n\r    these resources and decision-making from bureaucrats to\n\r    citizens, injecting choice and competition and individual\n\r    responsibility into national policy. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The old way of governing around here actually seemed to\n\r    reward failure. The New Covenant way should have built-in\n\r    incentives to reward success. The old way was centralized here\n\r    in Washington. The New Covenant way must take hold in the\n\r    communities all across America, and we should help them to do\n\r    that. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Our job here is to expand opportunity, not bureaucracy, to\n\r    empower people to make the most of their own lives—(cheers,\n\r    applause)—and to enhance our security here at home and\n\r    abroad."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We must not ask government to do what we should do for\n\r    ourselves. We should rely on government as a partner to help us\n\r    to do more for ourselves and for each other. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I hope very much that, as we debate these specific and\n\r    exciting matters, we can go beyond the sterile discussion\n\r    between the illusion that there is somehow a program for every\n\r    problem on the one hand and the other illusion that the\n\r    government is the source of every problem we have. Our job is\n\r    to get rid of yesterday’s government so that our own people can\n\r    meet today’s and tomorrow’s needs, and we ought to do it\n\r    together. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "You know, for years before I became president I heard others\n\r    say they would cut government and how bad it was, but not much\n\r    happened. We actually did it. We cut over a quarter of a\n\r    trillion dollars in spending, more than 300 domestic programs,\n\r    more than 100,000 positions from the federal bureaucracy in the\n\r    last two years alone. Based on decisions already made, we will\n\r    have cut a total of more than a quarter of a million positions\n\r    from the federal government, making it the smallest it has been\n\r    since John Kennedy was president by the time I come here again\n\r    next year. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Under the leadership of Vice President Gore, our initiatives\n\r    have already saved taxpayers $63 billion. The age of the $500\n\r    hammer and the ash tray you can break on David Letterman is\n\r    gone. (Laughter.) Dead-wood programs like mohair subsidies are\n\r    gone. We streamlined the Agriculture Department by reducing it\n\r    by more than 1,200 offices. We’ve slashed the small business\n\r    loan form from and inch thick to a single page. We’ve thrown\n\r    away the government’s 10,000-page personnel manual, and the\n\r    government is working better in important ways. FEMA, the\n\r    Federal Emergency Management Agency has gone from being a\n\r    disaster to helping people in disasters. (Applause.) You can\n\r    ask the farmers in the middle west who fought the flood there\n\r    or the people in California who’ve dealt with floods and\n\r    earthquakes and fires, and they’ll tell you that. Government\n\r    workers working hand in hand with private business rebuilt\n\r    southern California’s fractured freeways in record time and\n\r    under budget. And because the federal government moved fast,\n\r    all but one of the 5,600 schools damaged in the earthquake are\n\r    back in business. Now, there are a lot other things that I\n\r    could talk about; I want to just mention one because it’ll be\n\r    discussed here in the next few weeks. University administrators\n\r    all over the country have told me that they are saving weeks\n\r    and weeks of bureaucratic time now because of our direct\n\r    college loan program, which makes college loans cheaper and\n\r    more affordable with better repayment terms for students, costs\n\r    the government less and cuts our paperwork and bureaucracy for\n\r    the government and for the universities. We shouldn’t cap that\n\r    program; we should give every college in America the\n\r    opportunity to be a part of it. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Previous government programs gathered dust. The reinventing\n\r    government report is getting results. And we’re not through.\n\r    There’s going to be a second round of reinventing government.\n\r    We propose to cut $130 billion in spending by shrinking\n\r    departments, extending our freeze on domestic spending, cutting\n\r    60 public housing programs down to three, getting rid of over\n\r    100 programs we do not need, like the Interstate Commerce\n\r    Commission and the Helium Reserve Program. (Cheers,\n\r    applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And we’re working on getting rid of unnecessary regulations\n\r    and making them more sensible. The programs and regulations\n\r    that have outlived their usefulness should go. We have to cut\n\r    yesterday’s government to help solve tomorrow’s problems.\n\r    (Applause.) And we need to get government closer to the people\n\r    it’s meant to serve. We need to help move programs down to the\n\r    point where states and communities and private citizens in the\n\r    private sector can do a better job; if they can do it, we ought\n\r    to let them do it. We should get out of the way and let them do\n\r    what they can do better. (Applause.) Taking power away from\n\r    federal bureaucracies and giving it back to communities and\n\r    individuals is something everyone should be able to be for.\n\r    It’s time for Congress to stop passing on to the states the\n\r    cost of decisions we make here in Washington. (Cheers,\n\r    applause.) I know there are still serious differences over the\n\r    details of the unfunded mandates legislation, but I want to\n\r    work with you to make sure we pass a reasonable bill which will\n\r    protect the national interest and give justified relief where\n\r    we need to give it. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "For years Congress concealed in the budget scores of pet\n\r    spending projects. Last year was no different. There was a\n\r    million dollars to study stress in plants and $12 million for a\n\r    tick removal program that didn’t work. It’s hard to remove\n\r    ticks, those of us who’ve had them know. (Laughter.) But I’ll\n\r    tell you something, if you’ll give me the line-item veto, I’ll\n\r    remove some of that unnecessary spending. (Cheers,\n\r    applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But—(groans and moans)—I think we should all remember,and\n\r    almost all of us would agree, that government still has\n\r    important responsibilities. Our young people, we should think\n\r    of this when we cut, our young people hold our future in their\n\r    hands. We still owe a debt to our veterans. (Applause.) And our\n\r    senior citizens have made us what we are. Now my budget cuts a\n\r    lot, but it protects education, veterans, Social Security and\n\r    Medicare, and I hope you will do the same thing. You should and\n\r    I hope you will. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And when we give more flexibility to the states, let us\n\r    remember that there are certain fundamental national needs that\n\r    should be addressed in every state, North and South, East and\n\r    West. Immunization against childhood disease. (Applause.)\n\r    School lunches in all our schools. (Applause.) Head Start,\n\r    medical care, nutrition for pregnant women and infants.\n\r    (Applause.) Medical care and nutrition for pregnant women and\n\r    infants, all these things. (Applause.) All these things are in\n\r    the national interest."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I applaud your desire to get rid of costly and unnecessary\n\r    regulations, but when we deregulate, let’s remember what\n\r    national action in the national interest has given us: safer\n\r    food for our families, safer toys for our children, safer\n\r    nursing homes for our parents, safer cars and highways, and\n\r    safer workplaces, cleaner air and cleaner water."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Do we need common sense and fairness in our regulations? You\n\r    bet we do. But we can have common sense and still provide for\n\r    safe drinking water. We can have fairness and still clean up\n\r    toxic dumps, and we ought to do it. (Applause.) Should we cut\n\r    the deficit more? Well, of course we should. Of course we\n\r    should. (Applause.) But we can bring it down in a way that\n\r    still protects our economic recovery and does not unduly punish\n\r    people who should not be punished and instead should be helped.\n\r    I know many of you in this chamber support the balanced-budget\n\r    amendment. (Applause.) I certainly want to balance the budget.\n\r    Our administration has done more to bring the budget down and\n\r    to save money than any in a very, very long time. (Applause.)\n\r    If you believe passing this amendment is the right thing to do,\n\r    then you have to be straight with the American people. They\n\r    have a right to know what you’re going to cut, what taxes\n\r    you’re going to raise—(sustained applause)—and how it’s going\n\r    to affect them."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We should be doing things in the open around here. For\n\r    example, everybody ought to know if this proposal is going to\n\r    endanger Social Security. I would oppose that, and I think most\n\r    Americans would. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Nothing has done more to undermine our sense of common\n\r    responsibility than our failed welfare system. This is one of\n\r    the problems we have to face here in Washington in our New\n\r    Covenant. It rewards welfare over work; it undermines family\n\r    values; it lets millions of parent get away without paying\n\r    their child support; it keeps a minority but a significant\n\r    minority of the people on welfare trapped on it for a very long\n\r    time. I’ve worked on this problem for a long time, nearly 15\n\r    years now. As a governor, I had the honor of working with the\n\r    Reagan administration to write the last welfare reform bill\n\r    back in 1988. In the last two years, we made a good start in\n\r    continuing the work of welfare reform. Our administration gave\n\r    two dozen states the right to slash through federal rules and\n\r    regulations to reform their own welfare systems and to try to\n\r    promote work and responsibility over welfare and dependency.\n\r    Last year, I introduced the most sweeping welfare reform plan\n\r    ever presented by an administration."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We have to make welfare what it was meant to be—a second\n\r    chance, not a way of life. We have to help those on welfare\n\r    move to work as quickly as possible, to provide child care and\n\r    teach them skills if that’s what they need, for up to two\n\r    years. But after that, there ought to be a simple, hard rule:\n\r    anyone who can work must go to work. (Applause.) If the parent\n\r    isn’t paying child support, they should be forced to pay.\n\r    (Applause.) We should suspend drivers licenses, track them\n\r    across state lines, make them work off what they owe. That is\n\r    what we should do. Governments do not raise children, people\n\r    do, and the parents must take responsibility for the children\n\r    they bring into this world. (Applause.) I want to work with\n\r    you, with all of you, to pass welfare reform. But our goal must\n\r    be to liberate people and lift them up from dependence to\n\r    independence, from welfare to work, from mere child-bearing to\n\r    responsible parenting. Our goal should not be to punish them\n\r    because they happen to be poor. (Applause.) We should, we\n\r    should require work and mutual responsibility, but we shouldn’t\n\r    cut people off just because they’re poor, they’re young, or\n\r    even because they’re unmarried. We should promote\n\r    responsibility by requiring young mothers to live at home with\n\r    their parents or in other supervised settings, by requiring\n\r    them to finish school, but we shouldn’t put them and their\n\r    children out on the street. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And—(continued applause). And I know all the arguments pro\n\r    and con, and I have read and thought about this for a long\n\r    time. I still don’t think we can in good conscience punish poor\n\r    children for the mistakes of their parents. (Applause.) Now, my\n\r    fellow Americans, every single survey shows that all the\n\r    American people care about this without regard to party or race\n\r    or region. So let this be the year we end welfare as we know\n\r    it. But also let this be the year that we are all able to stop\n\r    using this issue to divide America. No one is more eager to end\n\r    welfare. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I may be the only president who has actually had the\n\r    opportunity to sit in the welfare office, who has actually\n\r    spent hours and hours talking to people on welfare. And I am\n\r    telling you, the people who are trapped on it know it doesn’t\n\r    work. They also want to get off."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "So we can promote together education, and work, and good\n\r    parenting. I have no problem with punishing bad behavior, or\n\r    the refusal to be a worker or a student, or a responsible\n\r    parent. I just don’t want to punish poverty and past mistakes.\n\r    All of us have made our mistakes, and none of us can change our\n\r    yesterdays, but every one of us can change our tomorrows.\n\r    (Applause.) And America’s best example of that may be Lynn\n\r    Woolsey, who worked her way off welfare to become a\n\r    Congresswoman, from the state of California. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I know the members of this Congress are concerned about\n\r    crime, as are all the citizens of our country. But I remind you\n\r    that last year we passed a very tough crime bill, longer\n\r    sentences, &nbsp;“Three Strikes and You’re Out,” almost 60 new\n\r    capital punishment offenses, more prisons, more prevention,\n\r    100,000 more police. And we paid for it all by reducing the\n\r    size of the federal bureaucracy and giving the money back to\n\r    local communities to lower the crime rate. There may be other\n\r    things we can do to be tougher on crime, to be smarter with\n\r    crime, to help to lower that rate first. Well, if there are,\n\r    let’s talk about them and let’s do them. But let’s not go back\n\r    on the things that we did last year that we know work, that we\n\r    know work because the local law enforcement officers tell us\n\r    that we did the right thing, because local community leaders\n\r    who’ve worked for years and years to lower the crime rate tell\n\r    us that they work. Let’s look at the experience of our cities\n\r    and our rural areas where the crime rate has gone down, and ask\n\r    the people who did it, how they did it. And if what we did last\n\r    year supports the decline"
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

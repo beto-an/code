@@ -1,0 +1,1847 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Youth Committees For Clinton/Gore '96"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 25, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "CLINTON/GORE �96 ANNOUNCES NATIONAL YOUTH STEERING\n\r      COMMITTEE AND 23 STATE YOUTH ADVISORY COMMITTEES"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Washington, D.C. -- The Clinton/Gore �96 campaign today\n\r    announced formation of the Clinton/Gore �96 \"National Youth\n\r    Steering Committee\" and 23 \"State Youth Advisory Committees.\"\n\r    These national, regional, and local young leaders are elected\n\r    officials, professionals, entrepreneurs, community activists,\n\r    students, and celebrities who are working to communicate the\n\r    President�s accomplishments and to rally young people around\n\r    the Clinton/Gore ticket."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Cynthia Hamner-Portugal, a student at the University of\n\r    California at Davis and a Youth Advisory Committee member said,\n\r    \"President Clinton has consistently fought for the issues which\n\r    concern young people most. In the past four years, he has\n\r    reformed federal student loan programs, created AmeriCorps, put\n\r    100,000 cops on the street, and promoted future security with\n\r    strong economic policies. He also signed the Family and Medical\n\r    Leave Act into law, making it easier for young, working\n\r    families to deal with the demands of work and of raising\n\r    children."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"The President�s vision of the future makes America�s\n\r    youth a top priority,\" added Sarah Lichtman, Director of Youth\n\r    Outreach for Clinton/Gore �96. \"President Clinton�s measured\n\r    and thoughtful efforts to improve the lives, the future, and\n\r    the communities of young people have yielded an unparalleled\n\r    record of accomplishment,\" she said."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "In welcoming the efforts of the National Youth Steering\n\r    Committee and the State Youth Advisory Committees, Clinton/Gore\n\r    �96 Deputy Campaign Manager Alan Wheat said, \"Young people are\n\r    crucial to this election. The Committee�s broad appeal reflects\n\r    the breadth and depth of support for President Clinton�s\n\r    positions from all types of young people from students to\n\r    community activists to young entrepreneurs.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Attached is a list of Youth Committee members."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "# # #"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "Youth For Clinton/Gore �96 National Steering\n\r      Committee"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "*The following are individual endorsements and do not\n\r    reflect endorsements from any affiliated\n\r    organization."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The Honorary Members include:"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Cleo Fields - Chair of the National Youth Steering\n\r    Committee"
+End element:   b
+Characters:    "- Cleo Fields, who is a Representative, was\n\r    elected to his second term in the United States Congress to\n\r    serve the 4th district of Louisiana in 1994. He has long been\n\r    an advocate for youth issues and getting out the youth vote. He\n\r    is currently volunteering as a Senior Advisor to Clinton/Gore\n\r    �96 with a strong focus on youth issues. He is the Democratic\n\r    National Committee�s National Coordinator for Young American\n\r    Voters."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Shari Barsky"
+End element:   b
+Characters:    " - Sheri is executive director of\n\r    Electing a Democratic Generation (EDGE). She has been working\n\r    to expand youth participation for many years, encouraging young\n\r    candidates and helping them to succeed."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Xavier Becerra"
+End element:   b
+Characters:    " - Xavier Becerra, who is a\n\r    Representative, was first elected to represent California�s\n\r    30th Congressional District in November �92. He serves on the\n\r    Economic and Educational Opportunities Committee. During �93\n\r    and �94 he played a key role in shaping the re-authorization of\n\r    the Elementary and Secondary Education Act. He also helped\n\r    enact Goals 2000 -education reform legislation."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Melissa Bradley"
+End element:   b
+Characters:    " - Melissa is the Founder and\n\r    Executive Director of The Entrepreneurial Development\n\r    Institute, a national non profit organization whose mission is\n\r    to empower disadvantaged youth to develop small businesses,\n\r    avoid drugs and crime, sharpen academic skills, and form\n\r    positive attitudes about themselves and their communities. As\n\r    the recipient of numerous awards, Melissa has been honored at\n\r    the White House as one of \"Tomorrow�s Leaders Today.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Marty Castro"
+End element:   b
+Characters:    " - Marty is a Chicago partner of\n\r    Baker and McKenzie, the world�s largest law firm. He is the\n\r    Regional President of the Hispanic National Bar Association,\n\r    for the Midwest region and is the Founding member of the\n\r    Hispanic Lawyers Association of Illinois."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Alex Chisolm"
+End element:   b
+Characters:    " - Alex is a 21 year-old Philadelphia\n\r    native and a senior at Cheyney University of Pennsylvania. He\n\r    is the 1996-1997 Student Government President and Senior Class\n\r    President. In addition Alex is a member of the Phi Beta Sigma\n\r    fraternity."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Aneesh Chopra"
+End element:   b
+Characters:    " - Aneesh has worked extensively\n\r    within the Democratic Party and Indian-American community\n\r    groups. In the fall of �95 he organized the youth session at\n\r    the National Convention of the Indian American Forum for\n\r    Political Education. He is currently a second-year graduate\n\r    student at the John F. Kennedy School of Government at Harvard\n\r    University."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Jamie Daves"
+End element:   b
+Characters:    " - Jamie is currently the National\n\r    Field Coordinator for the Democratic Leadership Council(DLC).\n\r    At the DLC he is helping to build a new generation of\n\r    democratic leaders around a new governing philosophy. He has\n\r    served as the National Student Coordinator for the Clinton/Gore\n\r    campaign in �92, the National Youth Constituency Director for\n\r    the Democratic National Committee, and planning staff for the\n\r    Partners for Progress Initiative."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Matt Gobush"
+End element:   b
+Characters:    " - Matt has been a youth activist and\n\r    is currently the Executive Director of the Saxophone Club, a\n\r    fundraising arm of the Democratic National Committee, focused\n\r    on young professionals."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Melissa Holloway"
+End element:   b
+Characters:    " -Melissa Holloway, who is a\n\r    Councilwoman, is the second African American woman and youngest\n\r    person to serve ward F of Jersey City. A life long resident and\n\r    member of the ward F community, she strives to bring African\n\r    American concerns to the table and bring a divided community\n\r    together. She is the Vice-Chair of the National Democratic\n\r    Municipal Officials (DMO) and also the Northeast Regional\n\r    Director of the National Black Caucus of Local Elected\n\r    Officials (NBC-LEO)."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Jesse L. Jackson, Jr."
+End element:   b
+Characters:    " - Jesse Jackson, who is a\n\r    Representative, was elected to serve in the United States House\n\r    in a special General Election on December 12, 1995 by the 2nd\n\r    District of Illinois. He ran his campaign with a clear focus on\n\r    the inclusion and mobilization of young people. He is both an\n\r    active member of the Congressional Black Caucus, the Democratic\n\r    National Committee, and was recently elected Secretary of the\n\r    Democratic National Committee�s Black Caucus."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Michael Karz"
+End element:   b
+Characters:    " - Michael is the Vice President of\n\r    Mandeville Films, a Walt Disney based production company. He is\n\r    co-founder of Young California for Clinton-Gore, an\n\r    organization created in 1992 to motivate young people to\n\r    involve themselves in the election."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Patrick Kennedy -"
+End element:   b
+Characters:    " Patrick Kennedy, who is a\n\r    Representative, was elected to his first term in the United\n\r    States Congress to serve the 1st district of Rhode Island on\n\r    January 4,1995. He introduced the Student Loan Affordability\n\r    Act of 1995 which would allow a deduction for the payment of\n\r    interest on student loans. The bill was adopted by the House\n\r    Democratic Leader as part of the party�s budget alternative\n\r    plan. He is currently the youngest member of Congress."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Jason Klumb"
+End element:   b
+Characters:    " - Jason represents district 125 in\n\r    the Missouri House of Representatives. He was elected to his\n\r    second term in 1994 and is the Chairman of the Administrative\n\r    Rules Committee. Representative Klumb did not file for\n\r    re-election and will be entering the London School of Economics\n\r    to complete a masters program."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "L.L. Cool J."
+End element:   b
+Characters:    " - Entertainer. Actor, Rapper,\n\r    Activist."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Blanche Lambert Lincoln"
+End element:   b
+Characters:    " -Blanche Lincoln, who is\n\r    a Representative, became the first woman to represent the 1st\n\r    Congressional District of Arkansas in 1993. She has since\n\r    focused her attention on her district and the federal budget\n\r    defect that \"she doesn�t want passed on to the next\n\r    generation\". In addition she has helped form The Coalition, a\n\r    group of House Democrats who are committed to \"putting people\n\r    above politics while representing the hopes and dreams of most\n\r    Americans.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Sandra L. McBrayer"
+End element:   b
+Characters:    " - Sandra is the Executive\n\r    Director for The San Diego county Children�s Initiative. In\n\r    1988 she founded and developed the first successful school in\n\r    the United States for the homeless and unattended youth. She\n\r    was recognized with the \"Women of Vision in Education\" award\n\r    from the League of Women Voters in �92, was named the �93-�94\n\r    \"California Teacher of the Year,\" and the �94 \"National Teacher\n\r    of the Year\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Heather McLeod"
+End element:   b
+Characters:    " - Founder and Co-Editor of Who\n\r    Cares magazine, Heather manages the Editorial Board of Who\n\r    Cares magazine and serves on the Board of Directors of the\n\r    National Civic League, chairs the Youth Alliance of the\n\r    Alliance for National Renewal and sits on the Rockefeller\n\r    Foundation�s Steering Committee for The Common\n\r    Enterprise."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Matthew L. Mosely"
+End element:   b
+Characters:    " - Matt is the volunteer and\n\r    youth vote coordinator for Tom Strickland�s Colorado United\n\r    States Senate Campaign. He was the Colorado coordinator for\n\r    Rock The Vote and helped start the Boulder County Youth\n\r    Leadership Development Project (Team Boulder), a program that\n\r    enhances community leadership skills for at risk and\n\r    disadvantages youth ages 11-18. In addition he is writing a\n\r    book entitled "
+Start element: u
+Characters:    "Waking Up From the American Dream: How Young\n\r    Men and Women are Rekindling the spirit of\n\r    America."
+End element:   u
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Rob Nelson"
+End element:   b
+Characters:    " - Rob is the Co-Founder of Lead or\n\r    Leave. He currently attends Stanford University Law School. He\n\r    has joined the Clinton/Gore �96 team helping to reach out to\n\r    young people."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Sarah Jessica Parker"
+End element:   b
+Characters:    " - Actress and\n\r    Activist."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "J.B. Pritsker"
+End element:   b
+Characters:    " - J.B. is National chairman of\n\r    Democratic Leadership for the 21st Century (DL21C), an\n\r    organization he founded in 1991. Through DL21C he has worked to\n\r    mobilize thousands of young people to participate in the\n\r    electoral process. In addition J.B. is the President of New\n\r    World Equities, specializing in raising capital for emerging\n\r    technology and telecommunications companies."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Fiona Rose"
+End element:   b
+Characters:    " - Fiona is a third-year undergraduate\n\r    at the University of Michigan-Ann Arbor. She currently serves\n\r    as Student Body President, where she is active in working with\n\r    the students and administrators in increasing student\n\r    participation in government and politics. She has fought to\n\r    protect the federal Direct Student Loan Program, AmeriCorps,\n\r    and other education-friendly governmental initiatives. Having\n\r    grown-up on welfare, while living in public housing and\n\r    attending public schools, Ms. Rose believes in the ability of\n\r    our government to help people live and thrive in\n\r    America."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Julia Scatliff"
+End element:   b
+Characters:    " - Julia is the Founder and\n\r    Director of Southern Community Partners, a project of the\n\r    Lyndhurst Foundation. Southern Community Partners funds young\n\r    entrepreneurs who inspire other young people to strengthen\n\r    their southeastern communities. Julia was also Director of the\n\r    Campus Outreach Opportunity League (COOL), a national network\n\r    of students involved in community service."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Danny Seo"
+End element:   b
+Characters:    " - At the age of 12, Danny founded the\n\r    organization Earth 2000 with just $10 to inspire young people\n\r    to protect our environment. For seven years, he served as the\n\r    Executive Director of this 10,000+ member organization. Now 19,\n\r    Danny has moved on to write, "
+Start element: u
+Characters:    "Generation React"
+End element:   u
+Characters:    ", to be\n\r    published in 1997 by Ballantine Books, a division of Random\n\r    House."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Mike Sexton"
+End element:   b
+Characters:    " - Mike is the President of Young\n\r    Democrats of America. He is a policy and research analyst at\n\r    the Ohio Democrat Caucus. In addition He has served as the\n\r    President of Ohio Young Democrats and the Executive Director of\n\r    the Ohio College Democrats."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "James Taylor"
+End element:   b
+Characters:    " - James, who is a State\n\r    Representative in New Mexico, has been an activist for young\n\r    people and youth issues in New Mexico."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Brenda Toineeta"
+End element:   b
+Characters:    " - Brenda is second year law\n\r    student at Columbia University and is a member of the Eastern\n\r    Band of Cherokee Indians (Cherokee, NC). She is also a former\n\r    American Indian Ambassador to Bolivia."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Angela Lynn Twitchell"
+End element:   b
+Characters:    " - Angela is the National\n\r    Director , Division of Quality Control and Information\n\r    Services, at Project Vote Smart in Boston, Massachusetts. She\n\r    is responsible for editing and publishing "
+Start element: i
+Characters:    "Voter�s\n\r    Self-Defense Manual"
+End element:   i
+Characters:    ", "
+Start element: i
+Characters:    "U.S. Government Owner�s Manual"
+End element:   i
+Characters:    ",\n\r    and "
+Start element: i
+Characters:    "Vote Smart Web YellowPages"
+End element:   i
+Characters:    "."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "David Wade"
+End element:   b
+Characters:    " - David, a senior at Brown University,\n\r    is the National President of the College Democrats of America.\n\r    He is the spokesperson of the largest student political\n\r    organization in the country, representing 1,000,000 students on\n\r    1,000 campuses nationwide. David attends Brown on federal\n\r    student loans and grants and has fought the Dole-Gingrich\n\r    Congress� attempts to deny educational opportunity for working\n\r    class students."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "Rebecca Walker"
+End element:   b
+Characters:    " - Rebecca founded Third Wave\n\r    Direct Action Corporation, a national non-profit organization\n\r    devoted to cultivating young women�s leadership and activism.\n\r    In their first summer, Third Wave initiated an historic\n\r    emergency youth drive which registered over twenty thousand new\n\r    voters in inner cities across the United States. She was\n\r    recently named by TIME Magazine as one of the 50 future leaders\n\r    of America."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "YOUTH FOR CLINTON/GORE �96 STATE YOUTH ADVISORY\n\r      COMMITTEES"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "*The following are individual endorsements and do not\n\r    reflect endorsements from any affiliated\n\r    organization."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "ARIZONA"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Paul G. Allvin"
+Characters:    "\n\r    Public Relations, Make A Wish Foundation"
+Characters:    "\n\r    Tempe"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Maria Elena Coronado"
+Characters:    "\n\r    Public Relations, Arizona State University"
+Characters:    "\n\r    Phoenix"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Thomas R. Czyz"
+Characters:    "\n\r    Graduate Student, Arizona State University"
+Characters:    "\n\r    Tempe"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Michael McCaffrey"
+Characters:    "\n\r    President, Arizona Young Democrats"
+Characters:    "\n\r    Tempe"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Ivonne Perez"
+Characters:    "\n\r    Assistant Campaign Manager, Pastor for Congress"
+Characters:    "\n\r    Phoenix"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Kimulet W. Winzer"
+Characters:    "\n\r    Secretary, Maricopa Young Democrats"
+Characters:    "\n\r    Phoenix"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "CALIFORNIA"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Dennis Arguelles"
+Characters:    "\n\r    Community Activist"
+Characters:    "\n\r    Los Angeles"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Marla Bleavins"
+Characters:    "\n\r    Co-Director of Black Student Union and Stanford Democrats,\n\r    Stanford University"
+Characters:    "\n\r    Stanford"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Douglas Boxer"
+Characters:    "\n\r    Attorney"
+Characters:    "\n\r    Los Angeles"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Sarah Brite"
+Characters:    "\n\r    Student Leader, University of Southern California"
+Characters:    "\n\r    Los Angeles"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Larry Carr"
+Characters:    "\n\r    Candidate for School Board"
+Characters:    "\n\r    Morgan Hill"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Cinthia Hamner-Portugal"
+Characters:    "\n\r    UC Davis Class of �98"
+Characters:    "\n\r    San Francisco"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Len Materman"
+Characters:    "\n\r    Coordinator of Government Affairs, UC Berkeley"
+Characters:    "\n\r    Palo Alto"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Maureen McCormick"
+Characters:    "\n\r    Actress"
+Characters:    "\n\r    Los Angeles"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Jenny Oropeza"
+Characters:    "\n\r    Council Member First District, City of Long Beach"
+Characters:    "\n\r    Long Beach"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Quan Phung"
+Characters:    "\n\r    Production Associate, NBC"
+Characters:    "\n\r    Los Angeles"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bradley Pomerance"
+Characters:    "\n\r    Senior Attorney, Paramount Pictures"
+Characters:    "\n\r    Encino"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Tina Singh"
+Characters:    "\n\r    Attorney and Saxophone Club Board Member"
+Characters:    "\n\r    Menlo Park"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Fidel A. Vargas"
+Characters:    "\n\r    Mayor of Baldwin Park"
+Characters:    "\n\r    Baldwin Park"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Adam Werbach"
+Characters:    "\n\r    President, Sierra Club"
+Characters:    "\n\r    San Francisco"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "COLORADO"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Nathan Daschle"
+Characters:    "\n\r    Tom Strickland for U.S. Senate"
+Characters:    "\n\r    Denver"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Alice Freese"
+Characters:    "\n\r    Colorado Young Democrats"
+Characters:    "\n\r    Denver"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Kelli Fritts"
+Characters:    "\n\r    Democratic Captain, District Eight A"
+Characters:    "\n\r    Denver"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Philip K. Hayes"
+Characters:    "\n\r    MESA State Young Democrats"
+Characters:    "\n\r    Grand Junction"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Scott Hutchings"
+Characters:    "\n\r    Young Democrats of America"
+Characters:    "\n\r    Arvada"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Kristie Kauerz"
+Characters:    "\n\r    Colorado State University, student"
+Characters:    "\n\r    Denver"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Paul Lhevine"
+Characters:    "\n\r    Colorado Young Democrats Denver"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Andrew Romanoff"
+Characters:    "\n\r    Senior Associate, Greenberg, Baron, Simon, & Miller, Inc."
+Characters:    "\n\r    Denver"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Tony Young"
+Characters:    "\n\r    Youth Director, Colorado Win In �96 Coordinated Campaign"
+Characters:    "\n\r    Parker"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "CONNECTICUT"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Melissa Balog"
+Characters:    "\n\r    Student, Central Connecticut State University"
+Characters:    "\n\r    Taftville"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Charles E. Borden"
+Characters:    "\n\r    President, Yale College Democrats"
+Characters:    "\n\r    New Haven"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Luanda Cavaco"
+Characters:    "\n\r    Student Activist, University of Hartford"
+Characters:    "\n\r    West Hartford"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Joshua Civin"
+Characters:    "\n\r    New Haven Alderman"
+Characters:    "\n\r    New Haven"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Mary Beth Duda"
+Characters:    "\n\r    Young Professional"
+Characters:    "\n\r    Jewett City"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Stephen Jewett"
+Characters:    "\n\r    Student Trinity College"
+Characters:    "\n\r    Hartford"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Juan A. Morales"
+Characters:    "\n\r    Latino Student Activist"
+Characters:    "\n\r    East Hartford"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Domenic S. Paniccia"
+Characters:    "\n\r    President, Fairfield University College Democrats"
+Characters:    "\n\r    Monroe"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Eliza Woolston"
+Characters:    "\n\r    Student and Community Activist, Yale University"
+Characters:    "\n\r    New Haven"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "GEORGIA"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Chris Clark"
+Characters:    "\n\r    President, Young Democrats of Georgia"
+Characters:    "\n\r    Macon"
+Characters:    "\n\r    David H. Dennis"
+Characters:    "\n\r    Marketing Advisor, Georgia Institute of Technology"
+Characters:    "\n\r    Smyrna"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Roderick Gilbert"
+Characters:    "\n\r    Staff for Congressmen Sanford Bishop (Georgia 2nd Congressional\n\r    District) Campaign"
+Characters:    "\n\r    Albany"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Heather Lantz"
+Characters:    "\n\r    Harvard University, student"
+Characters:    "\n\r    Atlanta"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Joel R. Nied"
+Characters:    "\n\r    Attorney"
+Characters:    "\n\r    Atlanta"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Francello Phillips-Calhoun"
+Characters:    "\n\r    Legislative Assistant, City Councilman Doug Alexander"
+Characters:    "\n\r    Atlanta"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Deanie Preston"
+Characters:    "\n\r    Intern, Democratic Party of Georgia and Student"
+Characters:    "\n\r    Lawrenceville"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "ILLINOIS"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Chris Boyster"
+Characters:    "\n\r    Student, Eastern University"
+Characters:    "\n\r    Charleston"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Brian M. Cross"
+Characters:    "\n\r    Student, University of Illinois, Springfield"
+Characters:    "\n\r    Springfield"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Jennifer Kunde"
+Characters:    "\n\r    Student, DePaul University"
+Characters:    "\n\r    Chicago"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Kristin Munsch"
+Characters:    "\n\r    AFL-CIO"
+Characters:    "\n\r    Chicago"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Jocelyn Neis"
+Characters:    "\n\r    Student, DePaul University"
+Characters:    "\n\r    Chicago"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Zoe Reutz"
+Characters:    "\n\r    Student, Loyola University"
+Characters:    "\n\r    Chicago"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Jamie Tanaka"
+Characters:    "\n\r    Student, Northwestern"
+Characters:    "\n\r    Evanston"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Eido Walny"
+Characters:    "\n\r    Student, University of Chicago"
+Characters:    "\n\r    Chicago"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "IOWA"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bill Bernau"
+Characters:    "\n\r    State Representative"
+Characters:    "\n\r    Ames"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Marlo Cohen"
+Characters:    "\n\r    Domestic Violence Counselor"
+Characters:    "\n\r    Des Moines"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Aaron Kennedy"
+Characters:    "\n\r    Account Executive, Wright-Flynn Advertising"
+Characters:    "\n\r    Des Moines"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Jeff Lake"
+Characters:    "\n\r    President, Iowa Young Democrats"
+Characters:    "\n\r    Grinnell"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Brian J. Laurenzo"
+Characters:    "\n\r    President of 21st Century Forum (Young Professional Democrats\n\r    organization)"
+Characters:    "\n\r    Des Moines"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Allison Miller"
+Characters:    "\n\r    Undergraduate Activities Senate Executive Officer, University\n\r    of Iowa"
+Characters:    "\n\r    Iowa City"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "KENTUCKY"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Melanie Cruz"
+Characters:    "\n\r    Executive Director, University of Kentucky Student Government\n\r    Association"
+Characters:    "\n\r    Lexington"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Vince Gabbert"
+Characters:    "\n\r    Student, University of Louisville"
+Characters:    "\n\r    Louisville"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Stephen W. Long"
+Characters:    "\n\r    President, Ohldahm County Young Democrats"
+Characters:    "\n\r    Crestwood"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Glenn McEntyre"
+Characters:    "\n\r    President, Northern Kentucky University College Democrats"
+Characters:    "\n\r    Burlington"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "LOUISIANA"
+End element:   b
+Characters:    "\n\r    Wilson Fields"
+Characters:    "\n\r    State Senator"
+Characters:    "\n\r    Baton Rouge"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Cherie Gauthier"
+Characters:    "\n\r    Young Professional"
+Characters:    "\n\r    Metairie"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "MAINE"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Tom Davidson"
+Characters:    "\n\r    State Representative"
+Characters:    "\n\r    Brunswick"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Renee Leduc"
+Characters:    "\n\r    Student and Co-coordinator, College Democrats at Bates\n\r    College"
+Characters:    "\n\r    Lewiston"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Emily Mitchell"
+Characters:    "\n\r    Student, Waterville High School"
+Characters:    "\n\r    Vassalboro"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "MINNESOTA"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Karin Alexander"
+Characters:    "\n\r    Administrative Officer, Minnesota Student Association"
+Characters:    "\n\r    Minneapolis"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Betsy Arnold"
+Characters:    "\n\r    Field Director of Democratic Farm and Labor"
+Characters:    "\n\r    Minneapolis"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Jerry Blakey"
+Characters:    "\n\r    City Council Member"
+Characters:    "\n\r    St. Paul"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Mitchell T. Berggern"
+Characters:    "\n\r    Young Professional"
+Characters:    "\n\r    Blaine"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "John J. Choi"
+Characters:    "\n\r    Young Professional"
+Characters:    "\n\r    Minneapolis"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Sheana Dempsey"
+Characters:    "\n\r    Young Professional"
+Characters:    "\n\r    Minneapolis"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Brian Elliot"
+Characters:    "\n\r    University of Minnesota, student"
+Characters:    "\n\r    Minneapolis"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Matt Entenza"
+Characters:    "\n\r    State Representative"
+Characters:    "\n\r    St. Paul"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Michael Guest"
+Characters:    "\n\r    Young Professional"
+Characters:    "\n\r    Minneapolis"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Jennifer Herman"
+Characters:    "\n\r    Young Professional"
+Characters:    "\n\r    Minneapolis"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Sara Keehr Hornstra"
+Characters:    "\n\r    Young Professional"
+Characters:    "\n\r    Rochester"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Hubert H. �Buck� Humphrey, IV"
+Characters:    "\n\r    Young Professional"
+Characters:    "\n\r    Minneapolis"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Steve Johnson"
+Characters:    "\n\r    Young Professional"
+Characters:    "\n\r    Minneapolis"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Angie Kline"
+Characters:    "\n\r    Campaign Activist, Democratic Farm and Labor"
+Characters:    "\n\r    St. Paul"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Rob Leighton"
+Characters:    "\n\r    State Representative"
+Characters:    "\n\r    Austin"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Mary Jo McGuire"
+Characters:    "\n\r    State Representative"
+Characters:    "\n\r    Falcon Heights"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Howard Orenstein"
+Characters:    "\n\r    State Representative"
+Characters:    "\n\r    St. Paul"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Neta Jo Scarpari"
+Characters:    "\n\r    Young Professional"
+Characters:    "\n\r    Rosemount"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Lisa Venne"
+Characters:    "\n\r    Young Professional"
+Characters:    "\n\r    St Louis Park"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "MONTANA"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Jessica M. Anacker"
+Characters:    "\n\r    Student, Rocky Mountain College"
+Characters:    "\n\r    Billings"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Amy Perdaems"
+Characters:    "\n\r    Student, Montana State University"
+Characters:    "\n\r    Bozeman"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "NEVADA"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "David Goldwater"
+Characters:    "\n\r    State Assemblyman Las Vegas"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Erin Kenny"
+Characters:    "\n\r    Clark County Commissioner"
+Characters:    "\n\r    Las Vegas"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Mark Manendo"
+Characters:    "\n\r    State Assemblyman"
+Characters:    "\n\r    Las Vegas"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "NEW JERSEY"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Stephen Dilts"
+Characters:    "\n\r    Associate, Policy, Management & Communications, Inc."
+Characters:    "\n\r    Glen Gardner"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Ben Dworkin"
+Characters:    "\n\r    Public Relations Firm"
+Characters:    "\n\r    Jersey City"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Hetty Eisenberg"
+Characters:    "\n\r    Student, Harvard University"
+Characters:    "\n\r    Basking Ridge"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Pat Gillespie"
+Characters:    "\n\r    Staff, State Senate Democratic office"
+Characters:    "\n\r    Old Bridge"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Ginger C. Gold"
+Characters:    "\n\r    Lobbyist, Nancy Becker & Associates"
+Characters:    "\n\r    South Plainsboro"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Paul Josephson"
+Characters:    "\n\r    Lawyer, Sills Cummins Law Firm"
+Characters:    "\n\r    Newark"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Patricia Perkins-Auguste"
+Characters:    "\n\r    Councilwoman"
+Characters:    "\n\r    Elizabeth"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Craig Allen Stix"
+Characters:    "\n\r    Former Councilman of Elmwood Park"
+Characters:    "\n\r    Elmwood Park"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Juli-Anne Whitney"
+Characters:    "\n\r    Works for public relations firm"
+Characters:    "\n\r    Edgewater"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "NEW MEXICO"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Caroline Buerkle"
+Characters:    "\n\r    Community Volunteer Albuquerque"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Amanda Joan Cooper"
+Characters:    "\n\r    Board Member, Las Adalitas"
+Characters:    "\n\r    Albuquerque"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Elizabeth Madden"
+Characters:    "\n\r    Community Volunteer"
+Characters:    "\n\r    Albuquerque"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Amber A. Ussery"
+Characters:    "\n\r    Student"
+Characters:    "\n\r    Albuquerque"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "NEW YORK"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Martha-Lee Bohn"
+Characters:    "\n\r    Committeewoman"
+Characters:    "\n\r    Pelham"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Michael Cusick"
+Characters:    "\n\r    Executive Vice President, New York State Young Democrats"
+Characters:    "\n\r    Staten Island"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Erik M. DePaula"
+Characters:    "\n\r    Secretary, New York State Young Democrats"
+Characters:    "\n\r    Ridgewood"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Matthew Farrell"
+Characters:    "\n\r    President, Queens County Young Democrats"
+Characters:    "\n\r    Woodside"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Louis D. Greenwald"
+Characters:    "\n\r    Assemblyman, 6th District"
+Characters:    "\n\r    Cherry Hill"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Kim Kiely"
+Characters:    "\n\r    Executive Board, Young Democrats of America"
+Characters:    "\n\r    Thiells"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Mark La Vigne"
+Characters:    "\n\r    Chair, New York State Young Democrats"
+Characters:    "\n\r    Albany"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Todd R. Richman"
+Characters:    "\n\r    National Committeeman"
+Characters:    "\n\r    Lawrence"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Steve Rodriguez"
+Characters:    "\n\r    Downstate Vice President, New York State Young Democrats"
+Characters:    "\n\r    Bronx"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Donna Schwartz"
+Characters:    "\n\r    Outreach Director, New York State Young Democrats"
+Characters:    "\n\r    Westbury"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "NORTH CAROLINA"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "William Stephen Aldridge, III"
+Characters:    "\n\r    President, College Democrats of North Carolina"
+Characters:    "\n\r    Chapel Hill"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Robin E. Brannon"
+Characters:    "\n\r    President, Brannon Communications"
+Characters:    "\n\r    Gastonia"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "John Dervin"
+Characters:    "\n\r    President, North Carolina Student Association"
+Characters:    "\n\r    Chapel Hill"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Chris Lam"
+Characters:    "\n\r    Student, Duke University"
+Characters:    "\n\r    Durham"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Aaron Nelson"
+Characters:    "\n\r    Student, University of North Carolina"
+Characters:    "\n\r    Chapel Hill"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "OHIO"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Gary F. Collins"
+Characters:    "\n\r    Mayor"
+Characters:    "\n\r    Unionville Center"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Wade Kapszukiewicz"
+Characters:    "\n\r    City School Board"
+Characters:    "\n\r    Toledo"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Sean Logan"
+Characters:    "\n\r    State Representative"
+Characters:    "\n\r    Lisbon"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Adam Clay Miller"
+Characters:    "\n\r    General Counsel, Ohio School Board Association"
+Characters:    "\n\r    Columbus"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "David A. Muller"
+Characters:    "\n\r    Chair, Ohio College Democrats"
+Characters:    "\n\r    Columbus"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Martin Smith"
+Characters:    "\n\r    Student, Otterbein College"
+Characters:    "\n\r    Gahanna"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "OREGON"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Ryan Deckert"
+Characters:    "\n\r    Candidate, State Representative"
+Characters:    "\n\r    Beaverton"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Bobby Lee"
+Characters:    "\n\r    City Councilman"
+Characters:    "\n\r    Eugene"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Erik Sten"
+Characters:    "\n\r    Co-founder, X-Pac"
+Characters:    "\n\r    Portland"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "April Waddy"
+Characters:    "\n\r    President, Oregon State University Student Body"
+Characters:    "\n\r    Portland"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "TENNESSEE"
+End element:   b
+Characters:    "\n\r    Mary Cummins"
+Characters:    "\n\r    MidSouth Regional Organizer, College Democrats of America"
+Characters:    "\n\r    Murfreesboro"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Cheryl L. Neely"
+Characters:    "\n\r    Tennessee Young Democrats"
+Characters:    "\n\r    Nashville"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Emily Pendergrass"
+Characters:    "\n\r    President, College Democrats, Austin Peay Student\n\r    University"
+Characters:    "\n\r    Clarksville"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "W. Scott Sprouse"
+Characters:    "\n\r    Delegate to Democratic National Committee Convention"
+Characters:    "\n\r    Hendersonville"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Matthew M. Stafford"
+Characters:    "\n\r    President, College Democrats, Belmont University"
+Characters:    "\n\r    Nashville"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "VIRGINIA"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Rachel Bly"
+Characters:    "\n\r    Secretary, Arlington Young Democrats"
+Characters:    "\n\r    Arlington"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Antoine P. Cobb"
+Characters:    "\n\r    Organizer, New Alexandria Young Democrats Chapter"
+Characters:    "\n\r    Alexandria"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Laura A. Eilers"
+Characters:    "\n\r    President, Arlington Young Democrats"
+Characters:    "\n\r    Arlington"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Kathy Jones"
+Characters:    "\n\r    Public Relations, American Iron and Steel Institute"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Jason Rylander"
+Characters:    "\n\r    Vice President, Arlington Young Democrats"
+Characters:    "\n\r    Arlington"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Liz Wohlken"
+Characters:    "\n\r    Finance Director, Arlington Young Democrats"
+Characters:    "\n\r    Arlington"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "WASHINGTON"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Sheri Badger"
+Characters:    "\n\r    Vice President, Western Region Young Democrats"
+Characters:    "\n\r    Seattle"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Leigh Barer"
+Characters:    "\n\r    Rockey Company"
+Characters:    "\n\r    Seattle"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Brian Brooke"
+Characters:    "\n\r    Treasurer, Young Democrats of America"
+Characters:    "\n\r    Seattle"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Lora B. Kreidler"
+Characters:    "\n\r    Executive Vice President, Young Democrats"
+Characters:    "\n\r    Pullman"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Dean M. Nielsen"
+Characters:    "\n\r    President, Washington State Young Democrats Seattle"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Allen Oliver"
+Characters:    "\n\r    Program Director, World Affairs Council"
+Characters:    "\n\r    Seattle"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Roger Valdez"
+Characters:    "\n\r    Coordinator Director, Washinton State School Directors"
+Characters:    "\n\r    Seattle"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Alixandria Weise"
+Characters:    "\n\r    Staff, Adam Smith�s Campaign"
+Characters:    "\n\r    Seattle"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "WISCONSIN"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Stephanie Joseph"
+Characters:    "\n\r    Student, University of Wisconsin-Madison"
+Characters:    "\n\r    Madison"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Lori Buss Nelson"
+Characters:    "\n\r    Student, University of Wisconsin-Green Bay"
+Characters:    "\n\r    Bonduel"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Mike Verveer"
+Characters:    "\n\r    City Council Member"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Madison"
+End element:   tt
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

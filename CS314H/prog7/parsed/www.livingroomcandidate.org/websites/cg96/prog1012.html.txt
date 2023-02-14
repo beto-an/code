@@ -1,0 +1,119 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Progress over Negativity"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 12, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "STATEMENT BY ANN LEWIS"
+Characters:    "\n\r      DEPUTY CAMPAIGN MANAGER"
+End element:   b
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Instead of discussing the issues of this campaign, or\n\r    offering their own substantive vision for America�s future, the\n\r    Dole-Kemp campaign is trying to divert attention with a cynical\n\r    exercise decrying negative campaign tactics even as they employ\n\r    them. Apparently they don�t want to talk about why Bob Dole has\n\r    pledged to abolish the Department of Education; or why he\n\r    opposes the Brady Bill and the Family and Medical Leave Act; or\n\r    how he can possibly pay for a half trillion dollar risky tax\n\r    scheme that Republicans and Democrats alike agree will balloon\n\r    the deficit and endanger Medicare."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton continues to discuss issues that\n\r    concern the direction of our nation. In less than four years in\n\r    office, President Clinton has changed the course of the\n\r    American economy. This Administration has reduced the deficit\n\r    by 60 %. The American economy has responded by creating 10.5\n\r    million new jobs. This Administration is making our streets\n\r    safer for our children -- there are more police on the street,\n\r    fewer guns on the street and the crime rate is going down. This\n\r    President has made education a priority, opening the door of\n\r    higher education to more young people. President Clinton has a\n\r    vision for the next four years that will build on these\n\r    accomplishments, with targetted tax cuts for college tuition\n\r    and expanded IRAs for families."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "That�s leadership in addressing \"real problems\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "President Clinton has urged that this be a campaign of\n\r    issues, not insults. The American people will be better served\n\r    if the Dole-Kemp campaign also lives up to this\n\r    standard."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

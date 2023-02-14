@@ -1,0 +1,83 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "The Challenges Ahead"
+End element:   title
+Characters:    "\n\r\n\r  "
+Start element: script
+Characters:    "\n\r  <!--\n\r\n\r  function open_win()\n\r  {\n\r        shockwin=open(\"Schap1.html\",\"ShockWin\",\"width=504,height=414\");\n\r  }\n\r\n\r  //-->\n\r  "
+End element:   script
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: javascript:open_win()
+End element:   a
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: center
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Start element: p
+Characters:    "Below you will find a brief presentation about the\n\r        Clinton Administration and education using the latest\n\r        version of "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Shockwave"
+End element:   a
+Characters:    "\n\r        to present dynamic photographs synchronized to streaming\n\r        audio."
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Characters:    "Please note that we have taken every step to make this\n\r        presentation accessible to as many people as possible.\n\r        However, as it represents some of the latest technology on\n\r        the Internet, performance may vary, depending on equipment,\n\r        memory, connection speed and Internet traffic. If you\n\r        experience difficulty playing the movie you might try\n\r        increasing your memory and cache settings."
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+End element:   p
+Characters:    "\n\r      "
+End element:   center
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

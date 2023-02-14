@@ -1,0 +1,116 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Dole's Healthcare Gridlock"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    September 20, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "FIRST LADY HILLARY RODHAM CLINTON"
+Characters:    "\n\r    TO DISCUSS FAMILY AND MEDICAL LEAVE ACT"
+Characters:    "\n\r    IN CONNECTICUT ON SEPTEMBER 24, 1996"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Washington, D.C. -- First Lady Hillary Rodham Clinton\n\r    will be in New London, Connecticut on Tuesday, September 24, to\n\r    highlight President Clinton�s commitment to working families\n\r    through the Family and Medical Leave Act. Congressman Sam\n\r    Gejdenson will join Mrs. Clinton at a discussion with families\n\r    who have benefited from the legislation. During the visit, Mrs.\n\r    Clinton will also stress the President�s commitment to expand\n\r    the Family and Medical Leave Act in a second term."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The Family and Medical Leave Act was the first bill\n\r    signed into law by President Clinton. The Act allows workers at\n\r    businesses with 50 or more employees to take up to 12 weeks of\n\r    unpaid, job-protected leave to care for a newborn or adopted\n\r    child, to attend to their own serious health needs, or to care\n\r    for a seriously ill parent, child, or spouse."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Connecticut is a leading proponent of family leave\n\r    legislation, having passed a state law in 1989. A total of\n\r    670,000 workers are eligible for family leave in Connecticut\n\r    under the national Family and Medical Leave Act. Since\n\r    President Clinton signed the bill into law in February of 1993,\n\r    employees across America have taken more than 12 million\n\r    job-protected leaves."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "On Tuesday, Clinton-Gore �96 will highlight the law\n\r    nationwide. Four years ago on this same date, then-Republican\n\r    Leader Bob Dole cast his vote to uphold President Bush�s veto\n\r    of the Family and Medical Leave Act."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "A detailed schedule of the First Lady�s events in\n\r    Connecticut will be available on Monday, September 23."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "###"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

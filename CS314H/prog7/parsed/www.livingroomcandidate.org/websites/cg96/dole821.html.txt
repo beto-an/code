@@ -1,0 +1,79 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "Dole and Tax Cut"
+End element:   TITLE
+Characters:    "\r\n\r\r\n\r"
+Start element: KPETITLE
+Start element: B
+Characters:    "For Immediate Release:"
+End element:   B
+Characters:    "\r\n\r"
+Start element: DD
+Characters:    "Dole and Tax Cut"
+End element:   KPETITLE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "  "
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "  "
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r"
+Start element: TT
+Characters:    "\r\n\r"
+Start element: p
+Characters:    "For Immediate Release:\t\t\r\n\r"
+Characters:    "August 21, 1996\t\t\t\t\t\r\n\r\t\t\t\t\t\t\t\r\n\r\r\n\r\r\n\r"
+Start element: p
+Characters:    "STATEMENT BY JOE LOCKHART\r\n\r"
+Characters:    "NATIONAL PRESS SECRETARY\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: p
+Characters:    "We�re encouraged by Bob Dole�s new interest in full disclosure.  In that spirit, we hope Bob Dole will now identify how he plans to pay for a $548 billion election year tax cut without ballooning the deficit.  \r\n\r\r\n\r"
+Start element: p
+Characters:    "As numerous economists have said, cutting taxes $548 billion and balancing the budget will require severe cuts in Medicare, Medicaid, education and environmental protection far beyond those rejected in the 1995 Dole/Gingrich budget.\r\n\r\r\n\r"
+Start element: p
+Characters:    "When it comes to full disclosure, there is no more important issue to millions of Americans than the details of Bob Dole�s election year economic scheme.   Bob Dole owes it to all Americans to detail how deeply he will cut programs like Medicare and Medicaid.  The health of millions of Americans will depend on the details Bob Dole is currently hiding from the American public.\r\n\r\r\n\r\r\n\r"
+Start element: p
+Start element: center
+Characters:    "###\r\n\r"
+End element:   center
+Characters:    "\r\n\r\r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    " "
+Characters:    " "
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee, Inc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End of document

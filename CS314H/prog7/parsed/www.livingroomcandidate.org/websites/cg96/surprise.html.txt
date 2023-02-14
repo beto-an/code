@@ -1,0 +1,74 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "Dole's October Surprise - Raiding Pensions"
+End element:   TITLE
+Characters:    "\r\n\r"
+Start element: kpetitle
+Characters:    "Dole's October Surprise - Raiding Pensions"
+End element:   kpetitle
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r\r\n\r"
+Start element: CENTER
+Start element: A
+Key: HREF, Value: index22.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r"
+Start element: P
+Characters:    "FOR IMMEDIATE RELEASE\t\t\t\t\r\n\r"
+Characters:    "October 19, 1996\t\t\t\t\t\t\r\n\r\t\t\t\t\r\n\r"
+Start element: P
+Characters:    "STATEMENT OF JOE LOCKHART\r\n\r"
+Characters:    "NATIONAL PRESS SECRETARY\r\n\r\r\n\r"
+Start element: P
+Characters:    "Today is yet another anniversary of Bob Dole�s votes against America�s working families.  October 19, 1995, Bob Dole voted in committee to allow employers to raid their employees� pension funds.  Then, Bob Dole voted against requiring companies to include in their taxable income any of the pension fund they took out of the employee plan. [Senate Committee on Finance, Senate vote #8349, 10/19/95; Senate Committee on Finance, Senate vote #8336, 10/19/95]   One month later, Dole voted for the Dole-Gingrich budget which would have allowed companies to take $15 billion out of pension funds -- affecting nearly 4 million workers. [Congressional Quarterly, 11/25/95, p.3613, vote #584, 11/17/95; PBGC Facts Sheet, 4/96]\r\n\r\r\n\r\t"
+Start element: P
+Characters:    "Bob Dole says he \"understands the problems\" of working America.  Doesn�t he believe Americans need the security of their pensions?  Doesn�t Bob Dole recognize employees� rights as an issue?  Well, Bob Dole�s \"word is his bond\" and his vote is his record.  Bob Dole�s record does not support working Americans.\r\n\r\r\n\r\t\t\t\t\t\t"
+Start element: P
+Start element: CENTER
+Characters:    "###"
+End element:   center
+Characters:    "\r\n\r\r\n\r \r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Election Committee,\r\n\rInc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End of document

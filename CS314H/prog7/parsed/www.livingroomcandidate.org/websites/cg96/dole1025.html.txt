@@ -1,0 +1,163 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Dole's Tax Plan"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 25, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "STATEMENT BY ANN LEWIS DEPUTY CAMPAIGN\n\r      MANAGER"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Despite last-minute, desperate attempts to prop-up Bob\n\r    Dole's discredited supply-side tax plan, the facts speak for\n\r    themselves:"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "78% of economists recently surveyed by The Economist\n\r      magazine said that Dole's plan could not \"derive 27% its cost\n\r      through increased revenues and changing taxpayer behavior,\"\n\r      and 83% of the same economists said that Dole's plan would\n\r      not work without deeper cuts in Medicare and defense. [The\n\r      Economist, 10/5/96]."
+End element:   tt
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "Another 546 economists, including 7 Nobel prize\n\r      winners, recently wrote a letter stating that Dole's plan\n\r      would \"raise the federal deficit,\" and lead to \"lowering of\n\r      future living standards,\" and that \"The plan's assumptions\n\r      that a substantial part of the revenue lost by reducing taxes\n\r      will be offset by new revenues from additional economic\n\r      growth is not credible.\" [EPI sponsored letter,\n\r      9/24/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "Still unexplained by the Dole campaign is just how he\n\r      will pay for his $548 billion plan. Unmentioned by the Dole\n\r      campaign is that the same Coopers and Lybrand \"study\" they\n\r      reference assumes enactment of Dole's 40% spending cuts in\n\r      domestic areas such as education, the environment, border\n\r      patrols, crime fighting, and drug interdiction -- cuts that\n\r      are far deeper than proposed by the Dole-Gingrich Congress\n\r      last year and rejected by the American people."
+End element:   tt
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "Time, Business Week"
+End element:   i
+Characters:    ", and the non-partisan\n\r      Concord Coalition are among those who have confirmed that\n\r      Dole's plan would require 40% cuts in these non-defense\n\r      discretionary areas. "
+Start element: i
+Characters:    "Time"
+End element:   i
+Characters:    " magazine recently reported\n\r      that such cuts would mean: 2,200 fewer National Parks\n\r      rangers, 2,170 fewer Border Patrol agents, 42,100 fewer\n\r      Bureau of Prisons spaces, 2.5 fewer NASA space shuttle\n\r      flights, 4,000 fewer FBI agents, 2,960 fewer Drug\n\r      Interdiction DEA staff, and 300,000 fewer Head Start\n\r      opportunities. ["
+Start element: i
+Characters:    "Time"
+End element:   i
+Characters:    ", 9/23/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Characters:    "And other sources such as "
+Start element: i
+Characters:    "Business Week"
+End element:   i
+Characters:    " and\n\r      Dole's own campaign Steering Committee Co-Chairman Republican\n\r      Senator Al D'Amato say that the 83% of economists surveyed by\n\r      "
+Start element: i
+Characters:    "The Economist"
+End element:   i
+Characters:    " are correct: realistically, Dole would\n\r      have to cut Medicare in order to pay for his plan. As\n\r      "
+Start element: i
+Characters:    "Business Week"
+End element:   i
+Characters:    " writes: \"Where on earth does he come up\n\r      with that kind of dough...? From popular programs, such as\n\r      Medicare and environmental protections. But candidate Dole\n\r      knows it's bad politics to admit that now.\" ["
+Start element: i
+Characters:    "Business\n\r      Week"
+End element:   i
+Characters:    ", 8/19/96] Or, as Senator D'Amato said: \"You can't\n\r      just be cutting all of discretionary spending....You're gonna\n\r      have to look at Medicare...I would never say it if I were him\n\r      [Dole] until after the election. No way. No way. Absolutely.\n\r      I mean I'm not running this year so I can say it and tell the\n\r      truth.\" ["
+Start element: i
+Characters:    "Don Imus Radio Show"
+End element:   i
+Characters:    ", 8/12/96]"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "# # #"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

@@ -1,0 +1,346 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | The Briefing Room | Bill Clinton & Al Gore on the\n\r  Issues"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    " "
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index89.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +2
+Start element: font
+Key: color, Value: #001058
+Start element: nobr
+Start element: i
+Characters:    "Protecting\n\r    Religious Freedom"
+End element:   i
+End element:   nobr
+End element:   font
+End element:   font
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: i
+Characters:    "et us never believe that\n\r      the freedom of religion imposes on any of us some\n\r      responsibility to run from our convictions. Let us instead\n\r      respect one another�s faiths, fight to the death to preserve\n\r      the right of every American to practice whatever convictions\n\r      he or she has, but bring our values back to the table of\n\r      American discourse to heal our troubled land.”"
+End element:   i
+Characters:    "\n\r      "
+Start element: p
+Start element: b
+Characters:    "—President Bill Clinton"
+End element:   b
+End element:   p
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Religion has always played a\n\r    central role in the President�s life."
+End element:   b
+End element:   font
+Characters:    " The President\n\r    firmly believes that religion is an issue that should draw us\n\r    together — strengthening, rather than dividing, our\n\r    communities. He has worked hard to help people of different\n\r    faiths find common ground while adhering to the spirit of the\n\r    First Amendment and its imperative that our government must\n\r    neither establish nor interfere with religion, but rather\n\r    respect the role religion plays in our families and in our\n\r    nation.\n\r    "
+Start element: p
+Characters:    "President Clinton has protected the religious freedoms\n\r    Americans treasure by: "
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: align, Value: center
+Key: cellpading, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Signing the Religious Freedom Restoration Act (RFRA) —\n\r            one of the most important civil rights bills for\n\r            religion in American history. Supported by nearly 70\n\r            civic and religious groups, the RFRA mandates that\n\r            government cannot interfere with religious practice\n\r            unless health and/or safety are jeopardized. Even then,\n\r            the government must pursue its interest in the manner\n\r            least burdensome to religion.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            President Clinton directed the general counsel of each\n\r            department of the federal government to prepare a\n\r            report on religious rights issues that could arise in\n\r            the course of their department�s operations and to\n\r            designate a staff lawyer to monitor new policies for\n\r            violations of the RFRA. These procedures insure that\n\r            federal agencies take account of Americans� religious\n\r            sensibilities at the earliest stages of the\n\r            policy-making process.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            President Clinton directed the Justice Department to\n\r            file a brief arguing that the RFRA entitled a church to\n\r            retain money contributed by a bankrupt couple. The 8th\n\r            U.S. Circuit Court affirmed President Clinton�s\n\r            opinion, ruling that the protection of creditors was\n\r            not a compelling government interest of the sort\n\r            required to justify encroachment upon religious freedom\n\r            under the RFRA.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Directing the Justice Department to issue guidelines on\n\r            acceptable forms of religious expression in public\n\r            schools. The Administration�s 1995 Guidance on Religion\n\r            in Public School directs school officials to permit\n\r            forms of religious expression, including allowing\n\r            students to bring Bibles to school, to participate in\n\r            student religious groups, and to say grace before\n\r            meals. The President wanted to give guidance that could\n\r            help parents, teachers, school officials, and community\n\r            leaders work together to address these difficult\n\r            issues.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Working to end church arson. President Clinton moved\n\r            quickly to focus the nation�s attention and resources\n\r            to help stop the rash of church burnings across the\n\r            country, prosecute those responsible, and speed the\n\r            rebuilding process. The President enacted legislation\n\r            toughening criminal penalties for those convicted of\n\r            burning religious institutions, providing loan\n\r            guarantees to non-profit groups — including churches —\n\r            victimized by arson, and appropriating funds to combat\n\r            church arson. He also established a task force to\n\r            coordinate investigations of church fires and ordered\n\r            the establishment of a 24 hour, toll-free hotline to\n\r            collect information on church fires.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Recognizing the role of religious freedom in promoting\n\r            democratic virtues by declaring January 14th as\n\r            Religious Freedom Day. President Clinton invited\n\r            Americans to use the day to reflect upon “the awesome\n\r            power of religious liberty, not only to unite the\n\r            citizenry in common cause, but also to empower us to\n\r            question age-old beliefs and lift this Nation toward\n\r            enlightenment.”\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Building on Our\n\r    Progress"
+End element:   b
+End element:   font
+Characters:    "\n\r    "
+Start element: p
+Characters:    "America is blessed with adherents of every significant\n\r    religion, but what truly distinguishes this nation is the\n\r    ability of Americans of different faiths to live side by side\n\r    and work together for the common good. President Clinton will\n\r    continue to protect the religious freedom of every American\n\r    by:"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+End element:   p
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Key: width, Value: 80%
+Key: align, Value: center
+Key: cellpading, Value: 0
+Key: cellspacing, Value: 0
+Characters:    "\n\r      "
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Promoting character education. President Clinton will\n\r            continue to actively promote the teaching of ethical\n\r            values in America�s schools. Recognizing that basic\n\r            moral values such as discipline, tolerance, and\n\r            civility are common to all beliefs, the President will\n\r            continue to encourage schools to teach young people how\n\r            to be good citizens as well as successful students. The\n\r            Clinton Administration has provided grants to help\n\r            school districts develop comprehensive\n\r            character-education programs.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: height, Value: 5
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: left
+Key: valign, Value: top
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: valign, Value: top
+Characters:    "\n\r          "
+Start element: blockquote
+Characters:    "\n\r            Continuing to use the Equal Employment Opportunity\n\r            Commission (EEOC) to protect religious freedom.\n\r            President Clinton ordered the EEOC to file its first\n\r            class-action suit on the basis of religion. The EEOC\n\r            challenged Dillard Department Store�s mandatory weekend\n\r            work policy, ultimately settling the case in favor of\n\r            the claimants whose religious beliefs did not allow\n\r            them to work during the Sabbath. Many churches and\n\r            synagogues were prepared to join the government�s case\n\r            as friends of the court. The President will continue to\n\r            use this option when appropriate.\n\r          "
+End element:   blockquote
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #BE0023
+Start element: b
+Characters:    "Meeting Our Challenges\n\r    "
+Characters:    " Protecting Our Values"
+End element:   b
+End element:   font
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

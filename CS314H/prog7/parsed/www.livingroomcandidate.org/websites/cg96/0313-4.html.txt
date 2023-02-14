@@ -1,0 +1,258 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Residents of Northern New Jersey"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index5.html
+End element:   a
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index91.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #001058
+Characters:    "REMARKS BY THE PRESIDENT"
+Characters:    "\n\r      TO THE RESIDENTS OF NORTHERN NEW JERSEY"
+End element:   font
+Characters:    "\n\r      "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #001058
+Start element: font
+Key: color, Value: #000000
+Characters:    "Rothman Center Auditorium"
+Characters:    "\n\r      Fairleigh Dickinson University"
+Characters:    "\n\r      Hackensack, New Jersey"
+End element:   font
+End element:   font
+End element:   p
+Characters:    "\n\r      "
+Start element: p
+Start element: font
+Key: size, Value: +1
+Key: color, Value: #001058
+Start element: font
+Key: color, Value: #000000
+Characters:    "March 11, 1996"
+End element:   font
+End element:   font
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE PRESIDENT: Thank you very much. President Mertz, thank\n\r    you for making us feel so welcome at Fairleigh Dickinson.\n\r    (Applause.) And Mayor Zisa, thank you for making us feel so\n\r    welcome in your home town; we’re glad to be here sir.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want to thank all the New Jersey public officials who are\n\r    here. I thank Senator Lautenberg, especially for his work on\n\r    the environment. I thank Congressman Toricelli and Congressman\n\r    Menendez and Congressman Payne. I thank my former colleagues,\n\r    Governor Florio and Governor Brendan Byrne. And I want to thank\n\r    Carol Browner for the fine job she has done here and in every\n\r    state in the country, at the EPA. And most of all I want to\n\r    thank the Vice President for being a constant inspiration to me\n\r    on the subject of America’s environment. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I thank the two families who are here who were introduced by\n\r    Senator Lautenberg, the Dukers and the Flatows; and I thank\n\r    them for their incalculable sacrifice and their continued\n\r    devotion to the integrity and the freedom of Israel and the\n\r    cause of peace in the Middle East. God bless you and thank you\n\r    both very much. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I know that as President Mertz said, my friend, Leah Rabin,\n\r    was here just a week ago to accept an award on behalf of\n\r    herself and her late husband from this distinguished\n\r    university. Yitzhak Rabin was a good friend of mine and he\n\r    always took issue with those who characterized the creation of\n\r    Israel and its continuance as some sort of a miracle. He didn’t\n\r    think there was anything miraculous about it. He thought it was\n\r    the direct result of thousands and thousands of people being\n\r    able to devote a lifetime of hard work and effort and courage\n\r    and ultimate sacrifice to a common cause. Tomorrow I will go to\n\r    Egypt to try to advance that cause and beat back the terrorism\n\r    that threatens it today. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But I want to talk to you today about the common cause we\n\r    must make in our efforts to preserve and enhance our\n\r    environment for ourselves and for our children. It will not be\n\r    a miracle that preserves America’s environment and the global\n\r    environment; it will be the result of thousands and thousands\n\r    of people—ultimately millions of people—devoting themselves to\n\r    a common cause."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "When I became President I had a pretty straightforward\n\r    vision: I wanted our country to come together, to create the\n\r    opportunity that would permit every American who was willing to\n\r    work for it a shot at the American Dream. I want to go into the\n\r    next century with our country still the strongest force for\n\r    peace and freedom and security and prosperity in the world. I\n\r    want this country to come together around its basic values of\n\r    responsibility and opportunity, of work and family and of\n\r    community. I was then weary, and I remain even more impatient,\n\r    with those who seek to divide the American people for\n\r    short-term political gain. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "In the State of the Union address I gave all of you and\n\r    fellow Americans a report on where we are, where we have been\n\r    and where I think we have to go, and on the seven challenges I\n\r    believe we have to address in order for those objectives to be\n\r    reached as we begin a new century and a new millennium. We have\n\r    to have stronger families and better childhoods for all our\n\r    children. We have to open educational opportunity to every\n\r    person so that every child and every adult has access to\n\r    learning throughout life. We have to provide economic security\n\r    for families who are willing to work for it, including those\n\r    who have worked hard without raises, those who live in places\n\r    that have not felt the impact of the recovery, and those who\n\r    are being downsized today but still have much to contribute to\n\r    their families, their communities, and the future or our\n\r    country. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We have to take our streets back from crime and drugs and\n\r    gangs. (Applause.) We cannot walk away from our obligations to\n\r    lead the world in the fight for peace and freedom. And we must\n\r    continue to work to reinvent our government so that it works\n\r    better and inspires more trust. But, finally, we must also\n\r    recognize that if we want this country to be the greatest\n\r    country in the world in the next century, we have to provide\n\r    for a clean and healthy environment. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "This is not a luxury; it is not an option. It is about\n\r    self-preservation, about the preservation of our children’s\n\r    future. It, indeed, is at the core of the spiritual beliefs of\n\r    nearly every American—for Catholics, Protestants, Jews,\n\r    Muslims, all could embrace the words of the psalmist,&nbsp;“The\n\r    earth is the Lord and the fullness thereof.\""
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "It is incredible to me now that the environment has for the\n\r    first time in a generation become a source of political\n\r    division. I just came from Wallington—and you know there are\n\r    some people here from there, you heard from them earlier.\n\r    (Applause.) There in the middle of a residential neighborhood\n\r    the Vice President and I looked up a hill toward Jefferson\n\r    Elementary School, and then across a field that is a toxic\n\r    waste site—the land that is being cleaned up under the\n\r    Superfund law."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Not so very long ago there was a factory there that had been\n\r    abandoned. It was an unsafe building, there were barrels full\n\r    of unsafe chemicals. They were all taken away as evidence of\n\r    the success of the law. The problem is the cleanup is not\n\r    finished. There is still the fence topped with barbed wire that\n\r    severs the nine-acre site from the rest of the community. And\n\r    land within that fence remains contaminated with PCBs, which\n\r    are known to cause cancer. Families can’t walk there, children\n\r    can’t play there. This is a hole in that community, when it\n\r    could be the source of a new revitalized neighborhood."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The Mayor said he wanted new housing for the people, he said\n\r    perhaps senior citizens could live there. All that remains to\n\r    be done is to finish the job of purging the soil of that site\n\r    of the poisoned chemicals. I can’t think of why we ought to\n\r    tolerate this in Wallington or anywhere else in the country.\n\r    (Applause.) But listen to this: 10 million children under the\n\r    age of 12 live within four miles of a toxic waste dump—10\n\r    million. In New Jersey alone there are 100 toxic hot spots that\n\r    need to be cleaned up; 800,000 children live a mere bicycle\n\r    ride away from these places. Well, this is America, my friends,\n\r    and that’s not good enough for me; it ought not to be good\n\r    enough for you. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "No child should have to live near a toxic waste dump. No\n\r    child should have to drink water contaminated with chemicals.\n\r    No child should have to eat foods poisoned with pesticides. And\n\r    I am determined that every child will have the safe and healthy\n\r    future that every child should have as a God-given and a legal\n\r    right in the United States of America. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Make no mistake about it, just as others have said before\n\r    me, this has for a long time not been a political issue in the\n\r    traditional sense. America is indeed a much cleaner and\n\r    healthier place after a generation of bipartisan commitment to\n\r    cleaning up the environment. Since our laws were put into place\n\r    25 years ago, toxic emissions from factories have been cut in\n\r    half. Lead levels in children’s blood have dropped 70 percent.\n\r    Once, because it was so polluted, a river of ours caught on\n\r    fire—but no more. And Lake Erie, which was once declared dead,\n\r    is now teeming with fish. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "So should we say, well, since we’ve done all this, we can\n\r    just treat this as an ordinary issue now and start fighting\n\r    about it again. There is more to do. A third of us still\n\r    breathe air that endangers our health. Our national parks are\n\r    the envy of the world. But as the First Lady and our daughter\n\r    and I found last summer when we visited two of those parks,\n\r    they’re still in need of repair and continued maintenance if\n\r    they’re going to remain the nation’s treasure. And in too many\n\r    communities, the water is still not safe to drink."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We’ve worked hard on a broad-based environmental agenda. The\n\r    Vice President has been of great inspiration to me in that.\n\r    When I was a governor, the preservation of the environment\n\r    involved things that I understood from my own experience. I was\n\r    lucky enough to grow up in a national park surrounded by three\n\r    lakes. I was never, I don’t suppose in my whole childhood, more\n\r    than 10 minutes away from the mountains and the woods and the\n\r    creeks that became all too easy for me to take for granted. And\n\r    when Hillary and I had our daughter, we loved to go to the\n\r    state parks in our home state and to expose her to the world of\n\r    natural beauty that I took as a given as a child."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Thanks to the Vice President, I’ve learned how all of this\n\r    relates to things that are going on all over the world and how\n\r    the phenomenon of global warming can radicalize our own weather\n\r    patterns here in America and disrupt the future of America if\n\r    we do not deal with the environment in a comprehensive way from\n\r    the grass-roots communities all the way up to the international\n\r    issues. And that is what we are committed to doing.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And our agenda included expanding the Community Right to\n\r    Know law, which requires industries to tell our citizens what\n\r    substances are being released into their air and their water.\n\r    We’re cutting toxic air pollution from chemical plants by 90\n\r    percent. Because of tougher clean air laws, 50 million\n\r    Americans in 55 cities are now breathing easier. Stricter meat\n\r    safety tests have dramatically reduced the chances of a child\n\r    eating a hamburger with the lethal E. coli bacteria. Working\n\r    with some of our countries best corporate citizens, we kicked\n\r    dozens of dangerous chemicals out of the marketplace and\n\r    quickly replaced them with safer substitutes."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And just as important as what we have done is how we’re\n\r    doing it. The laws and regulations that brought our environment\n\r    back from the brink worked well for their time. But what worked\n\r    yesterday may not work today or tomorrow. We believe in higher\n\r    environmental standards, but we also believe in more\n\r    partnership between environmentalists and people working in the\n\r    private sector. We believe in more flexibility and more focus\n\r    on results instead of rule making. We know that going through\n\r    Washington may not be the only road to a safer and cleaner\n\r    world."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And so under Carol Browner’s leadership we’re cutting\n\r    paperwork at the EPA by 25 percent. We’re working with the auto\n\r    companies to develop a clean car, a partnership that could\n\r    triple automobile mileage in the next few years and\n\r    dramatically reduce toxic commissions into the air.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We’re asking businesses and communities to work together.\n\r    The EPA’s new project, XL, encourages responsible companies to\n\r    find inexpensive, efficient ways to exceed pollution standards.\n\r    And if they can, they can get rid of the rule book. We’re\n\r    interested in the results, not the rules."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Our common-sense initiative for small business emphasizes\n\r    results, not punishment. If a small business makes a mistake\n\r    and is committed to fixing that mistake, we will waive the fine\n\r    if they repair the problem—excuse me, my wife and daughter and\n\r    I have been passing around the last cold of winter, you’ll have\n\r    to indulge me. This new way of doing business overturns the\n\r    conventional wisdom that we have to somehow choose between the\n\r    health of our environment and the health of our economy."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Look at the last three years. We have stepped up efforts to\n\r    protect the environment in the last three years. We’ve also\n\r    stepped up efforts to advance the economy. We have a cleaner\n\r    environment and 8.4 million new jobs. You do not have to choose\n\r    between the two. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "It used to be said that if you had a commitment to a clean\n\r    environment it would be especially burdensome for small\n\r    businesses. Well, we not only have the lowest combined rates of\n\r    employment and inflation in 27 years, we have set records in\n\r    each of the last three years for new small business formation.\n\r    It is a myth. You do not have to choose between the environment\n\r    and the economy. Indeed, I submit to you that good\n\r    environmental policy will grow the economy, especially the kind\n\r    of good high-wage jobs we need more of in America.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, if this legacy of environmental protection has been\n\r    good for all Americans, and it’s been bipartisan for 25 years,\n\r    and it clearly is not hurting our ability to generate jobs in a\n\r    world where the other wealthy economies of the world are\n\r    struggling—struggling—to create jobs, why would we abandon 25\n\r    years of bipartisan commitment when there are new challenges\n\r    that have to be met, and when, in fact, a lot of people who\n\r    worry about their ability to have these good high-wage jobs in\n\r    yesterday’s economic organization should be looking to\n\r    tomorrow’s environmental opportunities as a way to create those\n\r    jobs? Why would we do that?"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Because in the last year a small army of very powerful\n\r    lobbyists literally have descended on Capitol Hill as if they\n\r    owned the place. They have mounted a full-scale attack on our\n\r    environmental laws and on our public health protection. Some in\n\r    this Congress actually allowed these lobbyists to sit down at\n\r    the table in the committee rooms and rewrite these important\n\r    environmental laws—from gutting enforcement of clean air and\n\r    clean water, to weakening Community Right to Know, to selling\n\r    off our great and precious store of public lands to the highest\n\r    bidder, to tying up our enforcement agencies in litigation,\n\r    this Congress has mounted the most aggressive\n\r    anti-environmental campaign in our history. And I am proud that\n\r    we have stood against that. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, because the Congress knew that the American people\n\r    would never put up with an outright repeal of these laws, they\n\r    also took another, more subtle, approach. They tried to take\n\r    the environmental cop off the beat by simply cutting resources\n\r    for health and safety protection. And I’m proud we stood\n\r    against that, too. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We have fought off a lot this year, but you know and I know\n\r    the fight is far from over. This budget impasse has been used\n\r    by Congress, and this crazy way of running the government by\n\r    Continuing Resolution instead of a budget, to slowly and\n\r    quietly keep the EPA from doing its job. The EPA is now\n\r    operating at about a 15 percent cut from its last year’s\n\r    budget."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "So what happens? They get what they want by indirection. The\n\r    Agency is running behind on its inspections. There have been\n\r    delays in putting in place safeguards to keep things like\n\r    cryptosporidium out of our drinking water. Now, that’s a big\n\r    word, but you’ll know what it is when I remind you that that’s\n\r    what killed all those people in Milwaukee, Wisconsin. We don’t\n\r    want it in our drinking water. We need to get it out and get it\n\r    out now. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And cleanup has stopped on more than 60 toxic waste sites\n\r    around the country, including the one the Vice President and I\n\r    just visited at Wallington. There are 14 in New Jersey, 17 in\n\r    New York, and it is wrong. And if that weren’t enough, the\n\r    funding on the current Continuing Resolution runs out on\n\r    Friday. And Congress again is threatening to shut down the\n\r    government for a third time unless I accept their drastic cuts\n\r    in the environment and education, Medicare and Medicaid. Let me\n\r    make something clear. It was wrong for them to shut down the\n\r    government the first time because I wouldn’t accept the cuts.\n\r    (Applause.) It was wrong the second time. (Applause.) And three\n\r    wrongs on the environment do not make a right. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Let me remind all of you, my fellow Americans, without\n\r    regard to your party, we can balance the budget in seven years\n\r    and protect the health and safety of our people. We have\n\r    identified $700 billion in savings common to both plans that\n\r    will still permit us to protect the environment, invest in\n\r    education, protect Medicare and Medicaid, grow the economy, and\n\r    get rid of the deficit. That is what we ought to do.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And in this budget I challenge Congress also to join me in\n\r    adopting our Brownfield initiatives. The Brownfield initiatives\n\r    encourages businesses and communities to turn old polluted\n\r    sites into homes for safe and sustainable businesses. Now, this\n\r    effort that we’ve had under way has already created jobs in 29\n\r    different communities. To include more of them, we have made it\n\r    clear that Brownfield purchasers will not be liable for the\n\r    mess they inherited, and neither will those who lend to them to\n\r    finance the cleanup."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Today, I’m proposing the next step in revitalizing these\n\r    communities—a Brownfields tax initiative for those who clean up\n\r    and redevelop contaminated abandoned properties. A $2 billion\n\r    tax incentive targeted specifically to areas where the poverty\n\r    rate is 20 percent or higher, to make it possible for\n\r    Brownfield investors to deduct their cleanup expenses\n\r    immediately and cut the cost for this type of investment in\n\r    half. That will bring jobs to the places that have missed out\n\r    on this recovery. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "This proposal is expected to spur $10 billion in private\n\r    investments nationwide, to return to productive use as many as\n\r    30,000 Brownfields throughout the United States. It is fully\n\r    paid for in my seven-year balanced budget. It is good for\n\r    Americans, and I urge Congress to join me in making it\n\r    happen."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, this Brownfields effort is only part of the larger\n\r    picture of environmental efforts we are making. Look what I saw\n\r    today in Wallington. We have to repair the Superfund toxic\n\r    waste cleanup program. Superfund has been an important tool in\n\r    helping us to protect the environment. In the past 16 years,\n\r    toxic waste has been removed from more then 3,000 sites. And in\n\r    the last three years, I am proud of the fact that our\n\r    administration has completed more cleanups than in the previous\n\r    12 years. We need to keep doing this until the job is done.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "My fellow Americans, we have reached the limit,\n\r    unfortunately, of what we can do alone. We have to have help\n\r    with Congress to cure the remaining problems with the\n\r    Superfund. Small businesses and communities trapped in the\n\r    liability net, lenders afraid to finance cleanups—all these\n\r    have to do with the way the law is written. And only Congress\n\r    can change it. Only Congress can finish the job. They should do\n\r    it the right way, by making sure, as Senator Lautenberg says,\n\r    that polluters pay. Right now, Congress is moving forward with\n\r    Superfund legislation that would let polluters off the hook and\n\r    make the taxpayers pay. I don’t think the taxpayers should pay\n\r    when the polluters can pay. That is wrong. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "All of you have been very patient to listen to us today make\n\r    our plea for a new bipartisan commitment to the protection of\n\r    the environment. But all of you here know that our ability to\n\r    make America strong in the 21st century and to keep our people\n\r    living in the place of greatest possibility in the world is\n\r    clearly, clearly based on our ability to continue to make\n\r    progress in the environment."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "As President I take no particular pleasure in exercising the\n\r    power of the veto. I like to get things done. I like to move\n\r    things forward. I like to work with people who have different\n\r    ideas in a positive way. But when it comes to protecting our\n\r    air, our food, our water, I cannot sacrifice America’s values\n\r    and America’s future, or America’s health and safety. It is\n\r    important to remember—let me say again, as so many have\n\r    said—that this current state of affairs that we have endured\n\r    for over a year now is a drastic aberration from the pattern of\n\r    a previous generation."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "When Jim Florio was in Congress working with Senator\n\r    Lautenberg and Congressman Toricelli and others on the\n\r    Superfund legislation, people knew that these were things\n\r    Republicans and Democrats did together because it was good for\n\r    America. The natural blessings God gave this country were not\n\r    given to Democrats or Republicans because of their political\n\r    party. They were given to people who live on this particular\n\r    piece of God’s good earth, and we had better go back to\n\r    protecting them together. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Robert Frost once wrote,&nbsp;“The land was ours before we\n\r    were the land.” Our environment is fundamentally us. It’s well\n\r    being is ours. And when we revitalize it we nourish our souls\n\r    and restore our communities. I thank you for coming here today.\n\r    I thank you for your good citizenship. I ask you in this coming\n\r    year to exercise that citizenship to make sure that when we\n\r    leave this earth it is cleaner and fresher and purer than we\n\r    found it. That is our fundamental obligation."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Thank you and God bless you all. (Applause.)"
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

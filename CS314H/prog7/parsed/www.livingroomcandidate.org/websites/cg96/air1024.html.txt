@@ -1,0 +1,154 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "The President's Free Air Time Remarks"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    September 25, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "TRANSCRIPT OF PRESIDENT CLINTON�S FREE AIR TIME\n\r      REMARKS"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Start element: i
+Characters:    "President Clinton�s remarks will be broadcast this\n\r    evening, October 24, 1996, on the following stations: CNN,\n\r    C-SPAN, NOSTALGIA TELEVISION, NPR, PBS AND UPN."
+End element:   i
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Throughout this election, I have done my best to focus\n\r    on ideas, not insults."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "I have done that because what really matters are the\n\r    lives and futures of the American people -- and who can best\n\r    lead us into the 21st century."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "I have a philosophy I�ve tried hard to follow these last\n\r    four years -- create opportunity for all; reinforce\n\r    responsibility from all; and help us to build a community where\n\r    all Americans have a role to play."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Compared to four years ago, we�re clearly on the right\n\r    track: 10 1/2 million new jobs; a 60% cut in the deficit;\n\r    incomes rising for the first time in a decade; nearly 2 million\n\r    fewer people on welfare; the lowest crime rate in ten years.\n\r    We�re putting 100,000 police on our streets, and we�ve stopped\n\r    60,000 felons, fugitives, and stalkers from buying\n\r    guns."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Our progress is only the beginning. Now let�s keep\n\r    going, and build our bridge to the 21st century by focussing on\n\r    what really matters in the lives of our people."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "What matters is how we strengthen our families. Strong\n\r    families need first a strong economy. That means balancing our\n\r    budget to lower interest rates on everything from home\n\r    mortgages to car loans to credit card payments and student\n\r    loans, but doing so while protecting Medicare, Medicaid,\n\r    education, and the environment. It means giving tax cuts to\n\r    help families when they need it the most -- to raise and\n\r    educate their children, to pay for medical emergencies, and buy\n\r    that first home. It means working hard to help parents protect\n\r    our children from gangs and guns, from drugs and\n\r    tobacco."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "What really matters is how we finish the job of\n\r    reforming welfare, so we can break the cycle of dependency for\n\r    those families who are trapped in it. We must move at least one\n\r    million people from welfare to work; and I�ve got a plan to do\n\r    that in partnership with the private sector."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "What matters, more than anything else now, is how we\n\r    give our children the best education in the world, to prepare\n\r    them for that 21st century. We must make sure that every\n\r    eight-year-old can read; every twelve-year-old can log onto the\n\r    Internet; and every eighteen-year-old can go on to college; and\n\r    every worker can keep on learning for a lifetime."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Now if we focus on these things, on what really matters\n\r    for our future, we will build that bridge to the 21st century,\n\r    with more opportunity, more responsibility, and a stronger\n\r    community for all of us."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "# # #"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

@@ -1,0 +1,102 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | The Electoral College"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: blockquote
+Characters:    "\n\r        "
+Start element: p
+Characters:    "his\n\r        fall, when voters in each state cast their ballot for\n\r        president, they determine whether their state electoral\n\r        votes will go to each candidate. Each state has as many\n\r        electoral votes as the number of U.S. Representatives and\n\r        Senators combined. (For example, California has 52\n\r        Representatives and 2 Senators, giving it 54 electoral\n\r        votes.) In the “winner takes all” system of American\n\r        politics, a majority or plurality vote in each state gives\n\r        all of the electoral votes to the winning candidate, with a\n\r        majority of 270 needed to win the election."
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Characters:    "These 538 electors meet following election day as “the\n\r        electoral college” and formally cast their votes for\n\r        president. If no candidate receives 270 electoral votes,\n\r        the U.S. House of Representatives chooses the next\n\r        executive."
+End element:   p
+Characters:    "\n\r        "
+Start element: p
+Characters:    "Click on the button below to activate the Electoral\n\r        College Computer (215K) and see for yourself how the voting\n\r        works. In order to use the “computer” you will need to\n\r        install the current version of "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Shockwave"
+End element:   a
+Characters:    "."
+Characters:    "\n\r        "
+Characters:    "\n\r        "
+End element:   p
+Characters:    "\n\r        "
+Start element: center
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: elect.html
+End element:   a
+Characters:    "\n\r        "
+End element:   center
+Characters:    "\n\r      "
+End element:   blockquote
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/elect.html

@@ -1,0 +1,188 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Just Vote '96"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #rr0000
+Key: alink, Value: #FF0000
+Key: vlink, Value: GREY
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index90.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: tt
+Characters:    "\n\r    PRESS RELEASE"
+Characters:    "\n\r    October 30, 1996"
+End element:   tt
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Start element: b
+Characters:    "\"JUST VOTE! �96\" TOUR TAKES LATINO LEADERS AND\n\r      CELEBRITIES TO CLINTON/GORE GOTV RALLIES NATIONWIDE"
+End element:   b
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The Clinton/Gore �96 campaign today announced it will\n\r    launch the \"Just Vote! �96 Tour\" through the Southwest and\n\r    Eastern seaboard November 1 - 4. The Tour will take Latino\n\r    leaders and celebrities nationwide to encourage Latino voters\n\r    and key Democratic constituencies to �tune in and turn out� on\n\r    Election Day."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The \"Just Vote! �96 Tour\" will consist of Clinton/Gore\n\r    GOTV rallies, press events, youth visits, and canvassing\n\r    neighborhoods. There will be two tours, one going through the\n\r    Southwest and the other along the East Coast."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The four-day tour will be kicked off at a news\n\r    conference featuring Honorary Campaign Chair Linda\n\r    Chavez-Thompson; Henry Cisneros, who is Secretary of Housing\n\r    and Urban Develop- ment; and Federico Pena, who is Secretary of\n\r    Transportation; on Friday, November 1, at 9:30 a.m. at the\n\r    Guadalupe Center in San Antonio, Texas."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "Participants in the Southwest \"Just Vote! �96 Tour\" will\n\r    include comedian Jeff Valdez, TV personality Johnny Canales,\n\r    Henry Cisneros, Federico Pena, and others. The Southwest Tour\n\r    begins in Corpus Christi and will go through Laredo and Del\n\r    Rio, Texas on November 1. The Southwest Tour will return to San\n\r    Antonio for a rally with President Clinton and then proceed to\n\r    Tucson, Arizona on November 2. On November 3, the Southwest\n\r    Tour travels to Pueblo, Colorado; Las Vegas, New Mexico; and\n\r    Reno, Nevada. The Tour continues on November 4 with stops in\n\r    Monterey, Fresno and the Central Valley, Santa Ana, and San\n\r    Diego, California."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "The Eastern Coast Tour will include Salsa/Merengue\n\r    singer Willie Colon, the Barrio Boyz musical group, and actor\n\r    Michael di Lorenzo. It will stop in Union City, New Jersey on\n\r    November 2 and Orlando, Florida on November 3."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "\"The 'Just Vote! �96 Tour' is a high-impact Clinton/Gore\n\r    GOTV effort designed to energize and mobilize Democratic\n\r    constituencies and to build enthusiasm with leaders and\n\r    celebrities seen as role models in their communities,\" said\n\r    Alan Wheat, Clinton/Gore Deputy Campaign Manager. The rallies\n\r    and events will reach into the heart of the nation�s Latino\n\r    communities from the Alamo in San Antonio to the barrios of\n\r    Chicano Park in San Diego and Union City, New Jersey."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "This GOTV initiative builds on the Clinton/Gore �96\n\r    campaign�s \"Adelante con Clinton/Gore\" committee and other\n\r    efforts to reach out to diverse Democratic constituencies and\n\r    raise turnout to historic levels. \"The stakes for Hispanic\n\r    Americans in this election are very high,\" said Mickey Ibarra,\n\r    Senior Campaign Advisor and Director of Special Projects.\n\r    Further, he said, \"the Tour will help us come together as\n\r    Latinos to re-elect President Clinton and elect other Democrats\n\r    because of their strong commitment to our community.\""
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: tt
+Characters:    "For more information about \"Just Vote! �96 Tour\" events\n\r    in each state, contact the corresponding Clinton/Gore state\n\r    press secretary listed below."
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Start element: tt
+Start element: b
+Characters:    "ARIZONA:"
+End element:   b
+Characters:    " Lisa MacSpadden (602)253-9600"
+Characters:    "\n\r      "
+Start element: b
+Characters:    "CALIFORNIA:"
+End element:   b
+Characters:    " Neera Tanden (213)951-1996"
+Characters:    "\n\r      "
+Start element: b
+Characters:    "COLORADO:"
+End element:   b
+Characters:    " Sharon Kennedy (303)832-9696"
+Characters:    "\n\r      "
+Start element: b
+Characters:    "FLORIDA:"
+End element:   b
+Characters:    " Jo Miglino (904)222-9094"
+Characters:    "\n\r      "
+Start element: b
+Characters:    "NEVADA:"
+End element:   b
+Characters:    " Angelina Ornelas (702)822-1211"
+Characters:    "\n\r      "
+Start element: b
+Characters:    "NEW JERSEY:"
+End element:   b
+Characters:    " Jo Astrid-Glading (908)296-8848"
+Characters:    "\n\r      "
+Start element: b
+Characters:    "NEW MEXICO:"
+End element:   b
+Characters:    " Anne Uhring (505)262-9600"
+Characters:    "\n\r      "
+Start element: b
+Characters:    "TEXAS:"
+End element:   b
+Characters:    " Margaret Justus (512)469-6096"
+End element:   tt
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: tt
+Characters:    "# # #"
+End element:   tt
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: tt
+End element:   tt
+Characters:    "\n\r  "
+End element:   center
+Start element: tt
+Characters:    "\n\r  "
+End element:   tt
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Election Committee,\n\r    Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

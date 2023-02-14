@@ -1,0 +1,143 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: HTML
+Characters:    "\r\n\r"
+Start element: TITLE
+Characters:    "The Dole/Gingrich \"Plan\""
+End element:   TITLE
+Characters:    "\r\n\r\r\n\r"
+Start element: KPETITLE
+Start element: B
+Characters:    "For Immediate Release:"
+End element:   B
+Characters:    "\r\n\rThe Dole/Gingrich \"Plan\""
+Start element: DD
+End element:   KPETITLE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: BODY
+Key: BGCOLOR, Value: #FFFFFF
+Key: TEXT, Value: #000000
+Key: LINK, Value: #rr0000
+Key: ALINK, Value: #FF0000
+Key: VLINK, Value: GREY
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+Characters:    " \r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index90.html
+End element:   A
+Characters:    "  "
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    "  "
+Characters:    "\r\n\r\r\n\r"
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Start element: TT
+Characters:    "\r\n\r\r\n\r"
+Characters:    "PRESS RELEASE\r\n\r"
+Characters:    "August 22, 1996\r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "STATEMENT BY JOE LOCKHART\r\n\r"
+Characters:    "NATIONAL PRESS SECRETARY\r\n\r\r\n\r"
+Start element: P
+Characters:    "What a difference responsible leadership makes.  Under President Clinton, the economy has created \r\n\r10 million new jobs and as "
+Start element: I
+Characters:    "USA Today "
+End element:   I
+Characters:    " reported this morning, the deficit is at a 15 year low.  And now, \r\n\rthe President has proposed $110 billion in responsible, targeted tax cuts for \r\n\reducation and child-rearing which are fully paid for within his balanced budget.  \r\n\r\r\n\r"
+Start element: P
+Characters:    "Bob Dole has proposed a risky, election-year economic scheme which will either balloon the deficit -- or force \r\n\rcuts in Medicare, Medicaid, education and environmental protection even "
+Start element: I
+Characters:    "deeper "
+End element:   I
+Characters:    "than the extreme, mean-spirited cuts \r\n\rthe 1995 Dole/Gingrich budget.  In fact, experts who have looked at Dole�s plan say it could force cuts of"
+Start element: I
+Characters:    "over 40 percent "
+End element:   I
+Characters:    "\r\n\rin these programs and others such as, the FBI, Border Patrol, Air Traffic Control, National Parks, and highways.  \r\n\r\r\n\r"
+Start element: P
+Characters:    "Governor Whitman had to raid state pension funds to pay for her tax cuts in New Jersey. \r\n\r Just imagine what Newt Gingrich would cut to fund Bob Dole�s election-year economic scheme --  \r\n\rMedicare, Medicaid, education and environmental protection would be on the Gingrich-Dole chopping block -- \r\n\rjust as they were in 1995.  \r\n\r\r\n\r"
+Start element: P
+Characters:    "The American people rejected the 1995 Dole/Gingrich budget because it was extreme. As the people of New Jersey, Pennsylvania and the rest of America learn the details of the \r\n\r"
+Start element: I
+Characters:    "even more extreme "
+End element:   I
+Characters:    "Dole/Gingrich plan in 1996 -- they will again say no.  \r\n\r"
+Characters:    "\r\n\r"
+Start element: P
+Characters:    "\r\n\r"
+Start element: CENTER
+Characters:    "###"
+End element:   CENTER
+Characters:    "\r\n\r"
+Start element: P
+Characters:    "\r\n\r"
+Start element: P
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: P
+Characters:    "WHAT WILL DOLE & GINGRICH CUT TO \r\n\rPAY FOR RISKY ELECTION-YEAR SCHEME? \r\n\r\r\n\r\r\n\r"
+Start element: P
+Characters:    "BY CUTTING SPENDING EVEN MORE THAN EXTREME 1995 GOP BUDGET?: \"Some of Dole's numbers do not seem to add up... Even speeded-up growth would leave a huge budget gap. How would Dole close it? By cutting spending even more drastically than the Republican Congress has already proposed.\" [Time, 8/19/96] \r\n\r\r\n\r"
+Start element: P
+Characters:    "BY CUTS IN MEDICARE & ENVIRONMENTAL PROTECTION?:\r\n\r"
+Characters:    "\"Where on earth does he come up with that kind of dough...?  From popular programs, such as Medicare and environmental protection.  But candidate Dole knows it's bad politics to admit that now.\" [BusinessWeek, 8/19/96]\r\n\r\r\n\r"
+Start element: P
+Characters:    "BY 40% CUTS IN DISCRETIONARY PROGRAMS LIKE NATIONAL PARKS & HIGHWAYS?: \r\n\r"
+Characters:    "\"That leaves more than $400 billion to come from deep but unspecified cuts in other domestic spending...  the cuts would be huge.  After inflation, a broad range of federal programs would have 40% for their operations by 2002... The bulk of the cuts -- more than $400 billion -- would have to come from all other domestic programs, from national parks to highways. GOP lawmakers concede they could never pass such a plan, which would mean a 30% cut after inflation.\" [BusinessWeek, 8/19/96]\r\n\r\r\n\r"
+Start element: P
+Characters:    "BY 41% CUTS IN DOMESTIC PROGRAMS?: \r\n\r"
+Characters:    "\"Dole proposes funding [domestic programs] at a level of $186 billion -- a 41 percent cut.\" [Concord Coalition, Supply Side Tax Cuts: Issue Analysis and Background Information, 8/14/96]\r\n\r\r\n\r"
+Start element: P
+Characters:    "BY ELIMINATING PUBLIC SERVICES TO THE YOUNG & POOR?:\r\n\r"
+Characters:    "\"... the Dole plan intends to reduce discretionary spending all the way to 4.6 percent of GDP by 2002... Forget defense and consider just the domestic cuts.  If these are to spare vital economic investments (research and infrastructure) and declared GOP priorities (immigration and crime control), most public services to the young and the poor will have to be defunded entirely.\"  [Concord Coalition's \"Facing Facts\" Newsletter, 8/16/96]\r\n\r\r\n\r"
+Start element: P
+Characters:    "BY DEEP CUTS IN AIR TRAFFIC CONTROL, FBI, BORDER PATROL, & SECRET SERVICE?:\r\n\r"
+Characters:    "\"[T]he implication would be deep cuts in other programs that the public may grow uneasy seeing pared: Programs like air traffic control, the FBI, the Secret Service, border patrol and the Centers for Disease Control. Big government pension programs, aside from Social Security, could also emerge as targets: military pensions and civil service retirement.\" [USA Today, 8/6/96]\r\n\r\r\n\r"
+Start element: P
+Characters:    "BY CUTTING DISCRETIONARY SPENDING -- INCLUDING FAA & FBI -- BY ONE THIRD?: \r\n\r"
+Characters:    "\"Dole's plan is also based on an even larger political fantasy.  Moving well beyond both President Clinton's and the current congressional Republican budget-balancing plan.  Dole's plan would shave 'discretionary' spending -- on everything from the Federal Aviation Administration to the FBI -- by one third in nominal terms.\" [U.S. News and World Report, 8/19/96]\r\n\r\r\n\r"
+Start element: P
+Characters:    "BY 37% CUTS IN BORDER PATROL, VETERANS HEALTH -- OR OTHER DEEPER CUTS?: \r\n\r"
+Characters:    "\"If some activities [in non-defense discretionary spending] are not cut 37 percent -- for example, activities such as border patrols, veterans' health care, administering Social Security and the operations of federal prisons -- other programs in this area would have to be cut substantially deeper.\" [\"Budget Reductions Under the Dole Tax Plan: Where and How Much,\" Center on Budget and Policy Priorities, 8/13/96]\r\n\r\r\n\r"
+Start element: P
+Characters:    "BY 37% CUTS IN A BROAD RANGE OF PROGRAMS?: \r\n\r"
+Characters:    "\"...the basic domestic operations of the government, a broad range of programs that would have to be cut by about 37 percent from current levels by 2002, after accounting for inflation, to meet Dole's goal, budget analysts said....If the arguably optimistic economic assumptions that Dole's plan rests on do not pan out, the need for spending cuts would become that much greater.\" [New York Times, 8/20/96]\r\n\r\r\n\r"
+Start element: P
+Characters:    "BY 37% CUTS IN DISCRETIONARY PROGRAMS: \r\n\r"
+Characters:    "\"The center [on Budget and Policy Priorities] points out that Mr. Dole's plan calls for $217 billion in program cuts in addition to the $650 billion in cuts already proposed by the Republican majority in Congress. If all of those cuts are implemented the federal government would not just be downsized, it would be devastated... By 2002, this budget area would be reduced 37 percent below current level, after adjusting for inflation.  Stated another way, 37 percent of the Federal Government, other than entitlements and defense spending, would have to disappear...  If those assumptions are incorrect, and most economists believe they are, Mr. Dole would have to find still more spending cuts, perhaps $150 billion worth. That, according to the center's analysis, would push the total spending cuts required between now and 2002 above $1 trillion. That won't happen. It's not politically doable. What will happen is the same thing that happened under Ronald Reagan. The budget won't be balanced. The deficit, especially in the long term, will grow. And that will cause a drag on the economy that will last well into the 21st century.\"  [New York Times, (Bob Herbert editorial), 8/16/96]\r\n\r\r\n\r"
+Start element: P
+Characters:    "BY GUTTING NATIONAL WEATHER SERVICE: \r\n\r"
+Characters:    "\"among the least plausible [cuts]: $90 billion in 'administrative costs' that, by default, would have to come out of all the agencies that have already been slimmed down. Then, among other proposals,  there's another $32 billion from the Energy Department, which is more than the total now budgeted for its nondefense activities, and $15 billion from the Commerce Department, which might well require the gutting of the National Weather Service.\" -- Peter Pascell [New York Times, 8/15/96]\r\n\r\r\n\r"
+Start element: P
+Characters:    "BY CUTTING AIRLINE SAFETY, BORDER PATROL, NATIONAL PARKS?: \r\n\r"
+Characters:    "\"The bulk of Dole's cuts would fall in the category known as 'domestic discretionary�... To meet Dole's budget, estimates [the Committee for a Responsible Federal Budget's Susan] Tanaka, this spending category would need to drop by a third... But could spending be cut so sharply without harming important government functions? Probably not. What would be cut? The national parks? The border patrol? Airline safety?\" -- Robert J. Samuelson, [Newsweek, 8/19/96]\r\n\r\r\n\r"
+Start element: P
+Characters:    "BY DEEP CUTS IN INFRASTRUCTURE & RESEARCH?: \r\n\r"
+Characters:    "\"... the spending projections imply termination or drastic reductions in public investment\r\n\r programs that are themselves important for higher productivity and growth....Many of these\r\n\r program terminations, if enacted, would undermine the purpose of deficit reduction....deep \r\n\rcuts in public infrastructure and research support, or reduced nutrition and medical care for\r\n\r needy children, will diminish rather than enhance our productive capacity. Does anyone \r\n\rgenuinely believe that tax cuts financed by these measures will improve our national well \r\n\rbeing?\" -- VanDoorn Ooms & Ronald Boster of the Committee For Economic Development. \r\n\r[Washington Post, 8/11/96]\r\n\r\r\n\r \r\n\r"
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r\r\n\r"
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: CENTER
+End element:   CENTER
+Characters:    " "
+Characters:    " "
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee, Inc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+Characters:    "\r\n\r"
+End element:   HTML
+Characters:    "\r\n\r\r\n\r\r\n\r"
+End of document

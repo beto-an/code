@@ -1,0 +1,292 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Glossary Of Terms"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #FF00000
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index4.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "ARPANET:"
+End element:   b
+Characters:    " This &nbsp;“packet-switched network”\n\r    developed in the early 1970s is the grandfather of the\n\r    Internet. ARPANET was decommissioned in June 1990 and replaced\n\r    with DARPA (Defense Advanced Research Projects Agency), the\n\r    U.S. government agency that funded the ARPANET."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "ASCII:"
+End element:   b
+Characters:    " American Standard Code for Information\n\r    Interchange. A standard character-to-number system commonly\n\r    used by computers to exchange information."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Applet:"
+End element:   b
+Characters:    " A small computer program that can be embedded\n\r    within a Web page."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Bandwidth:"
+End element:   b
+Characters:    " The speed and efficiency of a connection\n\r    to the Internet. The higher the bandwidth, the higher the\n\r    number of units of data that can be transmitted simultaneously.\n\r    T-1 lines, cable modems, and ISDN lines all provide high\n\r    bandwidth Internet connections; 14.4 modems provide lower\n\r    bandwidth connections."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Bit:"
+End element:   b
+Characters:    " A single, binary piece of digital information.\n\r    The bit is the fundamental building block of all digital\n\r    information."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Bulletin Board System (BBS):"
+End element:   b
+Characters:    " A computer (and\n\r    accompanying software) that provides electronic messaging\n\r    services, archives of files, and other services coordinated by\n\r    the bulletin board’s operator. A growing number of BBSs are now\n\r    connected directly to the Internet; many are operated by\n\r    government, educational, and research institutions."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Byte:"
+End element:   b
+Characters:    " A group of eight "
+Start element: i
+Characters:    "bits"
+End element:   i
+Characters:    "."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Domain Name:"
+End element:   b
+Characters:    " The root of a site’s address on the\n\r    World Wide Web. The domain name is the primary component of a\n\r    website’s URL, or Universal Resource Locator. For example, the\n\r    domain name of this website is www.cg96.org."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Email:"
+End element:   b
+Characters:    " Electronic mail, a means of sending\n\r    correspondence from one computer to another instantly and at a\n\r    low cost. Email can be used in place of faxes, telephone calls,\n\r    and paper mail. An email address is the address used to send\n\r    electronic mail to a specified destination, such as\n\r    &nbsp;“president@whitehouse.gov.”"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Encryption:"
+End element:   b
+Characters:    " A method for safeguarding sensitive\n\r    information (like credit-card numbers) transmitted via the\n\r    Internet. Current technology allows highly secure, but not\n\r    fail-safe, encryption."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "FTP (File Transfer Protocol):"
+End element:   b
+Characters:    " A method for\n\r    transferring files across the Internet. FTP software allows you\n\r    to log on to a remote computer to transfer data from one\n\r    computer to another. Many FTP sites allow &nbsp;“anonymous”\n\r    FTP, which gives you access to a limited number of public\n\r    directories from which you can upload and download files."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "HTML (Hyper Text Markup Language):"
+End element:   b
+Characters:    " The programming\n\r    language used to create World Wide Web pages and define the\n\r    functions performed when you interact with these pages."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "HTTP (HyperText Transport Protocol):"
+End element:   b
+Characters:    " The means by\n\r    which the World Wide Web provides hypertext links among Web\n\r    pages."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Hyperlink:"
+End element:   b
+Characters:    " The "
+Start element: i
+Characters:    "hyper"
+End element:   i
+Characters:    " prefix, in the language\n\r    of the Internet, indicates that the words or images in question\n\r    will connect you to another part of the World Wide Web.\n\r    Hyperlinks are usually highlighted in some way (often via a\n\r    blue outline or text color) to distinguish them from ordinary\n\r    text or images."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "ISDN (Integrated Services Digital Network):"
+End element:   b
+Characters:    " A service\n\r    now offered by some telephone companies that gives customers\n\r    both a high-speed Internet connection and a voice telephone\n\r    line through a single &nbsp;“wire.”"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Internet:"
+End element:   b
+Characters:    " The Internet is a vast, decentralized\n\r    network of thousands of computers interconnected by data lines\n\r    spanning the globe. No entity owns the Internet, and therefore\n\r    no particular nation or company has much control over it. An\n\r    efficient, low cost, and powerful means of communication, the\n\r    Internet—like the telephone and the printing press before\n\r    it—has fostered a revolution in the way we communicate."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "JPEG (Joint Photographic Experts Group):"
+End element:   b
+Characters:    " A standard\n\r    for compressing digital photographic images on the\n\r    Internet."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "K (Kilobyte):"
+End element:   b
+Characters:    " 1024 bytes. Often rounded off to 1,000\n\r    bytes."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Kbps (Kilo Bits Per Second):"
+End element:   b
+Characters:    " A measure of data\n\r    transmission speed indicating that 1024 bits are being\n\r    transmitted in one second."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Mb (Megabyte):"
+End element:   b
+Characters:    " 1024 kilobytes or 1,048,576 bytes.\n\r    Often rounded off to one million bytes."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "MPEG (Motion Picture Experts Group):"
+End element:   b
+Characters:    " A standard for\n\r    compressing digital video images on the Internet."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Modem(MOdulator, DEModulator):"
+End element:   b
+Characters:    " A device that connects\n\r    a computer to a standard phone line, allowing it to exchange\n\r    data with other computers. For example, you can use a modem\n\r    to&nbsp;“dial in” to an Internet service provider in order to\n\r    access the World Wide Web or send email."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Newsgroups:"
+End element:   b
+Characters:    " Collections of email messages arranged\n\r    hierarchically and distributed to various computers on the\n\r    Internet. There are currently over 12,000 USENET newsgroups\n\r    available; they serve as an electronic forum for a broad\n\r    spectrum of groups."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Search Engine:"
+End element:   b
+Characters:    " A program, often accessed through a\n\r    website, that helps you locate specific data on the Internet by\n\r    searching for names, keywords, etc."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Server:"
+End element:   b
+Characters:    " A computer used to store large amounts of\n\r    files. A "
+Start element: i
+Characters:    "web server"
+End element:   i
+Characters:    " stores large numbers of "
+Start element: i
+Characters:    "html"
+End element:   i
+Characters:    "\n\r    files."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Shareware:"
+End element:   b
+Characters:    " Computer software that users are\n\r    encouraged to copy and evaluate for a period of time. The\n\r    shareware author often requires voluntary payment of a specific\n\r    sum of money if the user continues to use it."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "UNIX:"
+End element:   b
+Characters:    " An operating system used by many computers on\n\r    the Internet. UNIX allows many people to use the same computer\n\r    at once."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "URL (Universal Resource Locator):"
+End element:   b
+Characters:    " The address for a\n\r    website. A URL often contains the actual name of a company or\n\r    organization. Just as each phone line must have a unique\n\r    number, each website must also have a unique URL."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Virus:"
+End element:   b
+Characters:    " A destructive computer program that can\n\r    destroy files on a computer and even cause a computer to fail.\n\r    Computer viruses can be transmitted when any two computers are\n\r    connected."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "WWW (World Wide Web):"
+End element:   b
+Characters:    " The portion of the Internet\n\r    capable of delivering rich multi-media files. The common way of\n\r    navigating the WWW is the use of hypertext links."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Start element: b
+Characters:    "Website:"
+End element:   b
+Characters:    " A website is a person’s or organization’s\n\r    catalog, brochure, biography page, information source, etc.,\n\r    accessible via the World Wide Web. A website can contain a\n\r    single page or thousands of them."
+End element:   p
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

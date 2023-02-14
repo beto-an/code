@@ -1,0 +1,159 @@
+Start of document
+Start element: html
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: html
+Characters:    "\r\n\r "
+Characters:    "\r\n\r"
+Start element: head
+Characters:    "\r\n\r  "
+Start element: kpetitle
+Characters:    "Frequently Asked Questions"
+End element:   kpetitle
+Characters:    "\r\n\r  "
+Start element: title
+Characters:    "Frequently Asked Questions"
+End element:   title
+Characters:    "\r\n\r "
+End element:   head
+Characters:    "\r\n\r "
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Characters:    "\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r"
+Start element: CENTER
+Characters:    "\r\n\r\r\n\r"
+Start element: A
+Key: HREF, Value: index22.html
+End element:   a
+Characters:    "\r\n\r"
+Start element: A
+Key: HREF, Value: index4.html
+Characters:    "\r\n\r"
+End element:   A
+Characters:    " "
+Characters:    "\r\n\r\r\n\r"
+End element:   CENTER
+Characters:    " \r\n\r"
+Start element: BLOCKQUOTE
+Start element: BLOCKQUOTE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: B
+Characters:    "Q:"
+End element:   B
+Characters:    "\r\n\r Which web browser should I use to access the\r\n\rClinton/Gore&#160;&#146;96 website? "
+Start element: P
+Characters:    "\r\n\r"
+Start element: B
+Characters:    "A:"
+End element:   B
+Characters:    " We have made every effort to make this site compatible with all major\r\n\rweb browsers.  There are dozens of browsers in use, however, and\r\n\rsome will not format the pages of the site as they were intended.  The\r\n\rinformation should be viewable with any web software, but the later versions of\r\n\r "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Netscape Navigator"
+End element:   a
+Characters:    " will provide the\r\n\rbest results; this site uses some techniques that are not supported by other\r\n\rsoftware."
+Start element: P
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: B
+Characters:    "Q:"
+End element:   B
+Characters:    " What connection speed is necessary to access this site? "
+Start element: P
+Characters:    "\r\n\r"
+Start element: B
+Characters:    "A:"
+End element:   B
+Characters:    " Graphical downloads on this site are relatively small, so they should\r\n\rbe easily accessible to all users with 14.4Kbps and faster \r\n\rmodems. Those of you with Internet connections of 28.8 Kbps, ISDN, or direct\r\n\rconnections will, of course, have the best results.  The Internet \r\n\ris still unfortunately slow for most users; we apologize for any delays you may\r\n\rexperience."
+Start element: P
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: B
+Characters:    "Q:"
+End element:   B
+Characters:    " What are the highlights of the site?"
+Start element: P
+Characters:    "\r\n\r"
+Start element: B
+Characters:    "A:"
+End element:   B
+Characters:    " We&#146;ve tried to provide a breadth of information that will\r\n\rinterest a diverse spectrum of people. The entire site is searchable, so if you\r\n\rknow what you are looking for, you might begin with our "
+Start element: a
+Key: href, Value: index14.html
+Characters:    "search page"
+End element:   a
+Characters:    ". You can also find specific\r\n\rinformation about "
+Start element: a
+Key: href, Value: index132.html
+Characters:    "your state"
+End element:   a
+Characters:    ", or about\r\n\r"
+Start element: a
+Key: href, Value: index89.html
+Characters:    "specific issues"
+End element:   a
+Characters:    ". There are "
+Start element: a
+Key: href, Value: index3-2.html
+Characters:    "biographies"
+End element:   a
+Characters:    " of the President and Vice President\r\n\rand their wives, and dynamic "
+Start element: a
+Key: href, Value: index88.html
+Characters:    "economic-growth\r\n\rgraphs"
+End element:   a
+Characters:    " that illustrate the economic successes of the administration."
+Start element: P
+Characters:    "\r\n\r"
+Characters:    "\r\n\r\r\n\r"
+Start element: B
+Characters:    "Q:"
+End element:   B
+Characters:    " Will the Clinton/Gore&#160;&#146;96 website evolve in the coming\r\n\rmonths?"
+Start element: P
+Characters:    "\r\n\r"
+Start element: B
+Characters:    "A:"
+End element:   B
+Characters:    " What you see now is only the beginning. Like our campaign, the site\r\n\rwill continue to grow and build momentum in the months leading up to the\r\n\relection. Come back often to look for updated technology and information that\r\n\rwill help you learn more about Clinton/Gore &#146;96. And if you have comments\r\n\ror suggestions, we&#146;d love to hear from you in our "
+Start element: a
+Key: href, Value: index94.html
+Characters:    "America&#146;s Home Page"
+End element:   a
+Characters:    " section."
+Start element: P
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: B
+Characters:    "Q:"
+End element:   B
+Characters:    " What should I do if I have technical problems?"
+Start element: P
+Characters:    "\r\n\r"
+Start element: B
+Characters:    "A:"
+End element:   B
+Characters:    " The web is rapidly becoming more user-friendly, but it continues to\r\n\revolve as a revolutionary means of communication. Some speed bumps in the\r\n\rinformation superhighway are inevitable.  Your Internet service provider or a\r\n\rknowledgable friend should be able to quickly resolve any problems you\r\n\rencounter."
+Characters:    "\r\n\rThank you for visiting the Clinton/Gore '96 Website.\r\n\r \r\n\r"
+End element:   BLOCKQUOTE
+End element:   BLOCKQUOTE
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+Characters:    "\r\n\r"
+End element:   CENTER
+Characters:    " "
+Characters:    "\r\n\r"
+Characters:    "\r\n\r"
+Start element: CENTER
+Start element: P
+Characters:    "Paid for by Clinton/Gore &#146;96 General Committee, Inc."
+End element:   CENTER
+Characters:    "\r\n\r"
+End element:   BODY
+End element:   HTML
+Characters:    "\r\n\r"
+End of document
+file:///C:/CS314H/prog7/president96/www.livingroomcandidate.org/websites/cg96/index132.html

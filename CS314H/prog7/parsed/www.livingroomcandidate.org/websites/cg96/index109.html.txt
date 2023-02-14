@@ -1,0 +1,261 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "CG '96 | 21st Century Express | Michigan City, IN"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: #FFFFFF
+Key: text, Value: #000000
+Key: link, Value: #001058
+Key: alink, Value: #FF0000
+Key: vlink, Value: #001058
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index8.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: b
+Characters:    "REMARKS BY THE PRESIDENT TO THE PEOPLE OF THE MICHIGAN CITY\n\r    AREA"
+End element:   b
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Old Lighthouse"
+Characters:    "\n\r    Michigan City, Indiana"
+End element:   p
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r  "
+Start element: blockquote
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE PRESIDENT: Thank you. (Applause.) Thank you. Wow! Thank\n\r    you."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "AUDIENCE: Four more years, four more years —"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE PRESIDENT: Thank you. Thank you very much. Thank you.\n\r    Thank you. Thank you, citizens of Indiana and Michigan and\n\r    Illinois. Thank you all for being here. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "You know, folks, last night I called your Governor, Evan\n\r    Bayh, to tell him two things. The first thing I said is, I\n\r    loved your speech; thank you for speaking for America and for\n\r    what we did. (Applause.) But the second thing I said was, you\n\r    know, Evan, I was just in East Lansing, Michigan, and we had\n\r    over 20,000 people there. And I knew if I said that we'd have\n\r    30,000 people in Michigan City today. And sure enough, we did.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Mayor Brillson, thank you for your welcome to the city and\n\r    thank you for your leadership. The Mayor told me on the way in\n\r    here she'd only been Mayor eight months, but she is not only\n\r    the Mayor, she is the mother of six wonderful children who are\n\r    down here. And I figure anybody who can raise six kids can do\n\r    any job in America, including President. And I'm glad she's\n\r    here. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "You know, I was interested to hear the Mayor say it's been\n\r    97 years since a President has been to Michigan City. All I can\n\r    say is the rest of them didn't know what they were missing. I'm\n\r    glad to be here. (Applause.) Thank you."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I thank Congressman Tim Roemer — (applause) — for his\n\r    leadership in the House of Representatives to prove that the\n\r    Democratic Party can lead America into the future, that we can\n\r    be responsible with your money, we can be strong for your\n\r    economy, we can be tough on crime, but we can still have a\n\r    heart for those who need the heart of America that are too\n\r    often left behind and forgotten. Thank you, Tim Roemer.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want to thank Lt. Governor Frank O'Bannon and his wife,\n\r    Judy, for being here with me. And I want to tell you something,\n\r    folks, each year the job of the governor gets a little more\n\r    important. If you watch our convention, you know there's a lot\n\r    of discussion about the welfare reform bill that I signed. Let\n\r    me tell you this: I want you to understand just how important\n\r    this decision is for governors and Indiana."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "In the welfare reform bill, we said, look, we've reduced the\n\r    welfare rolls by a million and a half by working with states to\n\r    move people from welfare to work. We think we can go all the\n\r    way. We can take 800,000 kids and move them from welfare\n\r    tomorrow if we just got people to pay the child support they\n\r    owe. And so we changed the law to do that. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And we said — so we said, here is the new deal. We're going\n\r    to have national protection for the medical care for poor\n\r    people and their children. We're going to have national\n\r    protection for the nutritional needs of poor people and their\n\r    children. We're going to have a national program that\n\r    guarantees child care so when people go to work, even if\n\r    they're in lower-wage jobs — from welfare to work — they won't\n\r    have to worry about their kids. They'll be able to pay for\n\r    child care. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But we said, we're going to take the money that used to be\n\r    in the check itself — the federal and the state money — give\n\r    that money to the states, and then the states will have to\n\r    design a program that will move people from welfare to work\n\r    within two years. Now, when you make this decision for\n\r    governor, there will be no question more important than, who do\n\r    you trust to really care about giving the people who have been\n\r    trapped on welfare the same kind of life we want for all\n\r    American families. We want people to succeed as parents and\n\r    succeed as workers. Frank O'Bannon will do that, and I want you\n\r    to give him the chance to do it. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Let me say, too, with some particular pride that I have two\n\r    people who work for me in the White House who come from near\n\r    here. My military aide, June Ryan, a lieutenant commander in\n\r    the Coast Guard, whose parents live near South Bend, near here.\n\r    That's not very far. I think they play football there, somebody\n\r    told me. (Applause.) And one of my speechwriters, Carolyn\n\r    Curiel's parents, Angela and Alex, live in Hammond. So I feel\n\r    like I'm near home at least for them. Is anybody here from\n\r    Hammond, Indiana? (Applause.) Yes, that's good."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Finally, let me say a special word of thanks to those who\n\r    have participated to make me feel so welcome. There were 2,000\n\r    folks, I'll bet you, who met my train just across the river, so\n\r    I'm going to count them in the Mayor's crowd, or the Governor —\n\r    they can fight over who got them here, but I was glad to see\n\r    them. And on the way, to Michigan City ROTC High School Color\n\r    Guard made me feel very welcome. I thank them. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want to thank the Michigan City High School Band who's\n\r    playing over here. What a wonderful job they did. Thank you.\n\r    (Applause.) I want to thank a teacher who is behind me, named\n\r    Stacy Rezdor (phonetic). She and her 8th grade class wrote me\n\r    when I was coming. And I want to thank those students back\n\r    there who made posters and who showed up — students from\n\r    Michigan City. Thank you very much. (Applause.) I want to thank\n\r    the National Guard for providing water. And if you need water,\n\r    take it. I don't want anybody passing out here. I want you to\n\r    be just hot enough to be excited, but not any more."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And let me finally say, I know that there was an accident\n\r    here earlier and I want you to keep those folks in your\n\r    prayers. As far as we know, they're okay, but we haven't gotten\n\r    a final report. And let me also say to all of you, I don't\n\r    think you can imagine what it means to me to see you out here,\n\r    to see — when you read and you hear people say, well, nobody\n\r    believes in the political system anymore, people are cynical\n\r    and this, that and the other thing — I don't see any cynicism\n\r    here; I see America and America's future and I like what I see.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And while we're talking about the future —"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "AUDIENCE: Four more years, four more years, four more\n\r    years!"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE PRESIDENT: Thank you. Thank you."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Let me say one thing about the future before I go on. I\n\r    appreciated what Governor Bayh said about the relationship that\n\r    he and Susan have had with Hillary and me. It's way beyond\n\r    politics and beyond the fact that we're in the same party,\n\r    beyond the fact that we served as governors together for years.\n\r    They are our friends, and they're two of the finest people I\n\r    have ever met. You have been very fortunate to be served by\n\r    them. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I don't know what the future holds for them. But I wouldn't\n\r    be surprised at all if someday Evan Bayh were to come back here\n\r    to Michigan City as the President of the United States.\n\r    (Applause.) And I'd like to see you out here for him.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Folks, we've had a lot of friend at our convention, but I've\n\r    had just as much fun with America. A few days ago, Hillary and\n\r    Chelsea and I went to Huntington, West Virginia, and then\n\r    Hillary went on home to Chicago and Chelsea and I started this\n\r    train trip through West Virginia and Kentucky and Ohio, and\n\r    then into Michigan, and finally, here into Indiana.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And I took that train trip for two reasons. First of all,\n\r    with an enormous sense of humility, I'm on my way to Chicago to\n\r    accept the nomination of my party for the presidency for the\n\r    second time. (Applause.) It is —"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "AUDIENCE: Four more years, four more years --"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "THE PRESIDENT: You know, unless I run for the school board\n\r    or something some day, it will be the last race I ever make.\n\r    And I wanted to take this trip through the heartland to look\n\r    into the faces, the eyes, the hearts of the people that I ran\n\r    for President to help, the people I have worked for and fought\n\r    for for four years. And I have loved every mile of the track,\n\r    all the people I have seen. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "But I also wanted the American people to see, including all\n\r    the people in all the little towns that came out to see the\n\r    train come, all the school children standing by the road, all\n\r    the people who put their pennies on the rails so the train\n\r    would give them flat pennies. (Laughter.) All the flags. Even\n\r    some of the loyal opposition that came. I wanted them all to\n\r    see that we were not only on the right track to Chicago, we are\n\r    on the right track to the 21st century. And that's the track\n\r    we're going to stay on. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "You know, I told you four years ago if you would hire me as\n\r    President I would do my best to prepare this country for the\n\r    next century. It's only four years away now. And I want us to\n\r    go into that century with the American Dream alive for every\n\r    single person who is willing to work for it. I want us to go\n\r    into that century with this country still the world's strongest\n\r    force for peace and freedom and prosperity."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want to go into that century — you look around this crowd\n\r    today — where we can say other people in the world may be in\n\r    the grips, the throes of division, other nations may be divided\n\r    by race, by ethnicity, by tribe, by religion. But in America,\n\r    if you believe in the Constitution, the Declaration of\n\r    Independence and the Bill of Rights, and you show up for work\n\r    every day as a good citizens, you're our kind of America and\n\r    we're all in this together. We're going forward together.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Well, now, you tell me — so I wanted to go out and see the\n\r    people after four years. Four years ago we had high\n\r    unemployment, stagnant wages, a host of unmet social\n\r    challenges. We had enormous growing cynicism and we were afraid\n\r    the middle class dreams that have always driven America were\n\r    dying."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Four years later we have 10 million new jobs, 4.5 million\n\r    new homeowners, 10 million homeowners with lower mortgage\n\r    rates, a record number of new small businesses, record exports,\n\r    record businesses owned by women and minorities. We have —\n\r    America is on the move. For the first time in a decade, wages\n\r    are on the rise again for the first time in 10 years in the\n\r    United States. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "The crime rate has come down for four years in a row as we\n\r    have given police officers and citizens at the local level the\n\r    tools they need to make the most of their capacity for safe\n\r    streets. We're putting 100,000 more police on the streets. We\n\r    did pass the Brady Bill and 100,000 felons, fugitives and\n\r    stalkers lost their handguns. But no hunters in Indiana or\n\r    Arkansas did. We did the right thing. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We're investing more in safe and drug free schools to try to\n\r    put more of those DARE officers in the schools and provide more\n\r    education, more prevention, more treatment, as well as tougher\n\r    punishment to keep our kids away from the problems that come\n\r    with rising drug abuse. We have taken stands for the American\n\r    family — 12 million American working families have been able to\n\r    take a little time off from work for a baby's birth or a sick\n\r    parent without losing their job. That's good for America.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We have moved aggressively to prove that you can clean up\n\r    our environment and promote the public health and advance the\n\r    economy by doing it — 50 million Americans are breathing\n\r    cleaner air. We cleaned up more toxic waste dumps in three\n\r    years than were cleaned up in 12 years. We are moving to\n\r    protect the American environment and grow the American economy.\n\r    And we can do both. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And we have done this in a way that bring the American\n\r    people together. We have faced a lot of tough challenges around\n\r    the world and I've had to do some thing that were, frankly,\n\r    unpopular with a majority of you. But because we went in to\n\r    Bosnia with our allies, no soldier has fallen in combat so far\n\r    there, but the slaughter has ended and the people at least are\n\r    being given a chance to get over the madness of their ethnic\n\r    hatreds and go on with civilized life and be a part of a free\n\r    Europe and a free world. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And because we have worked with the Russians to be free, to\n\r    promote their democracy, to promote their economy, to get their\n\r    troops out of other countries, to be a constructive partner,\n\r    for the first time since nuclear weapons were developed, in the\n\r    last four years, there is not a single nuclear weapon pointed\n\r    at an American child anywhere in this country. And I am proud\n\r    of that. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "And let me say again how much I appreciated what Tim Roemer\n\r    said and what Evan Bayh said about that budget battle I had\n\r    with the Congress. Folks, I always wanted to balance the\n\r    budget. I was a governor for 12 years before I was President. I\n\r    had 12 balanced budgets. I couldn't believe we quadrupled the\n\r    debt of this country in just 12 years. I want you to know that\n\r    tonight not only have we cut the deficit by 60 percent, your\n\r    budget would have a surplus tonight if it weren't for the\n\r    interest we pay on the debt run up in the 12 years before I\n\r    became President. Let's don't go back and repeat that mistake\n\r    again. Let's keep on going. Let's keep on going until we finish\n\r    the job. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "You know, every time an election rolls around they say the\n\r    public doesn't really care about the deficit, it's an abstract\n\r    concept. Let me tell you something, it's not abstract. It's not\n\r    only whether we're going to saddle all these kids with a debt\n\r    they can't pay. If you bring the deficit down the way we have,\n\r    that brings interest rates down. What does that mean when\n\r    interest rates come down? It means your house payment, your car\n\r    payment, your credit card payment goes down. Even more\n\r    important, maybe, it means business people can go borrow money,\n\r    invest it in businesses, and create new jobs. That's why we\n\r    have over 10 million new jobs, because we've got a healthy\n\r    climate to invest and to grow and to move this country forward.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Now, folks, that's the record, that's the past. But we've\n\r    got more to do. We've got to keep going until every single\n\r    citizen in this country who is willing to work for it has a\n\r    chance to participate in the American Dream. We've got to keep\n\r    going until all our streets are so safe that if you come home\n\r    at night and turn on the evening news and the lead story is a\n\r    crime story, you are shocked instead of numb to it. That's when\n\r    we'll know we have the crime problem whipped. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We've got to keep going until every single one of our\n\r    children can read well by the 3rd grade; until every single one\n\r    of our teenagers knows that drugs are dangerous. They're not\n\r    only illegal, they will kill you. We have got to turn that\n\r    around. We've got to keep going until we solve the problems of\n\r    America and take everybody into the 21st century — everybody.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We've got to keep going until every American believes that\n\r    we cannot afford to look down on one another. That's why I took\n\r    such a strong stand against these church burnings, and why I\n\r    lash out every time a synagogue or an Islamic center is\n\r    defaced, and why I was appalled when those African American\n\r    special forces personnel in North Carolina came home to find\n\r    swastikas painted on their doors."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I bet you we've got some former special forces people in\n\r    this crowd today. I'll tell you what they are; they're special\n\r    forces. That means tonight at midnight if I wake them up and I\n\r    tell them to go halfway around the world to put their lives on\n\r    the line and defend you, they will do it and say, yes, sir, and\n\r    be glad to go. They do not deserve to have swastikas put on\n\r    their doors. We've got to keep going until that is not a\n\r    problem anymore. (Applause.) We've got to keep going."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "There are 25 million Americans who were helped last week\n\r    when we signed the Kennedy-Kassebaum bill to say you can't lose\n\r    your health insurance if you got sick or if you change jobs.\n\r    (Applause.) But we've got to keep going until unemployed\n\r    families, when they lose their jobs, get a little help so they\n\r    can actually afford to keep their health insurance."
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We've got to keep going until small business people in this\n\r    country can not only afford to invest in their business —\n\r    because we've given every single one of them a tax cut if they\n\r    invest more in their business in the last four years — we've\n\r    got to keep going so small business people can actually afford\n\r    those health insurance policies that the rest of us enjoy for\n\r    their employees and themselves. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We raised the minimum wage for 10 million Americans last\n\r    week. (Applause.) But we've got to keep going. We've got to\n\r    keep going until every American has access to a good education\n\r    that will lift all our income. That's why I say we ought to\n\r    have a family-friendly targeted tax cut that we can afford that\n\r    focuses on giving the American people the ability to take out\n\r    IRA that they can save for with a family income up to $100,000\n\r    and then withdraw from to pay for a college education, to pay\n\r    for a first home, to pay for medical insurance. That's the kind\n\r    of tax cut we need. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "We ought to give families a tax deduction for the cost of\n\r    college tuition; a tax credit for a community college education\n\r    for two years so everybody in America can have two years of\n\r    education after high school. (Applause.) We can afford that. We\n\r    can balance the budget. It will make us a stronger country.\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "I want you to support that. I want you to support four more\n\r    years, not just of Bill Clinton and Al Gore, I want you to\n\r    support four more years of more opportunity, more\n\r    responsibility and more community. I want you to support the\n\r    idea that when the year 2000 comes around will we go roaring\n\r    into the 21st century as the greatest nation in the world, with\n\r    our best days before us. (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Will you help me for the next 70 days? (Applause.) Will you\n\r    stand with us for four more years? (Applause.) Will you talk to\n\r    your friends and neighbors and ask them to go forward with us?\n\r    (Applause.)"
+End element:   p
+Characters:    "\n\r    "
+Start element: p
+Characters:    "Thank you. God bless you. On to Chicago. Thank you.\n\r    (Applause.)"
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      "
+Start element: p
+Characters:    "Paid for by Clinton/Gore ’96 General Committee, Inc."
+End element:   p
+Characters:    "\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   blockquote
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

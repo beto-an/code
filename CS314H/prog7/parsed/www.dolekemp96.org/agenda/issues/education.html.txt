@@ -1,0 +1,280 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Where Bob Dole Stands on K-12 Education"
+End element:   title
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: background, Value: ../../background.jpg
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Characters:    "&nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: h2
+Key: align, Value: center
+Key: style, Value: text-align:center
+Characters:    "Where Bob Dole\n\r  Stands on K-12 Education"
+End element:   h2
+Characters:    "\n\r  "
+Start element: p
+Key: class, Value: MsoNormal
+Key: style, Value: margin-bottom:12.0pt
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Americans Are Spending More on Education and\n\r  Getting Less"
+End element:   span
+End element:   b
+Characters:    "\n\r  Bob Dole is a strong believer in America's public education\n\r  system. He, his wife and his daughter were educated in public\n\r  schools. But today, too many public schools have been taken over\n\r  by an education monopoly that fails to give our children the\n\r  skills they need to compete in our global economy."
+Characters:    "\n\r  "
+Characters:    "\n\r  Two out of every three 17-year-olds do not know that World War II\n\r  was fought sometime between 1900 and 1950, according to a study\n\r  by the National Assessment of Educational Progress. The study\n\r  also reports that 20 percent of high school seniors are\n\r  functionally illiterate."
+Characters:    "\n\r  "
+Characters:    "\n\r  Just throwing money at the problem is not the answer. In the past\n\r  30 years, per-pupil spending on education has doubled, yet\n\r  average SAT scores have dropped over 50 points."
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Bob Dole Will Empower Low- and\n\r  Middle-Income Parents With School Choice"
+End element:   span
+End element:   b
+Characters:    "\n\r  As President, Bob Dole will create Opportunity Scholarships for\n\r  Children, a federal, state and local effort to give four million\n\r  low- and middle-income families the ability to select the best\n\r  schools for their children."
+End element:   p
+Characters:    "\n\r  "
+Start element: ul
+Key: type, Value: disc
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l18 level1 lfo16;tab-stops:list .5in
+Characters:    "\n\r    Opportunity Scholarships for Children will be funded annually\n\r    with $2.5 billion in federal funds. Four-year competitive\n\r    grants will be awarded to children from low- and middle-income\n\r    families in up to 15 states, including the District of\n\r    Columbia. States will match the federal contribution."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l18 level1 lfo16;tab-stops:list .5in
+Characters:    "\n\r    Opportunity Scholarships will be at least $1,000 for\n\r    kindergarten and grade school students and at least $1,500 for\n\r    high school students. These scholarships could be larger with\n\r    the added support from non-federal sources."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l18 level1 lfo16;tab-stops:list .5in
+Characters:    "\n\r    Families can use these scholarships to send their children to\n\r    any lawfully operating school -- public, private or religious\n\r    -- that chooses to participate. Scholarship funds will be used\n\r    to pay tuition, school fees and other reasonable expenses."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l18 level1 lfo16;tab-stops:list .5in
+Characters:    "\n\r    This program will help fund scholarships for more than four\n\r    million children -- nearly 10 percent of all children in\n\r    elementary and secondary schools."
+End element:   li
+Characters:    "\n\r    "
+Start element: li
+Key: class, Value: MsoNormal
+Key: style, Value: mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l18 level1 lfo16;tab-stops:list .5in
+Characters:    "\n\r    This new $2.5 billion federal commitment to America's children\n\r    is budget neutral and will not increase the federal deficit.\n\r    The funding offsets include reducing the Department of\n\r    Education overhead, bureaucracy and wasteful spending."
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "Bill Clinton Fights for His\n\r    Political Supporters -- Not Our Children"
+End element:   span
+End element:   b
+Characters:    "\n\r    Bill Clinton's opposes school choice because he puts the\n\r    interests of the educational establishment -- and of his\n\r    party's political contributors -- above the interests of our\n\r    children. Clinton has continually fought school choice because\n\r    he and his Democratic colleagues received $2.2 million from the\n\r    movement's biggest opponent -- the National Education\n\r    Association (NEA) -- during the 1992 campaign. That is 17 times\n\r    more money than they gave to Republicans."
+Characters:    "\n\r    "
+Characters:    "\n\r    In an address to the NEA before the election, Bill Clinton said\n\r    that if he became President, \"you will be my partners. I won't\n\r    [make] education decisions that you're not a part of making. I\n\r    won't forget the people that brought me to the White\n\r    House.\""
+Characters:    "\n\r    "
+Characters:    "\n\r    Since then, Bill Clinton has done everything in his power to\n\r    kill the school choice movement. Even when Bob Dole tried to\n\r    pass a modest school-choice bill for the District of Columbia\n\r    to help low-income families send their children to decent\n\r    schools, Bill Clinton opposed it. Meanwhile, he sends his\n\r    daughter to one of the most expensive private schools in\n\r    Washington."
+Characters:    "\n\r    "
+Characters:    "\n\r    Bill Clinton is on the side of education's providers -- the\n\r    teacher's unions, the bureaucrats and everyone else who wants\n\r    to fight for the status quo. Bob Dole is on the side of\n\r    education consumers -- the parents and the children."
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: b
+Start element: span
+Key: style, Value: font-size:13.5pt
+Characters:    "A Better\n\r    America"
+End element:   span
+End element:   b
+Characters:    "\n\r    In Bob Dole's America, low- and middle-income parents will be\n\r    given a real choice in education so that all American children\n\r    have an equal opportunity to achieve their dreams."
+End element:   li
+Characters:    "\n\r  "
+End element:   ul
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: a
+Key: href, Value: ../../main.html
+End element:   a
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Start element: font
+Key: color, Value: #000080
+Key: face, Value: Times New Roman
+Key: size, Value: 4
+Characters:    "More opportunities. Smaller government. Stronger and\n\r  safer families"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../main.html
+Characters:    "Homepage"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Register"
+End element:   u
+Characters:    " |\n\r  "
+Start element: u
+Characters:    "Volunteers"
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Donations"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  "
+Start element: font
+Key: face, Value: Times New Roman
+Key: color, Value: #0000FF
+Key: size, Value: 1
+Start element: u
+Start element: a
+Key: href, Value: ../../about/about.html
+Characters:    "About the Team"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Dole\n\r  Interactive"
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../../news/news.html
+Characters:    "Newsroom"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Start element: a
+Key: href, Value: ../agenda.html
+Characters:    "The Dole Agenda"
+End element:   a
+End element:   u
+Characters:    " "
+Start element: a
+Key: href, Value: ../agenda.html
+End element:   a
+Characters:    "| "
+Start element: u
+Start element: a
+Key: href, Value: ../../trail/trail.html
+Characters:    "On the\n\r  Campaign Trail"
+End element:   a
+End element:   u
+Characters:    " | "
+Start element: u
+Characters:    "Get Involved"
+End element:   u
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: align, Value: center
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0
+Characters:    "\n\r  &nbsp;"
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Originally\n\r  Paid for by Dole Kemp '96 Campaign Committee"
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "Original Web\n\r  Design by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Presage Internet\n\r  Campaigns"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "To Learn\n\r  more about Bob Dole, Please Visit the "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "Dole Institute"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r  "
+Start element: p
+Key: style, Value: word-spacing: 0; line-height: 100%; text-indent: 0; margin-left: 0; margin-right: 0; margin-top: -5; margin-bottom: 0
+Key: align, Value: center
+Start element: font
+Key: face, Value: Times New Roman
+Key: size, Value: 1
+Characters:    "This Web\n\r  Site is Presented for Educational Purposes by "
+Start element: a
+Key: href, Value: ../../../external.html
+Characters:    "4President.org"
+End element:   a
+End element:   font
+End element:   p
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document

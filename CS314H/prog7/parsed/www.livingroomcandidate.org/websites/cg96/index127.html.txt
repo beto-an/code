@@ -1,0 +1,137 @@
+Start of document
+Characters:    "\n\r"
+Start element: html
+Characters:    "\n\r"
+Characters:    "\n\r"
+Start element: head
+Characters:    "\n\r  "
+Characters:    "\n\r  "
+Start element: title
+Characters:    "Downloadables | Screen Savers"
+End element:   title
+Characters:    "\n\r  "
+Characters:    "\n\r"
+End element:   head
+Characters:    "\n\r"
+Start element: body
+Key: bgcolor, Value: white
+Characters:    "\n\r  "
+Start element: center
+Characters:    "\n\r    "
+Start element: a
+Key: href, Value: index22.html
+End element:   a
+Characters:    " "
+Start element: a
+Key: href, Value: index11-2.html
+End element:   a
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: blockquote
+Characters:    "\n\r      "
+Start element: blockquote
+Characters:    "\n\r        "
+Start element: i
+Characters:    "ownload these\n\r        screen savers and show your support for Clinton/Gore '96\n\r        even when you're not using your computer."
+End element:   i
+Characters:    "\n\r        "
+Start element: p
+End element:   p
+Characters:    "\n\r      "
+End element:   blockquote
+Characters:    "\n\r    "
+End element:   blockquote
+Characters:    "\n\r    "
+Start element: table
+Key: border, Value: 0
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: th
+Key: width, Value: 200
+End element:   th
+Characters:    "\n\r        "
+Start element: th
+Key: width, Value: 200
+End element:   th
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: th
+Key: height, Value: 20
+End element:   th
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: center
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: CG961WIN.zip
+Characters:    "Windows 1.7MB"
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: center
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: CG962WIN.zip
+Characters:    "Windows 1.7MB"
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r      "
+Start element: tr
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: center
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: cg961mac.sit
+Characters:    "Macintosh 1.3MB"
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r        "
+Start element: td
+Key: align, Value: center
+Characters:    "\n\r          "
+Start element: a
+Key: href, Value: cg962mac.sit
+Characters:    "Macintosh 1.3MB"
+End element:   a
+Characters:    "\n\r        "
+End element:   td
+Characters:    "\n\r      "
+End element:   tr
+Characters:    "\n\r    "
+End element:   table
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Characters:    "\n\r    "
+Start element: p
+Characters:    "\n\r    "
+End element:   p
+Characters:    "\n\r    "
+Start element: center
+Characters:    "\n\r      Paid for by Clinton/Gore ’96 General Committee, Inc.\n\r    "
+End element:   center
+Characters:    "\n\r  "
+End element:   center
+Characters:    "\n\r"
+End element:   body
+Characters:    "\n\r"
+End element:   html
+Characters:    "\n\r"
+End of document
